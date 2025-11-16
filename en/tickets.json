@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": 100001,
+      "name": "Unlimited Ticket",
+      "ownLimit": 999,
+      "description": "A ticket with no expiration date used to play songs.",
+      "fileName": "icon_ticket_indefinite",
+      "expireDays": 0
+    },
+    {
+      "id": 100002,
+      "name": "30-Day Limited Ticket",
+      "ownLimit": 0,
+      "description": "A ticket with an expiration date used to play songs.",
+      "fileName": "icon_ticket_30days",
+      "expireDays": 30
+    },
+    {
+      "id": 100003,
+      "name": "14-Day Limited Ticket",
+      "ownLimit": 0,
+      "description": "A ticket with an expiration date used to play songs.",
+      "fileName": "icon_ticket_14days",
+      "expireDays": 14
+    },
+    {
+      "id": 100004,
+      "name": "7-Day Limited Ticket",
+      "ownLimit": 0,
+      "description": "A ticket with an expiration date used to play songs.",
+      "fileName": "icon_ticket_7days",
+      "expireDays": 7
+    },
+    {
+      "id": 100005,
+      "name": "1-Day Limited Ticket",
+      "ownLimit": 0,
+      "description": "A ticket with an expiration date used to play songs.",
+      "fileName": "icon_ticket_1day",
+      "expireDays": 1
+    }
+  ]
+}

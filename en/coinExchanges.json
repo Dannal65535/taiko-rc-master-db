@@ -1,0 +1,1467 @@
+{
+  "coinExchanges": [
+    {
+      "id": 5200001,
+      "name": "Beginner Support Pack",
+      "sortOrder": 9,
+      "description": "An item pack stuffed with items for beginners.",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 2,
+      "rewardGroupId": 3160001,
+      "displayType": "BANNER",
+      "fileName": "bnr_beginner",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200002,
+      "name": "Item Pack",
+      "sortOrder": 8,
+      "description": "A Don-derful pack filled with assist items!",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160002,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200003,
+      "name": "Special Item Pack",
+      "sortOrder": 7,
+      "description": "A Daka-Don-derful pack filled with assist items!",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160003,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_sp",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200004,
+      "name": "Completionist Pack",
+      "sortOrder": 6,
+      "description": "A Don-Daka-Don-derful pack filled with items to help you get the most out of the game!",
+      "price": 4500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160004,
+      "displayType": "BANNER",
+      "fileName": "bnr_yarikomi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200005,
+      "name": "Unlimited Ticket",
+      "sortOrder": 5,
+      "description": "A ticket with no expiration date used to play songs.",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160005,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200006,
+      "name": "Double EXP",
+      "sortOrder": 4,
+      "description": "An item that doubles the EXP gained from one performance.",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160008,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200007,
+      "name": "Double Points",
+      "sortOrder": 3,
+      "description": "An item that doubles the points gained from one performance.",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160010,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200008,
+      "name": "Performance Assist",
+      "sortOrder": 2,
+      "description": "An item that changes 10 BAD hits to OK and lets you perform double taps for large notes with a single tap.",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160012,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200009,
+      "name": "Long-Press Drum Roll",
+      "sortOrder": 1,
+      "description": "An item that lets you perform a drum roll with a long press.",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160014,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200010,
+      "name": "Resolve Ticket Shortage",
+      "sortOrder": 1000,
+      "description": "Resolve Ticket Shortage",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200011,
+      "name": "Resolve Retry Ticket Shortage",
+      "sortOrder": 1001,
+      "description": "Resolve Retry Ticket Shortage",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200012,
+      "name": "3rd Time Overcoming Play Limit (No Passport)",
+      "sortOrder": 1002,
+      "description": "3rd Time Overcoming Play Limit (No Passport)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200013,
+      "name": "4th Time Overcoming Play Limit (No Passport)",
+      "sortOrder": 1003,
+      "description": "4th Time Overcoming Play Limit (No Passport)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200014,
+      "name": "5th Time Overcoming Play Limit (No Passport)",
+      "sortOrder": 1004,
+      "description": "5th Time Overcoming Play Limit (No Passport)",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200015,
+      "name": "4th Time Overcoming Play Limit (w/ Passport)",
+      "sortOrder": 1005,
+      "description": "4th Time Overcoming Play Limit (w/ Passport)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200016,
+      "name": "5th Time Overcoming Play Limit (w/ Passport)",
+      "sortOrder": 1006,
+      "description": "5th Time Overcoming Play Limit (w/ Passport)",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200017,
+      "name": "Weekly Item Pack",
+      "sortOrder": 10,
+      "description": "A special pack containing lots of assist items that can be purchased every seven days.",
+      "price": 120,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160015,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_weekly",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 7,
+      "isHighlight": true,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200018,
+      "name": "LINE集計用_おにの解放",
+      "sortOrder": 1007,
+      "description": "LINE集計用_おにの解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200019,
+      "name": "LINE集計用_おに（裏）の解放",
+      "sortOrder": 1008,
+      "description": "LINE集計用_おに（裏）の解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200020,
+      "name": "LINE集計用_おに/おに（裏）の同時解放",
+      "sortOrder": 1009,
+      "description": "LINE集計用_おに/おに（裏）の同時解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200021,
+      "name": "LINE集計用_BINGOカード切り替え",
+      "sortOrder": 1010,
+      "description": "LINE集計用_BINGOカード切り替え",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200022,
+      "name": "LINE集計用_最初からやり直す",
+      "sortOrder": 1011,
+      "description": "LINE集計用_最初からやり直す",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200023,
+      "name": "New Year's Holiday Pack",
+      "sortOrder": 500,
+      "description": "Rainbow-Mallet-Stuffed Limited New Year's Holiday Pack",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160016,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_002",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-10T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200026,
+      "name": "1.5-Million Downloads Celebration Pack",
+      "sortOrder": 501,
+      "description": "Assist Item Jumbo Pack. First and fifth purchase bonuses. Check Information for more details!",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160017,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_003",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-03-12T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200027,
+      "name": "Purchase Song Collection",
+      "sortOrder": 1014,
+      "description": "Purchase Song Collection",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200028,
+      "name": "Kimagure Romantic",
+      "sortOrder": 1015,
+      "description": "Unlocking Songs_24/3_Kimagure Romantic",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200029,
+      "name": "Sakura",
+      "sortOrder": 1016,
+      "description": "Unlocking Songs_24/3_Sakura",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200030,
+      "name": "Senkou",
+      "sortOrder": 1017,
+      "description": "Unlocking Songs_24/3_Senkou",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200031,
+      "name": "UKIUKI OTOPPE",
+      "sortOrder": 1018,
+      "description": "Unlocking Songs_24/3_UKIUKI OTOPPE",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200032,
+      "name": "DONTEN",
+      "sortOrder": 1019,
+      "description": "Unlocking Songs_24/3_DONTEN",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200033,
+      "name": "Yuru Yurude DE-O!",
+      "sortOrder": 1020,
+      "description": "Unlocking Songs_24/3_Yuru Yurude DE-O!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200034,
+      "name": "KOMIKARUNI OIKAKEKKO",
+      "sortOrder": 1021,
+      "description": "Unlocking Songs_24/3_KOMIKARUNI OIKAKEKKO",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200035,
+      "name": "Tank!",
+      "sortOrder": 1022,
+      "description": "Unlocking Songs_24/3_Tank!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200036,
+      "name": "World is Mine",
+      "sortOrder": 1023,
+      "description": "Unlocking Songs_24/3_World is Mine",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200037,
+      "name": "MEKADON ~The Mecha Drum That Disappeared into Space~",
+      "sortOrder": 1024,
+      "description": "Unlocking Songs_24/3_MEKADON ~The Mecha Drum That Disappeared into Space~",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200038,
+      "name": "Wings Mural",
+      "sortOrder": 499,
+      "description": "Profile Background",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160019,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200039,
+      "name": "Snowman",
+      "sortOrder": 498,
+      "description": "Profile Background",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160020,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200040,
+      "name": "SOTSUOME Pack",
+      "sortOrder": 502,
+      "description": "Rainbow Mallet Jumbo Pack. Get a special bonus with your fifth purchase! Check Information for more details!",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160018,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_004",
+      "term": {
+        "startAt": "2024-03-12T05:00:00Z",
+        "endAt": "2024-04-19T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200041,
+      "name": "Dai Zero Kan",
+      "sortOrder": 1025,
+      "description": "Unlocking Songs_24/4_Dai Zero Kan",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200042,
+      "name": "Diamond Happy",
+      "sortOrder": 1026,
+      "description": "Unlocking Songs_24/4_Diamond Happy",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200043,
+      "name": "Baby, please kill me!",
+      "sortOrder": 1027,
+      "description": "Unlocking Songs_24/4_Baby, please kill me!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200044,
+      "name": "Setsuna Trip",
+      "sortOrder": 1028,
+      "description": "Unlocking Songs_24/4_Setsuna Trip",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200045,
+      "name": "Tell Your World",
+      "sortOrder": 1029,
+      "description": "Unlocking Songs_24/4_Tell Your World",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200046,
+      "name": "Down with Fiction",
+      "sortOrder": 1030,
+      "description": "Unlocking Songs_24/4_Down with Fiction",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200047,
+      "name": "KYOSO KOSAI",
+      "sortOrder": 1031,
+      "description": "Unlocking Songs_24/4_KYOSO KOSAI",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200048,
+      "name": "YELL EX MAKINA!",
+      "sortOrder": 1032,
+      "description": "Unlocking Songs_24/4_YELL EX MAKINA!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200049,
+      "name": "HOT LIMIT",
+      "sortOrder": 1033,
+      "description": "Unlocking Songs_24/4_HOT LIMIT",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200050,
+      "name": "Chu, Tayousei.",
+      "sortOrder": 1034,
+      "description": "Unlocking Songs_24/4_Chu, Tayousei.",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200051,
+      "name": "Half-Year Anniversary Pack",
+      "sortOrder": 503,
+      "description": "Ultra Happy Jumbo Pack. Get a special bonus with multiple purchases! Check Information for more details!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 10,
+      "rewardGroupId": 3680001,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_005",
+      "term": {
+        "startAt": "2024-04-25T05:00:00Z",
+        "endAt": "2024-07-25T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200052,
+      "name": "Sugar Song & Bitter Step",
+      "sortOrder": 1035,
+      "description": "Unlocking Songs_24/5_Sugar Song & Bitter Step",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200053,
+      "name": "Rain",
+      "sortOrder": 1036,
+      "description": "Unlocking Songs_24/5_Rain",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200054,
+      "name": "Uso",
+      "sortOrder": 1037,
+      "description": "Unlocking Songs_24/5_Uso",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200055,
+      "name": "APOLLO",
+      "sortOrder": 1038,
+      "description": "Unlocking Songs_24/5_APOLLO",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200056,
+      "name": "KURENAI",
+      "sortOrder": 1039,
+      "description": "Unlocking Songs_24/5_KURENAI",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200057,
+      "name": "OLA!!",
+      "sortOrder": 1040,
+      "description": "Unlocking Songs_24/5_OLA!!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200058,
+      "name": "INSIDE IDENTITY",
+      "sortOrder": 1041,
+      "description": "Unlocking Songs_24/5_INSIDE IDENTITY",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200059,
+      "name": "JoJo Sono Chi no Sadame",
+      "sortOrder": 1042,
+      "description": "Unlocking Songs_24/5_JoJo Sono Chi no Sadame",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200060,
+      "name": "Jungle P",
+      "sortOrder": 1043,
+      "description": "Unlocking Songs_24/5_Jungle P",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200061,
+      "name": "Amanojaku",
+      "sortOrder": 1044,
+      "description": "Unlocking Songs_24/5_Amanojaku",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200062,
+      "name": "PLASTIC LOVE",
+      "sortOrder": 1045,
+      "description": "Unlocking Songs_24/6_PLASTIC LOVE",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200063,
+      "name": "Nijiiro No Sensou",
+      "sortOrder": 1046,
+      "description": "Unlocking Songs_24/6_Nijiiro No Sensou",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200064,
+      "name": "Telecastic fake show",
+      "sortOrder": 1047,
+      "description": "Unlocking Songs_24/6_Telecastic fake show",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200065,
+      "name": "TOUCH",
+      "sortOrder": 1048,
+      "description": "Unlocking Songs_24/6_TOUCH",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200066,
+      "name": "DORAEMON",
+      "sortOrder": 1049,
+      "description": "Unlocking Songs_24/6_DORAEMON",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200067,
+      "name": "The Lost One's Weeping",
+      "sortOrder": 1050,
+      "description": "Unlocking Songs_24/6_The Lost One's Weeping",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200068,
+      "name": "Grip & Break down !! -Tatsujin Edit.-",
+      "sortOrder": 1051,
+      "description": "Unlocking Songs_24/6_Grip & Break down !! -Tatsujin Edit.-",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200069,
+      "name": "Space-Time Emergency",
+      "sortOrder": 1052,
+      "description": "Unlocking Songs_24/6_Space-Time Emergency",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200070,
+      "name": "Singing Rabbit Swinging",
+      "sortOrder": 1053,
+      "description": "Unlocking Songs_24/6_Singing Rabbit Swinging",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200071,
+      "name": "Shinryu",
+      "sortOrder": 1054,
+      "description": "Unlocking Songs_24/6_Shinryu",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200072,
+      "name": "W-B-X ～W-Boiled Extreme～",
+      "sortOrder": 1055,
+      "description": "Unlocking Songs_24/7_W-B-X ～W-Boiled Extreme～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200073,
+      "name": "SAMURAI SENTAI SHINKENGER",
+      "sortOrder": 1056,
+      "description": "Unlocking Songs_24/7_SAMURAI SENTAI SHINKENGER",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200074,
+      "name": "Battaille Décisive",
+      "sortOrder": 1057,
+      "description": "Unlocking Songs_24/7_Battaille Décisive",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200075,
+      "name": "Be Somewhere",
+      "sortOrder": 1058,
+      "description": "Unlocking Songs_24/7_Be Somewhere",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200076,
+      "name": "Calamity Fortune",
+      "sortOrder": 1059,
+      "description": "Unlocking Songs_24/7_Calamity Fortune",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200077,
+      "name": "Mambo with Mochi",
+      "sortOrder": 1060,
+      "description": "Unlocking Songs_24/7_Mambo with Mochi",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200087,
+      "name": "殻をつけた雛鳥の踊り",
+      "sortOrder": 1070,
+      "description": "楽曲解放_24/8_殻をつけた雛鳥の踊り",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200090,
+      "name": "どんちゃんえかき歌",
+      "sortOrder": 1073,
+      "description": "楽曲解放_24/8_どんちゃんえかき歌",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    }
+  ]
+}

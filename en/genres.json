@@ -1,0 +1,39 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Pop",
+      "colorCode": "#1E9FBD"
+    },
+    {
+      "id": 2,
+      "name": "Anime",
+      "colorCode": "#FF9900"
+    },
+    {
+      "id": 3,
+      "name": "Vocaloid™",
+      "colorCode": "#8E99AD"
+    },
+    {
+      "id": 4,
+      "name": "Classical",
+      "colorCode": "#C47B21"
+    },
+    {
+      "id": 5,
+      "name": "Variety",
+      "colorCode": "#7ABD3F"
+    },
+    {
+      "id": 6,
+      "name": "Game",
+      "colorCode": "#9D76BF"
+    },
+    {
+      "id": 7,
+      "name": "Namco Orig.",
+      "colorCode": "#FF5B14"
+    }
+  ]
+}

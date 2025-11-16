@@ -1,0 +1,3820 @@
+{
+  "skins": [
+    {
+      "id": 500001,
+      "name": "None",
+      "part": "HEAD",
+      "bonusRate": 0,
+      "description": "No costumes attached.",
+      "fileName": "head_000000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500002,
+      "name": "God of Thunder",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Beats the drums to create thunder.",
+      "fileName": "head_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500003,
+      "name": "Warrior (Red)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "head_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500004,
+      "name": "Warrior (Blue)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "head_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500005,
+      "name": "Warrior (Gold)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "head_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500006,
+      "name": "Warrior (Silver)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "head_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500007,
+      "name": "Kendo",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Focus on one strike!",
+      "fileName": "head_000300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500008,
+      "name": "Ninja",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "head_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500009,
+      "name": "Ninja (Red)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "head_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500010,
+      "name": "Ninja (Blue)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "head_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500011,
+      "name": "Ninja (Yellow)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "head_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500012,
+      "name": "Ninja (Green)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "head_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500013,
+      "name": "Iron Helmet",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Protecting the head is important!",
+      "fileName": "head_000700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500015,
+      "name": "Pirate",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Yo-ho! Yo-ho! Let's sail the seven seas!",
+      "fileName": "head_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500016,
+      "name": "Heavy Metal Makeup",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Stun them with an intense beat!",
+      "fileName": "head_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500017,
+      "name": "Sumo Wrestler",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Aaaand begin! Fight, fight, fight!",
+      "fileName": "head_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500018,
+      "name": "Crown",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Can only be worn by a king.",
+      "fileName": "head_001200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500019,
+      "name": "Jewel (Silver)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Shiny, shiny, shiny. Shiny!",
+      "fileName": "head_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500020,
+      "name": "Jewel (Gold)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Shiny, shiny, shiny. Shiny!",
+      "fileName": "head_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500021,
+      "name": "Lady Kaguya",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "A beauty born from bamboo.",
+      "fileName": "head_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500022,
+      "name": "Polka Dotted Ribbon",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "With cute polka dots.",
+      "fileName": "head_001800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500023,
+      "name": "Gyaru Princess",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Feel like a princess.",
+      "fileName": "head_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500024,
+      "name": "Fawn",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "A cute baby deer.",
+      "fileName": "head_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500025,
+      "name": "Snowman",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Not even a hot performance will melt him.",
+      "fileName": "head_002400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500026,
+      "name": "Flower Decoration",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Spruce up with beautiful flowers!",
+      "fileName": "head_002500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500027,
+      "name": "Bunny Ears",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Hear enemies as they approach.",
+      "fileName": "head_002600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500028,
+      "name": "Sweets",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Sweets all over your body.",
+      "fileName": "head_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500029,
+      "name": "Wedding Dress",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Congratulations!",
+      "fileName": "head_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500030,
+      "name": "Marlin",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "It's a big, pointy fish.",
+      "fileName": "head_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500031,
+      "name": "Headphones",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Careful of sound leakage.",
+      "fileName": "head_003200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500032,
+      "name": "Horned Dynastid",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Very strong.",
+      "fileName": "head_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500033,
+      "name": "Side Ponytail",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Just like a pony's tail.",
+      "fileName": "head_003400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500034,
+      "name": "Warbly",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Katsu-chan's warbler friend.",
+      "fileName": "head_003500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500035,
+      "name": "Marine",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "You can become friends with a seagull.",
+      "fileName": "head_003600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500036,
+      "name": "Drill",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Drill a hole and burst through!",
+      "fileName": "head_003800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500037,
+      "name": "Masked Kid (Fox)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A masked kid is wearing it.",
+      "fileName": "head_003900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500038,
+      "name": "Kabuki",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Traditional Japanese entertainment.",
+      "fileName": "head_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500039,
+      "name": "Fortune Cat",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "It might bring good luck.",
+      "fileName": "head_004200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500040,
+      "name": "Peacock",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Captivate with beautiful feathers.",
+      "fileName": "head_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500041,
+      "name": "Topknot",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "The traditional haircut of Edo.",
+      "fileName": "head_004500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500042,
+      "name": "Guardian",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Impregnable defense.",
+      "fileName": "head_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500043,
+      "name": "Goth Maid (Gyaru)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Frilly and cute.",
+      "fileName": "head_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500044,
+      "name": "Goth Maid (Princess)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Frilly and cute.",
+      "fileName": "head_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500045,
+      "name": "Devil",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Everyone will call you evil.",
+      "fileName": "head_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500046,
+      "name": "Sunflower",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "The flower of summer.",
+      "fileName": "head_004900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500048,
+      "name": "Lion",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "The king of beasts.",
+      "fileName": "head_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500050,
+      "name": "Cool",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Don't worry, his voice is also attractive.",
+      "fileName": "head_005400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500051,
+      "name": "Camera Lens",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Has a zoom feature.",
+      "fileName": "head_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500052,
+      "name": "Side Tail",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "It's cute when it bounces.",
+      "fileName": "head_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500053,
+      "name": "School Cap",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I'll study hard!",
+      "fileName": "head_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500054,
+      "name": "Polka Dot Headband",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "This will get you ready.",
+      "fileName": "head_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500055,
+      "name": "New Year's Pine",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "Let's ring in the new year.",
+      "fileName": "head_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500056,
+      "name": "Hina Dolls",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "These are dolls to celebrate Girl's Day.",
+      "fileName": "head_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500057,
+      "name": "Goldfish Festival",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "It's a goldfish hat.",
+      "fileName": "head_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500058,
+      "name": "Compass",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "You'll know which way north is.",
+      "fileName": "head_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500060,
+      "name": "Santa Claus",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Happy Holidays!",
+      "fileName": "head_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500061,
+      "name": "Tetsuo",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Become Tetsuo.",
+      "fileName": "head_007300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500062,
+      "name": "Straw Hat",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Summer! Shaved ice! Straw hats! Bugs!",
+      "fileName": "head_007400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500063,
+      "name": "Tennis",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Smash!",
+      "fileName": "head_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500064,
+      "name": "Artist",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I love the smell of fresh paint.",
+      "fileName": "head_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500065,
+      "name": "Head Scarf",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "To keep your head clean.",
+      "fileName": "head_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500067,
+      "name": "Stump",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A nice seat in the forest.",
+      "fileName": "head_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500069,
+      "name": "Butterfly",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Land on a flower!",
+      "fileName": "head_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500070,
+      "name": "Dinosaur",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "They say I was the strongest on land!",
+      "fileName": "head_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500071,
+      "name": "Fossil",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Now I'm just bones.",
+      "fileName": "head_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500072,
+      "name": "Camel",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Calm and cool even in hot and dry places.",
+      "fileName": "head_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500073,
+      "name": "Mummy",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Call me if you need a bandage!",
+      "fileName": "head_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500074,
+      "name": "Pharaoh",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A mystical mask.",
+      "fileName": "head_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500075,
+      "name": "Propeller",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "It can fly across continents!",
+      "fileName": "head_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500079,
+      "name": "Blindfold",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Go for a clean split!",
+      "fileName": "head_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500081,
+      "name": "Stag Beetle",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Will give you a good pinch.",
+      "fileName": "head_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500082,
+      "name": "Cherry Blossom",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Spring is here.",
+      "fileName": "head_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500083,
+      "name": "Gunslinger",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Never lose a quickdraw duel.",
+      "fileName": "head_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500084,
+      "name": "Skateboarder",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Go! Gah! Go!",
+      "fileName": "head_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500085,
+      "name": "Harajuku",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "A cute outfit.",
+      "fileName": "head_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500086,
+      "name": "Racecar",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "You'll lose if you let off the gas.",
+      "fileName": "head_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500088,
+      "name": "Pajamas",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Will bring you sweet dreams.",
+      "fileName": "head_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500089,
+      "name": "Unicorn",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "A cute fairy tale animal.",
+      "fileName": "head_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500090,
+      "name": "Ghost",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "They come out on hot summer nights!",
+      "fileName": "head_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500091,
+      "name": "Pilot",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Breaking the sound barrier!",
+      "fileName": "head_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500092,
+      "name": "Vacation",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I'm in the mood for sunbathing!",
+      "fileName": "head_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500093,
+      "name": "Holstein",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Produces over 5,000 kilograms of milk a year.",
+      "fileName": "head_011200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500094,
+      "name": "Hero",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Every boy wants to be one.",
+      "fileName": "head_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500095,
+      "name": "Cotton Candy",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "So fluffy! So sweet!",
+      "fileName": "head_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500096,
+      "name": "Alpaca",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A fluffy good boy.",
+      "fileName": "head_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500097,
+      "name": "The Sansa Dance",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Do the Sansa!",
+      "fileName": "head_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500099,
+      "name": "Ice Cream",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "All the toppings make it hard to eat.",
+      "fileName": "head_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500101,
+      "name": "Bicycle",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Rides well, even up hills.",
+      "fileName": "head_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500102,
+      "name": "Courtesan",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Nice to meet you, good sir.",
+      "fileName": "head_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500103,
+      "name": "Crab",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "A crab.",
+      "fileName": "head_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500104,
+      "name": "Brave Don",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "Defender of the world!",
+      "fileName": "head_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500105,
+      "name": "Commander",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A TEN HUT! Forward! March!",
+      "fileName": "head_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500107,
+      "name": "Honey Bee",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "We buzz around, gathering nectar.",
+      "fileName": "head_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500109,
+      "name": "Cat Ears",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Meow!",
+      "fileName": "head_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500110,
+      "name": "Pretty Girl Mask",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Become a pretty girl.",
+      "fileName": "head_013500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500111,
+      "name": "Treasure Hunter",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "Where's the treasure?",
+      "fileName": "head_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500112,
+      "name": "Harmonica",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Let me play you the blues.",
+      "fileName": "head_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500113,
+      "name": "Welding Mask",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I can fix anything for ya!",
+      "fileName": "head_014300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500114,
+      "name": "Medusa",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "One glance will turn you to stone.",
+      "fileName": "head_014400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500115,
+      "name": "Speech Balloon",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "...",
+      "fileName": "head_014500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500116,
+      "name": "Huh?!",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Huh?!",
+      "fileName": "head_014600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500117,
+      "name": "Hippo",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "They run faster than you'd expect.",
+      "fileName": "head_014700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500118,
+      "name": "Pizza",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "The melty cheese is so tasty.",
+      "fileName": "head_014800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500119,
+      "name": "Cooking Pot",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A pot is a pot. A hat, it is not!",
+      "fileName": "head_014900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500120,
+      "name": "William Tell Hat",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "One shot is all I need!",
+      "fileName": "head_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500121,
+      "name": "Jungle",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Welcome to the jungle.",
+      "fileName": "head_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500122,
+      "name": "Block",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Optimized for a cube-shaped world!",
+      "fileName": "head_015400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500123,
+      "name": "Sun Wukong",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I was in the Marble Mountains until a few days ago.",
+      "fileName": "head_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500124,
+      "name": "Animal Hood",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A warm hood for your head.",
+      "fileName": "head_016300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500125,
+      "name": "Inspiration",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Eureka! I got it!",
+      "fileName": "head_016400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500126,
+      "name": "Utility Pole",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Take a sneaky peek.",
+      "fileName": "head_016500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500127,
+      "name": "Braid",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "Get Mom to teach you how.",
+      "fileName": "head_016600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500128,
+      "name": "Surprise",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Can't hide your surprise.",
+      "fileName": "head_016700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500129,
+      "name": "Smooch",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A kiss.",
+      "fileName": "head_016800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500131,
+      "name": "Grecian Soldier",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Let's have a chariot race!",
+      "fileName": "head_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500132,
+      "name": "Bath Set",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "I'll take the first bath.",
+      "fileName": "head_017200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500133,
+      "name": "Sombrero",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "¡Hola! ¡Buenas tardes!",
+      "fileName": "head_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500136,
+      "name": "Mask",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "A mysterious drum. Is it friend, or foe?",
+      "fileName": "head_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500137,
+      "name": "Penguin Family",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "The chicks keep snug under those feet.",
+      "fileName": "head_018100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500138,
+      "name": "Water Splash",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Splooosh!",
+      "fileName": "head_018200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500140,
+      "name": "Magician",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Abracadabra, become better at drumming!",
+      "fileName": "head_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500145,
+      "name": "Kamaboko Fish Cake",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Fish paste steamed on a wood plank.",
+      "fileName": "head_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500146,
+      "name": "Summer Festival",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "You can hear the music outside.",
+      "fileName": "head_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500148,
+      "name": "Knit Hat",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Warm and fluffy.",
+      "fileName": "head_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500150,
+      "name": "Hedgehog",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Painful to hug.",
+      "fileName": "head_020400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500151,
+      "name": "Party People",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Let's party!",
+      "fileName": "head_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500152,
+      "name": "Elephant",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "What a long nose you have.",
+      "fileName": "head_021000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500157,
+      "name": "Astronaut",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "This is control. Space, do you copy?",
+      "fileName": "head_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500158,
+      "name": "Tiger",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Roar.",
+      "fileName": "head_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500162,
+      "name": "Intelligent Glasses",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Ask me anything. (Smart)",
+      "fileName": "head_022200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500163,
+      "name": "Hamster",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Cheeks full of dreams.",
+      "fileName": "head_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500164,
+      "name": "Caterpillar",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Will be a beautiful butterfly someday.",
+      "fileName": "head_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500165,
+      "name": "Rice",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "Warm and fresh.",
+      "fileName": "head_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500166,
+      "name": "Gaming DON-chan",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Fashionable and high-spec.",
+      "fileName": "head_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500168,
+      "name": "Chikuwa Cucumber",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Fresh and juicy.",
+      "fileName": "head_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500170,
+      "name": "Planter",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "A smile in the grain.",
+      "fileName": "head_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500173,
+      "name": "Sun",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "S-So bright!",
+      "fileName": "head_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500175,
+      "name": "Wood Carving",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "Warm to the touch.",
+      "fileName": "head_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500179,
+      "name": "Gentle",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "The manners of a gentleman.",
+      "fileName": "head_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500180,
+      "name": "Space Station",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Making contact...",
+      "fileName": "head_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500181,
+      "name": "Super Hero Costume",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "Be your favorite hero!",
+      "fileName": "head_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500183,
+      "name": "Map Pin",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Here. Right here.",
+      "fileName": "head_025200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500189,
+      "name": "Stubborn Old Man",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Whaddaya say?!",
+      "fileName": "head_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500191,
+      "name": "None",
+      "part": "BODY",
+      "bonusRate": 0,
+      "description": "No costumes attached.",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500192,
+      "name": "Thunder Drum",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "The rumble of thunder.",
+      "fileName": "body_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500193,
+      "name": "Warrior (Red)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "body_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500194,
+      "name": "Warrior (Blue)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "body_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500195,
+      "name": "Warrior (Gold)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "body_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500196,
+      "name": "Warrior (Silver)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Give a cry of victory!",
+      "fileName": "body_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500197,
+      "name": "Lion Dance",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Being bitten is good luck, I hear.",
+      "fileName": "body_000400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500198,
+      "name": "Ninja",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "body_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500199,
+      "name": "Ninja (Red)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "body_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500200,
+      "name": "Ninja (Blue)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "body_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500201,
+      "name": "Ninja (Yellow)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "body_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500202,
+      "name": "Ninja (Green)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Stealthy steps are ninja steps.",
+      "fileName": "body_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500205,
+      "name": "Pirate Ship",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Yo-ho! Yo-ho! Let's sail the seven seas!",
+      "fileName": "body_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500206,
+      "name": "Electric Guitar",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Listen to my solo!",
+      "fileName": "body_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500207,
+      "name": "Sumo Wrestler",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Aaaand begin! Fight, fight, fight!",
+      "fileName": "body_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500208,
+      "name": "Turtle",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It's very hard.",
+      "fileName": "body_001300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500209,
+      "name": "Jewel (Silver)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Shiny, shiny, shiny. Shiny!",
+      "fileName": "body_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500210,
+      "name": "Jewel (Gold)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Shiny, shiny, shiny. Shiny!",
+      "fileName": "body_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500211,
+      "name": "Zipper",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Open and close.",
+      "fileName": "body_001500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500212,
+      "name": "Lady Kaguya",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "A beauty born from bamboo.",
+      "fileName": "body_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500213,
+      "name": "Castle and Carriage",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Be back before midnight!",
+      "fileName": "body_001700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500214,
+      "name": "Gyaru Princess",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Feel like a princess.",
+      "fileName": "body_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500215,
+      "name": "Fawn",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "A cute baby deer.",
+      "fileName": "body_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500217,
+      "name": "Stall",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A moveable shop.",
+      "fileName": "body_002200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500218,
+      "name": "Neko and Shaxy",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Neko and Shaxy are inseparable!",
+      "fileName": "body_002300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500219,
+      "name": "Sweets",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Sweets all over your body.",
+      "fileName": "body_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500220,
+      "name": "Wedding Dress",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Congratulations!",
+      "fileName": "body_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500221,
+      "name": "Marlin",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It's a big, pointy fish.",
+      "fileName": "body_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500223,
+      "name": "Shrine Maiden",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "She performs rites and reads fortunes.",
+      "fileName": "body_003100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500224,
+      "name": "Beetle (Brown)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Buzzing around.",
+      "fileName": "body_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500226,
+      "name": "Little DON",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A little DON-chan by your side.",
+      "fileName": "body_003700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500227,
+      "name": "Kabuki",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Traditional Japanese entertainment.",
+      "fileName": "body_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500228,
+      "name": "Rake",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Business is booming!",
+      "fileName": "body_004100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500229,
+      "name": "Peacock",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Captivate with beautiful feathers.",
+      "fileName": "body_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500230,
+      "name": "Champion",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Wearing it is proof you're the best.",
+      "fileName": "body_004400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500231,
+      "name": "Guardian",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Impregnable defense.",
+      "fileName": "body_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500232,
+      "name": "Goth Maid (Gyaru)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Frilly and cute.",
+      "fileName": "body_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500233,
+      "name": "Goth Maid (Princess)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Frilly and cute.",
+      "fileName": "body_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500234,
+      "name": "Devil",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Everyone will call you evil.",
+      "fileName": "body_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500235,
+      "name": "Woodland Friends",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Everyone is friends in the forest!",
+      "fileName": "body_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500236,
+      "name": "Lion",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "The king of beasts.",
+      "fileName": "body_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500238,
+      "name": "Bowling",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Rolling, rolling, rolling... Strike!",
+      "fileName": "body_005300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500239,
+      "name": "Camera",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Looking through the lens.",
+      "fileName": "body_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500240,
+      "name": "Girl's Uniform",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "School fun for girls.",
+      "fileName": "body_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500241,
+      "name": "Boy's Uniform",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "School fun for boys.",
+      "fileName": "body_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500242,
+      "name": "Blue Happi",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Appropriate attire for festivals.",
+      "fileName": "body_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500243,
+      "name": "Hakama",
+      "part": "BODY",
+      "bonusRate": 150,
+      "description": "A Japanese gentleman.",
+      "fileName": "body_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500244,
+      "name": "Hina Dolls",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "These are dolls to celebrate Girl's Day.",
+      "fileName": "body_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500245,
+      "name": "Red Happi",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Appropriate attire for festivals.",
+      "fileName": "body_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500246,
+      "name": "Ogre Club",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Any ogre who wields it is indestructible.",
+      "fileName": "body_006200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500248,
+      "name": "Black Drum",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "Black and shiny.",
+      "fileName": "body_006400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500249,
+      "name": "Earth",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Right here.",
+      "fileName": "body_006500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500250,
+      "name": "Takoyaki",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "Crispy on the outside, soft on the inside.",
+      "fileName": "body_006600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500251,
+      "name": "The Moon",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "A rabbit lives here.",
+      "fileName": "body_006700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500253,
+      "name": "Octopus",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Plenty of taurine.",
+      "fileName": "body_006900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500254,
+      "name": "Santa Claus",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Happy Holidays!",
+      "fileName": "body_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500255,
+      "name": "Tennis",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Smash!",
+      "fileName": "body_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500256,
+      "name": "Artist",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I love the smell of fresh paint.",
+      "fileName": "body_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500257,
+      "name": "Farmer",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Plowing and harvesting.",
+      "fileName": "body_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500259,
+      "name": "What Is This Tree?",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It has deep roots.",
+      "fileName": "body_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500261,
+      "name": "Butterfly Wings",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Flutter and float.",
+      "fileName": "body_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500262,
+      "name": "Dinosaur",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "They say I was the strongest on land!",
+      "fileName": "body_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500263,
+      "name": "Fossil",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Now I'm just bones.",
+      "fileName": "body_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500264,
+      "name": "Camel Hump",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Calm and cool even in hot and dry places.",
+      "fileName": "body_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500265,
+      "name": "Mummy",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Call me if you need a bandage!",
+      "fileName": "body_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500266,
+      "name": "Pyramid",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It's been standing a loooong time.",
+      "fileName": "body_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500267,
+      "name": "Airplane",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "It can fly across continents!",
+      "fileName": "body_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500271,
+      "name": "Watermelon",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Go for a clean split!",
+      "fileName": "body_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500273,
+      "name": "Beetle (Blue)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Buzzing around.",
+      "fileName": "body_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500274,
+      "name": "Sakura Mochi",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Has a slight cherry blossom flavor.",
+      "fileName": "body_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500276,
+      "name": "Marine",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Aye-aye!",
+      "fileName": "body_009600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500277,
+      "name": "Gunslinger",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Never lose a quickdraw duel.",
+      "fileName": "body_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500278,
+      "name": "Skateboarder",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Go! Gah! Go!",
+      "fileName": "body_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500279,
+      "name": "Harajuku",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "A cute outfit.",
+      "fileName": "body_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500280,
+      "name": "Racecar",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "You'll lose if you let off the gas.",
+      "fileName": "body_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500282,
+      "name": "Alice's Dress",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Strange.",
+      "fileName": "body_010200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500283,
+      "name": "Thousand-Armed Kanon",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Would all those arms make you better at drumming?",
+      "fileName": "body_010300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500284,
+      "name": "Pajamas",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Will bring you sweet dreams.",
+      "fileName": "body_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500285,
+      "name": "Unicorn",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "A cute fairy tale animal.",
+      "fileName": "body_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500286,
+      "name": "Ghost",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "They come out on hot summer nights!",
+      "fileName": "body_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500287,
+      "name": "Fighter Jet",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Breaking the sound barrier!",
+      "fileName": "body_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500288,
+      "name": "Summer Holidays",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Summer! Shaved ice! Straw hats! Bugs!",
+      "fileName": "body_010800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500289,
+      "name": "Vacation",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I'm in the mood for sunbathing!",
+      "fileName": "body_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500290,
+      "name": "UFO",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "From a galaxy far, far away.",
+      "fileName": "body_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500291,
+      "name": "Chameleon",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "Right behind you! Right behind you!",
+      "fileName": "body_011100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500292,
+      "name": "Hero",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Every boy wants to be one.",
+      "fileName": "body_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500293,
+      "name": "Cotton Candy",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "So fluffy! So sweet!",
+      "fileName": "body_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500294,
+      "name": "Alpaca",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A fluffy good boy.",
+      "fileName": "body_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500295,
+      "name": "The Sansa Dance",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Do the Sansa!",
+      "fileName": "body_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500297,
+      "name": "Ice Cream",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "All the toppings make it hard to eat.",
+      "fileName": "body_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500298,
+      "name": "Fairytale",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I wanna be surrounded by cuteness!",
+      "fileName": "body_011900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500299,
+      "name": "Bicycle",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Rides well, even up hills.",
+      "fileName": "body_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500300,
+      "name": "Courtesan",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Good evening, gentlemen.",
+      "fileName": "body_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500301,
+      "name": "Ocean Friends",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "Floating by your side.",
+      "fileName": "body_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500302,
+      "name": "Brave Don",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "Defender of the world!",
+      "fileName": "body_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500303,
+      "name": "Commander",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A TEN HUT! Forward! March!",
+      "fileName": "body_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500304,
+      "name": "Big Ribbon",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A big, cute ribbon.",
+      "fileName": "body_012500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500306,
+      "name": "Deluxe Drum",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Gorgeous! Wonderful!",
+      "fileName": "body_012700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500307,
+      "name": "Peacock (Rainbow)",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Captivate with beautiful feathers.",
+      "fileName": "body_012800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500308,
+      "name": "Crepe Stall",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "How's about something sweet?",
+      "fileName": "body_012900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500309,
+      "name": "Lucky Dragon",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "Lucky!",
+      "fileName": "body_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500311,
+      "name": "Honey Bee",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "We buzz around, gathering nectar.",
+      "fileName": "body_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500313,
+      "name": "Cat Tail",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Meow!",
+      "fileName": "body_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500314,
+      "name": "Treasure Hunter",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "Where's the treasure?",
+      "fileName": "body_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500315,
+      "name": "Guitar",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Let me play you the blues.",
+      "fileName": "body_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500316,
+      "name": "Blue Bird of Happiness",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Finding it brings you happiness.",
+      "fileName": "body_013800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500317,
+      "name": "Boulder",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Rock on, man!",
+      "fileName": "body_013900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500318,
+      "name": "Dodododo.",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Dodododododo.",
+      "fileName": "body_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500319,
+      "name": "Gingerbread House",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A tasty-looking house.",
+      "fileName": "body_014100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500320,
+      "name": "Ranch",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Moo! Baa! Cock-a-doodle-do!",
+      "fileName": "body_014200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500321,
+      "name": "Bow",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Never miss a note!",
+      "fileName": "body_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500322,
+      "name": "Cardboard",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It's relaxing inside.",
+      "fileName": "body_015100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500323,
+      "name": "Ice Dress",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Cool and fashionable.",
+      "fileName": "body_015200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500324,
+      "name": "Jungle",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Welcome to the jungle.",
+      "fileName": "body_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500326,
+      "name": "Sun Wukong",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I was in the Marble Mountains until a few days ago.",
+      "fileName": "body_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500327,
+      "name": "Rainbow",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "An arch in seven beautiful colors.",
+      "fileName": "body_015600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500328,
+      "name": "Good Harvest",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I got a bumper crop!",
+      "fileName": "body_015700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500329,
+      "name": "Heart",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Overflowing with love.",
+      "fileName": "body_015800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500330,
+      "name": "Teen Heartthrob",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Like, omigosh!",
+      "fileName": "body_015900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500331,
+      "name": "Planet",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Space is a big place.",
+      "fileName": "body_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500332,
+      "name": "Cat Convention",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Philosophy-wise, we're the cat's meow.",
+      "fileName": "body_016100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500335,
+      "name": "Chariot",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Let's have a chariot race!",
+      "fileName": "body_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500336,
+      "name": "Rich Man",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Come on, you could spare a little cash.",
+      "fileName": "body_017100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500337,
+      "name": "Maracas",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "¡Hola! ¡Buenas tardes!",
+      "fileName": "body_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500338,
+      "name": "Nazca Lines",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "An ancient tale!",
+      "fileName": "body_017400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500339,
+      "name": "Sengoku Warlord",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "The age of daimyo warring against each other.",
+      "fileName": "body_017600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500341,
+      "name": "Ice Dome",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Hard on the outside, comfy on the inside.",
+      "fileName": "body_017800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500342,
+      "name": "Firefighter",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Heroes of the Edo Era",
+      "fileName": "body_017900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500344,
+      "name": "Magician",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Abracadabra, become better at drumming!",
+      "fileName": "body_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500346,
+      "name": "Coolest Kid at School",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Duuuuude!",
+      "fileName": "body_018600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500347,
+      "name": "Mushroom",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "These are tasty in stews.",
+      "fileName": "body_018700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500349,
+      "name": "Fried Noodle Stall",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "One order of noodles, comin' up!",
+      "fileName": "body_019000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500350,
+      "name": "Calico Cat",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Always disappearing.",
+      "fileName": "body_019100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500351,
+      "name": "Carp Streamer",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "We fly carp streamers on Children's Day.",
+      "fileName": "body_019200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500352,
+      "name": "Aquarium",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A teeny tiny aquarium.",
+      "fileName": "body_019300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500353,
+      "name": "Buttered Bread",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Hot out of the oven!",
+      "fileName": "body_019400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500355,
+      "name": "Straw-Wrapped Natto",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "It's slimy, but delicious.",
+      "fileName": "body_019600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500356,
+      "name": "Shachihoko",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "The guardian deity of a Japanese castle.",
+      "fileName": "body_019700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500358,
+      "name": "Kamaboko Fish Cake",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Fish paste steamed on a wood plank.",
+      "fileName": "body_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500359,
+      "name": "Summer Festival",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "You can hear the music outside.",
+      "fileName": "body_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500361,
+      "name": "Sweater",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Warm and fluffy.",
+      "fileName": "body_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500364,
+      "name": "Party People",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Let's party!",
+      "fileName": "body_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500365,
+      "name": "Festival Happi (Blue)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Got your headband and happi coat?!",
+      "fileName": "body_020600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500366,
+      "name": "Festival Happi (Red)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Got your headband and happi coat?!",
+      "fileName": "body_020701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500367,
+      "name": "Festival Happi (Yellow)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Got your headband and happi coat?!",
+      "fileName": "body_020802",
+      "canChangeColor": true
+    },
+    {
+      "id": 500368,
+      "name": "Festival Happi (Green)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Got your headband and happi coat?!",
+      "fileName": "body_020903",
+      "canChangeColor": true
+    },
+    {
+      "id": 500369,
+      "name": "Submarine",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Explore the deep ocean.",
+      "fileName": "body_020700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500370,
+      "name": "Bouquet",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Every woman wants to get one.",
+      "fileName": "body_020800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500376,
+      "name": "Spacesuit",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "This is space. Control, do you copy?",
+      "fileName": "body_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500377,
+      "name": "Tiger",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Roar.",
+      "fileName": "body_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500379,
+      "name": "Elementary School Student",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Attending school.",
+      "fileName": "body_021500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500382,
+      "name": "Cupcake",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I could eat it in one bite.",
+      "fileName": "body_021800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500384,
+      "name": "Stew",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "A great crockpot with everything in it.",
+      "fileName": "body_022000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500386,
+      "name": "Hamster",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Cheeks full of dreams.",
+      "fileName": "body_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500388,
+      "name": "Apple",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A bright red apple.",
+      "fileName": "body_022500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500390,
+      "name": "Caterpillar",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Will be a beautiful butterfly someday.",
+      "fileName": "body_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500391,
+      "name": "Kid's Lunch",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "A menu even adults would envy.",
+      "fileName": "body_022800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500392,
+      "name": "Capsule",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "I wonder what's inside.",
+      "fileName": "body_022900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500393,
+      "name": "Curry",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "Spicy & Delicious",
+      "fileName": "body_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500394,
+      "name": "Gaming DON-chan",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Fashionable and high-spec.",
+      "fileName": "body_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500395,
+      "name": "Chikuwa Cucumber",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Fresh and juicy.",
+      "fileName": "body_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500397,
+      "name": "Drone",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Fly freely in the sky.",
+      "fileName": "body_023500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500398,
+      "name": "Popular with Pandas",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Panda, panda, panda, panda.",
+      "fileName": "body_023600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500399,
+      "name": "Planter",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "A smile in the grain.",
+      "fileName": "body_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500402,
+      "name": "Mineral",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "A beautiful and hard crystal.",
+      "fileName": "body_024100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500404,
+      "name": "Wood Carving",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "Warm to the touch.",
+      "fileName": "body_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500405,
+      "name": "BBQ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Meat's ready!",
+      "fileName": "body_024400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500409,
+      "name": "Gentle",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "The manners of a gentleman.",
+      "fileName": "body_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500410,
+      "name": "Space Station",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Making contact...",
+      "fileName": "body_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500411,
+      "name": "Super Hero Costume",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "Be your favorite hero!",
+      "fileName": "body_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500413,
+      "name": "Disco Ball",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Fever time!",
+      "fileName": "body_025400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500419,
+      "name": "Stubborn Old Man",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Whaddaya say?!",
+      "fileName": "body_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500421,
+      "name": "None",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "No costumes attached.",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500428,
+      "name": "Neko and Shaxy",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Neko and Shaxy are inseparable!",
+      "fileName": "acc_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500432,
+      "name": "Master Bachio",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "A friendly drum teacher.",
+      "fileName": "acc_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500434,
+      "name": "Inu Wada",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "A polite shiba. He wears a charming head scarf.",
+      "fileName": "acc_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500439,
+      "name": "Mimizu Wada",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Don Wada's pet (lady).",
+      "fileName": "acc_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500444,
+      "name": "Tetsuo",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "A naughty kid who makes a lot of commotion.",
+      "fileName": "acc_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500445,
+      "name": "Hana-chan",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "She's a year older than Tetsuo, so she's like his big sister.",
+      "fileName": "acc_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500446,
+      "name": "None",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "No costumes attached.",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500447,
+      "name": "Helicopter",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "I'm in the mood for flying.",
+      "fileName": "cos_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500448,
+      "name": "Moving Shrine (Gold)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Heave-ho! Heave-ho!",
+      "fileName": "cos_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500449,
+      "name": "Moving Shrine (Silver)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Heave-ho! Heave-ho!",
+      "fileName": "cos_002001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500450,
+      "name": "Moving Shrine (Brown)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Heave-ho! Heave-ho!",
+      "fileName": "cos_002002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500451,
+      "name": "Moving Shrine (Green)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Heave-ho! Heave-ho!",
+      "fileName": "cos_002003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500452,
+      "name": "Frog",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "Ribbit.",
+      "fileName": "cos_003000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500453,
+      "name": "Mecha-DON",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "A mechanical DON-chan.",
+      "fileName": "cos_004000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500454,
+      "name": "Castle (Blue)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A Japanese castle.",
+      "fileName": "cos_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500455,
+      "name": "Castle (Black)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A Japanese castle.",
+      "fileName": "cos_005003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500456,
+      "name": "Castle (Gold)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A Japanese castle.",
+      "fileName": "cos_005002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500457,
+      "name": "Castle (Green)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A Japanese castle.",
+      "fileName": "cos_005001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500458,
+      "name": "Mt. Fuji",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "Japan's tallest mountain.",
+      "fileName": "cos_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500459,
+      "name": "Tetsuo Ride",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Tetsuo is riding on top.",
+      "fileName": "cos_007000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500460,
+      "name": "Train (Blue)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "All aboard!",
+      "fileName": "cos_008000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500461,
+      "name": "Train (Red)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "All aboard!",
+      "fileName": "cos_008001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500462,
+      "name": "Train (Green)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "All aboard!",
+      "fileName": "cos_008002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500463,
+      "name": "Shark (Blue)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "King of the seas.",
+      "fileName": "cos_009000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500466,
+      "name": "Sushi",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Made with fresh ingredients.",
+      "fileName": "cos_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500467,
+      "name": "Steam Train",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Runs on steam.",
+      "fileName": "cos_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500468,
+      "name": "Beef Bowl",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Lots of sauce.",
+      "fileName": "cos_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500469,
+      "name": "Pork Bowl",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A thick cutlet on rice.",
+      "fileName": "cos_012001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500470,
+      "name": "Oyakodon",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Perfect blend of chicken and egg.",
+      "fileName": "cos_012002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500471,
+      "name": "Bowl of Rice",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Goes with anything.",
+      "fileName": "cos_012003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500472,
+      "name": "Drum Set",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "Become one with the beat.",
+      "fileName": "cos_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500473,
+      "name": "Meat",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "You know, meat.",
+      "fileName": "cos_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500474,
+      "name": "Treasure Ship",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Full of treasure.",
+      "fileName": "cos_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500475,
+      "name": "Ghost",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "I'm a ghost! Booo!",
+      "fileName": "cos_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500476,
+      "name": "Heian Beauty",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "A pale, cute girl.",
+      "fileName": "cos_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500477,
+      "name": "Illusion",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "This is not a trick.",
+      "fileName": "cos_018000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500478,
+      "name": "Wet Paint",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Has a fresh coat of paint.",
+      "fileName": "cos_019000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500479,
+      "name": "Kiddy Ride",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Put in a coin and it will shake.",
+      "fileName": "cos_020000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500480,
+      "name": "Heap",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Three layers.",
+      "fileName": "cos_021000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500481,
+      "name": "Offset",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "It's offset.",
+      "fileName": "cos_022000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500482,
+      "name": "Boba Tea",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "A food and drink in one.",
+      "fileName": "cos_023000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500484,
+      "name": "Hot Spring",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "Hot and dazzling.",
+      "fileName": "cos_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500486,
+      "name": "Dice",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "Try your luck.",
+      "fileName": "cos_027000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500487,
+      "name": "Fried Chicken",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "Freshly made and juicy.",
+      "fileName": "cos_028000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500488,
+      "name": "Kumo-kyun",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "Which one?",
+      "fileName": "cos_029000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500489,
+      "name": "Jellyfish",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "Floating amid the vast ocean.",
+      "fileName": "cos_030000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500490,
+      "name": "Latte Art",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "A popular cup of joe.",
+      "fileName": "cos_031000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500492,
+      "name": "Previous Life",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "A previous life.",
+      "fileName": "cos_033000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500493,
+      "name": "DON-chan",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "DON-chan in his usual colors.",
+      "fileName": "col_000001",
+      "canChangeColor": false
+    },
+    {
+      "id": 500495,
+      "name": "Currycutta-DONdy",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Yellow Series 1/5",
+      "fileName": "col_000003",
+      "canChangeColor": false
+    },
+    {
+      "id": 500496,
+      "name": "Yellow 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Yellow Series 2/5",
+      "fileName": "col_000004",
+      "canChangeColor": true
+    },
+    {
+      "id": 500497,
+      "name": "Yellow 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Yellow Series 3/5",
+      "fileName": "col_000005",
+      "canChangeColor": true
+    },
+    {
+      "id": 500498,
+      "name": "Yellow 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Yellow Series 4/5",
+      "fileName": "col_000006",
+      "canChangeColor": true
+    },
+    {
+      "id": 500500,
+      "name": "Yomogimaru",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Greenish-Yellow Series 1/5",
+      "fileName": "col_000008",
+      "canChangeColor": true
+    },
+    {
+      "id": 500501,
+      "name": "Greenish-Yellow 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Greenish-Yellow Series 2/5",
+      "fileName": "col_000009",
+      "canChangeColor": true
+    },
+    {
+      "id": 500502,
+      "name": "Greenish-Yellow 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Greenish-Yellow Series 3/5",
+      "fileName": "col_000010",
+      "canChangeColor": true
+    },
+    {
+      "id": 500503,
+      "name": "Greenish-Yellow 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Greenish-Yellow Series 4/5",
+      "fileName": "col_000011",
+      "canChangeColor": true
+    },
+    {
+      "id": 500505,
+      "name": "Green 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Green Series 1/5",
+      "fileName": "col_000013",
+      "canChangeColor": true
+    },
+    {
+      "id": 500506,
+      "name": "Green 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Green Series 2/5",
+      "fileName": "col_000014",
+      "canChangeColor": true
+    },
+    {
+      "id": 500507,
+      "name": "Green 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Green Series 3/5",
+      "fileName": "col_000015",
+      "canChangeColor": true
+    },
+    {
+      "id": 500508,
+      "name": "Green 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Green Series 4/5",
+      "fileName": "col_000016",
+      "canChangeColor": true
+    },
+    {
+      "id": 500510,
+      "name": "Aquamarine 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Aquamarine Series 1/5",
+      "fileName": "col_000018",
+      "canChangeColor": true
+    },
+    {
+      "id": 500511,
+      "name": "Aquamarine 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Aquamarine Series 2/5",
+      "fileName": "col_000019",
+      "canChangeColor": true
+    },
+    {
+      "id": 500512,
+      "name": "Aquamarine 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Aquamarine Series 3/5",
+      "fileName": "col_000020",
+      "canChangeColor": true
+    },
+    {
+      "id": 500513,
+      "name": "Aquamarine 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Aquamarine Series 4/5",
+      "fileName": "col_000021",
+      "canChangeColor": true
+    },
+    {
+      "id": 500515,
+      "name": "Blue 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Blue Series 1/5",
+      "fileName": "col_000023",
+      "canChangeColor": true
+    },
+    {
+      "id": 500516,
+      "name": "Blue 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Blue Series 2/5",
+      "fileName": "col_000024",
+      "canChangeColor": true
+    },
+    {
+      "id": 500517,
+      "name": "Blue 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Blue Series 3/5",
+      "fileName": "col_000025",
+      "canChangeColor": true
+    },
+    {
+      "id": 500518,
+      "name": "Blue 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Blue Series 4/5",
+      "fileName": "col_000026",
+      "canChangeColor": true
+    },
+    {
+      "id": 500520,
+      "name": "Purple 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Purple Series 1/5",
+      "fileName": "col_000028",
+      "canChangeColor": true
+    },
+    {
+      "id": 500521,
+      "name": "Purple 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Purple Series 2/5",
+      "fileName": "col_000029",
+      "canChangeColor": true
+    },
+    {
+      "id": 500522,
+      "name": "Purple 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Purple Series 3/5",
+      "fileName": "col_000030",
+      "canChangeColor": true
+    },
+    {
+      "id": 500523,
+      "name": "Purple 4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Purple Series 4/5",
+      "fileName": "col_000031",
+      "canChangeColor": true
+    },
+    {
+      "id": 500525,
+      "name": "Burgundy 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Burgundy Series 1/5",
+      "fileName": "col_000033",
+      "canChangeColor": true
+    },
+    {
+      "id": 500526,
+      "name": "Burgundy 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Burgundy Series 2/5",
+      "fileName": "col_000034",
+      "canChangeColor": true
+    },
+    {
+      "id": 500527,
+      "name": "Burgundy 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Burgundy Series 3/5",
+      "fileName": "col_000035",
+      "canChangeColor": true
+    },
+    {
+      "id": 500530,
+      "name": "Pink 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pink Series 1/5",
+      "fileName": "col_000038",
+      "canChangeColor": true
+    },
+    {
+      "id": 500531,
+      "name": "Pink 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pink Series 2/5",
+      "fileName": "col_000039",
+      "canChangeColor": true
+    },
+    {
+      "id": 500532,
+      "name": "Pink 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pink Series 3/5",
+      "fileName": "col_000040",
+      "canChangeColor": true
+    },
+    {
+      "id": 500535,
+      "name": "Red 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Red Series 1/5",
+      "fileName": "col_000043",
+      "canChangeColor": true
+    },
+    {
+      "id": 500536,
+      "name": "Red 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Red Series 2/5",
+      "fileName": "col_000044",
+      "canChangeColor": true
+    },
+    {
+      "id": 500537,
+      "name": "Red 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Red Series 3/5",
+      "fileName": "col_000045",
+      "canChangeColor": true
+    },
+    {
+      "id": 500540,
+      "name": "Orange 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Orange Series 1/5",
+      "fileName": "col_000048",
+      "canChangeColor": true
+    },
+    {
+      "id": 500541,
+      "name": "Orange 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Orange Series 2/5",
+      "fileName": "col_000049",
+      "canChangeColor": true
+    },
+    {
+      "id": 500542,
+      "name": "Orange 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Orange Series 3/5",
+      "fileName": "col_000050",
+      "canChangeColor": true
+    },
+    {
+      "id": 500545,
+      "name": "Cream 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Cream Series 1/5",
+      "fileName": "col_000053",
+      "canChangeColor": true
+    },
+    {
+      "id": 500546,
+      "name": "Cream 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Cream Series 2/5",
+      "fileName": "col_000054",
+      "canChangeColor": true
+    },
+    {
+      "id": 500547,
+      "name": "Cream 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Cream Series 3/5",
+      "fileName": "col_000055",
+      "canChangeColor": true
+    },
+    {
+      "id": 500550,
+      "name": "Chic 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Chic Series 1/5",
+      "fileName": "col_000058",
+      "canChangeColor": true
+    },
+    {
+      "id": 500551,
+      "name": "Chic 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Chic Series 2/5",
+      "fileName": "col_000059",
+      "canChangeColor": true
+    },
+    {
+      "id": 500552,
+      "name": "Chic 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Chic Series 3/5",
+      "fileName": "col_000060",
+      "canChangeColor": true
+    },
+    {
+      "id": 500555,
+      "name": "Pastel 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pastel Series 1/6",
+      "fileName": "col_000063",
+      "canChangeColor": true
+    },
+    {
+      "id": 500556,
+      "name": "Pastel 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pastel Series 2/6",
+      "fileName": "col_000064",
+      "canChangeColor": true
+    },
+    {
+      "id": 500557,
+      "name": "Pastel 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Pastel Series 3/6",
+      "fileName": "col_000065",
+      "canChangeColor": true
+    },
+    {
+      "id": 500561,
+      "name": "Vivid 1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Vivid Series 1/6",
+      "fileName": "col_000069",
+      "canChangeColor": true
+    },
+    {
+      "id": 500562,
+      "name": "Vivid 2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Vivid Series 2/6",
+      "fileName": "col_000070",
+      "canChangeColor": true
+    },
+    {
+      "id": 500563,
+      "name": "Vivid 3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "Vivid Series 3/6",
+      "fileName": "col_000071",
+      "canChangeColor": true
+    },
+    {
+      "id": 500583,
+      "name": "Barn Owl",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "Nocturnal.",
+      "fileName": "cos_034000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500584,
+      "name": "Shiranui Flare",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the hololive half-elf, Shiranui Flare.",
+      "fileName": "acc_158000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500585,
+      "name": "Shirogane Noel",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the soft and cuddly hololive knight, Shirogane Noel.",
+      "fileName": "acc_159000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500586,
+      "name": "Houshou Marine",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the alluring hololive ship captain, Houshou Marine.",
+      "fileName": "acc_160000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500587,
+      "name": "Momosuzu Nene",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the hololive idol from another world, Momosuzu Nene.",
+      "fileName": "acc_161000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500588,
+      "name": "Takane Lui",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the hololive hot mess, head of the secret society holoX, Takane Lui.",
+      "fileName": "acc_162000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500589,
+      "name": "Kazama Iroha",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Play the taiko with the hololive yojimbo samurai of the secret society holoX, Kazama Iroha.",
+      "fileName": "acc_163000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500590,
+      "name": "Remi",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Member of the Omiko City's Idol group \"OmikoSisters.\" She's a DJ on the side.",
+      "fileName": "acc_164000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500591,
+      "name": "Fuah",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Member of the Omiko City's Idol group \"Omiko Sisters.\" A bright, carefree girl.",
+      "fileName": "acc_165000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500592,
+      "name": "Kumo-kyun",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "Which one?",
+      "fileName": "acc_166000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500593,
+      "name": "Makina",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "A Donder researcher from the year 2765,\nshe is the timid yet admirable mind behind AI Don,\nwhich instantly reproduces an opponent's skills.",
+      "fileName": "acc_167000",
+      "canChangeColor": true
+    }
+  ]
+}

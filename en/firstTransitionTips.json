@@ -1,0 +1,263 @@
+{
+  "firstTransitionTips": [
+    {
+      "id": 9420001,
+      "groupId": 1001,
+      "sortOrder": 1,
+      "description": "By tapping the difficulty button next to the Play for Free button,\nyou can change the song's difficulty level.\n\n<B>Try challenging yourself and playing on different difficulty levels.</B>",
+      "fileName": "TipsImage_1030"
+    },
+    {
+      "id": 9420002,
+      "groupId": 1002,
+      "sortOrder": 1,
+      "description": "<B>The playlist tailored for you has been updated.</B>\n\nThis playlist will be refreshed when you search for songs on\nthe home screen or after you finish playing Taiko Mode.",
+      "fileName": "TipsImage_1041"
+    },
+    {
+      "id": 9420003,
+      "groupId": 1003,
+      "sortOrder": 1,
+      "description": "When you use items, <B>special effects</B> will take place during the performance.\n\nWhen challenging difficult songs, try using Performance Assists.",
+      "fileName": "TipsImage_1001"
+    },
+    {
+      "id": 9420004,
+      "groupId": 1004,
+      "sortOrder": 1,
+      "description": "When a red note appears, hit the face of the drum!\nWhen a blue note appears, hit outside the face of the drum!",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420005,
+      "groupId": 1004,
+      "sortOrder": 2,
+      "description": "For large notes, use both hands to get a higher score!\nDon't worry, though! You can use one hand until you get used to it!",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420006,
+      "groupId": 1005,
+      "sortOrder": 1,
+      "description": "When a red note appears, hit the face of the drum!\nWhen a blue note appears, hit outside the face of the drum!",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420007,
+      "groupId": 1005,
+      "sortOrder": 2,
+      "description": "For large notes, use both hands to get a higher score!\nDon't worry, though! You can use one hand until you get used to it!",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420008,
+      "groupId": 1005,
+      "sortOrder": 3,
+      "description": "Yellow music notes are your cue to do a drum roll!\nPerform more hits for a higher score!",
+      "fileName": "TipsImage_1033"
+    },
+    {
+      "id": 9420009,
+      "groupId": 1005,
+      "sortOrder": 4,
+      "description": "If you see a balloon note, do a drum roll until it bursts!",
+      "fileName": "TipsImage_1034"
+    },
+    {
+      "id": 9420010,
+      "groupId": 1005,
+      "sortOrder": 5,
+      "description": "Mallet notes call for a drum roll too!\nHit it enough times and you'll score big!\nYou may even encounter a rare mallet if you're lucky...",
+      "fileName": "TipsImage_1035"
+    },
+    {
+      "id": 9420011,
+      "groupId": 1006,
+      "sortOrder": 1,
+      "description": "<B>Congratulations! It's your first time leveling up!</B>\n\n\nWhen you finish a performance, you'll earn experience!\nPlay more songs and increase your level even more!",
+      "fileName": "TipsImage_1036"
+    },
+    {
+      "id": 9420012,
+      "groupId": 1006,
+      "sortOrder": 2,
+      "description": "When you level up, your score bonus increases.\n\n<B>The score bonus allows you to earn more points per play!</B>\n\nCollecting outfits will also give you a boost!",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420013,
+      "groupId": 1007,
+      "sortOrder": 1,
+      "description": "<B>Congratulations! Your rank increased for the first time!</B>\n\nAs you earn high scores and increase your overall score,\nyour rank will also increase.\nTry playing different songs to discover your favorite ones.",
+      "fileName": "TipsImage_1037"
+    },
+    {
+      "id": 9420014,
+      "groupId": 1007,
+      "sortOrder": 2,
+      "description": "When your rank increases, your score bonus also goes up.\n\n<B>The score bonus allows you to earn more points per play!</B>\n\nCollecting outfits will also give you a boost!",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420016,
+      "groupId": 1008,
+      "sortOrder": 1,
+      "description": "<B>Use tickets to play your favorite songs.</B>\n\nYou can find specific songs by using the \"Search\" option.\n\nYou will also be shown recommended songs,\nso be sure to try as many as you can!",
+      "fileName": "TipsImage_1003"
+    },
+    {
+      "id": 9420017,
+      "groupId": 1008,
+      "sortOrder": 2,
+      "description": "<B>The convenient filtering feature helps you find your favorite songs.</B>\n\nIt's a great way to easily discover songs you haven't played yet or\nsongs you haven't earned a Gold Crown for.",
+      "fileName": "TipsImage_1004"
+    },
+    {
+      "id": 9420018,
+      "groupId": 1009,
+      "sortOrder": 1,
+      "description": "<B>Dress up DON-chan in stylish outfits!</B>\n\nThe outfit bonus is the same no matter which outfit you choose,\nso you can wear whichever is your favorite!",
+      "fileName": "TipsImage_1009"
+    },
+    {
+      "id": 9420019,
+      "groupId": 1010,
+      "sortOrder": 1,
+      "description": "You've accumulated points.\n<B>You can exchange your points for some great items in the shop.</B>\n\nTry heading there now to give it a try!",
+      "fileName": "TipsImage_1038"
+    },
+    {
+      "id": 9420020,
+      "groupId": 1011,
+      "sortOrder": 1,
+      "description": "You have run out of tickets.\nTo get more, start by earning Ticket Points\nby playing free songs from the Home (Free) section.\n\n<B>Ticket Points can be exchanged for tickets in the shop.</B>",
+      "fileName": "TipsImage_1039"
+    },
+    {
+      "id": 9420021,
+      "groupId": 1012,
+      "sortOrder": 1,
+      "description": "<B>Purchasing a passport will let you play even more!</B>\n\nWith a passport,\n<color=#f84828><B>ads will be removed and you'll be able\nto play exclusive pre-release songs as well!</B></color>\n\nGet these and many additional perks too!",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420022,
+      "groupId": 1019,
+      "sortOrder": 1,
+      "description": "<B>Purchase coins to exchange for items.</B>\n\nThe sets are a great deal, as they come with lots of items.",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420023,
+      "groupId": 1020,
+      "sortOrder": 1,
+      "description": "<B>Use your accumulated points to get items!</B>\n\nYou can exchange points for items and outfits.\n\nAs your outfit collection grows, so too does your score bonus.",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420024,
+      "groupId": 1013,
+      "sortOrder": 1,
+      "description": "<B>Customize your profile and DON-chan to suit your preferences!</B>\n\nYou can even change your background and player icon.\n\nFeel free to switch them according to your mood of the day!",
+      "fileName": "TipsImage_1008"
+    },
+    {
+      "id": 9420025,
+      "groupId": 1014,
+      "sortOrder": 1,
+      "description": "<B>Find a song you like? Tap the heart to give it a \"Like!\"\nYou can also long-press the heart to set it as a Top Song.</B>\n\nThe songs you have set will appear under My List,\nso you won't have to worry about remembering song titles!",
+      "fileName": "TipsImage_1014"
+    },
+    {
+      "id": 9420026,
+      "groupId": 1014,
+      "sortOrder": 2,
+      "description": "<B>Try improving your scores on your favorite songs!</B>\n\nThe High Score section displays the songs with your best scores.\nYour rank is determined by the cumulative score of your top 20 songs!\nBe sure to practice the songs in My List!",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420027,
+      "groupId": 1015,
+      "sortOrder": 1,
+      "description": "<B>Taiko no Tatsujin is even better with friends!</B>\n\nBy making lots of friends,\nyou can compare scores and track your progress.\nYou'll also receive more Item Points from the Friend Power Bonus.\n\n<B>Playing together makes Taiko no Tatsujin even more enjoyable!</B>",
+      "fileName": "TipsImage_1011"
+    },
+    {
+      "id": 9420028,
+      "groupId": 1016,
+      "sortOrder": 1,
+      "description": "Once you reach Rank AA, the Border Line resets on the 1st of every month!\n\nPlay often and earn the highest rank you can!",
+      "fileName": "TipsImage_1016"
+    },
+    {
+      "id": 9420029,
+      "groupId": 1016,
+      "sortOrder": 2,
+      "description": "<B>Be sure to challenge new difficulty levels!</B>\n\nBy earning a Silver Crown on Hard,\nyou can now unlock both the Extreme and Extreme (Secret)\ndifficulty levels at the same time.",
+      "fileName": "TipsImage_1017"
+    },
+    {
+      "id": 9420031,
+      "groupId": 1018,
+      "sortOrder": 1,
+      "description": "<B>My List, Shop, and My Page</B>\ncan now be used.\n\nExplore the various features via the menu at the bottom of the screen.",
+      "fileName": "TipsImage_1013"
+    },
+    {
+      "id": 9420032,
+      "groupId": 1004,
+      "sortOrder": 3,
+      "description": "<B>You're all set for a performance!</B>\n\nIn Taiko no Tatsujin: Rhythm Connect, there are no set quotas.\nSimply enjoy playing and aim for high scores!",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420033,
+      "groupId": 1005,
+      "sortOrder": 6,
+      "description": "<B>You're all set for a performance!</B>\n\nIn Taiko no Tatsujin: Rhythm Connect, there are no set quotas.\nSimply enjoy playing and aim for high scores!",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420034,
+      "groupId": 1007,
+      "sortOrder": 3,
+      "description": "<B>Increase your rank by playing your best songs!</B>\n\nYour rank is determined by the cumulative score\nof the top 20 songs in your best score list.\nPlay a variety of songs and aim for those high scores!",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420035,
+      "groupId": 2001,
+      "sortOrder": 1,
+      "description": "<B>Purchasing a passport will let you play even more!</B>\n\nWith a passport,\n<color=#f84828><B>ads will be removed and you'll be able\nto play exclusive pre-release songs as well!</B></color>\n\nGet these and many additional perks too!",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420036,
+      "groupId": 2001,
+      "sortOrder": 2,
+      "description": "<B>Purchase coins to exchange for items.</B>\n\nThe sets are a great deal, as they come with lots of items.",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420037,
+      "groupId": 2001,
+      "sortOrder": 3,
+      "description": "<B>Use your accumulated points to get items!</B>\n\nYou can exchange points for items and outfits.\n\nAs your outfit collection grows, so too does your score bonus.",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420038,
+      "groupId": 2982,
+      "sortOrder": 1,
+      "description": "<B>Some songs are locked!</B>\n\nBy unlocking songs, you can play them as often as you like!",
+      "fileName": "TipsImage_1042"
+    },
+    {
+      "id": 9420039,
+      "groupId": 3963,
+      "sortOrder": 1,
+      "description": "<size=22><B>Looking to focus on a few of your favorite songs?\nWe recommend collections!</B>\n\n<color=#f84828><B>*Pre-release songs require a passport (excluding Passport Light) or can be purchased once the pre-release period has ended.\n*Please note that if your passport effect expires after adding a pre-release song to a collection, you will be unable to play it until the pre-release period has ended.</B></color></size>",
+      "fileName": "TipsImage_1044"
+    }
+  ]
+}

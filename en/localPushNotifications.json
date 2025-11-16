@@ -1,0 +1,51 @@
+{
+  "localPushNotifications": [
+    {
+      "id": 1,
+      "message": "Good Morning!\nHave you claimed your Free Pack?",
+      "notifyHourAndMinute": "08:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "message": "Take a quick break with TTRC!\nHave you claimed your Free Pack?",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "message": "Great work today!\nHave you claimed your Free Pack?",
+      "notifyHourAndMinute": "20:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 4,
+      "message": "Wednesday is the day for TTRC fun!",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        3
+      ]
+    }
+  ]
+}

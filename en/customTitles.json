@@ -1,0 +1,8469 @@
+{
+  "customTitles": [
+    {
+      "id": 610001,
+      "name": "Donder",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610002,
+      "name": "Master",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610003,
+      "name": "Friend",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610004,
+      "name": "Drumstick User",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610005,
+      "name": "Hero",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610006,
+      "name": "Hero",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610007,
+      "name": "Prince",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610008,
+      "name": "Gentleman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610009,
+      "name": "My Master",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610010,
+      "name": "Heroine",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610011,
+      "name": "Princess",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610012,
+      "name": "Lady",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610013,
+      "name": "Novice",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610014,
+      "name": "Trainee",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610015,
+      "name": "Challenger",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610016,
+      "name": "Qualified",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610017,
+      "name": "Virtuoso",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610018,
+      "name": "All",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610019,
+      "name": "Super",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610020,
+      "name": "Festival",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610021,
+      "name": "Youth",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610022,
+      "name": "Herbivore",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610023,
+      "name": "Carnivore",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610024,
+      "name": "Liberal Arts",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610025,
+      "name": "Science and Math",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610026,
+      "name": "Recruiting",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610027,
+      "name": "Technique",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610028,
+      "name": "Intellectual",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610029,
+      "name": "Physical",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610030,
+      "name": "Stylish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610031,
+      "name": "Gold",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610032,
+      "name": "Silver",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610033,
+      "name": "Purple",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610034,
+      "name": "Black",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610035,
+      "name": "Blue",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610036,
+      "name": "White",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610037,
+      "name": "Red",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610038,
+      "name": "Dog",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610039,
+      "name": "Wolf",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610040,
+      "name": "Cat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610041,
+      "name": "Lion",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610042,
+      "name": "Other World",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610043,
+      "name": "Local",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610044,
+      "name": "World",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610045,
+      "name": "Drum Land",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610046,
+      "name": "Drum University",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610047,
+      "name": "Today",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610048,
+      "name": "Tomorrow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610049,
+      "name": "Yesterday",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610050,
+      "name": "Every Day",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610051,
+      "name": "Katsudon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610052,
+      "name": "Rice",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610053,
+      "name": "Egg",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610054,
+      "name": "Dragon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610055,
+      "name": 2000,
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610056,
+      "name": "Idol",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610057,
+      "name": "God",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610058,
+      "name": "Super",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610059,
+      "name": "Gorilla",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610060,
+      "name": "Weekend",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610061,
+      "name": "Imp",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610062,
+      "name": "Best",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610063,
+      "name": "Speed of Sound",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610064,
+      "name": "Speed of Light",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610065,
+      "name": "Divine Speed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610066,
+      "name": "Mind's Eye",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610067,
+      "name": "Ruler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610068,
+      "name": "Tehe, My Bad",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610069,
+      "name": "Paw Pad",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610070,
+      "name": "Wild",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610071,
+      "name": "Diva",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610072,
+      "name": "Angel",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610073,
+      "name": "Master",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610074,
+      "name": "Rose",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610075,
+      "name": "Peerless",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610076,
+      "name": "Surprised",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610077,
+      "name": "Young Girl",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610078,
+      "name": "Young Boy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610079,
+      "name": "Behind",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610080,
+      "name": "Darkness",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610081,
+      "name": "Last Theorem",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610082,
+      "name": "Self-Proclaimed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610083,
+      "name": "Legend",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610084,
+      "name": "Gold",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610085,
+      "name": "Eternity",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610086,
+      "name": "Challenger",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610087,
+      "name": "Supreme",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610088,
+      "name": "Chaotic",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610089,
+      "name": "Drum Soldier",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610090,
+      "name": "Tatsu-DON",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610091,
+      "name": "Tsundere",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610092,
+      "name": "Dislocation",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610093,
+      "name": "Pioneer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610094,
+      "name": "Erratic",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610095,
+      "name": "Traveler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610096,
+      "name": "Boss",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610097,
+      "name": "Skilled",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610098,
+      "name": "Conqueror",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610099,
+      "name": "History",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610100,
+      "name": "Huge Lead",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610101,
+      "name": "I Love You",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610102,
+      "name": "Season to Season",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610103,
+      "name": "Four Seasons",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610104,
+      "name": "Instant",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610105,
+      "name": "Dokodon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610106,
+      "name": "Don",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610107,
+      "name": "Drum Team",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610108,
+      "name": "Super-Dimensional",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610109,
+      "name": "Victory",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610110,
+      "name": "Battle-Hardened",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610111,
+      "name": "Victor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610112,
+      "name": "Invincible",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610113,
+      "name": "Ascending",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610114,
+      "name": "Undefeated",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610115,
+      "name": "Matchless",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610116,
+      "name": "Everyone",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610117,
+      "name": "True Dragon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610118,
+      "name": "Fish Stick",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610119,
+      "name": "Ramen",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610120,
+      "name": "†",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610121,
+      "name": "Fallen Angel",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610122,
+      "name": "Boys",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610123,
+      "name": "Hyperspace",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610124,
+      "name": "I Am",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610125,
+      "name": "Light Element",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610126,
+      "name": "What?!",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610127,
+      "name": "Sunflower",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610128,
+      "name": "Spring",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610129,
+      "name": "Summer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610130,
+      "name": "Autumn",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610131,
+      "name": "Winter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610132,
+      "name": "Season",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610133,
+      "name": "Other Dimension",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610134,
+      "name": "Ocean",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610135,
+      "name": "Open Sky",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610136,
+      "name": "Safety First",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610137,
+      "name": "Good Morning",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610138,
+      "name": "Good Night",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610139,
+      "name": "Plentiful",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610140,
+      "name": "Cute",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610141,
+      "name": "Angry",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610142,
+      "name": "Past",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610143,
+      "name": "Autumn Rain",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610144,
+      "name": "Future",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610145,
+      "name": "Resolute",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610146,
+      "name": "Awakening",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610147,
+      "name": "Vigor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610148,
+      "name": "Challenge",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610149,
+      "name": "Fighting Spirit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610150,
+      "name": "Fervor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610151,
+      "name": "Persistence",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610152,
+      "name": "Hot",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610153,
+      "name": "Cold",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610154,
+      "name": "Blue",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610155,
+      "name": "Red",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610156,
+      "name": "White",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610157,
+      "name": "Pink",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610158,
+      "name": "Purple",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610159,
+      "name": "Jet Black",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610160,
+      "name": "Greenish-Yellow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610161,
+      "name": "Sushi",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610162,
+      "name": "Honey",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610163,
+      "name": "Vanilla",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610164,
+      "name": "Chicken",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610165,
+      "name": "Yakiniku",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610166,
+      "name": "Stamina",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610167,
+      "name": "Mint",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610168,
+      "name": "Green Tea",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610169,
+      "name": "Lime",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610170,
+      "name": "Teens",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610171,
+      "name": "20s",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610172,
+      "name": "30s",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610173,
+      "name": "Playful",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610174,
+      "name": "Blonde",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610175,
+      "name": "Black Hair",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610176,
+      "name": "Section Chief",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610177,
+      "name": "Kaiju",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610178,
+      "name": "Sprite",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610179,
+      "name": "Rabbit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610180,
+      "name": "Bear",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610181,
+      "name": "White Cat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610182,
+      "name": "Tiger",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610183,
+      "name": "Falcon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610184,
+      "name": "Drumstick",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610185,
+      "name": "Glasses",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610186,
+      "name": "Robo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610187,
+      "name": "Skirt",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610188,
+      "name": "Nails",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610189,
+      "name": "Self-Centered",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610190,
+      "name": "Sweets",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610191,
+      "name": "40s",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610192,
+      "name": "50s",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610193,
+      "name": "Forerunner",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610194,
+      "name": "High King",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610195,
+      "name": "Demon Lord",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610196,
+      "name": "Knee-Highs",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610197,
+      "name": "Sparkling",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610198,
+      "name": "Skinny",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610199,
+      "name": "Pitter Patter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610200,
+      "name": "Glitter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610201,
+      "name": "Cool",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610202,
+      "name": "Specter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610203,
+      "name": "Suntan",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610204,
+      "name": "Short Sleeves",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610205,
+      "name": "Wave",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610206,
+      "name": "Yukata",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610207,
+      "name": "Wind Chime",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610208,
+      "name": "Swimsuit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610209,
+      "name": "Watermelon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610210,
+      "name": "Seashore",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610211,
+      "name": "Sandy Beach",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610212,
+      "name": "Outdoors",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610213,
+      "name": "Summertime",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610214,
+      "name": "Heat Haze",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610215,
+      "name": "Sweltering Night",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610216,
+      "name": "Summer Vacation",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610217,
+      "name": "Midsummer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610218,
+      "name": "Blazing Sun",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610219,
+      "name": "Scorching Heat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610220,
+      "name": "Azure Sky",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610221,
+      "name": "That Summer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610222,
+      "name": "Pool",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610223,
+      "name": "Squid Tentacles",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610224,
+      "name": "Spicy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610225,
+      "name": "Chilled",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610226,
+      "name": "Winter Vacation",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610227,
+      "name": "Christmas Eve",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610228,
+      "name": "Santa",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610229,
+      "name": "Holy Night",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610230,
+      "name": "Merry",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610231,
+      "name": "Cleaning Time",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610232,
+      "name": "Year-End Event",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610233,
+      "name": "Happy New Year",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610234,
+      "name": "Year's End",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610235,
+      "name": "Next Year",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610236,
+      "name": "New Year",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610237,
+      "name": "New Year's Gift",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610238,
+      "name": "Osechi",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610239,
+      "name": "Home for the Holidays",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610240,
+      "name": "First Hit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610241,
+      "name": "First Sunrise",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610242,
+      "name": "First Play",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610243,
+      "name": "Hidden Talent",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610244,
+      "name": "Fortune",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610245,
+      "name": "Shrine Maiden",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610246,
+      "name": "Good Fortune",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610247,
+      "name": "Excellent Fortune",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610248,
+      "name": "Broadcast Blooper",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610249,
+      "name": "Don Awareness",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610250,
+      "name": "Cute",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610251,
+      "name": "Cool",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610252,
+      "name": "Afro",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610253,
+      "name": "Intellectual",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610254,
+      "name": "Huh?",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610255,
+      "name": "Tasty",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610256,
+      "name": "Feeling",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610257,
+      "name": "Illusion",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610258,
+      "name": "Twilight",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610259,
+      "name": "Double",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610260,
+      "name": "Real",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610261,
+      "name": "Sparkle",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610262,
+      "name": "High-Class",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610263,
+      "name": "Nowadays",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610264,
+      "name": "Focus",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610265,
+      "name": "Gale",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610266,
+      "name": "Dexterous",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610267,
+      "name": "Shin-Uchi",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610268,
+      "name": "Way of Life",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610269,
+      "name": "Large Serving",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610270,
+      "name": "Fever",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610271,
+      "name": "Nameless",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610272,
+      "name": "Empty",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610273,
+      "name": "Cool",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610274,
+      "name": "Eminent Figure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610275,
+      "name": "Extraterrestrial",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610276,
+      "name": "Hero",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610277,
+      "name": "Presenter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610278,
+      "name": "King",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610279,
+      "name": "Phantom Thief",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610280,
+      "name": "Man among Men",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610281,
+      "name": "Director",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610282,
+      "name": "Entertainer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610283,
+      "name": "Researcher",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610284,
+      "name": "Me",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610285,
+      "name": "Samurai",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610286,
+      "name": "Artisan",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610287,
+      "name": "Shogun",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610288,
+      "name": "Jester",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610289,
+      "name": "Father",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610290,
+      "name": "Mother",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610291,
+      "name": "I",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610292,
+      "name": "Detective",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610293,
+      "name": "Cafe",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610294,
+      "name": "Space",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610295,
+      "name": "Desert",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610296,
+      "name": "Countryside",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610297,
+      "name": "Two-Dimensional",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610298,
+      "name": "Three-Dimensional",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610299,
+      "name": "Yellow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610300,
+      "name": "Orange",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610301,
+      "name": "Green",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610302,
+      "name": "Crimson",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610303,
+      "name": "Azure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610304,
+      "name": "Drum-Colored",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610305,
+      "name": "Rainbow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610306,
+      "name": "Holiday",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610307,
+      "name": "Afternoon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610308,
+      "name": "Morning",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610309,
+      "name": "End",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610310,
+      "name": "Routine",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610311,
+      "name": "Curry",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610312,
+      "name": "Cookie",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610313,
+      "name": "Sauce",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610314,
+      "name": "Devil",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610315,
+      "name": "Spirit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610316,
+      "name": "Celestial Sphere",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610317,
+      "name": "Heaven",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610318,
+      "name": "Demon World",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610319,
+      "name": "Hope",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610320,
+      "name": "Expedition",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610321,
+      "name": "New Variety",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610322,
+      "name": "Magical Beast",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610323,
+      "name": "Ancient Dragon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610324,
+      "name": "Isekai",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610325,
+      "name": "Savior",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610326,
+      "name": "Stiff",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610327,
+      "name": "Aloha",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610328,
+      "name": "Day after Tomorrow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610329,
+      "name": "Empty Space",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610330,
+      "name": "Home",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610331,
+      "name": "Human Realm",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610332,
+      "name": "Sunset",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610333,
+      "name": "Musical Performance",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610334,
+      "name": "Chaos",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610335,
+      "name": "Founder",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610336,
+      "name": "Sharp",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610337,
+      "name": "Full Power",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610338,
+      "name": "Multidimensional",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610339,
+      "name": "Chance",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610340,
+      "name": "Crisis",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610341,
+      "name": "Flag",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610342,
+      "name": "Pen and Sword",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610343,
+      "name": "Laidback",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610344,
+      "name": "Motivated",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610345,
+      "name": "Hard Worker",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610346,
+      "name": "Mega",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610347,
+      "name": "Peach",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610348,
+      "name": "Carrot",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610349,
+      "name": "Cream",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610350,
+      "name": "Macaron",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610351,
+      "name": "Professor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610352,
+      "name": "Successor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610353,
+      "name": "Tradesman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610354,
+      "name": "Magistrate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610355,
+      "name": "Sacred Treasure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610356,
+      "name": "This Week",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610357,
+      "name": "Wasteland",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610358,
+      "name": "Dojo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610359,
+      "name": "Glory",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610360,
+      "name": "Legit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610361,
+      "name": "Reversal",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610362,
+      "name": "Twinkle",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610363,
+      "name": "Celebration",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610364,
+      "name": "Excited",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610365,
+      "name": "Anywhere",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610366,
+      "name": "Dream",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610367,
+      "name": "Waking",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610368,
+      "name": "Early Bird",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610369,
+      "name": "Infinite",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610370,
+      "name": "Expected",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610371,
+      "name": "Brave",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610372,
+      "name": "Friendship",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610373,
+      "name": "Thrilling",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610374,
+      "name": "Good Luck",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610375,
+      "name": "Determination",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610376,
+      "name": "Analysis",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610377,
+      "name": "Giga",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610378,
+      "name": "Tera",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610379,
+      "name": "Mandarin",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610380,
+      "name": "Gamer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610381,
+      "name": "Sommelier",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610382,
+      "name": "Animal",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610383,
+      "name": "Gods",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610384,
+      "name": "After School",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610385,
+      "name": "Mountain",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610386,
+      "name": "Staff Room",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610387,
+      "name": "Temple",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610388,
+      "name": "Frizzy Hair",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610389,
+      "name": "Spinning",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610390,
+      "name": "Love",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610391,
+      "name": "Before That",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610392,
+      "name": "Triple",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610393,
+      "name": "Rosy-Eyed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610394,
+      "name": "Perseverance",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610395,
+      "name": "Girl Power",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610396,
+      "name": "Half Price",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610397,
+      "name": "Scarlet",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610398,
+      "name": "Chocolate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610399,
+      "name": "Senpai",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610400,
+      "name": "Witch",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610401,
+      "name": "Fourth Dimension",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610402,
+      "name": "Earth",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610403,
+      "name": "Gymnasium",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610404,
+      "name": "Royal Palace",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610405,
+      "name": "Conversely",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610406,
+      "name": "Just Barely",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610407,
+      "name": "Private",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610408,
+      "name": "Left-Handed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610409,
+      "name": "Thick",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610410,
+      "name": "Flame",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610411,
+      "name": "Right-Handed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610412,
+      "name": "Braid",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610413,
+      "name": "In Short",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610414,
+      "name": "Street Racer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610415,
+      "name": "Magical Girl",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610416,
+      "name": "Emperor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610417,
+      "name": "Midnight Cherry Blossoms",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610418,
+      "name": "School",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610419,
+      "name": "Mid-Test",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610420,
+      "name": "Galaxy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610421,
+      "name": "Surface",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610422,
+      "name": "Cyber World",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610423,
+      "name": "Amusement Park",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610424,
+      "name": "Pollen Allergy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610425,
+      "name": "Adverse Situation",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610426,
+      "name": "Sleepy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610427,
+      "name": "Soft",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610428,
+      "name": "Leader",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610429,
+      "name": "Soul",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610430,
+      "name": "Impregnable",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610431,
+      "name": "Cat Ears",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610432,
+      "name": "Nurse's Office",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610433,
+      "name": "NEW",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610434,
+      "name": "Unrequited Love",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610435,
+      "name": "Movie Version",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610436,
+      "name": "Skit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610437,
+      "name": "Lovely",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610438,
+      "name": "End of the Century",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610439,
+      "name": "Adjacent",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610440,
+      "name": "Charge",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610441,
+      "name": "Class Representative",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610442,
+      "name": "Girls' Gathering",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610443,
+      "name": "Ninja",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610444,
+      "name": "Magician",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610445,
+      "name": "Ka",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610446,
+      "name": "Meat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610447,
+      "name": "Fish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610448,
+      "name": "Shorthand",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610449,
+      "name": "Comet",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610450,
+      "name": "Thin",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610451,
+      "name": "No Worries",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610452,
+      "name": "Dear",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610453,
+      "name": "Creation",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610454,
+      "name": "Charge!",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610455,
+      "name": "Dream",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610456,
+      "name": "Truth",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610457,
+      "name": "Heave-Ho",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610458,
+      "name": "Pro",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610459,
+      "name": "Islander",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610460,
+      "name": "Happy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610461,
+      "name": "Naniwa",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610462,
+      "name": "Satsuma",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610463,
+      "name": "Edo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610464,
+      "name": "Kaga",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610465,
+      "name": "Mutsu",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610466,
+      "name": "Owari",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610467,
+      "name": "Kii",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610468,
+      "name": "Higo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610469,
+      "name": "Chikuzen",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610470,
+      "name": "Aki",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610471,
+      "name": "Nagato",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610472,
+      "name": "Hizen",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610473,
+      "name": "Echizen",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610474,
+      "name": "Tosa",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610475,
+      "name": "Izumo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610476,
+      "name": "Sanuki",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610477,
+      "name": "Ise",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610478,
+      "name": "Ou",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610479,
+      "name": " wa ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610480,
+      "name": " ga ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610481,
+      "name": " na ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610482,
+      "name": " de ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610483,
+      "name": " to ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610484,
+      "name": " ni ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610485,
+      "name": " no ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610486,
+      "name": " mo ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610487,
+      "name": " wo ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610488,
+      "name": " do ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610489,
+      "name": " be ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610490,
+      "name": " Ka ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610491,
+      "name": " from ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610492,
+      "name": " to ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610493,
+      "name": " become ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610494,
+      "name": " from ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610495,
+      "name": " but ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610496,
+      "name": " type ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610497,
+      "name": " team ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610498,
+      "name": " THE ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610499,
+      "name": " the ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610500,
+      "name": " de ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610501,
+      "name": " is ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610502,
+      "name": " of ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610503,
+      "name": " or ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610504,
+      "name": "!",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610505,
+      "name": "?!",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610506,
+      "name": "&",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610507,
+      "name": "･",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610508,
+      "name": "=",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610509,
+      "name": "☆",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610510,
+      "name": "★",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610511,
+      "name": "♪",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610512,
+      "name": ",",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610513,
+      "name": ".",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610514,
+      "name": "/",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610515,
+      "name": "~",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610516,
+      "name": "=+",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610517,
+      "name": "×",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610518,
+      "name": "÷",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610519,
+      "name": "→",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610520,
+      "name": "←",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610521,
+      "name": "⇔",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610522,
+      "name": "*",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610523,
+      "name": " Love ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610524,
+      "name": " Hate ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610525,
+      "name": " da ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610526,
+      "name": " among ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610527,
+      "name": " love ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610528,
+      "name": " be ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610529,
+      "name": " is ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610530,
+      "name": "･da･",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610531,
+      "name": " in ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610532,
+      "name": " with ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610533,
+      "name": " rather ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610534,
+      "name": " so-called ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610535,
+      "name": " Conversely ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610536,
+      "name": " etc. ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610537,
+      "name": " as well as ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610538,
+      "name": " in other words ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610539,
+      "name": " nonetheless ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610540,
+      "name": " not ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610541,
+      "name": "2x Speed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610542,
+      "name": "3x Speed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610543,
+      "name": "4x Speed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610544,
+      "name": "Vanish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610545,
+      "name": "Inverse",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610546,
+      "name": "Capricious",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610547,
+      "name": "Haphazard",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610548,
+      "name": "Clear",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610549,
+      "name": "Score",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610550,
+      "name": "GOOD",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610551,
+      "name": "Drum Roll",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610552,
+      "name": "Mecha-Katsu",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610553,
+      "name": "Mecha-DON",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610554,
+      "name": "Donder",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610555,
+      "name": "Beginner",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610556,
+      "name": "Veteran",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610557,
+      "name": "Professional",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610558,
+      "name": "Iron Man",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610559,
+      "name": "Expert",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610560,
+      "name": "Master",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610561,
+      "name": "Superhuman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610562,
+      "name": "Warrior",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610563,
+      "name": "Friend",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610564,
+      "name": "Drumstick User",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610565,
+      "name": "Hero",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610566,
+      "name": "Hero",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610567,
+      "name": "Prince",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610568,
+      "name": "Gentleman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610569,
+      "name": "My Master",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610570,
+      "name": "Heroine",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610571,
+      "name": "Princess",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610572,
+      "name": "Lady",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610573,
+      "name": "Novice",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610574,
+      "name": "Trainee",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610575,
+      "name": "Challenger",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610576,
+      "name": "Disciple",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610577,
+      "name": "Qualified",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610578,
+      "name": "Virtuoso",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610579,
+      "name": "Together",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610580,
+      "name": "Festival",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610581,
+      "name": "Youth",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610582,
+      "name": "Comrade",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610583,
+      "name": "Herbivore",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610584,
+      "name": "Carnivore",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610585,
+      "name": "Liberal Arts",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610586,
+      "name": "Science and Math",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610587,
+      "name": "Recruiting",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610588,
+      "name": "Technique",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610589,
+      "name": "Intellectual",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610590,
+      "name": "Physical",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610591,
+      "name": "Stylish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610592,
+      "name": "Gold",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610593,
+      "name": "Silver",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610594,
+      "name": "Purple",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610595,
+      "name": "Black",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610596,
+      "name": "Blue",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610597,
+      "name": "White",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610598,
+      "name": "Red",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610599,
+      "name": "Dog",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610600,
+      "name": "Wolf",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610601,
+      "name": "Cat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610602,
+      "name": "Lion",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610603,
+      "name": "Other World",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610604,
+      "name": "Local",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610605,
+      "name": "World",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610606,
+      "name": "Drum Land",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610607,
+      "name": "Drum University",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610608,
+      "name": "Today",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610609,
+      "name": "Tomorrow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610610,
+      "name": "Yesterday",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610611,
+      "name": "Every Day",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610612,
+      "name": "Katsudon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610613,
+      "name": "Rice",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610614,
+      "name": "Egg",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610615,
+      "name": "Dragon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610616,
+      "name": 2000,
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610617,
+      "name": "People",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610618,
+      "name": "Crowd",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610619,
+      "name": "Idol",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610620,
+      "name": "God",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610621,
+      "name": "Super",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610622,
+      "name": "Gorilla",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610623,
+      "name": "Weekend",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610624,
+      "name": "Imp",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610625,
+      "name": "Huge Success",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610626,
+      "name": "Best",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610627,
+      "name": "Ruler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610628,
+      "name": "Resident",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610629,
+      "name": "Tehe, My Bad",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610630,
+      "name": "Skilled",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610631,
+      "name": "Paw Pad",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610632,
+      "name": "Wild",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610633,
+      "name": "Diva",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610634,
+      "name": "Angel",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610635,
+      "name": "Enthusiast",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610636,
+      "name": "Master",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610637,
+      "name": "Rose",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610638,
+      "name": "Noblewoman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610639,
+      "name": "Scion",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610640,
+      "name": "Peerless",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610641,
+      "name": "Surprised",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610642,
+      "name": "Young Girl",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610643,
+      "name": "Young Boy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610644,
+      "name": "Da",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610645,
+      "name": "Behind",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610646,
+      "name": "Darkness",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610647,
+      "name": "Last Theorem",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610648,
+      "name": "Now",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610649,
+      "name": "Self-Proclaimed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610650,
+      "name": "Legend",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610651,
+      "name": "Gold",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610652,
+      "name": "Eternity",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610653,
+      "name": "Challenger",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610654,
+      "name": "Supreme",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610655,
+      "name": "Chaotic",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610656,
+      "name": "Drum Soldier",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610657,
+      "name": "Dance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610658,
+      "name": "Tatsu-DON",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610659,
+      "name": "Tsundere",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610660,
+      "name": "Dislocation",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610661,
+      "name": "King Trumpet Mushroom",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610662,
+      "name": "Opposite",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610663,
+      "name": "Pioneer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610664,
+      "name": "Traveler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610665,
+      "name": "Boss",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610666,
+      "name": "Skilled",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610667,
+      "name": "Conqueror",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610668,
+      "name": "History",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610669,
+      "name": "Engraver",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610670,
+      "name": "War",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610671,
+      "name": "Huge Lead",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610672,
+      "name": "I Love You",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610673,
+      "name": "Season to Season",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610674,
+      "name": "Four Seasons",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610675,
+      "name": "Instant",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610676,
+      "name": "Dokodon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610677,
+      "name": "Don",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610678,
+      "name": "Drum Team",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610679,
+      "name": "Super-Dimensional",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610680,
+      "name": "Reason",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610681,
+      "name": "Complete Performance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610682,
+      "name": "Victory",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610683,
+      "name": "Don Friend",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610684,
+      "name": "Battle-Hardened",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610685,
+      "name": "Victor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610686,
+      "name": "Invincible",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610687,
+      "name": "Ascending",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610688,
+      "name": "Undefeated",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610689,
+      "name": "Matchless",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610690,
+      "name": "Unrivaled!",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610691,
+      "name": "Defense",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610692,
+      "name": "Participating!",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610693,
+      "name": "Rival",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610694,
+      "name": "Young",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610695,
+      "name": "Everyone",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610696,
+      "name": "True Dragon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610697,
+      "name": "Fish Stick",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610698,
+      "name": "Ramen",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610699,
+      "name": "†",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610700,
+      "name": "Fallen Angel",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610701,
+      "name": "Boys",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610702,
+      "name": "Hyperspace",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610703,
+      "name": "Light Element",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610704,
+      "name": "What?!",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610705,
+      "name": "Sunflower",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610706,
+      "name": "Spring",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610707,
+      "name": "Summer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610708,
+      "name": "Autumn",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610709,
+      "name": "Winter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610710,
+      "name": "Season",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610711,
+      "name": "Blue Sky",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610712,
+      "name": "Other Dimension",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610713,
+      "name": "Ocean",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610714,
+      "name": "Open Sky",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610715,
+      "name": "Castle",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610716,
+      "name": "Safety First",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610717,
+      "name": "Anytime",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610718,
+      "name": "Good Morning",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610719,
+      "name": "Good Night",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610720,
+      "name": "Plentiful",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610721,
+      "name": "Cute",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610722,
+      "name": "Angry",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610723,
+      "name": "Past",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610724,
+      "name": "Autumn Rain",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610725,
+      "name": "Future",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610726,
+      "name": "Resolute",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610727,
+      "name": "Awakening",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610728,
+      "name": "Vigor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610729,
+      "name": "Challenge",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610730,
+      "name": "Fighting Spirit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610731,
+      "name": "Fervor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610732,
+      "name": "Persistence",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610733,
+      "name": "Great Adventure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610734,
+      "name": "Hot",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610735,
+      "name": "Cold",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610736,
+      "name": "Blue",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610737,
+      "name": "Red",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610738,
+      "name": "White",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610739,
+      "name": "Pink",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610740,
+      "name": "Purple",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610741,
+      "name": "Jet Black",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610742,
+      "name": "Greenish-Yellow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610743,
+      "name": "Sushi",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610744,
+      "name": "Honey",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610745,
+      "name": "Vanilla",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610746,
+      "name": "Chicken",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610747,
+      "name": "Yakiniku",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610748,
+      "name": "Stamina",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610749,
+      "name": "Mint",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610750,
+      "name": "Green Tea",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610751,
+      "name": "Lime",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610752,
+      "name": "Teens",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610753,
+      "name": "20s",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610754,
+      "name": "30s",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610755,
+      "name": "Single Member",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610756,
+      "name": "Playful",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610757,
+      "name": "Beginner",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610758,
+      "name": "Adventurer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610759,
+      "name": "Knight",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610760,
+      "name": "Kind",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610761,
+      "name": "Blonde",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610762,
+      "name": "Black Hair",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610763,
+      "name": "Section Chief",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610764,
+      "name": "Kaiju",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610765,
+      "name": "Sprite",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610766,
+      "name": "Rabbit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610767,
+      "name": "Bear",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610768,
+      "name": "White Cat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610769,
+      "name": "Tiger",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610770,
+      "name": "Falcon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610771,
+      "name": "Drumstick",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610772,
+      "name": "Glasses",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610773,
+      "name": "Robo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610774,
+      "name": "Skirt",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610775,
+      "name": "Nails",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610776,
+      "name": "Self-Centered",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610777,
+      "name": "Sweets",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610778,
+      "name": "40s",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610779,
+      "name": "50s",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610780,
+      "name": "Forerunner",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610781,
+      "name": "Recruit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610782,
+      "name": "Meddler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610783,
+      "name": "High King",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610784,
+      "name": "Demon Lord",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610785,
+      "name": "Knee-Highs",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610786,
+      "name": "Sparkling",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610787,
+      "name": "Skinny",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610788,
+      "name": "Pitter Patter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610789,
+      "name": "Glitter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610790,
+      "name": "Cool",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610791,
+      "name": "Specter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610792,
+      "name": "Ghost Story",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610793,
+      "name": "Suntan",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610794,
+      "name": "Short Sleeves",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610795,
+      "name": "Wave",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610796,
+      "name": "Yukata",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610797,
+      "name": "Wind Chime",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610798,
+      "name": "Swimsuit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610799,
+      "name": "Watermelon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610800,
+      "name": "Seashore",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610801,
+      "name": "Sandy Beach",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610802,
+      "name": "Outdoors",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610803,
+      "name": "Summertime",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610804,
+      "name": "Cicada Chorus",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610805,
+      "name": "Heat Haze",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610806,
+      "name": "Sweltering Night",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610807,
+      "name": "Summer Vacation",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610808,
+      "name": "Midsummer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610809,
+      "name": "Blazing Sun",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610810,
+      "name": "Certain Summer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610811,
+      "name": "Scorching Heat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610812,
+      "name": "Azure Sky",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610813,
+      "name": "That Summer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610814,
+      "name": "Observation Diary",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610815,
+      "name": "Independent Research",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610816,
+      "name": "Homework",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610817,
+      "name": "Worksheet",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610818,
+      "name": "Pool",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610819,
+      "name": "Festival",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610820,
+      "name": "Fireworks",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610821,
+      "name": "Training Camp",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610822,
+      "name": "Temple Festival",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610823,
+      "name": "Camp",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610824,
+      "name": "Shaved Ice",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610825,
+      "name": "Barley Tea",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610826,
+      "name": "Rhinoceros Beetle",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610827,
+      "name": "Cicada",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610828,
+      "name": "Jellyfish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610829,
+      "name": "Cuttlefish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610830,
+      "name": "Starfish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610831,
+      "name": "Squid Tentacles",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610832,
+      "name": "Cotton Candy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610833,
+      "name": "Spicy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610834,
+      "name": "Chilled",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610835,
+      "name": "Mosquito",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610836,
+      "name": "Winter Vacation",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610837,
+      "name": "Christmas Eve",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610838,
+      "name": "Santa",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610839,
+      "name": "Holy Night",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610840,
+      "name": "Merry",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610841,
+      "name": "Cleaning Time",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610842,
+      "name": "The End",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610843,
+      "name": "Year-End Event",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610844,
+      "name": "Happy New Year",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610845,
+      "name": "Year's End",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610846,
+      "name": "Next Year",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610847,
+      "name": "New Year",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610848,
+      "name": "New Year's Gift",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610849,
+      "name": "Osechi",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610850,
+      "name": "Home for the Holidays",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610851,
+      "name": "First Hit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610852,
+      "name": "First Sunrise",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610853,
+      "name": "First Play",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610854,
+      "name": "Hidden Talent",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610855,
+      "name": "Fortune",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610856,
+      "name": "Seven Lucky Gods",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610857,
+      "name": "Kite",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610858,
+      "name": "Shrine Maiden",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610859,
+      "name": "Good Fortune",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610860,
+      "name": "Slight Fortune",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610861,
+      "name": "Excellent Fortune",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610862,
+      "name": "Moderate Fortune",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610863,
+      "name": "Broadcast Blooper",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610864,
+      "name": "Don Awareness",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610865,
+      "name": "Cute",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610866,
+      "name": "Cool",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610867,
+      "name": "Attack",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610868,
+      "name": "Afro",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610869,
+      "name": "Intellectual",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610870,
+      "name": "Huh?",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610871,
+      "name": "Tasty",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610872,
+      "name": "Feeling",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610873,
+      "name": "Illusion",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610874,
+      "name": "Time",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610875,
+      "name": "Twilight",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610876,
+      "name": "Double",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610877,
+      "name": "Real",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610878,
+      "name": "Will",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610879,
+      "name": "Sparkle",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610880,
+      "name": "High-Class",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610881,
+      "name": "Nowadays",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610882,
+      "name": "Focus",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610883,
+      "name": "Gale",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610884,
+      "name": "Dexterous",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610885,
+      "name": "Shin-Uchi",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610886,
+      "name": "Way of Life",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610887,
+      "name": "Large Serving",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610888,
+      "name": "Fever",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610889,
+      "name": "Nameless",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610890,
+      "name": "Empty",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610891,
+      "name": "Cool",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610892,
+      "name": "People",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610893,
+      "name": "Fan",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610894,
+      "name": "Eminent Figure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610895,
+      "name": "Extraterrestrial",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610896,
+      "name": "Hero",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610897,
+      "name": "Presenter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610898,
+      "name": "King",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610899,
+      "name": "Phantom Thief",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610900,
+      "name": "Man among Men",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610901,
+      "name": "Director",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610902,
+      "name": "Entertainer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610903,
+      "name": "Researcher",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610904,
+      "name": "Me",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610905,
+      "name": "Samurai",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610906,
+      "name": "Artisan",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610907,
+      "name": "Shogun",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610908,
+      "name": "Heaven-Sent Child",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610909,
+      "name": "Jester",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610910,
+      "name": "Father",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610911,
+      "name": "Mother",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610912,
+      "name": "I",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610913,
+      "name": "Detective",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610914,
+      "name": "Cafe",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610915,
+      "name": "City",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610916,
+      "name": "Space",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610917,
+      "name": "Kingdom",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610918,
+      "name": "Research Institute",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610919,
+      "name": "Desert",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610920,
+      "name": "Countryside",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610921,
+      "name": "Two-Dimensional",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610922,
+      "name": "Three-Dimensional",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610923,
+      "name": "Yellow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610924,
+      "name": "Orange",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610925,
+      "name": "Green",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610926,
+      "name": "Crimson",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610927,
+      "name": "Azure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610928,
+      "name": "Drum-Colored",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610929,
+      "name": "Rainbow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610930,
+      "name": "Holiday",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610931,
+      "name": "Afternoon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610932,
+      "name": "Morning",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610933,
+      "name": "End",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610934,
+      "name": "Routine",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610935,
+      "name": "OYA2",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610936,
+      "name": "Curry",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610937,
+      "name": "Cookie",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610938,
+      "name": "Sauce",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610939,
+      "name": "Devil",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610940,
+      "name": "Spirit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610941,
+      "name": "Celestial Sphere",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610942,
+      "name": "Heaven",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610943,
+      "name": "Demon World",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610944,
+      "name": "Bird",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610945,
+      "name": "Monkey",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610946,
+      "name": "Puppy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610947,
+      "name": "Swan",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610948,
+      "name": "Ruby",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610949,
+      "name": "Railroad",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610950,
+      "name": "lol",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610951,
+      "name": "Firelord",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610952,
+      "name": "Hope",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610953,
+      "name": "Association",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610954,
+      "name": "Expedition",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610955,
+      "name": "Survey",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610956,
+      "name": "Trial",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610957,
+      "name": "New Variety",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610958,
+      "name": "Large Beast",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610959,
+      "name": "Magical Beast",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610960,
+      "name": "Ancient Dragon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610961,
+      "name": "Isekai",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610962,
+      "name": "Savior",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610963,
+      "name": "That it is",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610964,
+      "name": "Yeah",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610965,
+      "name": "Dunno",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610966,
+      "name": "Stiff",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610967,
+      "name": "Bon Festival Dance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610968,
+      "name": "Ghost Stories",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610969,
+      "name": "Somen",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610970,
+      "name": "Hot",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610971,
+      "name": "Ice-Cold",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610972,
+      "name": "Scorching",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610973,
+      "name": "Aloha",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610974,
+      "name": "Day after Tomorrow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610975,
+      "name": "Empty Space",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610976,
+      "name": "Home",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610977,
+      "name": "Stage",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610978,
+      "name": "Human Realm",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610979,
+      "name": "Sunset",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610980,
+      "name": "Daybreak",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610981,
+      "name": "Musical Performance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610982,
+      "name": "Chaos",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610983,
+      "name": "Applause",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610984,
+      "name": "Founder",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610985,
+      "name": "Resolution",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610986,
+      "name": "Course",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610987,
+      "name": "Sharp",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610988,
+      "name": "Full Power",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610989,
+      "name": "First Step",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610990,
+      "name": "Multidimensional",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610991,
+      "name": "Chance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610992,
+      "name": "Early Bedtime",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610993,
+      "name": "Crisis",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610994,
+      "name": "Flag",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610995,
+      "name": "Pen and Sword",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610996,
+      "name": "Laidback",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610997,
+      "name": "Speed Up",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610998,
+      "name": "Motivated",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610999,
+      "name": "Special Training",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611000,
+      "name": "Hard Worker",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611001,
+      "name": "Mega",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611002,
+      "name": "Peach",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611003,
+      "name": "Juice",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611004,
+      "name": "Carrot",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611005,
+      "name": "Cream",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611006,
+      "name": "Macaron",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611007,
+      "name": "Professor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611008,
+      "name": "Successor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611009,
+      "name": "Assistant Instructor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611010,
+      "name": "Tradesman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611011,
+      "name": "Magistrate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611012,
+      "name": "Yamato",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611013,
+      "name": "Sacred Treasure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611014,
+      "name": "Orochi",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611015,
+      "name": "This Week",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611016,
+      "name": "Rooftop",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611017,
+      "name": "Wasteland",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611018,
+      "name": "Dojo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611019,
+      "name": "Theatre Stage",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611020,
+      "name": "Parallel Universe",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611021,
+      "name": "Dawn",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611022,
+      "name": "Glory",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611023,
+      "name": "Legit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611024,
+      "name": "Reversal",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611025,
+      "name": "Twinkle",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611026,
+      "name": "Update",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611027,
+      "name": "Celebration",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611028,
+      "name": "Half-Baked",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611029,
+      "name": "Excited",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611030,
+      "name": "Anywhere",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611031,
+      "name": "Dream",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611032,
+      "name": "Waking",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611033,
+      "name": "Early Bird",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611034,
+      "name": "Fine Weather",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611035,
+      "name": "Infinite",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611036,
+      "name": "Expected",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611037,
+      "name": "Brave",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611038,
+      "name": "Friendship",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611039,
+      "name": "Thrilling",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611040,
+      "name": "Good Luck",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611041,
+      "name": "Determination",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611042,
+      "name": "Analysis",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611043,
+      "name": "Makeup",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611044,
+      "name": "Giga",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611045,
+      "name": "Tera",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611046,
+      "name": "Yellow",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611047,
+      "name": "Green",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611048,
+      "name": "Sugar",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611049,
+      "name": "Mandarin",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611050,
+      "name": "Gamer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611051,
+      "name": "Coach",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611052,
+      "name": "Assistant",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611053,
+      "name": "Sommelier",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611054,
+      "name": "Professor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611055,
+      "name": "Machine",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611056,
+      "name": "Animal",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611057,
+      "name": "Gods",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611058,
+      "name": "Myriad",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611059,
+      "name": "Clay Figure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611060,
+      "name": "Bouquet",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611061,
+      "name": "Four Seasons",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611062,
+      "name": "After School",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611063,
+      "name": "Mars",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611064,
+      "name": "Mountain",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611065,
+      "name": "Staff Room",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611066,
+      "name": "Temple",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611067,
+      "name": "Frizzy Hair",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611068,
+      "name": "Spinning",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611069,
+      "name": "Love",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611070,
+      "name": "Before That",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611071,
+      "name": "Triple",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611072,
+      "name": "Dance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611073,
+      "name": "Rosy-Eyed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611074,
+      "name": "Perseverance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611075,
+      "name": "Girl Power",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611076,
+      "name": "Half Price",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611077,
+      "name": "Scarlet",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611078,
+      "name": "Chocolate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611079,
+      "name": "Senpai",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611080,
+      "name": "Witch",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611081,
+      "name": "Morning Assembly",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611082,
+      "name": "Fourth Dimension",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611083,
+      "name": "River",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611084,
+      "name": "Earth",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611085,
+      "name": "Gymnasium",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611086,
+      "name": "Royal Palace",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611087,
+      "name": "Conversely",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611088,
+      "name": "Just Barely",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611089,
+      "name": "Left-Handed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611090,
+      "name": "Thick",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611091,
+      "name": "Flame",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611092,
+      "name": "Right-Handed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611093,
+      "name": "Braid",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611094,
+      "name": "Go Easy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611095,
+      "name": "Tardy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611096,
+      "name": "Street Racer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611097,
+      "name": "Magical Girl",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611098,
+      "name": "Emperor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611099,
+      "name": "Blog",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611100,
+      "name": "Midnight Cherry Blossoms",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611101,
+      "name": "School",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611102,
+      "name": "Mid-Test",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611103,
+      "name": "Galaxy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611104,
+      "name": "Surface",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611105,
+      "name": "Cyber World",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611106,
+      "name": "Amusement Park",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611107,
+      "name": "Pollen Allergy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611108,
+      "name": "Adverse Situation",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611109,
+      "name": "Heavy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611110,
+      "name": "All-Included",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611111,
+      "name": "Sleepy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611112,
+      "name": "Vigorous",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611113,
+      "name": "Hint",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611114,
+      "name": "Alarm Clock",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611115,
+      "name": "Soft",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611116,
+      "name": "Leader",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611117,
+      "name": "Soul",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611118,
+      "name": "Impregnable",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611119,
+      "name": "Cat Ears",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611120,
+      "name": "Teacher",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611121,
+      "name": "Monarch",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611122,
+      "name": "School Trip",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611123,
+      "name": "Factory",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611124,
+      "name": "Sky",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611125,
+      "name": "Shangri-La",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611126,
+      "name": "Nurse's Office",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611127,
+      "name": "NEW",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611128,
+      "name": "Unrequited Love",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611129,
+      "name": "Movie Version",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611130,
+      "name": "Skit",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611131,
+      "name": "Lovely",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611132,
+      "name": "End of the Century",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611133,
+      "name": "Adjacent",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611134,
+      "name": "Party",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611135,
+      "name": "Brushing Teeth",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611136,
+      "name": "Round",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611137,
+      "name": "Boisterous Dance",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611138,
+      "name": "Retro",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611139,
+      "name": "Charge",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611140,
+      "name": "Class Representative",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611141,
+      "name": "Girls' Gathering",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611142,
+      "name": "Ninja",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611143,
+      "name": "Magician",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611144,
+      "name": "Man",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611145,
+      "name": "Woman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611146,
+      "name": "Star",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611147,
+      "name": "DON!",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611148,
+      "name": "Ka?",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611149,
+      "name": "Festival",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611150,
+      "name": "Fest",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611151,
+      "name": "Demon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611152,
+      "name": "Skull",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611153,
+      "name": "Airheaded",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611154,
+      "name": "Lead Player",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611155,
+      "name": "Cat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611156,
+      "name": "Duck",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611157,
+      "name": "Fried Noodles",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611158,
+      "name": "Old Man",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611159,
+      "name": "Old Woman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611160,
+      "name": "Men's",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611161,
+      "name": "Women's",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611162,
+      "name": "Elder Brother",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611163,
+      "name": "Younger Brother",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611164,
+      "name": "Adventure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611165,
+      "name": "Dragon",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611166,
+      "name": "Mad Dog",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611167,
+      "name": "Charisma",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611168,
+      "name": "Drum Girl",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611169,
+      "name": "Muscle",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611170,
+      "name": "Detective Team",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611171,
+      "name": "Full Contact",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611172,
+      "name": "Otaku",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611173,
+      "name": "Ghost",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611174,
+      "name": "Company President",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611175,
+      "name": "Cook",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611176,
+      "name": "Treasure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611177,
+      "name": "Genius",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611178,
+      "name": "Seafood",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611179,
+      "name": "Meat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611180,
+      "name": "Chicken",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611181,
+      "name": "Phoenix",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611182,
+      "name": "Famous Store",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611183,
+      "name": "LAN",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611184,
+      "name": "Young Lady",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611185,
+      "name": "Grass",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611186,
+      "name": "Slight Fortune",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611187,
+      "name": "Moderate Fortune",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611188,
+      "name": "Hot",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611189,
+      "name": "Attack",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611190,
+      "name": "Duck",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611191,
+      "name": "Inverse",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611192,
+      "name": "Together",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611193,
+      "name": "Anytime",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611194,
+      "name": "King Trumpet Mushroom",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611195,
+      "name": "Otaku",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611196,
+      "name": "OYA2",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611197,
+      "name": "Orochi",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611198,
+      "name": "Young Lady",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611199,
+      "name": "Women's",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611200,
+      "name": "Shaved Ice",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611201,
+      "name": "Ka?",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611202,
+      "name": "Rhinoceros Beetle",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611203,
+      "name": "Charisma",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611204,
+      "name": "Capricious",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611205,
+      "name": "Camp",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611206,
+      "name": "Ice-Cold",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611207,
+      "name": "Clear",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611208,
+      "name": "Course",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611209,
+      "name": "Ghost",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611210,
+      "name": "Coach",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611211,
+      "name": "3x Speed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611212,
+      "name": "City",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611213,
+      "name": "Juice",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611214,
+      "name": "Sugar",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611215,
+      "name": "Scorching",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611216,
+      "name": "Score",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611217,
+      "name": "Stage",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611218,
+      "name": "Cicada",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611219,
+      "name": "Somen",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611220,
+      "name": "Time",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611221,
+      "name": "Haphazard",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611222,
+      "name": "Certain Summer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611223,
+      "name": "Skull",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611224,
+      "name": "Worksheet",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611225,
+      "name": "Vanish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611226,
+      "name": "DON!",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611227,
+      "name": "Don Friend",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611228,
+      "name": "Now",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611229,
+      "name": "Cat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611230,
+      "name": "Party",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611231,
+      "name": "Bird",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611232,
+      "name": "2x Speed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611233,
+      "name": "Airheaded",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611234,
+      "name": "Vigorous",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611235,
+      "name": "Beginner",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611236,
+      "name": "Hint",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611237,
+      "name": "Fan",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611238,
+      "name": "Fest",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611239,
+      "name": "Full Contact",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611240,
+      "name": "Blog",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611241,
+      "name": "Veteran",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611242,
+      "name": "Machine",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611243,
+      "name": "Muscle",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611244,
+      "name": "Enthusiast",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611245,
+      "name": "Makeup",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611246,
+      "name": "Mecha-Katsu",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611247,
+      "name": "Mecha-DON",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611248,
+      "name": "Alarm Clock",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611249,
+      "name": "Men's",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611250,
+      "name": "Fried Noodles",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611251,
+      "name": "Kind",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611252,
+      "name": "Yamato",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611253,
+      "name": "Young",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611254,
+      "name": "4x Speed",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611255,
+      "name": "Rival",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611256,
+      "name": "Ruby",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611257,
+      "name": "Retro",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611258,
+      "name": "Cotton Candy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611259,
+      "name": "Demon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611260,
+      "name": "Will",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611261,
+      "name": "Monkey",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611262,
+      "name": "Temple Festival",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611263,
+      "name": "Kingdom",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611264,
+      "name": "Monarch",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611265,
+      "name": "Yellow",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611266,
+      "name": "Rooftop",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611267,
+      "name": "Speed Up",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611268,
+      "name": "Firelord",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611269,
+      "name": "Mars",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611270,
+      "name": "Fireworks",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611271,
+      "name": "Bouquet",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611272,
+      "name": "Mosquito",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611273,
+      "name": "Ghost Story",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611274,
+      "name": "Jellyfish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611275,
+      "name": "Starfish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611276,
+      "name": "Seafood",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611277,
+      "name": "Applause",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611278,
+      "name": "Complete Performance",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611279,
+      "name": "Meddler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611280,
+      "name": "Observation Diary",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611281,
+      "name": "Round",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611282,
+      "name": "Scion",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611283,
+      "name": "Noblewoman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611284,
+      "name": "Knight",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611285,
+      "name": "Large Beast",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611286,
+      "name": "Association",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611287,
+      "name": "Mad Dog",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611288,
+      "name": "Daybreak",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611289,
+      "name": "Elder Brother",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611290,
+      "name": "Chicken",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611291,
+      "name": "Resolution",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611292,
+      "name": "Research Institute",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611293,
+      "name": "Professional",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611294,
+      "name": "Factory",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611295,
+      "name": "Update",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611296,
+      "name": "Training Camp",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611297,
+      "name": "Engraver",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611298,
+      "name": "Festival",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611299,
+      "name": "Festival",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611300,
+      "name": "Participating!",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611301,
+      "name": "Four Seasons",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611302,
+      "name": "Puppy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611303,
+      "name": "Assistant Instructor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611304,
+      "name": "Trial",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611305,
+      "name": "Brushing Teeth",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611306,
+      "name": "Independent Research",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611307,
+      "name": "Seven Lucky Gods",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611308,
+      "name": "Company President",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611309,
+      "name": "Go Easy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611310,
+      "name": "School Trip",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611311,
+      "name": "Resident",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611312,
+      "name": "Homework",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611313,
+      "name": "Beginner",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611314,
+      "name": "Assistant",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611315,
+      "name": "Woman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611316,
+      "name": "Castle",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611317,
+      "name": "Star",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611318,
+      "name": "Blue Sky",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611319,
+      "name": "Cicada Chorus",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611320,
+      "name": "Teacher",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611321,
+      "name": "River",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611322,
+      "name": "Warrior",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611323,
+      "name": "War",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611324,
+      "name": "All-Included",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611325,
+      "name": "Early Bedtime",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611326,
+      "name": "Grass",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611327,
+      "name": "Drum Girl",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611328,
+      "name": "Lead Player",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611329,
+      "name": "Huge Success",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611330,
+      "name": "Crowd",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611331,
+      "name": "Great Adventure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611332,
+      "name": "Kite",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611333,
+      "name": "Recruit",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611334,
+      "name": "Detective Team",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611335,
+      "name": "Man",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611336,
+      "name": "Tardy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611337,
+      "name": "Half-Baked",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611338,
+      "name": "Comrade",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611339,
+      "name": "Morning Assembly",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611340,
+      "name": "Survey",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611341,
+      "name": "Superhuman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611342,
+      "name": "Cuttlefish",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611343,
+      "name": "Younger Brother",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611344,
+      "name": "Iron Man",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611345,
+      "name": "Railroad",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611346,
+      "name": "Sky",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611347,
+      "name": "Genius",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611348,
+      "name": "Clay Figure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611349,
+      "name": "Shangri-La",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611350,
+      "name": "Skilled",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611351,
+      "name": "Special Training",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611352,
+      "name": "Meat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611353,
+      "name": "Fine Weather",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611354,
+      "name": "Heavy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611355,
+      "name": "The End",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611356,
+      "name": "Old Woman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611357,
+      "name": "Professor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611358,
+      "name": "Swan",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611359,
+      "name": "Barley Tea",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611360,
+      "name": "Myriad",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611361,
+      "name": "Ghost Stories",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611362,
+      "name": "Phoenix",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611363,
+      "name": "Theatre Stage",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611364,
+      "name": "Parallel Universe",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611365,
+      "name": "Treasure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611366,
+      "name": "Adventure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611367,
+      "name": "Adventurer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611368,
+      "name": "Defense",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611369,
+      "name": "Bon Festival Dance",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611370,
+      "name": "Expert",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611371,
+      "name": "Famous Store",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611372,
+      "name": "Disciple",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611373,
+      "name": "Dawn",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611374,
+      "name": "Old Man",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611375,
+      "name": "Opposite",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611376,
+      "name": "Dragon",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611377,
+      "name": "Cook",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611378,
+      "name": "GOOD",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611379,
+      "name": "Green",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611380,
+      "name": "Drum Roll",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611381,
+      "name": "Fish",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611382,
+      "name": "Meat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611383,
+      "name": "Ka",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611384,
+      "name": "Thin",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611385,
+      "name": "Heave-Ho",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611386,
+      "name": "No Worries",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611387,
+      "name": "Naniwa",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611388,
+      "name": "Happy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611389,
+      "name": "Pro",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611390,
+      "name": "Aki",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611391,
+      "name": "Ise",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611392,
+      "name": "Echizen",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611393,
+      "name": "Ou",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611394,
+      "name": "Speed of Sound",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611395,
+      "name": "Kaga",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611396,
+      "name": "Charge!",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611397,
+      "name": "Kii",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611398,
+      "name": "Speed of Light",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611399,
+      "name": "Edo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611400,
+      "name": "Satsuma",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611401,
+      "name": "Sanuki",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611402,
+      "name": "Izumo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611403,
+      "name": "Mind's Eye",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611404,
+      "name": "Divine Speed",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611405,
+      "name": "Shorthand",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611406,
+      "name": "Creation",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611407,
+      "name": "Chikuzen",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611408,
+      "name": "Nagato",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611409,
+      "name": "Tosa",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611410,
+      "name": "Islander",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611411,
+      "name": "Higo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611412,
+      "name": "Hizen",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611413,
+      "name": "Owari",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611414,
+      "name": "Dream",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611415,
+      "name": "Mutsu",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611416,
+      "name": "Comet",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611417,
+      "name": "Tough Guy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611418,
+      "name": "Refined",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611419,
+      "name": "King",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611420,
+      "name": "Beauty",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611421,
+      "name": "Child",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611422,
+      "name": "Adult",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611423,
+      "name": "Strong",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611424,
+      "name": "Friendly",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611425,
+      "name": "Goddess",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611426,
+      "name": "Wild Beast",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611427,
+      "name": "Strongest",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611428,
+      "name": "Crazy Dude",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611429,
+      "name": "Nice Guy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611430,
+      "name": "Precious",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611431,
+      "name": "Pretty",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611432,
+      "name": "Perfect",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611433,
+      "name": "Dangerous",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611434,
+      "name": "Unexpected",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611435,
+      "name": "Heavy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611436,
+      "name": "Warm",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611437,
+      "name": "Sour",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611438,
+      "name": "Delicious",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611439,
+      "name": "Adored",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611440,
+      "name": "Caution",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611441,
+      "name": "Undefeated",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611442,
+      "name": "Mysterious",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611443,
+      "name": "Gigantic",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611444,
+      "name": "Largest",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611445,
+      "name": "Smallest",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611446,
+      "name": "Lucky",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611447,
+      "name": "Rock",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611448,
+      "name": "Pop",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611449,
+      "name": "Top",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611450,
+      "name": "World's Best",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611451,
+      "name": "Rhythm",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611452,
+      "name": "Connect",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611453,
+      "name": "Popular",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611454,
+      "name": "Previous Life",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611455,
+      "name": "Secretive",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611456,
+      "name": "Leader",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611457,
+      "name": "Bodyguard",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611458,
+      "name": "Rare",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611459,
+      "name": "Drummer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611460,
+      "name": "Performer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611461,
+      "name": "Revolutionary",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611462,
+      "name": "First-Rate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611463,
+      "name": "Fill-In",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611464,
+      "name": "Peerless",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611465,
+      "name": "Moody",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611466,
+      "name": "100%",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611467,
+      "name": "Ultimate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611468,
+      "name": "Wealthy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611469,
+      "name": "Influential",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611470,
+      "name": "Naive",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611471,
+      "name": "Daring",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611472,
+      "name": "Promise Keeper",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611473,
+      "name": "Resolute",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611474,
+      "name": "Indomitable",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611475,
+      "name": "Imposing",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611476,
+      "name": "Steady Advancer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611477,
+      "name": "Late Bloomer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611478,
+      "name": "Reckless Rusher",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611479,
+      "name": "Advanced",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611480,
+      "name": "Intermediate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611481,
+      "name": "Beginner",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611482,
+      "name": "Superior",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611483,
+      "name": "Outstanding",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611484,
+      "name": "Abnormal",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611485,
+      "name": "Beat",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611486,
+      "name": "March",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611487,
+      "name": "Tempo",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611488,
+      "name": "Passionate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611489,
+      "name": "Natural Enemy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611490,
+      "name": "Supreme",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611491,
+      "name": "Worst",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611492,
+      "name": "Big",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611493,
+      "name": "Small",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611494,
+      "name": "Pirate",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611495,
+      "name": "Active",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611496,
+      "name": "Section Chief",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611497,
+      "name": "Commander",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611498,
+      "name": "Captain",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611499,
+      "name": "Assistant Manager",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611500,
+      "name": "Executive Director",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611501,
+      "name": "Managing Director",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611502,
+      "name": "Chairman",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611503,
+      "name": "Advisor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611504,
+      "name": "Team Leader",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611505,
+      "name": "Town Mayor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611506,
+      "name": "Village Mayor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611507,
+      "name": "City Mayor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611508,
+      "name": "Public Officer",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611509,
+      "name": "Proprietor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611510,
+      "name": "Elementary Schooler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611511,
+      "name": "Middle Schooler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611512,
+      "name": "High Schooler",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611513,
+      "name": "University Student",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611514,
+      "name": "Househusband",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611515,
+      "name": "Housewife",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611516,
+      "name": "Hyper",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611517,
+      "name": "Ultra",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611518,
+      "name": "Official",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611519,
+      "name": "Heavyweight",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611520,
+      "name": "Lightweight",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611521,
+      "name": "Middleweight",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611522,
+      "name": "Max",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611523,
+      "name": "Reiwa",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611524,
+      "name": "Heisei",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611525,
+      "name": "Showa",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611526,
+      "name": "Airy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611527,
+      "name": "Springy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611528,
+      "name": "Coarse",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611529,
+      "name": "Largest Class",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611530,
+      "name": "Ace",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611531,
+      "name": "Ice",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611532,
+      "name": "Comedy",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611533,
+      "name": "Symphony",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611534,
+      "name": "March",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611535,
+      "name": "Sailor",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611536,
+      "name": "Explosive Laughter",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611537,
+      "name": "Debut",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611538,
+      "name": "Latest",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611539,
+      "name": "First",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611540,
+      "name": "Arcane",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611541,
+      "name": "Pure",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611542,
+      "name": "Determined",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611543,
+      "name": "Ogre",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611544,
+      "name": "Folk Tale",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611545,
+      "name": "Fairy Tale",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611546,
+      "name": " however ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611547,
+      "name": " when ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611548,
+      "name": " therefore ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611549,
+      "name": " and thus ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611550,
+      "name": " but ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611551,
+      "name": " and yet ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611552,
+      "name": " on top of ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611553,
+      "name": " as well as ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611554,
+      "name": " and also ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611555,
+      "name": " in addition to ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611556,
+      "name": " because ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611557,
+      "name": " -specialized ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611558,
+      "name": " -exclusive ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611559,
+      "name": " -oriented ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611560,
+      "name": " plus ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611561,
+      "name": " in other words ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611562,
+      "name": " -ish ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611563,
+      "name": " aside, ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611564,
+      "name": " VS ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611565,
+      "name": "Tough Guy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611566,
+      "name": "Refined",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611567,
+      "name": "King",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611568,
+      "name": "Beauty",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611569,
+      "name": "Child",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611570,
+      "name": "Adult",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611571,
+      "name": "Strong",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611572,
+      "name": "Friendly",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611573,
+      "name": "Goddess",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611574,
+      "name": "Wild Beast",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611575,
+      "name": "Strongest",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611576,
+      "name": "Crazy Dude",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611577,
+      "name": "Nice Guy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611578,
+      "name": "Precious",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611579,
+      "name": "Pretty",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611580,
+      "name": "Perfect",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611581,
+      "name": "Dangerous",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611582,
+      "name": "Unexpected",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611583,
+      "name": "Heavy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611584,
+      "name": "Warm",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611585,
+      "name": "Sour",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611586,
+      "name": "Delicious",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611587,
+      "name": "Adored",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611588,
+      "name": "Caution",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611589,
+      "name": "Undefeated",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611590,
+      "name": "Mysterious",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611591,
+      "name": "Gigantic",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611592,
+      "name": "Largest",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611593,
+      "name": "Smallest",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611594,
+      "name": "Lucky",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611595,
+      "name": "Rock",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611596,
+      "name": "Pop",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611597,
+      "name": "Top",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611598,
+      "name": "World's Best",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611599,
+      "name": "Rhythm",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611600,
+      "name": "Connect",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611601,
+      "name": "Popular",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611602,
+      "name": "Previous Life",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611603,
+      "name": "Secretive",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611604,
+      "name": "Leader",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611605,
+      "name": "Bodyguard",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611606,
+      "name": "Rare",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611607,
+      "name": "Drummer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611608,
+      "name": "Performer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611609,
+      "name": "Revolutionary",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611610,
+      "name": "First-Rate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611611,
+      "name": "Fill-In",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611612,
+      "name": "Peerless",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611613,
+      "name": "Moody",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611614,
+      "name": "100%",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611615,
+      "name": "Ultimate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611616,
+      "name": "Wealthy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611617,
+      "name": "Influential",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611618,
+      "name": "Naive",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611619,
+      "name": "Daring",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611620,
+      "name": "Promise Keeper",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611621,
+      "name": "Resolute",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611622,
+      "name": "Indomitable",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611623,
+      "name": "Imposing",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611624,
+      "name": "Steady Advancer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611625,
+      "name": "Late Bloomer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611626,
+      "name": "Reckless Rusher",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611627,
+      "name": "Advanced",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611628,
+      "name": "Intermediate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611629,
+      "name": "Beginner",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611630,
+      "name": "Superior",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611631,
+      "name": "Outstanding",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611632,
+      "name": "Abnormal",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611633,
+      "name": "Beat",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611634,
+      "name": "March",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611635,
+      "name": "Tempo",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611636,
+      "name": "Passionate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611637,
+      "name": "Natural Enemy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611638,
+      "name": "Supreme",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611639,
+      "name": "Worst",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611640,
+      "name": "Big",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611641,
+      "name": "Small",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611642,
+      "name": "Pirate",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611643,
+      "name": "Active",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611644,
+      "name": "Section Chief",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611645,
+      "name": "Commander",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611646,
+      "name": "Captain",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611647,
+      "name": "Assistant Manager",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611648,
+      "name": "Executive Director",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611649,
+      "name": "Managing Director",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611650,
+      "name": "Chairman",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611651,
+      "name": "Advisor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611652,
+      "name": "Team Leader",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611653,
+      "name": "Town Mayor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611654,
+      "name": "Village Mayor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611655,
+      "name": "City Mayor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611656,
+      "name": "Public Officer",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611657,
+      "name": "Proprietor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611658,
+      "name": "Elementary Schooler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611659,
+      "name": "Middle Schooler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611660,
+      "name": "High Schooler",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611661,
+      "name": "University Student",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611662,
+      "name": "Househusband",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611663,
+      "name": "Housewife",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611664,
+      "name": "Hyper",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611665,
+      "name": "Ultra",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611666,
+      "name": "Official",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611667,
+      "name": "Heavyweight",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611668,
+      "name": "Lightweight",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611669,
+      "name": "Middleweight",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611670,
+      "name": "Max",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611671,
+      "name": "Reiwa",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611672,
+      "name": "Heisei",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611673,
+      "name": "Showa",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611674,
+      "name": "Airy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611675,
+      "name": "Springy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611676,
+      "name": "Coarse",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611677,
+      "name": "Largest Class",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611678,
+      "name": "Ace",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611679,
+      "name": "Ice",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611680,
+      "name": "Comedy",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611681,
+      "name": "Symphony",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611682,
+      "name": "March",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611683,
+      "name": "Sailor",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611684,
+      "name": "Explosive Laughter",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611685,
+      "name": "Debut",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611686,
+      "name": "Latest",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611687,
+      "name": "First",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611688,
+      "name": "Arcane",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611689,
+      "name": "Pure",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611690,
+      "name": "Determined",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611691,
+      "name": "Ogre",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611692,
+      "name": "Folk Tale",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611693,
+      "name": "Fairy Tale",
+      "positionType": "TYPE_RIGHT"
+    }
+  ]
+}

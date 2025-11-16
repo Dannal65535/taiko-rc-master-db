@@ -1,0 +1,154 @@
+{
+  "subscriptionEffectDescriptions": [
+    {
+      "id": 5020001,
+      "groupId": 50201,
+      "name": "Remove Ads",
+      "description": "Removes all ads from the game.",
+      "sortOrder": 6,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020002,
+      "groupId": 50201,
+      "name": "Passport Bonus",
+      "description": "Score bonus +5%.",
+      "sortOrder": 5,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020003,
+      "groupId": 50201,
+      "name": "Pre-Release Songs",
+      "description": "Allows you to play exclusive pre-release songs.",
+      "sortOrder": 4,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020004,
+      "groupId": 50201,
+      "name": "Obtainable EXP Limit Relief",
+      "description": "Increases number of plays before reaching EXP acquisition limit.",
+      "sortOrder": 3,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020005,
+      "groupId": 50201,
+      "name": "Obtainable Point Limit Relief",
+      "description": "Increases number of plays before reaching point acquisition limit.",
+      "sortOrder": 2,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020006,
+      "groupId": 50201,
+      "name": "Limit Removal Criteria Relief",
+      "description": "Relaxes the criteria for removing limits.",
+      "sortOrder": 1,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020007,
+      "groupId": 50205,
+      "name": "Remove Ads",
+      "description": "Removes all ads from the game.",
+      "sortOrder": 7,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020008,
+      "groupId": 50205,
+      "name": "Passport Bonus",
+      "description": "Score bonus +5%.",
+      "sortOrder": 6,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020009,
+      "groupId": 50205,
+      "name": "Pre-Release Songs",
+      "description": "Allows you to play exclusive pre-release songs.",
+      "sortOrder": 5,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020010,
+      "groupId": 50205,
+      "name": "Obtainable EXP Limit Relief",
+      "description": "Increases number of plays before reaching EXP acquisition limit.",
+      "sortOrder": 4,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020011,
+      "groupId": 50205,
+      "name": "Obtainable Point Limit Relief",
+      "description": "Increases number of plays before reaching point acquisition limit.",
+      "sortOrder": 3,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020012,
+      "groupId": 50205,
+      "name": "Limit Removal Criteria Relief",
+      "description": "Relaxes the criteria for removing limits.",
+      "sortOrder": 2,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020013,
+      "groupId": 50205,
+      "name": "Item Point Distribution",
+      "description": "During the valid period of the passport,\nyou can receive Free Coins rewards\nfor completing challenges.\nChallenge: Log in every day between 4:00 a.m. and 3:59 a.m. (GMT+9) of the following day.\nReward: Once you complete a challenge, 300 Item Points will be sent to your gift box.\n(Available for 30 days.)",
+      "sortOrder": 1,
+      "fileName": "icon_effect_itemP_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "*If purchased between 12:00 a.m. and 3:59 a.m. (GMT+9), you can log in again after 4:00 a.m. (GMT+9) to receive your rewards.\nIf purchased after 4:00 a.m. (GMT+9), log in the following day after 4:00 a.m. (GMT+9) to receive your rewards.\n*Challenges renew daily at 4:00 a.m. (GMT+9) during the passport period.\n*If you were logged in before 4:00 a.m. (GMT+9), you will need to log in again to receive your rewards.\n*If you are unable to log in between 4:00 a.m. and 3:59 a.m. (GMT+9) of the following day, you will be unable to claim your rewards for that period."
+    },
+    {
+      "id": 5020014,
+      "groupId": 50203,
+      "name": "Remove Some Ads",
+      "description": "The following in-game advertisements will be removed.\n\nAds that appear when updating the Home List\nAds that appear after a certain number of slide operations in a search\nAds that appear after completing a song\n\n*Please note that other advertisements will still be shown.",
+      "sortOrder": 1,
+      "fileName": "icon_effect_ad_hide2",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020015,
+      "groupId": 50205,
+      "name": "Item Point Distribution",
+      "description": "During the valid period of the passport,\nyou can receive Free Coins rewards\nfor completing challenges.\nChallenge: Log in every day between 4:00 a.m. and 3:59 a.m. (GMT+9) of the following day.\nReward: Once you complete a challenge, 10 Free Coins will be sent to your gift box.\n(Available for 30 days.)",
+      "sortOrder": 1,
+      "fileName": "icon_effect_coin_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "*If purchased between 12:00 a.m. and 3:59 a.m. (GMT+9), you can log in again after 4:00 a.m. (GMT+9) to receive your rewards.\nIf purchased after 4:00 a.m. (GMT+9), log in the following day after 4:00 a.m. (GMT+9) to receive your rewards.\n*Challenges renew daily at 4:00 a.m. (GMT+9) during the passport period.\n*If you were logged in before 4:00 a.m. (GMT+9), you will need to log in again to receive your rewards.\n*If you are unable to log in between 4:00 a.m. and 3:59 a.m. (GMT+9) of the following day, you will be unable to claim your rewards for that period."
+    }
+  ]
+}

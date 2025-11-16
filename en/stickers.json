@@ -1,0 +1,250 @@
+{
+  "stickers": [
+    {
+      "id": 710001,
+      "groupId": 1,
+      "fileName": "sticker_moji_0001",
+      "sortOrder": 9999
+    },
+    {
+      "id": 710002,
+      "groupId": 1,
+      "fileName": "sticker_moji_0002",
+      "sortOrder": 9998
+    },
+    {
+      "id": 710003,
+      "groupId": 1,
+      "fileName": "sticker_moji_0003",
+      "sortOrder": 9997
+    },
+    {
+      "id": 710004,
+      "groupId": 1,
+      "fileName": "sticker_moji_0004",
+      "sortOrder": 9996
+    },
+    {
+      "id": 710005,
+      "groupId": 1,
+      "fileName": "sticker_moji_0005",
+      "sortOrder": 9995
+    },
+    {
+      "id": 710006,
+      "groupId": 1,
+      "fileName": "sticker_moji_0006",
+      "sortOrder": 9994
+    },
+    {
+      "id": 710007,
+      "groupId": 1,
+      "fileName": "sticker_moji_0007",
+      "sortOrder": 9993
+    },
+    {
+      "id": 710008,
+      "groupId": 1,
+      "fileName": "sticker_moji_0008",
+      "sortOrder": 9992
+    },
+    {
+      "id": 710009,
+      "groupId": 1,
+      "fileName": "sticker_moji_0009",
+      "sortOrder": 9991
+    },
+    {
+      "id": 710010,
+      "groupId": 1,
+      "fileName": "sticker_moji_0010",
+      "sortOrder": 9990
+    },
+    {
+      "id": 710011,
+      "groupId": 1,
+      "fileName": "sticker_moji_0011",
+      "sortOrder": 9989
+    },
+    {
+      "id": 710012,
+      "groupId": 1,
+      "fileName": "sticker_moji_0012",
+      "sortOrder": 9988
+    },
+    {
+      "id": 720001,
+      "groupId": 2,
+      "fileName": "sticker_others_0001",
+      "sortOrder": 9999
+    },
+    {
+      "id": 720002,
+      "groupId": 2,
+      "fileName": "sticker_others_0002",
+      "sortOrder": 9998
+    },
+    {
+      "id": 720003,
+      "groupId": 2,
+      "fileName": "sticker_others_0003",
+      "sortOrder": 9997
+    },
+    {
+      "id": 720004,
+      "groupId": 2,
+      "fileName": "sticker_others_0004",
+      "sortOrder": 9996
+    },
+    {
+      "id": 720005,
+      "groupId": 2,
+      "fileName": "sticker_others_0005",
+      "sortOrder": 9995
+    },
+    {
+      "id": 720006,
+      "groupId": 2,
+      "fileName": "sticker_others_0006",
+      "sortOrder": 9994
+    },
+    {
+      "id": 720007,
+      "groupId": 2,
+      "fileName": "sticker_others_0007",
+      "sortOrder": 9993
+    },
+    {
+      "id": 720008,
+      "groupId": 2,
+      "fileName": "sticker_others_0008",
+      "sortOrder": 9992
+    },
+    {
+      "id": 720009,
+      "groupId": 2,
+      "fileName": "sticker_others_0009",
+      "sortOrder": 9991
+    },
+    {
+      "id": 720010,
+      "groupId": 2,
+      "fileName": "sticker_others_0010",
+      "sortOrder": 9990
+    },
+    {
+      "id": 720011,
+      "groupId": 2,
+      "fileName": "sticker_others_0011",
+      "sortOrder": 9989
+    },
+    {
+      "id": 720012,
+      "groupId": 2,
+      "fileName": "sticker_others_0012",
+      "sortOrder": 9988
+    },
+    {
+      "id": 720013,
+      "groupId": 2,
+      "fileName": "sticker_others_0013",
+      "sortOrder": 9987
+    },
+    {
+      "id": 720014,
+      "groupId": 2,
+      "fileName": "sticker_others_0014",
+      "sortOrder": 9986
+    },
+    {
+      "id": 720015,
+      "groupId": 2,
+      "fileName": "sticker_others_0015",
+      "sortOrder": 9985
+    },
+    {
+      "id": 720016,
+      "groupId": 2,
+      "fileName": "sticker_others_0016",
+      "sortOrder": 9984
+    },
+    {
+      "id": 720017,
+      "groupId": 2,
+      "fileName": "sticker_others_0017",
+      "sortOrder": 9983
+    },
+    {
+      "id": 720018,
+      "groupId": 2,
+      "fileName": "sticker_others_0018",
+      "sortOrder": 9982
+    },
+    {
+      "id": 720019,
+      "groupId": 2,
+      "fileName": "sticker_others_0019",
+      "sortOrder": 9981
+    },
+    {
+      "id": 720020,
+      "groupId": 2,
+      "fileName": "sticker_others_0020",
+      "sortOrder": 9980
+    },
+    {
+      "id": 720021,
+      "groupId": 2,
+      "fileName": "sticker_others_0021",
+      "sortOrder": 9979
+    },
+    {
+      "id": 720022,
+      "groupId": 2,
+      "fileName": "sticker_others_0022",
+      "sortOrder": 9978
+    },
+    {
+      "id": 720023,
+      "groupId": 2,
+      "fileName": "sticker_others_0023",
+      "sortOrder": 9977
+    },
+    {
+      "id": 720024,
+      "groupId": 2,
+      "fileName": "sticker_others_0024",
+      "sortOrder": 9976
+    },
+    {
+      "id": 720025,
+      "groupId": 2,
+      "fileName": "sticker_others_0025",
+      "sortOrder": 9975
+    },
+    {
+      "id": 720026,
+      "groupId": 2,
+      "fileName": "sticker_others_0026",
+      "sortOrder": 9974
+    },
+    {
+      "id": 720027,
+      "groupId": 2,
+      "fileName": "sticker_others_0027",
+      "sortOrder": 9973
+    },
+    {
+      "id": 720028,
+      "groupId": 2,
+      "fileName": "sticker_others_0028",
+      "sortOrder": 9972
+    },
+    {
+      "id": 720029,
+      "groupId": 2,
+      "fileName": "sticker_others_0029",
+      "sortOrder": 9971
+    }
+  ]
+}

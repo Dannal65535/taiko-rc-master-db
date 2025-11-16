@@ -1,0 +1,100 @@
+{
+  "dailyPlayLimits": [
+    {
+      "id": 9710001,
+      "level": 1,
+      "isSubscription": false,
+      "playCount": 20,
+      "unlockType": "AD",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710002,
+      "level": 2,
+      "isSubscription": false,
+      "playCount": 30,
+      "unlockType": "AD",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710003,
+      "level": 3,
+      "isSubscription": false,
+      "playCount": 40,
+      "unlockType": "COIN",
+      "unlockCostAmount": 50
+    },
+    {
+      "id": 9710004,
+      "level": 4,
+      "isSubscription": false,
+      "playCount": 50,
+      "unlockType": "COIN",
+      "unlockCostAmount": 50
+    },
+    {
+      "id": 9710005,
+      "level": 5,
+      "isSubscription": false,
+      "playCount": 60,
+      "unlockType": "COIN",
+      "unlockCostAmount": 100
+    },
+    {
+      "id": 9710006,
+      "level": 6,
+      "isSubscription": false,
+      "playCount": 70,
+      "unlockType": "NOT_RELEASE",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710007,
+      "level": 1,
+      "isSubscription": true,
+      "playCount": 20,
+      "unlockType": "FREE",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710008,
+      "level": 2,
+      "isSubscription": true,
+      "playCount": 30,
+      "unlockType": "FREE",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710009,
+      "level": 3,
+      "isSubscription": true,
+      "playCount": 40,
+      "unlockType": "FREE",
+      "unlockCostAmount": 0
+    },
+    {
+      "id": 9710010,
+      "level": 4,
+      "isSubscription": true,
+      "playCount": 50,
+      "unlockType": "COIN",
+      "unlockCostAmount": 50
+    },
+    {
+      "id": 9710011,
+      "level": 5,
+      "isSubscription": true,
+      "playCount": 60,
+      "unlockType": "COIN",
+      "unlockCostAmount": 100
+    },
+    {
+      "id": 9710012,
+      "level": 6,
+      "isSubscription": true,
+      "playCount": 70,
+      "unlockType": "NOT_RELEASE",
+      "unlockCostAmount": 0
+    }
+  ]
+}

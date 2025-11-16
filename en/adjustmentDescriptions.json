@@ -1,0 +1,116 @@
+{
+  "adjustmentDescriptions": [
+    {
+      "id": 9600001,
+      "step": 1,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "Thank you for downloading Taiko no Tatsujin: Rhythm Connect.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600002,
+      "step": 2,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "We will now begin calibration to ensure the best playing experience.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600003,
+      "step": 3,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "This calibration is to correct any offset your device may have between the notes being displayed and their corresponding sounds.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600004,
+      "step": 4,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "During the calibration, you will hear the sound of the drum at a regular interval, but no notes will appear.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600005,
+      "step": 5,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "No input was detected. Restarting calibration.",
+      "isRestartMessage": true
+    },
+    {
+      "id": 9600006,
+      "step": 6,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "Match the timing of the beat and tap the drum in sync with the 4th beat.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600007,
+      "step": 7,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "Match the timing of the beat and tap the drum in sync with the \"Don\" sound.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600008,
+      "step": 8,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "Calibration will end after repeating this process a few times.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600009,
+      "step": 9,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "This calibration requires sound,",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600010,
+      "step": 10,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "so please make sure your device is not muted before beginning.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600011,
+      "step": 11,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "Calibration will now begin.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600012,
+      "step": 12,
+      "isTutorial": false,
+      "isStart": true,
+      "description": "During calibration, tap the drum in sync with the 4th beat.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600013,
+      "step": 13,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "That's a wrap! Your device is now calibrated.",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600014,
+      "step": 14,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "Now go play a song!",
+      "isRestartMessage": false
+    }
+  ]
+}

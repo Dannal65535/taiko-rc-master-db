@@ -1,0 +1,74 @@
+{
+  "tutorialTips": [
+    {
+      "id": 9400001,
+      "title": "DON-chan",
+      "description": "A mysterious creature shaped like a drum.\nHe loves having fun!\nLet's play the drums together and turn the world into a lively festival!",
+      "fileName": "TipsImage_2000",
+      "sortOrder": 9
+    },
+    {
+      "id": 9400002,
+      "title": "Clothes",
+      "description": "You can get DON-chan's outfits in various places.\nThe more outfits you have, the higher your score!\nCreate your very own DON-chan and play songs to your heart's content!",
+      "fileName": "TipsImage_2002",
+      "sortOrder": 8
+    },
+    {
+      "id": 9400003,
+      "title": "Score Gauge",
+      "description": "The Score Gauge is linked to your personal best score during a performance.\nThe closer you get to your previous best score, the more exciting the performance becomes!",
+      "fileName": "TipsImage_2003",
+      "sortOrder": 7
+    },
+    {
+      "id": 9400004,
+      "title": "Assist Item: Performance Assist",
+      "description": "Having trouble with a particular song? Try using a Performance Assist.\nEven a Full Combo isn't out of the question!",
+      "fileName": "TipsImage_2004",
+      "sortOrder": 6
+    },
+    {
+      "id": 9400005,
+      "title": "Assist Item: Long-Press Drum Roll",
+      "description": "An item that lets you perform a drum roll with a long press.\nYou can even play with one hand!",
+      "fileName": "TipsImage_2005",
+      "sortOrder": 5
+    },
+    {
+      "id": 9400006,
+      "title": "Score Bonus",
+      "description": "Your final score is determined by adding score bonuses based on your performance.\nAim to increase your level and rank to achieve your best score.",
+      "fileName": "TipsImage_2006",
+      "sortOrder": 4
+    },
+    {
+      "id": 9400007,
+      "title": "Ticket",
+      "description": "This item is required to play songs.\nSongs selected from the home screen can be played without using tickets.",
+      "fileName": "TipsImage_2007",
+      "sortOrder": 3
+    },
+    {
+      "id": 9400008,
+      "title": "Collect Crowns",
+      "description": "Collect Crowns and Badges to earn Title Points and custom titles.\nCollect as many as you can to express yourself however you like.",
+      "fileName": "TipsImage_2008",
+      "sortOrder": 2
+    },
+    {
+      "id": 9400010,
+      "title": "Drum Position Calibration",
+      "description": "If the positioning of the drums doesn't feel quite right, try performing a calibration.\nTo do so, go to My Page → Other Menu → System Settings.",
+      "fileName": "TipsImage_2010",
+      "sortOrder": 1
+    },
+    {
+      "id": 9400011,
+      "title": "Passport",
+      "description": "Purchase a passport to remove advertisements!\n\"Balloon DON-chan\" and \"Free Pack\" also remove ads\nand net you items! Visit the shop to check them out!",
+      "fileName": "TipsImage_1005",
+      "sortOrder": 10
+    }
+  ]
+}

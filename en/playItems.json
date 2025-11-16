@@ -1,0 +1,102 @@
+{
+  "playItems": [
+    {
+      "id": 400001,
+      "name": "Double EXP",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 20,
+      "duplicate": 1,
+      "description": "An item that doubles the base EXP gained from one performance.",
+      "fileName": "icon_expx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400002,
+      "name": "EXP x3",
+      "ownLimit": 1,
+      "priority": 1,
+      "sortOrder": 10,
+      "duplicate": 1,
+      "description": "Receive 1 every day! Must be used that day! An item that triples the base EXP gained from one performance.",
+      "fileName": "icon_expx3",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400003,
+      "name": "Double Points",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 30,
+      "duplicate": 1,
+      "description": "An item that doubles the points gained from one performance.",
+      "fileName": "icon_donPx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400004,
+      "name": "Performance Assist",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 40,
+      "duplicate": 10,
+      "description": "An item that changes 10 BAD hits to OK and lets you perform double taps for large notes with a single tap.",
+      "fileName": "icon_ensohojo",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400005,
+      "name": "Long-Press Drum Roll",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 50,
+      "duplicate": 10,
+      "description": "An item that lets you perform a drum roll with a long press.",
+      "fileName": "icon_nagaoshirenda",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400006,
+      "name": "Rainbow Mallet",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 60,
+      "duplicate": 1,
+      "description": "An item that changes mallet notes into rainbows, which give you items when successfully hit.",
+      "fileName": "icon_nijikoduchi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400007,
+      "name": "All-In",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 70,
+      "duplicate": 1,
+      "description": "EXP x5, points x5, 10 Long-Press Drum Roll and Performance Assist.",
+      "fileName": "icon_all_in",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    }
+  ]
+}

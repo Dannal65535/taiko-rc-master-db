@@ -1,0 +1,32 @@
+{
+  "missionStampDetails": [
+    {
+      "id": 9800001,
+      "groupId": 980001,
+      "sortOrder": 1,
+      "description": "<B>Play Taiko no Tatsujin: Rhythm Connect \nand get LINE stickers!</B>\n\nClear all missions\nto get special LINE stickers!",
+      "fileName": "mission_stamp_tips_0001"
+    },
+    {
+      "id": 9800002,
+      "groupId": 980001,
+      "sortOrder": 2,
+      "description": "<color=#f84828>*You must be logged in to LINE to receive your stickers.\n*Stickers will be available for 90 days after downloading.\n*Please remember to download your stickers before the campaign period ends. Stickers will not be available for download outside the campaign period.</color>",
+      "fileName": "mission_stamp_tips_0002"
+    },
+    {
+      "id": 9800003,
+      "groupId": 980002,
+      "sortOrder": 1,
+      "description": "<B>Play Taiko no Tatsujin: Rhythm Connect \nand get LINE stickers!</B>\n\nClear all missions\nto get special LINE stickers!",
+      "fileName": "mission_stamp_tips_0003"
+    },
+    {
+      "id": 9800004,
+      "groupId": 980002,
+      "sortOrder": 2,
+      "description": "<color=#f84828>*You must be logged in to LINE to receive your stickers.\n*Stickers will be available for 90 days after downloading.\n*Please remember to download your stickers before the campaign period ends. Stickers will not be available for download outside the campaign period.</color>",
+      "fileName": "mission_stamp_tips_0004"
+    }
+  ]
+}

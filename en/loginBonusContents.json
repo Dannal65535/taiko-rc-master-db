@@ -1,0 +1,249 @@
+{
+  "loginBonusContents": [
+    {
+      "id": 6100001,
+      "groupId": 610001,
+      "day": 1,
+      "reward": 3180001,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100002,
+      "groupId": 610001,
+      "day": 2,
+      "reward": 3180002,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100003,
+      "groupId": 610001,
+      "day": 3,
+      "reward": 3180003,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100004,
+      "groupId": 610001,
+      "day": 4,
+      "reward": 3180004,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100005,
+      "groupId": 610001,
+      "day": 5,
+      "reward": 3180005,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100006,
+      "groupId": 610001,
+      "day": 6,
+      "reward": 3180006,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100007,
+      "groupId": 610001,
+      "day": 7,
+      "reward": 3180007,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100008,
+      "groupId": 610001,
+      "day": 8,
+      "reward": 3180008,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100009,
+      "groupId": 610001,
+      "day": 9,
+      "reward": 3180009,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100010,
+      "groupId": 610001,
+      "day": 10,
+      "reward": 3180010,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100011,
+      "groupId": 610002,
+      "day": 1,
+      "reward": 3180011,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100012,
+      "groupId": 610002,
+      "day": 2,
+      "reward": 3180012,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100013,
+      "groupId": 610002,
+      "day": 3,
+      "reward": 3180013,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100014,
+      "groupId": 610002,
+      "day": 4,
+      "reward": 3180014,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100015,
+      "groupId": 610002,
+      "day": 5,
+      "reward": 3180015,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100016,
+      "groupId": 610002,
+      "day": 6,
+      "reward": 3180016,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100017,
+      "groupId": 610002,
+      "day": 7,
+      "reward": 3180017,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100018,
+      "groupId": 610002,
+      "day": 8,
+      "reward": 3180018,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100019,
+      "groupId": 610002,
+      "day": 9,
+      "reward": 3180019,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100020,
+      "groupId": 610002,
+      "day": 10,
+      "reward": 3180020,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100021,
+      "groupId": 610003,
+      "day": 1,
+      "reward": 3180021,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100022,
+      "groupId": 610003,
+      "day": 2,
+      "reward": 3180022,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100023,
+      "groupId": 610003,
+      "day": 3,
+      "reward": 3180023,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100024,
+      "groupId": 610003,
+      "day": 4,
+      "reward": 3180024,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100025,
+      "groupId": 610003,
+      "day": 5,
+      "reward": 3180025,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100026,
+      "groupId": 610003,
+      "day": 6,
+      "reward": 3180026,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100027,
+      "groupId": 610003,
+      "day": 7,
+      "reward": 3180027,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100028,
+      "groupId": 610003,
+      "day": 8,
+      "reward": 3180028,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100029,
+      "groupId": 610003,
+      "day": 9,
+      "reward": 3180029,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100030,
+      "groupId": 610003,
+      "day": 10,
+      "reward": 3180030,
+      "frameType": "SPECIAL"
+    },
+    {
+      "id": 6100031,
+      "groupId": 610004,
+      "day": 1,
+      "reward": 3180031,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100032,
+      "groupId": 610004,
+      "day": 2,
+      "reward": 3180032,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100033,
+      "groupId": 610004,
+      "day": 3,
+      "reward": 3180033,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100034,
+      "groupId": 610004,
+      "day": 4,
+      "reward": 3180034,
+      "frameType": "NORMAL"
+    },
+    {
+      "id": 6100035,
+      "groupId": 610004,
+      "day": 5,
+      "reward": 3180035,
+      "frameType": "SPECIAL"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "eventPoints": [
+    {
+      "id": 350001,
+      "name": "[Event] Towel",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0001"
+    },
+    {
+      "id": 350002,
+      "name": "[EVENT] Book",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0002"
+    },
+    {
+      "id": 350003,
+      "name": "[EVENT] SilverGrass&Dumplings",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0003"
+    },
+    {
+      "id": 350004,
+      "name": "[EVENT] ShootingStar",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0004"
+    },
+    {
+      "id": 350005,
+      "name": "[EVENT] CandyCane",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0005"
+    },
+    {
+      "id": 350006,
+      "name": "[EVENT] Ducky",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0006"
+    },
+    {
+      "id": 350007,
+      "name": "[EVENT]Furball",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0007"
+    },
+    {
+      "id": 350008,
+      "name": "[EVENT]Magic Broom",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0008"
+    },
+    {
+      "id": 350009,
+      "name": "[EVENT] Flower",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0009"
+    },
+    {
+      "id": 350010,
+      "name": "[EVENT]Tricolor Dumpling",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0010"
+    },
+    {
+      "id": 350011,
+      "name": "[EVENT]Coffee",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0011"
+    },
+    {
+      "id": 350012,
+      "name": "[EVENT] Umbrella",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0012"
+    },
+    {
+      "id": 350013,
+      "name": "[EVENT] Inner Tube",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "Event points that can be exchanged for various items.",
+      "fileName": "icon_bingoP_0013"
+    }
+  ]
+}

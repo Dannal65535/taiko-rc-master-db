@@ -1,0 +1,136 @@
+{
+  "firstTransitionTipsGroups": [
+    {
+      "id": 9410001,
+      "groupId": 1001,
+      "title": "About Difficulty Selection",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410002,
+      "groupId": 1002,
+      "title": "List Update Complete",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410003,
+      "groupId": 1003,
+      "title": "About Items",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410004,
+      "groupId": 1004,
+      "title": "How to Play Taiko no Tatsujin",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410005,
+      "groupId": 1005,
+      "title": "How to Play Taiko no Tatsujin",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410006,
+      "groupId": 1006,
+      "title": "First Level Up",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410007,
+      "groupId": 1007,
+      "title": "First Rank Up",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410008,
+      "groupId": 1008,
+      "title": "About Searching",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410009,
+      "groupId": 1009,
+      "title": "About Outfits",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410010,
+      "groupId": 1010,
+      "title": "About Points",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410011,
+      "groupId": 1011,
+      "title": "How to Get Tickets",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410012,
+      "groupId": 1012,
+      "title": "About Passports",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION_AND_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410013,
+      "groupId": 1013,
+      "title": "About My Page",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410014,
+      "groupId": 1014,
+      "title": "About My List",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410015,
+      "groupId": 1015,
+      "title": "About Friends",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410016,
+      "groupId": 1016,
+      "title": "Rank AA Achieved!",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410018,
+      "groupId": 1018,
+      "title": "All Menus Unlocked",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410019,
+      "groupId": 1019,
+      "title": "Exchange Coins and Items",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410020,
+      "groupId": 1020,
+      "title": "Obtain Items with Points",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410021,
+      "groupId": 2001,
+      "title": "About the Shop",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410022,
+      "groupId": 2982,
+      "title": "Unlocking Songs",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410023,
+      "groupId": 3963,
+      "title": "About Collections",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "productResources": [
+    {
+      "id": 2000001,
+      "type": "PRODUCT_TYPE_TICKET",
+      "name": "Ticket",
+      "fileName": "icon_ticket_possession",
+      "description": "A ticket that can be exchanged for items or used to play certain songs."
+    },
+    {
+      "id": 2000002,
+      "type": "PRODUCT_TYPE_PAID_CURRENCY",
+      "name": "Paid Coins",
+      "fileName": "goods_2",
+      "description": "Paid coins that can be exchanged for different items."
+    },
+    {
+      "id": 2000003,
+      "type": "PRODUCT_TYPE_FREE_CURRENCY",
+      "name": "Free Coins",
+      "fileName": "goods_3",
+      "description": "Free coins that can be exchanged for different items."
+    },
+    {
+      "id": 2000004,
+      "type": "PRODUCT_TYPE_TICKET_POINT",
+      "name": "Ticket Points",
+      "fileName": "icon_ticketP",
+      "description": "Points that can be exchanged for tickets."
+    },
+    {
+      "id": 2000005,
+      "type": "PRODUCT_TYPE_VARIETY_POINT",
+      "name": "Variety Points",
+      "fileName": "icon_variousP",
+      "description": "Points that can be exchanged for limited-edition outfits, colors, and backgrounds."
+    },
+    {
+      "id": 2000006,
+      "type": "PRODUCT_TYPE_FASHION_POINT",
+      "name": "Style Points",
+      "fileName": "icon_fashionP",
+      "description": "Points that can be exchanged for stylish outfits."
+    },
+    {
+      "id": 2000007,
+      "type": "PRODUCT_TYPE_ITEM_POINT",
+      "name": "Item Points",
+      "fileName": "icon_itemP",
+      "description": "Points that can be exchanged for assist items."
+    },
+    {
+      "id": 2000008,
+      "type": "PRODUCT_TYPE_EVENT_POINT",
+      "name": "Event Points",
+      "fileName": "None",
+      "description": "Points obtained via events."
+    },
+    {
+      "id": 2000009,
+      "type": "PRODUCT_TYPE_TITLE_POINT",
+      "name": "Title Points",
+      "fileName": "icon_titleP",
+      "description": "Points used for obtaining custom titles."
+    },
+    {
+      "id": 2000010,
+      "type": "PRODUCT_TYPE_PLAY_ITEM",
+      "name": "Play Items",
+      "fileName": "goods_8",
+      "description": "Items for in-game use."
+    },
+    {
+      "id": 2000011,
+      "type": "PRODUCT_TYPE_SKIN",
+      "name": "Clothes",
+      "fileName": "goods_9",
+      "description": "Outfit"
+    },
+    {
+      "id": 2000012,
+      "type": "PRODUCT_TYPE_TITLE",
+      "name": "Rare Title",
+      "fileName": "goods_10",
+      "description": "Rare Title"
+    },
+    {
+      "id": 2000013,
+      "type": "PRODUCT_TYPE_CUSTOM_TITLE",
+      "name": "Custom Title",
+      "fileName": "None",
+      "description": "Custom Title"
+    },
+    {
+      "id": 2000015,
+      "type": "PRODUCT_TYPE_PROFILE_BG",
+      "name": "Background",
+      "fileName": "goods_12",
+      "description": "Background"
+    }
+  ]
+}

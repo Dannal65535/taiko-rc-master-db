@@ -1,0 +1,2923 @@
+{
+  "eventPointExchanges": [
+    {
+      "id": 5500001,
+      "name": "Drum Set",
+      "description": "Triple your score bonus with this outfit!",
+      "sortOrder": 500,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640001,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500002,
+      "name": "Boarder",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 499,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640002,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500003,
+      "name": "Skateboarder",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 498,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640003,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500004,
+      "name": "UFO",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 497,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640004,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500005,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 496,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640005,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500006,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 495,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640006,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500007,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 494,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 2000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640007,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500008,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 493,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640008,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500009,
+      "name": "Graffiti",
+      "description": "Profile Background",
+      "sortOrder": 492,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350001,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640009,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500010,
+      "name": "Offset",
+      "description": "Triple your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640010,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500011,
+      "name": "Mummy",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640011,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500012,
+      "name": "Mummy",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640012,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500013,
+      "name": "Speech Balloon",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640013,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500014,
+      "name": "Manga (Don!)",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640019,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500015,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640014,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500016,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640015,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500017,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640018,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500018,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640017,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500019,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350002,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640016,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500020,
+      "name": "Previous Life",
+      "description": "Triple your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640020,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500021,
+      "name": "Cotton Candy",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640021,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500022,
+      "name": "Cotton Candy",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640022,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500023,
+      "name": "Pretty Girl Mask",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640023,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500024,
+      "name": "Fireworks",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640029,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500025,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640024,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500026,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640025,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500027,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640028,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500028,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640027,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500029,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350003,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640026,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500030,
+      "name": "Astronaut",
+      "description": "Triple your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640030,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500031,
+      "name": "Spacesuit",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640031,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500032,
+      "name": "Earth",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640032,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500033,
+      "name": "Map Pin",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640033,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500034,
+      "name": "Space",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640039,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500035,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640034,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500036,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640035,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500037,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640038,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500038,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640037,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500039,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350004,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640036,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500040,
+      "name": "Latte Art",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640040,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500041,
+      "name": "Santa Claus",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640041,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500042,
+      "name": "Santa Claus",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640042,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500043,
+      "name": "Animal Hood",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640043,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500044,
+      "name": "Christmas Tree",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640049,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500045,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640044,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500046,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640045,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500047,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640048,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500048,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640047,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500049,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350005,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640046,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500050,
+      "name": "Hot Spring",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640050,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500051,
+      "name": "Stubborn Old Man",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640051,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500052,
+      "name": "Stubborn Old Man",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640052,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500053,
+      "name": "Bath Set",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640053,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500054,
+      "name": "Hot Spring",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640059,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500055,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640054,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500056,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640055,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500057,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640058,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500058,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640057,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500059,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350006,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640056,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500060,
+      "name": "Popular with Pandas",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640060,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500061,
+      "name": "Alpaca",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640061,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500062,
+      "name": "Alpaca",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640062,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500063,
+      "name": "Penguin Family",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640063,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500064,
+      "name": "Animal",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640069,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500065,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 1000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640064,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500066,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640065,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500067,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640068,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500068,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640067,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500069,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350007,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640066,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500070,
+      "name": "Barn Owl",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 3500
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640070,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500071,
+      "name": "Magician",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 7000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640071,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500072,
+      "name": "Magician",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640072,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500073,
+      "name": "Castle and Carriage",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640073,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500074,
+      "name": "Polygon Background 1",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640079,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500075,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640074,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500076,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640075,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500077,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640078,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500078,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640077,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500079,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350008,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640076,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500080,
+      "name": "Honey Bee",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640080,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500081,
+      "name": "Honey Bee",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640081,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500082,
+      "name": "Caterpillar",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640082,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500083,
+      "name": "Caterpillar",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640083,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500084,
+      "name": "Grass",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640089,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500085,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640084,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500086,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640085,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500087,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640088,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500088,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640087,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500089,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350009,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640086,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500090,
+      "name": "Cherry Blossom",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640090,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500091,
+      "name": "Sakura Mochi",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640091,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500092,
+      "name": "Big Ribbon",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640092,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500093,
+      "name": "Rainbow",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640093,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500094,
+      "name": "Cherry Blossom",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640099,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500095,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640094,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500096,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640095,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500097,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640098,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500098,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640097,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500099,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350010,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640096,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500100,
+      "name": "Fried Chicken",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640100,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500101,
+      "name": "Chikuwa Cucumber",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640101,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500102,
+      "name": "Chikuwa Cucumber",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640102,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500103,
+      "name": "Buttered Bread",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640103,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500104,
+      "name": "Cafe",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640109,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500105,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640104,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500106,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640105,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500107,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640108,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500108,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640107,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500109,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350011,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640106,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500110,
+      "name": "Frog",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640110,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500111,
+      "name": "Hamster",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640111,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500112,
+      "name": "Hamster",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640112,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500113,
+      "name": "Hedgehog",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640113,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500114,
+      "name": "Hydrangea",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640119,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500115,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640114,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500116,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640115,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500117,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640118,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500118,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640117,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500119,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350012,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640116,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500120,
+      "name": "Jellyfish",
+      "description": "Double your score bonus with this outfit!",
+      "sortOrder": 20,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 1000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640120,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500121,
+      "name": "Blindfold",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 19,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 5000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640121,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500122,
+      "name": "Watermelon",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 18,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640122,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500123,
+      "name": "Summer Holidays",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 17,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640123,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500124,
+      "name": "Vacation",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 16,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640130,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500125,
+      "name": "Vacation",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 15,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640131,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500126,
+      "name": "Water Splash",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 14,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640132,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500127,
+      "name": "Octopus",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640133,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500128,
+      "name": "Aquarium",
+      "description": "A mysterious outfit that increases your score bonus.",
+      "sortOrder": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 10000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640134,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500129,
+      "name": "Swimsuit Beach",
+      "description": "Profile Background",
+      "sortOrder": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640129,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500130,
+      "name": "Islet",
+      "description": "Profile Background",
+      "sortOrder": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640135,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500131,
+      "name": "Railroad Crossing",
+      "description": "Profile Background",
+      "sortOrder": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640136,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500132,
+      "name": "Aquarium",
+      "description": "Profile Background",
+      "sortOrder": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640137,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500133,
+      "name": "Sunflower Field",
+      "description": "Profile Background",
+      "sortOrder": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640138,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500134,
+      "name": "Summer River",
+      "description": "Profile Background",
+      "sortOrder": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 15000
+      },
+      "exchangeLimit": 1,
+      "rewardGroupId": 3640139,
+      "displayType": "ICON",
+      "isHighlight": true,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500135,
+      "name": "Double Points",
+      "description": "An item that doubles the points gained from one performance.",
+      "sortOrder": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 1500
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640124,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500136,
+      "name": "Double EXP",
+      "description": "An item that doubles the EXP gained from one performance.",
+      "sortOrder": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 3000
+      },
+      "exchangeLimit": 5,
+      "rewardGroupId": 3640125,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500137,
+      "name": "1-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 500
+      },
+      "exchangeLimit": 10,
+      "rewardGroupId": 3640128,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500138,
+      "name": "7-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 2000
+      },
+      "exchangeLimit": 20,
+      "rewardGroupId": 3640127,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    },
+    {
+      "id": 5500139,
+      "name": "14-Day Limited Ticket",
+      "description": "A ticket with an expiration date used to play songs.",
+      "sortOrder": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_EVENT_POINT",
+        "productId": 350013,
+        "amount": 5000
+      },
+      "exchangeLimit": 100,
+      "rewardGroupId": 3640126,
+      "displayType": "ICON",
+      "isHighlight": false,
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "repeatSales": 0
+    }
+  ]
+}

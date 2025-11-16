@@ -1,0 +1,584 @@
+{
+  "basicMasters": [
+    {
+      "id": 9300001,
+      "name": "daily_receive_limit_of_ticket_ad_for_no_ticket",
+      "value": 3
+    },
+    {
+      "id": 9300002,
+      "name": "daily_receive_limit_of_ticket_ad_for_play_again",
+      "value": 1
+    },
+    {
+      "id": 9300003,
+      "name": "daily_lottery_limit_of_balloon_ads",
+      "value": 20
+    },
+    {
+      "id": 9300004,
+      "name": "currency_amount_to_play",
+      "value": 10
+    },
+    {
+      "id": 9300005,
+      "name": "initial_profile_bg_id",
+      "value": 800001
+    },
+    {
+      "id": 9300007,
+      "name": "newly_released",
+      "value": 7
+    },
+    {
+      "id": 9300008,
+      "name": "initial_head_skin_id",
+      "value": 500001
+    },
+    {
+      "id": 9300009,
+      "name": "initial_body_skin_id",
+      "value": 500191
+    },
+    {
+      "id": 9300010,
+      "name": "initial_paint_skin_id",
+      "value": 500493
+    },
+    {
+      "id": 9300011,
+      "name": "initial_petit_skin_id",
+      "value": 500421
+    },
+    {
+      "id": 9300012,
+      "name": "initial_costume_skin_id",
+      "value": 500446
+    },
+    {
+      "id": 9300013,
+      "name": "mechadon_costume_skin_id",
+      "value": 500453
+    },
+    {
+      "id": 9300014,
+      "name": "max_friend_count",
+      "value": 50
+    },
+    {
+      "id": 9300015,
+      "name": "error_player_name_include_ng_word",
+      "value": 300001
+    },
+    {
+      "id": 9300016,
+      "name": "error_music_comment_include_ng_word",
+      "value": 300002
+    },
+    {
+      "id": 9300017,
+      "name": "error_my_friend_limit_over",
+      "value": 200001
+    },
+    {
+      "id": 9300018,
+      "name": "error_your_friend_limit_over",
+      "value": 200002
+    },
+    {
+      "id": 9300019,
+      "name": "error_already_friend",
+      "value": 200003
+    },
+    {
+      "id": 9300020,
+      "name": "error_receipt_verification_failed",
+      "value": 400001
+    },
+    {
+      "id": 9300021,
+      "name": "max_free_currency_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300022,
+      "name": "max_ticket_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300023,
+      "name": "max_ticket_p_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300024,
+      "name": "max_variety_p_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300025,
+      "name": "max_fashion_p_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300026,
+      "name": "max_item_p_amount",
+      "value": 99999
+    },
+    {
+      "id": 9300027,
+      "name": "friend_power_bonus_base_item_point",
+      "value": 250
+    },
+    {
+      "id": 9300028,
+      "name": "max_player_level",
+      "value": 700
+    },
+    {
+      "id": 9300029,
+      "name": "daily_play_limit_coefficient_play_score_bonus",
+      "value": 1
+    },
+    {
+      "id": 9300032,
+      "name": "tutorial_threshold_ticket_point",
+      "value": 1000
+    },
+    {
+      "id": 9300033,
+      "name": "tutorial_threshold_iroiro_point",
+      "value": 1000
+    },
+    {
+      "id": 9300034,
+      "name": "tutorial_threshold_oshare_point",
+      "value": 1000
+    },
+    {
+      "id": 9300035,
+      "name": "tutorial_threshold_item_point",
+      "value": 1000
+    },
+    {
+      "id": 9300036,
+      "name": "tutorial_play_request_count",
+      "value": 2
+    },
+    {
+      "id": 9300037,
+      "name": "invitation_reward_group_id",
+      "value": 3210005
+    },
+    {
+      "id": 9300038,
+      "name": "visit_from_home_ticket_point_gain_amount",
+      "value": 50
+    },
+    {
+      "id": 9300039,
+      "name": "visit_from_home_variety_point_gain_amount",
+      "value": 10
+    },
+    {
+      "id": 9300040,
+      "name": "visit_from_home_point_reward_rank",
+      "value": 1
+    },
+    {
+      "id": 9300041,
+      "name": "daily_play_limit_coefficient_point_bonus",
+      "value": 1
+    },
+    {
+      "id": 9300042,
+      "name": "newly_shop_exchange_started",
+      "value": 7
+    },
+    {
+      "id": 9300043,
+      "name": "comment_terms_updated_at",
+      "value": 20221210235959
+    },
+    {
+      "id": 9300044,
+      "name": "terms_and_privacy_updated_at",
+      "value": 20221210235959
+    },
+    {
+      "id": 9300045,
+      "name": "initial_left_custom_title_id",
+      "value": 610001
+    },
+    {
+      "id": 9300046,
+      "name": "initial_center_custom_title_id",
+      "value": 610479
+    },
+    {
+      "id": 9300047,
+      "name": "initial_right_custom_title_id",
+      "value": 610555
+    },
+    {
+      "id": 9300048,
+      "name": "required_title_point_to_get_custom_title",
+      "value": 1000
+    },
+    {
+      "id": 9300051,
+      "name": "error_monthly_purchase_limit_over",
+      "value": 400003
+    },
+    {
+      "id": 9300052,
+      "name": "error_next_day_daily_play_limit_unlock",
+      "value": 400004
+    },
+    {
+      "id": 9300053,
+      "name": "error_age_category_select_required",
+      "value": 400007
+    },
+    {
+      "id": 9300054,
+      "name": "exp_2_play_item_id",
+      "value": 400001
+    },
+    {
+      "id": 9300055,
+      "name": "exp_3_play_item_id",
+      "value": 400002
+    },
+    {
+      "id": 9300056,
+      "name": "point_2_play_item_id",
+      "value": 400003
+    },
+    {
+      "id": 9300057,
+      "name": "play_support_play_item_id",
+      "value": 400004
+    },
+    {
+      "id": 9300058,
+      "name": "long_press_repeated_hits_play_item_id",
+      "value": 400005
+    },
+    {
+      "id": 9300059,
+      "name": "rainbow_kozuchi_play_item_id",
+      "value": 400006
+    },
+    {
+      "id": 9300060,
+      "name": "effect_all_play_item_id",
+      "value": 400007
+    },
+    {
+      "id": 9300061,
+      "name": "play_item_id_reserved_8",
+      "value": 400008
+    },
+    {
+      "id": 9300062,
+      "name": "play_item_id_reserved_9",
+      "value": 400009
+    },
+    {
+      "id": 9300063,
+      "name": "first_transition_tips_group_id_update_list",
+      "value": 9410002
+    },
+    {
+      "id": 9300064,
+      "name": "first_transition_tips_group_id_select_play_item",
+      "value": 9410003
+    },
+    {
+      "id": 9300065,
+      "name": "first_transition_tips_group_id_score_bonus",
+      "value": 1
+    },
+    {
+      "id": 9300066,
+      "name": "first_transition_tips_group_id_unlock_menu",
+      "value": 9410018
+    },
+    {
+      "id": 9300067,
+      "name": "first_transition_tips_group_id_trend",
+      "value": 9410008
+    },
+    {
+      "id": 9300069,
+      "name": "first_transition_tips_group_id_mypage",
+      "value": 9410013
+    },
+    {
+      "id": 9300070,
+      "name": "first_transition_tips_group_id_skin",
+      "value": 9410009
+    },
+    {
+      "id": 9300071,
+      "name": "first_transition_tips_group_id_auto_play",
+      "value": 1
+    },
+    {
+      "id": 9300072,
+      "name": "first_transition_tips_group_id_friend",
+      "value": 9410015
+    },
+    {
+      "id": 9300073,
+      "name": "first_transition_tips_group_id_mission",
+      "value": 9410017
+    },
+    {
+      "id": 9300074,
+      "name": "first_transition_tips_group_id_mylist",
+      "value": 9410014
+    },
+    {
+      "id": 9300075,
+      "name": "first_transition_tips_group_id_over_rank_aa",
+      "value": 9410016
+    },
+    {
+      "id": 9300076,
+      "name": "first_transition_tips_group_id_in_game_beginner",
+      "value": 9410005
+    },
+    {
+      "id": 9300077,
+      "name": "first_transition_tips_group_id_in_game_experienced",
+      "value": 9410004
+    },
+    {
+      "id": 9300078,
+      "name": "first_transition_tips_group_id_first_level_up",
+      "value": 9410006
+    },
+    {
+      "id": 9300079,
+      "name": "first_transition_tips_group_id_first_rank_up",
+      "value": 9410007
+    },
+    {
+      "id": 9300080,
+      "name": "first_transition_tips_group_id_point",
+      "value": 9410010
+    },
+    {
+      "id": 9300081,
+      "name": "first_transition_tips_group_id_acquiring_ticket",
+      "value": 9410011
+    },
+    {
+      "id": 9300082,
+      "name": "first_transition_tips_group_id_difficulty_selection",
+      "value": 9410001
+    },
+    {
+      "id": 9300083,
+      "name": "first_transition_tips_group_id_shop_passport",
+      "value": 9410012
+    },
+    {
+      "id": 9300084,
+      "name": "first_transition_tips_group_id_shop_coin",
+      "value": 9410019
+    },
+    {
+      "id": 9300085,
+      "name": "first_transition_tips_group_id_shop_point",
+      "value": 9410020
+    },
+    {
+      "id": 9300086,
+      "name": "first_transition_tips_group_id_shop",
+      "value": 9410021
+    },
+    {
+      "id": 9300087,
+      "name": "error_invalid_access_token",
+      "value": 100006
+    },
+    {
+      "id": 9300088,
+      "name": "can_call_for_return_line_friend_days",
+      "value": 30
+    },
+    {
+      "id": 9300089,
+      "name": "daily_line_friend_invitation_count_limit",
+      "value": 200
+    },
+    {
+      "id": 9300090,
+      "name": "error_event_term_closed",
+      "value": 600001
+    },
+    {
+      "id": 9300091,
+      "name": "error_maintenance",
+      "value": 100009
+    },
+    {
+      "id": 9300092,
+      "name": "lmp_user_comment_limited_mute_penalty_days",
+      "value": 7
+    },
+    {
+      "id": 9300093,
+      "name": "error_account_banned",
+      "value": 100007
+    },
+    {
+      "id": 9300094,
+      "name": "error_account_warn_banned",
+      "value": 100008
+    },
+    {
+      "id": 9300095,
+      "name": "error_account_term_banned",
+      "value": 100010
+    },
+    {
+      "id": 9300096,
+      "name": "error_request_time_out_of_range",
+      "value": 100004
+    },
+    {
+      "id": 9300097,
+      "name": "error_no_parental_consent",
+      "value": 400009
+    },
+    {
+      "id": 9300098,
+      "name": "error_authentication",
+      "value": 100002
+    },
+    {
+      "id": 9300099,
+      "name": "stamp_receive_term_closed",
+      "value": 600003
+    },
+    {
+      "id": 9300100,
+      "name": "play_start_with_use_coin_coin_exchange_id",
+      "value": 5200010
+    },
+    {
+      "id": 9300101,
+      "name": "play_start_again_with_use_coin_coin_exchange_id",
+      "value": 5200011
+    },
+    {
+      "id": 9300102,
+      "name": "refresh_bingo_sheet_with_use_coin_coin_exchange_id",
+      "value": 5200021
+    },
+    {
+      "id": 9300103,
+      "name": "play_again_with_use_coin_coin_exchange_id",
+      "value": 5200022
+    },
+    {
+      "id": 9300104,
+      "name": "unlock_difficulty_oni_with_use_coin_coin_exchange_id",
+      "value": 5200018
+    },
+    {
+      "id": 9300105,
+      "name": "unlock_difficulty_ura_oni_with_use_coin_coin_exchange_id",
+      "value": 5200019
+    },
+    {
+      "id": 9300106,
+      "name": "unlock_difficulty_oni__ura_oni_with_use_coin_coin_exchange_id",
+      "value": 5200020
+    },
+    {
+      "id": 9300107,
+      "name": "rechallenge_national_tournament_with_use_coin_coin_exchange_id",
+      "value": 5200024
+    },
+    {
+      "id": 9300108,
+      "name": "update_national_tournament_save_point_with_use_coin_coin_exchange_id",
+      "value": 5200025
+    },
+    {
+      "id": 9300109,
+      "name": "first_transition_tips_group_id_shop_music",
+      "value": 9410022
+    },
+    {
+      "id": 9300110,
+      "name": "first_transition_tips_group_id_music_collection",
+      "value": 9410023
+    },
+    {
+      "id": 9300111,
+      "name": "add_music_collection_with_use_coin_coin_exchange_id",
+      "value": 5200027
+    },
+    {
+      "id": 9300112,
+      "name": "free_coin_amount_notified_ranking_update_by_line",
+      "value": 1
+    },
+    {
+      "id": 9300113,
+      "name": "can_reinvite_line_friend_days",
+      "value": 60
+    },
+    {
+      "id": 9300114,
+      "name": "call_line_present_to_friend_reward_group_id",
+      "value": 3210006
+    },
+    {
+      "id": 9300115,
+      "name": "call_line_present_to_friend_present_message_id",
+      "value": 3100009
+    },
+    {
+      "id": 9300116,
+      "name": "call_line_caller_reward_daily_count_limit",
+      "value": 20
+    },
+    {
+      "id": 9300117,
+      "name": "call_line_caller_reward_group_id",
+      "value": 3210010
+    },
+    {
+      "id": 9300118,
+      "name": "noticed_ranking_by_line_reward_daily_count_limit",
+      "value": 20
+    },
+    {
+      "id": 9300119,
+      "name": "daily_limit_of_update_best_score_ad_reward",
+      "value": 6
+    },
+    {
+      "id": 9300120,
+      "name": "update_best_score_ad_reward_group_id",
+      "value": 3970001
+    },
+    {
+      "id": 9300121,
+      "name": "free_pack_exchange_id_for_display_home",
+      "value": 5040003
+    },
+    {
+      "id": 9300122,
+      "name": "force_disable_call_line_button",
+      "value": 2
+    }
+  ]
+}

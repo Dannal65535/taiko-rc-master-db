@@ -1,0 +1,67 @@
+{
+  "titles": [
+    {
+      "id": 600001,
+      "rarity": 1,
+      "name": "Super Crown Master",
+      "description": "Proof you collected 3,500 Crowns, DON!",
+      "iconFileName": "honor_icon_001",
+      "bgFileName": "honor_bg_001",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600002,
+      "rarity": 1,
+      "name": "Slow and Steady",
+      "description": "Proof of 8,760 Complete Performances, DON!",
+      "iconFileName": "honor_icon_002",
+      "bgFileName": "honor_bg_002",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600003,
+      "rarity": 1,
+      "name": "Self-Proclaimed Stylist",
+      "description": "Proof you collected 400 outfits, DON!",
+      "iconFileName": "honor_icon_003",
+      "bgFileName": "honor_bg_003",
+      "textColorType": "TEXT_COLOR_PINK"
+    },
+    {
+      "id": 600004,
+      "rarity": 1,
+      "name": "Top Ranker",
+      "description": "Proof you reached Player Rank SSS, DON!",
+      "iconFileName": "honor_icon_004",
+      "bgFileName": "honor_bg_004",
+      "textColorType": "TEXT_COLOR_PURPLE"
+    },
+    {
+      "id": 600005,
+      "rarity": 1,
+      "name": "I Am My Own Rival",
+      "description": "Proof you reached Player Level 700, DON!",
+      "iconFileName": "honor_icon_005",
+      "bgFileName": "honor_bg_005",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600006,
+      "rarity": 1,
+      "name": "Need for Speed",
+      "description": "Proof you earned \"Fastest today!\" 100 times, DON!",
+      "iconFileName": "honor_icon_006",
+      "bgFileName": "honor_bg_006",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600007,
+      "rarity": 1,
+      "name": "Dontastic!!",
+      "description": "Proof you got a Don-derful Combo on 3 different songs in a row on Extreme ☆10, DON!",
+      "iconFileName": "honor_icon_007",
+      "bgFileName": "honor_bg_007",
+      "textColorType": "TEXT_COLOR_PINK"
+    }
+  ]
+}

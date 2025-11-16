@@ -1,0 +1,32 @@
+{
+  "missionStampDetails": [
+    {
+      "id": 9800001,
+      "groupId": 980001,
+      "sortOrder": 1,
+      "description": "<B>太鼓の達人 RHYTHM CONNECTをあそんで\nLINEスタンプをGET！</B>\n\nミッションを全てクリアして\n特別なLINEスタンプを手に入れよう！",
+      "fileName": "mission_stamp_tips_0001"
+    },
+    {
+      "id": 9800002,
+      "groupId": 980001,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※LINEログインしていない場合、スタンプは獲得できません。\n※スタンプの有効期限はダウンロード後90日です。\n※キャンペーン終了日時を迎える前にスタンプをダウンロードしてください。\nキャンペーン期間外はスタンプのダウンロードが行えません。</color>",
+      "fileName": "mission_stamp_tips_0002"
+    },
+    {
+      "id": 9800003,
+      "groupId": 980002,
+      "sortOrder": 1,
+      "description": "<B>太鼓の達人 RHYTHM CONNECTをあそんで\nLINEスタンプをGET！</B>\n\nミッションを全てクリアして\n特別なLINEスタンプを手に入れよう！",
+      "fileName": "mission_stamp_tips_0003"
+    },
+    {
+      "id": 9800004,
+      "groupId": 980002,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※LINEログインしていない場合、スタンプは獲得できません。\n※スタンプの有効期限はダウンロード後90日です。\n※キャンペーン終了日時を迎える前にスタンプをダウンロードしてください。\nキャンペーン期間外はスタンプのダウンロードが行えません。</color>",
+      "fileName": "mission_stamp_tips_0004"
+    }
+  ]
+}

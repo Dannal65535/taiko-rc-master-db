@@ -1,0 +1,263 @@
+{
+  "firstTransitionTips": [
+    {
+      "id": 9420001,
+      "groupId": 1001,
+      "sortOrder": 1,
+      "description": "無料であそぶボタンの横にある難易度ボタンをタッチすると\nプレイする難易度を変更できます。\n\n<B>いろんな難易度に挑戦してみましょう</B>",
+      "fileName": "TipsImage_1030"
+    },
+    {
+      "id": 9420002,
+      "groupId": 1002,
+      "sortOrder": 1,
+      "description": "<B>あなたにあわせて選曲されたリストを\n更新しました</B>\n\nこのリストはホームで曲を探している時や\n演奏ゲームをあそび終わったあとに更新されます。",
+      "fileName": "TipsImage_1041"
+    },
+    {
+      "id": 9420003,
+      "groupId": 1003,
+      "sortOrder": 1,
+      "description": "アイテムをつかうと\n演奏中に<B>特別な効果</B>があらわれます。\n\n難しい曲にチャレンジするときは演奏補助をつかってみましょう。",
+      "fileName": "TipsImage_1001"
+    },
+    {
+      "id": 9420004,
+      "groupId": 1004,
+      "sortOrder": 1,
+      "description": "赤い音符が来たら太鼓の面を、\n青い音符が来たら太鼓の面以外をたたきましょう。",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420005,
+      "groupId": 1004,
+      "sortOrder": 2,
+      "description": "大きい音符は両手でたたけば高得点！\n慣れるまでは片手でもOK！",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420006,
+      "groupId": 1005,
+      "sortOrder": 1,
+      "description": "赤い音符が来たら太鼓の面を、\n青い音符が来たら太鼓の面以外をたたきましょう。",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420007,
+      "groupId": 1005,
+      "sortOrder": 2,
+      "description": "大きい音符は両手でたたけば高得点！\n慣れるまでは片手でもOK！",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420008,
+      "groupId": 1005,
+      "sortOrder": 3,
+      "description": "黄色い音符はひたすら連打！\nたくさんたたけば高得点！",
+      "fileName": "TipsImage_1033"
+    },
+    {
+      "id": 9420009,
+      "groupId": 1005,
+      "sortOrder": 4,
+      "description": "風船音符は風船が割れるまでとにかく連打！",
+      "fileName": "TipsImage_1034"
+    },
+    {
+      "id": 9420010,
+      "groupId": 1005,
+      "sortOrder": 5,
+      "description": "こづち音符もとにかく連打！\nたたききれれば高得点！\n稀にレアなこづちが現れることがあるかも...？",
+      "fileName": "TipsImage_1035"
+    },
+    {
+      "id": 9420011,
+      "groupId": 1006,
+      "sortOrder": 1,
+      "description": "<B>おめでとう！初レベルアップ！</B>\n\n\n演奏を完了すれば経験値を獲得！\nたくさん演奏してレベルをあげましょう。",
+      "fileName": "TipsImage_1036"
+    },
+    {
+      "id": 9420012,
+      "groupId": 1006,
+      "sortOrder": 2,
+      "description": "レベルアップするとスコアボーナスが増えます。\n\n<B>スコアボーナスで1回の演奏で獲得できるスコアがアップ！</B>\n\nきせかえを入手しても増えていきます。",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420013,
+      "groupId": 1007,
+      "sortOrder": 1,
+      "description": "<B>おめでとう！初ランクアップ！</B>\n\n高得点を出して総合スコアが増えるとランクがあがります。\nいろんな曲をあそんでみて得意な曲をみつけよう。",
+      "fileName": "TipsImage_1037"
+    },
+    {
+      "id": 9420014,
+      "groupId": 1007,
+      "sortOrder": 2,
+      "description": "ランクアップするとスコアボーナスが増えます。\n\n<B>スコアボーナスで1回の演奏で獲得できるスコアがアップ！</B>\n\nきせかえを入手しても増えていきます。",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420016,
+      "groupId": 1008,
+      "sortOrder": 1,
+      "description": "<B>チケットをつかって好きな曲を演奏しましょう</B>\n\n「検索」を選ぶと好きな曲を探せます。\n\nおすすめの曲も紹介されますので\nいろいろな曲をあそんでみましょう。",
+      "fileName": "TipsImage_1003"
+    },
+    {
+      "id": 9420017,
+      "groupId": 1008,
+      "sortOrder": 2,
+      "description": "<B>好きな曲を探すときに便利なフィルター機能</B>\n\nまだ演奏したことがない曲や金王冠を取っていない曲も\n簡単にみつかります。",
+      "fileName": "TipsImage_1004"
+    },
+    {
+      "id": 9420018,
+      "groupId": 1009,
+      "sortOrder": 1,
+      "description": "<B>どんちゃんをナイスな衣装にきせかえ！</B>\n\nどんな衣装を着てもきせかえボーナスは変わらないので\nお気に入りのきせかえを選んでください。",
+      "fileName": "TipsImage_1009"
+    },
+    {
+      "id": 9420019,
+      "groupId": 1010,
+      "sortOrder": 1,
+      "description": "ポイントがたまりました。\n<B>ショップで各種ポイントとステキなアイテムを交換できます</B>\n\nすぐにショップで交換してみましょう。",
+      "fileName": "TipsImage_1038"
+    },
+    {
+      "id": 9420020,
+      "groupId": 1011,
+      "sortOrder": 1,
+      "description": "チケットが無くなりました。\nチケットを入手するにはホーム(FREE)から無料楽曲をあそぶと\nチケットPが手に入ります。\n\n<B>チケットPはショップでチケットと交換できます</B>",
+      "fileName": "TipsImage_1039"
+    },
+    {
+      "id": 9420021,
+      "groupId": 1012,
+      "sortOrder": 1,
+      "description": "<B>パスポートを購入してたくさんあそびましょう</B>\n\nパスポートを購入すると\n<color=#f84828><B>広告が削除されたり\n先行配信限定楽曲があそべるようになります。</B></color>\n\nその他の特典も盛りだくさんです。",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420022,
+      "groupId": 1019,
+      "sortOrder": 1,
+      "description": "<B>コインを購入してアイテムと交換しましょう</B>\n\nセット商品はアイテムがたくさん入ってお得です。",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420023,
+      "groupId": 1020,
+      "sortOrder": 1,
+      "description": "<B>あつめたポイントをつかってアイテムをGET！</B>\n\nポイントをつかうとアイテムやきせかえと交換できます。\n\nきせかえは増えるごとにスコアボーナスがどんどん増えていきます。",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420024,
+      "groupId": 1013,
+      "sortOrder": 1,
+      "description": "<B>プロフィールやどんちゃんを自分好みにカスタマイズ！</B>\n\n背景やプレイヤーのアイコンも変更できます。\n\nその日の気分で切り替えるのもあり！",
+      "fileName": "TipsImage_1008"
+    },
+    {
+      "id": 9420025,
+      "groupId": 1014,
+      "sortOrder": 1,
+      "description": "<B>気に入った曲はハートをタッチして「いいね」しておきましょう\nハートを長押しすると「推し曲」に設定もできます</B>\n\n設定した曲はマイリストに保存されるため、\n曲名が思い出せなくても安心！",
+      "fileName": "TipsImage_1014"
+    },
+    {
+      "id": 9420026,
+      "groupId": 1014,
+      "sortOrder": 2,
+      "description": "<B>得意な曲でもっとスコアを伸ばしてみましょう</B>\n\n「ハイスコア」にはベストスコア上位曲が表示されます。\nベストスコア上位20曲の累計値によってランクが決定！\nマイリストから得意な曲をたくさん練習しましょう。",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420027,
+      "groupId": 1015,
+      "sortOrder": 1,
+      "description": "<B>フレンドと一緒に太鼓の達人をあそびましょう</B>\n\nフレンドをたくさん作ると\nスコアを比べて上達を確認したり\nフレンドパワーボーナスでアイテムPがたくさんもらえるようになります。\n\n<B>みんなであそぶと太鼓の達人がもっと楽しくなります</B>",
+      "fileName": "TipsImage_1011"
+    },
+    {
+      "id": 9420028,
+      "groupId": 1016,
+      "sortOrder": 1,
+      "description": "ランクAAからは毎月1日にランクとボーダーラインがリセット！\n\nたくさんあそんで高ランクを目指しましょう。",
+      "fileName": "TipsImage_1016"
+    },
+    {
+      "id": 9420029,
+      "groupId": 1016,
+      "sortOrder": 2,
+      "description": "<B>新しい難易度に挑戦してみましょう</B>\n\n難易度「むずかしい」で銀王冠を獲得すると\n難易度「おに」と同時に難易度「おに(裏)」が\n解放されるようになりました。",
+      "fileName": "TipsImage_1017"
+    },
+    {
+      "id": 9420031,
+      "groupId": 1018,
+      "sortOrder": 1,
+      "description": "<B>『マイリスト』『ショップ』『マイページ』</B>\n機能がつかえるようになりました。\n\n画面下のメニューからいろいろな機能をつかってみましょう。",
+      "fileName": "TipsImage_1013"
+    },
+    {
+      "id": 9420032,
+      "groupId": 1004,
+      "sortOrder": 3,
+      "description": "<B>演奏の準備は万端です</B>\n\n太鼓の達人 RHYTHM CONNECTにノルマはありません。\n楽しくたたいてハイスコアを目指しましょう。",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420033,
+      "groupId": 1005,
+      "sortOrder": 6,
+      "description": "<B>演奏の準備は万端です</B>\n\n太鼓の達人 RHYTHM CONNECTにノルマはありません。\n楽しくたたいてハイスコアを目指しましょう。",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420034,
+      "groupId": 1007,
+      "sortOrder": 3,
+      "description": "<B>得意な曲でもっとランクアップ！</B>\n\nランクはベストスコア上位20曲の累計値によってきまります。\nいろんな曲をたくさんたたいて高スコアをめざしましょう。",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420035,
+      "groupId": 2001,
+      "sortOrder": 1,
+      "description": "<B>パスポートを購入してたくさんあそびましょう</B>\n\nパスポートを購入すると\n<color=#f84828><B>広告が削除されたり\n先行配信限定楽曲があそべるようになります。</B></color>\n\nその他の特典も盛りだくさんです。",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420036,
+      "groupId": 2001,
+      "sortOrder": 2,
+      "description": "<B>コインを購入してアイテムと交換しましょう</B>\n\nセット商品はアイテムがたくさん入ってお得です。",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420037,
+      "groupId": 2001,
+      "sortOrder": 3,
+      "description": "<B>あつめたポイントをつかってアイテムをGET！</B>\n\nポイントをつかうとアイテムやきせかえと交換できます。\n\nきせかえは増えるごとにスコアボーナスがどんどん増えていきます。",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420038,
+      "groupId": 2982,
+      "sortOrder": 1,
+      "description": "<B>一部の楽曲はロックされています！</B>\n\n楽曲を解放すれば\n自由にあそぶことができます♪",
+      "fileName": "TipsImage_1042"
+    },
+    {
+      "id": 9420039,
+      "groupId": 3963,
+      "sortOrder": 1,
+      "description": "<B>集中して演奏したい楽曲は\nコレクションがオススメです!!</B>\n\n<color=#f84828><B>※先行配信曲はパスポートを購入するか\n（パスポート・ライトを除く）\n先行配信期間終了後に購入できます\n※先行配信曲をコレクションした後に\nパスポートの効果が切れると先行配信期間終了まで\nプレイできないのでご注意ください</B></color>",
+      "fileName": "TipsImage_1044"
+    }
+  ]
+}

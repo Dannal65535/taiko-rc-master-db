@@ -1,0 +1,760 @@
+{
+  "eventInfoPopups": [
+    {
+      "id": 8070001,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500472,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070002,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500084,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070003,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500278,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070004,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500290,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070005,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_PLAY_ITEM",
+        "productId": 400003,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070006,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_PLAY_ITEM",
+        "productId": 400001,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070007,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_TICKET",
+        "productId": 100003,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070008,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_TICKET",
+        "productId": 100005,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070009,
+      "groupId": 1,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800003,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070010,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500481,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070011,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500073,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070012,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500265,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070013,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500115,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070014,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_PLAY_ITEM",
+        "productId": 400003,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070015,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_PLAY_ITEM",
+        "productId": 400001,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070016,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_TICKET",
+        "productId": 100003,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070017,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_TICKET",
+        "productId": 100004,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070018,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_TICKET",
+        "productId": 100005,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070019,
+      "groupId": 2,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800007,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070020,
+      "groupId": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500492,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070021,
+      "groupId": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500095,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070022,
+      "groupId": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500293,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070023,
+      "groupId": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500110,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070024,
+      "groupId": 3,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800039,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070025,
+      "groupId": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500157,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070026,
+      "groupId": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500376,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070027,
+      "groupId": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500249,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070028,
+      "groupId": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500183,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070029,
+      "groupId": 4,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800013,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070030,
+      "groupId": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500490,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070031,
+      "groupId": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500060,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070032,
+      "groupId": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500254,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070033,
+      "groupId": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500124,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070034,
+      "groupId": 5,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800044,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070035,
+      "groupId": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500484,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070036,
+      "groupId": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500189,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070037,
+      "groupId": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500419,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070038,
+      "groupId": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500132,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070039,
+      "groupId": 6,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800116,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070040,
+      "groupId": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500398,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070041,
+      "groupId": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500096,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070042,
+      "groupId": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500294,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070043,
+      "groupId": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500137,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070044,
+      "groupId": 7,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800060,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070045,
+      "groupId": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500583,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070046,
+      "groupId": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500140,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070047,
+      "groupId": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500344,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070048,
+      "groupId": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500213,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070049,
+      "groupId": 8,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800079,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070050,
+      "groupId": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500107,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070051,
+      "groupId": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500311,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070052,
+      "groupId": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500164,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070053,
+      "groupId": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500390,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070054,
+      "groupId": 9,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800126,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070055,
+      "groupId": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500082,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070056,
+      "groupId": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500274,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070057,
+      "groupId": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500304,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070058,
+      "groupId": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500327,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070059,
+      "groupId": 10,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800084,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070060,
+      "groupId": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500487,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070061,
+      "groupId": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500168,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070062,
+      "groupId": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500395,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070063,
+      "groupId": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500353,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070064,
+      "groupId": 11,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800077,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070065,
+      "groupId": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500452,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070066,
+      "groupId": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500163,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070067,
+      "groupId": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500386,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070068,
+      "groupId": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500150,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070069,
+      "groupId": 12,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800033,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070070,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500489,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070071,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500079,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070072,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500271,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070073,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500288,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070074,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500092,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070075,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500289,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070076,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500138,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070077,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500253,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070078,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_SKIN",
+        "productId": 500352,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070079,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800035,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070080,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800051,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070081,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800110,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070082,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800101,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070083,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800083,
+        "amount": 1
+      }
+    },
+    {
+      "id": 8070084,
+      "groupId": 13,
+      "product": {
+        "type": "PRODUCT_TYPE_PROFILE_BG",
+        "productId": 800043,
+        "amount": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "stickerGroups": [
+    {
+      "id": 700001,
+      "groupId": 1,
+      "name": "文字ステッカー",
+      "sortOrder": 2
+    },
+    {
+      "id": 700002,
+      "groupId": 2,
+      "name": "その他ステッカー",
+      "sortOrder": 1
+    }
+  ]
+}

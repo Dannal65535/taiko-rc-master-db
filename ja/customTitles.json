@@ -1,0 +1,8469 @@
+{
+  "customTitles": [
+    {
+      "id": 610001,
+      "name": "ドンだー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610002,
+      "name": "達人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610003,
+      "name": "友達",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610004,
+      "name": "バチ使い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610005,
+      "name": "勇者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610006,
+      "name": "ヒーロー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610007,
+      "name": "王子様",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610008,
+      "name": "紳士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610009,
+      "name": "ご主人様",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610010,
+      "name": "ヒロイン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610011,
+      "name": "お姫様",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610012,
+      "name": "淑女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610013,
+      "name": "駆け出し",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610014,
+      "name": "修行中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610015,
+      "name": "挑戦中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610016,
+      "name": "一人前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610017,
+      "name": "スゴ腕",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610018,
+      "name": "全",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610019,
+      "name": "超",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610020,
+      "name": "お祭り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610021,
+      "name": "青春",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610022,
+      "name": "草食系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610023,
+      "name": "肉食系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610024,
+      "name": "文系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610025,
+      "name": "理数系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610026,
+      "name": "募集中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610027,
+      "name": "技巧",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610028,
+      "name": "頭脳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610029,
+      "name": "肉体",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610030,
+      "name": "おしゃれ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610031,
+      "name": "金",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610032,
+      "name": "銀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610033,
+      "name": "パープル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610034,
+      "name": "ブラック",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610035,
+      "name": "ブルー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610036,
+      "name": "ホワイト",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610037,
+      "name": "レッド",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610038,
+      "name": "犬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610039,
+      "name": "狼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610040,
+      "name": "猫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610041,
+      "name": "ライオン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610042,
+      "name": "裏世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610043,
+      "name": "地元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610044,
+      "name": "世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610045,
+      "name": "太鼓界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610046,
+      "name": "太鼓学園",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610047,
+      "name": "今日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610048,
+      "name": "明日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610049,
+      "name": "昨日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610050,
+      "name": "毎日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610051,
+      "name": "カツ丼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610052,
+      "name": "ごはん",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610053,
+      "name": "たまご",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610054,
+      "name": "ドラゴン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610055,
+      "name": 2000,
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610056,
+      "name": "アイドル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610057,
+      "name": "神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610058,
+      "name": "スーパー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610059,
+      "name": "ゴリラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610060,
+      "name": "週末",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610061,
+      "name": "小悪魔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610062,
+      "name": "ベスト",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610063,
+      "name": "音速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610064,
+      "name": "光速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610065,
+      "name": "神速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610066,
+      "name": "心眼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610067,
+      "name": "支配者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610068,
+      "name": "てへぺろ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610069,
+      "name": "肉球",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610070,
+      "name": "ワイルド",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610071,
+      "name": "歌姫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610072,
+      "name": "天使",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610073,
+      "name": "マスター",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610074,
+      "name": "薔薇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610075,
+      "name": "無双",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610076,
+      "name": "ビックリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610077,
+      "name": "少女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610078,
+      "name": "少年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610079,
+      "name": "裏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610080,
+      "name": "闇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610081,
+      "name": "最終定理",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610082,
+      "name": "自称",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610083,
+      "name": "伝説",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610084,
+      "name": "ゴールド",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610085,
+      "name": "永遠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610086,
+      "name": "挑戦者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610087,
+      "name": "至高",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610088,
+      "name": "混沌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610089,
+      "name": "太鼓戦士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610090,
+      "name": "立つドン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610091,
+      "name": "ツンデレ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610092,
+      "name": "脱臼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610093,
+      "name": "開拓者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610094,
+      "name": "風来",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610095,
+      "name": "旅人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610096,
+      "name": "首領",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610097,
+      "name": "敏腕",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610098,
+      "name": "覇者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610099,
+      "name": "歴史",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610100,
+      "name": "仏恥義理",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610101,
+      "name": "愛羅武勇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610102,
+      "name": "四季折々",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610103,
+      "name": "春夏秋冬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610104,
+      "name": "電光石火",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610105,
+      "name": "ドコドン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610106,
+      "name": "ドン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610107,
+      "name": "太鼓部",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610108,
+      "name": "超時空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610109,
+      "name": "勝利",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610110,
+      "name": "歴戦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610111,
+      "name": "勝者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610112,
+      "name": "常勝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610113,
+      "name": "上昇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610114,
+      "name": "無敗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610115,
+      "name": "無敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610116,
+      "name": "みんな",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610117,
+      "name": "真龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610118,
+      "name": "ちくわ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610119,
+      "name": "ラーメン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610120,
+      "name": "†",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610121,
+      "name": "堕天使",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610122,
+      "name": "Boys",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610123,
+      "name": "亜空間",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610124,
+      "name": "ボクハ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610125,
+      "name": "光属性",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610126,
+      "name": "何ッ！？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610127,
+      "name": "ひまわり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610128,
+      "name": "春",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610129,
+      "name": "夏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610130,
+      "name": "秋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610131,
+      "name": "冬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610132,
+      "name": "季節",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610133,
+      "name": "異次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610134,
+      "name": "海",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610135,
+      "name": "大空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610136,
+      "name": "安全第一",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610137,
+      "name": "おはよう",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610138,
+      "name": "おやすみ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610139,
+      "name": "がっつり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610140,
+      "name": "カワイイ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610141,
+      "name": "激おこ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610142,
+      "name": "過去",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610143,
+      "name": "時雨",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610144,
+      "name": "未来",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610145,
+      "name": "果敢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610146,
+      "name": "覚醒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610147,
+      "name": "気迫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610148,
+      "name": "挑戦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610149,
+      "name": "闘志",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610150,
+      "name": "熱血",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610151,
+      "name": "不屈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610152,
+      "name": "ホット",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610153,
+      "name": "コールド",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610154,
+      "name": "青",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610155,
+      "name": "赤",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610156,
+      "name": "白",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610157,
+      "name": "ピンク",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610158,
+      "name": "紫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610159,
+      "name": "漆黒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610160,
+      "name": "黄緑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610161,
+      "name": "お寿司",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610162,
+      "name": "ハニー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610163,
+      "name": "バニラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610164,
+      "name": "チキン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610165,
+      "name": "焼肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610166,
+      "name": "スタミナ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610167,
+      "name": "ミント",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610168,
+      "name": "抹茶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610169,
+      "name": "ライム",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610170,
+      "name": "10代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610171,
+      "name": "20代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610172,
+      "name": "30代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610173,
+      "name": "おちゃめ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610174,
+      "name": "金髪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610175,
+      "name": "黒髪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610176,
+      "name": "部長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610177,
+      "name": "怪獣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610178,
+      "name": "妖精",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610179,
+      "name": "うさぎ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610180,
+      "name": "くま",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610181,
+      "name": "白猫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610182,
+      "name": "虎",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610183,
+      "name": "隼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610184,
+      "name": "バチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610185,
+      "name": "メガネ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610186,
+      "name": "ロボ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610187,
+      "name": "スカート",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610188,
+      "name": "ネイル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610189,
+      "name": "唯我独尊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610190,
+      "name": "スイーツ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610191,
+      "name": "40代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610192,
+      "name": "50代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610193,
+      "name": "先駆者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610194,
+      "name": "覇王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610195,
+      "name": "魔王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610196,
+      "name": "ニーソ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610197,
+      "name": "キラキラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610198,
+      "name": "ガリガリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610199,
+      "name": "ドキッ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610200,
+      "name": "ギラッ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610201,
+      "name": "cool",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610202,
+      "name": "おばけ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610203,
+      "name": "日焼け",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610204,
+      "name": "半そで",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610205,
+      "name": "波",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610206,
+      "name": "浴衣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610207,
+      "name": "風鈴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610208,
+      "name": "水着",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610209,
+      "name": "すいか",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610210,
+      "name": "渚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610211,
+      "name": "砂浜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610212,
+      "name": "野外",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610213,
+      "name": "サマー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610214,
+      "name": "陽炎",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610215,
+      "name": "熱帯夜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610216,
+      "name": "夏休み",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610217,
+      "name": "真夏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610218,
+      "name": "炎天下",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610219,
+      "name": "灼熱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610220,
+      "name": "蒼天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610221,
+      "name": "あの夏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610222,
+      "name": "プール",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610223,
+      "name": "ゲソ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610224,
+      "name": "激辛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610225,
+      "name": "冷やし",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610226,
+      "name": "冬休み",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610227,
+      "name": "イブ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610228,
+      "name": "サンタ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610229,
+      "name": "聖夜祭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610230,
+      "name": "メリー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610231,
+      "name": "大掃除",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610232,
+      "name": "紅白",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610233,
+      "name": "ことよろ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610234,
+      "name": "末年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610235,
+      "name": "来年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610236,
+      "name": "正月",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610237,
+      "name": "おとし玉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610238,
+      "name": "おせち",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610239,
+      "name": "寝正月",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610240,
+      "name": "初叩き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610241,
+      "name": "初日の出",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610242,
+      "name": "初プレイ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610243,
+      "name": "かくし芸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610244,
+      "name": "福",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610245,
+      "name": "巫女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610246,
+      "name": "【吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610247,
+      "name": "【大吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610248,
+      "name": "放送事故",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610249,
+      "name": "ドン意識",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610250,
+      "name": "キュート",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610251,
+      "name": "クール",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610252,
+      "name": "アフロ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610253,
+      "name": "インテリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610254,
+      "name": "えっ？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610255,
+      "name": "おいしい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610256,
+      "name": "気持ち",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610257,
+      "name": "幻想",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610258,
+      "name": "たそがれ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610259,
+      "name": "ダブル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610260,
+      "name": "リアル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610261,
+      "name": "輝く",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610262,
+      "name": "高級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610263,
+      "name": "今時",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610264,
+      "name": "集中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610265,
+      "name": "疾風",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610266,
+      "name": "熟練",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610267,
+      "name": "真打",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610268,
+      "name": "生き様",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610269,
+      "name": "大盛り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610270,
+      "name": "熱き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610271,
+      "name": "名もなき",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610272,
+      "name": "からっぽ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610273,
+      "name": "イケメン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610274,
+      "name": "偉人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610275,
+      "name": "宇宙人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610276,
+      "name": "英雄",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610277,
+      "name": "演者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610278,
+      "name": "王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610279,
+      "name": "怪盗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610280,
+      "name": "漢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610281,
+      "name": "監督",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610282,
+      "name": "芸人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610283,
+      "name": "研究者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610284,
+      "name": "私",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610285,
+      "name": "侍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610286,
+      "name": "匠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610287,
+      "name": "将軍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610288,
+      "name": "道化師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610289,
+      "name": "父",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610290,
+      "name": "母",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610291,
+      "name": "僕",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610292,
+      "name": "名探偵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610293,
+      "name": "カフェ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610294,
+      "name": "宇宙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610295,
+      "name": "砂漠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610296,
+      "name": "田舎",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610297,
+      "name": "二次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610298,
+      "name": "三次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610299,
+      "name": "イエロー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610300,
+      "name": "オレンジ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610301,
+      "name": "グリーン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610302,
+      "name": "紅蓮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610303,
+      "name": "蒼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610304,
+      "name": "太鼓色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610305,
+      "name": "虹色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610306,
+      "name": "休日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610307,
+      "name": "午後",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610308,
+      "name": "午前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610309,
+      "name": "終末",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610310,
+      "name": "日常",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610311,
+      "name": "カレー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610312,
+      "name": "クッキー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610313,
+      "name": "ソース",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610314,
+      "name": "デビル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610315,
+      "name": "精霊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610316,
+      "name": "天界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610317,
+      "name": "天国",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610318,
+      "name": "魔界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610319,
+      "name": "希望",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610320,
+      "name": "探検",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610321,
+      "name": "新種",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610322,
+      "name": "魔獣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610323,
+      "name": "古代龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610324,
+      "name": "異世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610325,
+      "name": "救世主",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610326,
+      "name": "カチカチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610327,
+      "name": "アロハ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610328,
+      "name": "明後日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610329,
+      "name": "虚空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610330,
+      "name": "自宅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610331,
+      "name": "人間界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610332,
+      "name": "夕焼け",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610333,
+      "name": "演奏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610334,
+      "name": "カオス",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610335,
+      "name": "元祖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610336,
+      "name": "鋭い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610337,
+      "name": "全力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610338,
+      "name": "多次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610339,
+      "name": "チャンス",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610340,
+      "name": "ピンチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610341,
+      "name": "フラグ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610342,
+      "name": "文武両道",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610343,
+      "name": "まったり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610344,
+      "name": "気合い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610345,
+      "name": "努力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610346,
+      "name": "メガ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610347,
+      "name": "桃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610348,
+      "name": "にんじん",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610349,
+      "name": "クリーム",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610350,
+      "name": "マカロン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610351,
+      "name": "教授",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610352,
+      "name": "後継者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610353,
+      "name": "職人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610354,
+      "name": "奉行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610355,
+      "name": "神器",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610356,
+      "name": "今週",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610357,
+      "name": "荒野",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610358,
+      "name": "道場",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610359,
+      "name": "栄光",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610360,
+      "name": "ガチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610361,
+      "name": "逆転",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610362,
+      "name": "きらめく",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610363,
+      "name": "祝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610364,
+      "name": "ドキドキ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610365,
+      "name": "どこでも",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610366,
+      "name": "ドリーム",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610367,
+      "name": "寝起き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610368,
+      "name": "早起き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610369,
+      "name": "無限",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610370,
+      "name": "やっぱり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610371,
+      "name": "勇気",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610372,
+      "name": "友情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610373,
+      "name": "ワクワク",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610374,
+      "name": "幸運",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610375,
+      "name": "根性",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610376,
+      "name": "分析",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610377,
+      "name": "ギガ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610378,
+      "name": "テラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610379,
+      "name": "みかん",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610380,
+      "name": "ゲーマー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610381,
+      "name": "ソムリエ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610382,
+      "name": "アニマル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610383,
+      "name": "神々",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610384,
+      "name": "放課後",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610385,
+      "name": "山",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610386,
+      "name": "職員室",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610387,
+      "name": "神殿",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610388,
+      "name": "アホ毛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610389,
+      "name": "ぐるぐる",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610390,
+      "name": "恋する",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610391,
+      "name": "その前に",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610392,
+      "name": "トリプル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610393,
+      "name": "夢見がち",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610394,
+      "name": "我慢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610395,
+      "name": "女子力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610396,
+      "name": "半額",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610397,
+      "name": "紅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610398,
+      "name": "ショコラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610399,
+      "name": "先輩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610400,
+      "name": "魔女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610401,
+      "name": "四次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610402,
+      "name": "地球",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610403,
+      "name": "体育館",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610404,
+      "name": "王宮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610405,
+      "name": "逆に",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610406,
+      "name": "ギリギリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610407,
+      "name": "私立",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610408,
+      "name": "左利き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610409,
+      "name": "太い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610410,
+      "name": "炎",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610411,
+      "name": "右利き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610412,
+      "name": "みつあみ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610413,
+      "name": "要するに",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610414,
+      "name": "走り屋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610415,
+      "name": "魔法少女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610416,
+      "name": "帝王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610417,
+      "name": "夜桜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610418,
+      "name": "学校",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610419,
+      "name": "テスト中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610420,
+      "name": "銀河",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610421,
+      "name": "地上",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610422,
+      "name": "電脳世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610423,
+      "name": "遊園地",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610424,
+      "name": "花粉症",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610425,
+      "name": "逆境",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610426,
+      "name": "眠い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610427,
+      "name": "やわらか",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610428,
+      "name": "リーダー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610429,
+      "name": "魂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610430,
+      "name": "鉄壁",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610431,
+      "name": "猫耳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610432,
+      "name": "保健室",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610433,
+      "name": "NEW",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610434,
+      "name": "片想い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610435,
+      "name": "劇場版",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610436,
+      "name": "コント",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610437,
+      "name": "素敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610438,
+      "name": "世紀末",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610439,
+      "name": "となり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610440,
+      "name": "突撃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610441,
+      "name": "学級委員",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610442,
+      "name": "女子会",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610443,
+      "name": "忍者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610444,
+      "name": "魔術師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610445,
+      "name": "カッ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610446,
+      "name": "お肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610447,
+      "name": "お魚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610448,
+      "name": "前略",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610449,
+      "name": "彗星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610450,
+      "name": "シン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610451,
+      "name": "どんまい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610452,
+      "name": "拝啓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610453,
+      "name": "創成",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610454,
+      "name": "魁！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610455,
+      "name": "夢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610456,
+      "name": "真",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610457,
+      "name": "どっこい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610458,
+      "name": "プロ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610459,
+      "name": "島人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610460,
+      "name": "ハッピー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610461,
+      "name": "なにわ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610462,
+      "name": "薩摩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610463,
+      "name": "江戸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610464,
+      "name": "加賀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610465,
+      "name": "陸奥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610466,
+      "name": "尾張",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610467,
+      "name": "紀伊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610468,
+      "name": "肥後",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610469,
+      "name": "筑前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610470,
+      "name": "安芸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610471,
+      "name": "長門",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610472,
+      "name": "肥前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610473,
+      "name": "越前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610474,
+      "name": "土佐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610475,
+      "name": "出雲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610476,
+      "name": "讃岐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610477,
+      "name": "伊勢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610478,
+      "name": "奥羽",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610479,
+      "name": "は",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610480,
+      "name": "が",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610481,
+      "name": "な",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610482,
+      "name": "で",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610483,
+      "name": "と",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610484,
+      "name": "に",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610485,
+      "name": "の",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610486,
+      "name": "も",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610487,
+      "name": "を",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610488,
+      "name": "する",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610489,
+      "name": "たる",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610490,
+      "name": "かつ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610491,
+      "name": "から",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610492,
+      "name": "まで",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610493,
+      "name": "なる",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610494,
+      "name": "からの",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610495,
+      "name": "でも",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610496,
+      "name": "系",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610497,
+      "name": "派",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610498,
+      "name": "ザ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610499,
+      "name": "the",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610500,
+      "name": "de",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610501,
+      "name": "is",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610502,
+      "name": "of",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610503,
+      "name": "or",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610504,
+      "name": "！",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610505,
+      "name": "！？",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610506,
+      "name": "＆",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610507,
+      "name": "・",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610508,
+      "name": "＝",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610509,
+      "name": "☆",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610510,
+      "name": "★",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610511,
+      "name": "♪",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610512,
+      "name": "、",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610513,
+      "name": "。",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610514,
+      "name": "／",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610515,
+      "name": "～",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610516,
+      "name": "＝＋",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610517,
+      "name": "×",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610518,
+      "name": "÷",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610519,
+      "name": "→",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610520,
+      "name": "←",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610521,
+      "name": "⇔",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610522,
+      "name": "※",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610523,
+      "name": "大好き",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610524,
+      "name": "大嫌い",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610525,
+      "name": "da",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610526,
+      "name": "の中の",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610527,
+      "name": "love",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610528,
+      "name": "be",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610529,
+      "name": "んだ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610530,
+      "name": "･da･",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610531,
+      "name": "in",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610532,
+      "name": "with",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610533,
+      "name": "もとい",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610534,
+      "name": "いわゆる",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610535,
+      "name": "逆に",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610536,
+      "name": "とか",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610537,
+      "name": "ならびに",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610538,
+      "name": "つまり",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610539,
+      "name": "とはいえ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610540,
+      "name": "ぬ",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610541,
+      "name": "ばいそく",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610542,
+      "name": "さんばい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610543,
+      "name": "よんばい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610544,
+      "name": "ドロン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610545,
+      "name": "あべこべ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610546,
+      "name": "きまぐれ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610547,
+      "name": "でたらめ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610548,
+      "name": "クリア",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610549,
+      "name": "スコア",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610550,
+      "name": "良",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610551,
+      "name": "連打",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610552,
+      "name": "メカカツ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610553,
+      "name": "メカドン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610554,
+      "name": "ドンだー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610555,
+      "name": "初心者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610556,
+      "name": "ベテラン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610557,
+      "name": "玄人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610558,
+      "name": "鉄人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610559,
+      "name": "名人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610560,
+      "name": "達人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610561,
+      "name": "超人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610562,
+      "name": "戦士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610563,
+      "name": "友達",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610564,
+      "name": "バチ使い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610565,
+      "name": "勇者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610566,
+      "name": "ヒーロー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610567,
+      "name": "王子様",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610568,
+      "name": "紳士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610569,
+      "name": "ご主人様",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610570,
+      "name": "ヒロイン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610571,
+      "name": "お姫様",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610572,
+      "name": "淑女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610573,
+      "name": "駆け出し",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610574,
+      "name": "修行中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610575,
+      "name": "挑戦中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610576,
+      "name": "門下生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610577,
+      "name": "一人前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610578,
+      "name": "スゴ腕",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610579,
+      "name": "いっしょ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610580,
+      "name": "お祭り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610581,
+      "name": "青春",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610582,
+      "name": "仲間",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610583,
+      "name": "草食系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610584,
+      "name": "肉食系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610585,
+      "name": "文系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610586,
+      "name": "理数系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610587,
+      "name": "募集中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610588,
+      "name": "技巧",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610589,
+      "name": "頭脳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610590,
+      "name": "肉体",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610591,
+      "name": "おしゃれ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610592,
+      "name": "金",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610593,
+      "name": "銀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610594,
+      "name": "パープル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610595,
+      "name": "ブラック",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610596,
+      "name": "ブルー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610597,
+      "name": "ホワイト",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610598,
+      "name": "レッド",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610599,
+      "name": "犬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610600,
+      "name": "狼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610601,
+      "name": "猫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610602,
+      "name": "ライオン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610603,
+      "name": "裏世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610604,
+      "name": "地元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610605,
+      "name": "世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610606,
+      "name": "太鼓界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610607,
+      "name": "太鼓学園",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610608,
+      "name": "今日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610609,
+      "name": "明日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610610,
+      "name": "昨日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610611,
+      "name": "毎日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610612,
+      "name": "カツ丼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610613,
+      "name": "ごはん",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610614,
+      "name": "たまご",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610615,
+      "name": "ドラゴン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610616,
+      "name": 2000,
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610617,
+      "name": "人達",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610618,
+      "name": "大達人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610619,
+      "name": "アイドル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610620,
+      "name": "神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610621,
+      "name": "スーパー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610622,
+      "name": "ゴリラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610623,
+      "name": "週末",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610624,
+      "name": "小悪魔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610625,
+      "name": "大成功",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610626,
+      "name": "ベスト",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610627,
+      "name": "支配者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610628,
+      "name": "住人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610629,
+      "name": "てへぺろ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610630,
+      "name": "得意です",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610631,
+      "name": "肉球",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610632,
+      "name": "ワイルド",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610633,
+      "name": "歌姫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610634,
+      "name": "天使",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610635,
+      "name": "マニア",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610636,
+      "name": "マスター",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610637,
+      "name": "薔薇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610638,
+      "name": "貴婦人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610639,
+      "name": "貴公子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610640,
+      "name": "無双",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610641,
+      "name": "ビックリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610642,
+      "name": "少女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610643,
+      "name": "少年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610644,
+      "name": "だー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610645,
+      "name": "裏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610646,
+      "name": "闇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610647,
+      "name": "最終定理",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610648,
+      "name": "ナウ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610649,
+      "name": "自称",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610650,
+      "name": "伝説",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610651,
+      "name": "ゴールド",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610652,
+      "name": "永遠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610653,
+      "name": "挑戦者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610654,
+      "name": "至高",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610655,
+      "name": "混沌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610656,
+      "name": "太鼓戦士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610657,
+      "name": "ノ舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610658,
+      "name": "立つドン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610659,
+      "name": "ツンデレ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610660,
+      "name": "脱臼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610661,
+      "name": "エリンギ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610662,
+      "name": "裏腹",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610663,
+      "name": "開拓者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610664,
+      "name": "旅人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610665,
+      "name": "首領",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610666,
+      "name": "敏腕",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610667,
+      "name": "覇者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610668,
+      "name": "歴史",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610669,
+      "name": "刻みし者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610670,
+      "name": "戦乱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610671,
+      "name": "仏恥義理",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610672,
+      "name": "愛羅武勇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610673,
+      "name": "四季折々",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610674,
+      "name": "春夏秋冬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610675,
+      "name": "電光石火",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610676,
+      "name": "ドコドン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610677,
+      "name": "ドン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610678,
+      "name": "太鼓部",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610679,
+      "name": "超時空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610680,
+      "name": "理",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610681,
+      "name": "完奏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610682,
+      "name": "勝利",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610683,
+      "name": "ドン友",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610684,
+      "name": "歴戦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610685,
+      "name": "勝者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610686,
+      "name": "常勝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610687,
+      "name": "上昇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610688,
+      "name": "無敗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610689,
+      "name": "無敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610690,
+      "name": "敵なし！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610691,
+      "name": "防衛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610692,
+      "name": "参加中！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610693,
+      "name": "ライバル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610694,
+      "name": "ヤング",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610695,
+      "name": "みんな",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610696,
+      "name": "真龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610697,
+      "name": "ちくわ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610698,
+      "name": "ラーメン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610699,
+      "name": "†",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610700,
+      "name": "堕天使",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610701,
+      "name": "Boys",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610702,
+      "name": "亜空間",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610703,
+      "name": "光属性",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610704,
+      "name": "何ッ！？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610705,
+      "name": "ひまわり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610706,
+      "name": "春",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610707,
+      "name": "夏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610708,
+      "name": "秋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610709,
+      "name": "冬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610710,
+      "name": "季節",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610711,
+      "name": "青空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610712,
+      "name": "異次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610713,
+      "name": "海",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610714,
+      "name": "大空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610715,
+      "name": "城",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610716,
+      "name": "安全第一",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610717,
+      "name": "いつでも",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610718,
+      "name": "おはよう",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610719,
+      "name": "おやすみ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610720,
+      "name": "がっつり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610721,
+      "name": "カワイイ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610722,
+      "name": "激おこ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610723,
+      "name": "過去",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610724,
+      "name": "時雨",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610725,
+      "name": "未来",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610726,
+      "name": "果敢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610727,
+      "name": "覚醒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610728,
+      "name": "気迫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610729,
+      "name": "挑戦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610730,
+      "name": "闘志",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610731,
+      "name": "熱血",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610732,
+      "name": "不屈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610733,
+      "name": "大冒険",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610734,
+      "name": "ホット",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610735,
+      "name": "コールド",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610736,
+      "name": "青",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610737,
+      "name": "赤",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610738,
+      "name": "白",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610739,
+      "name": "ピンク",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610740,
+      "name": "紫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610741,
+      "name": "漆黒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610742,
+      "name": "黄緑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610743,
+      "name": "お寿司",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610744,
+      "name": "ハニー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610745,
+      "name": "バニラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610746,
+      "name": "チキン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610747,
+      "name": "焼肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610748,
+      "name": "スタミナ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610749,
+      "name": "ミント",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610750,
+      "name": "抹茶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610751,
+      "name": "ライム",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610752,
+      "name": "10代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610753,
+      "name": "20代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610754,
+      "name": "30代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610755,
+      "name": "一員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610756,
+      "name": "おちゃめ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610757,
+      "name": "ビギナー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610758,
+      "name": "冒険者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610759,
+      "name": "騎士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610760,
+      "name": "やさしい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610761,
+      "name": "金髪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610762,
+      "name": "黒髪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610763,
+      "name": "部長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610764,
+      "name": "怪獣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610765,
+      "name": "妖精",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610766,
+      "name": "うさぎ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610767,
+      "name": "くま",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610768,
+      "name": "白猫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610769,
+      "name": "虎",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610770,
+      "name": "隼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610771,
+      "name": "バチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610772,
+      "name": "メガネ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610773,
+      "name": "ロボ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610774,
+      "name": "スカート",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610775,
+      "name": "ネイル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610776,
+      "name": "唯我独尊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610777,
+      "name": "スイーツ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610778,
+      "name": "40代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610779,
+      "name": "50代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610780,
+      "name": "先駆者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610781,
+      "name": "達入",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610782,
+      "name": "干渉者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610783,
+      "name": "覇王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610784,
+      "name": "魔王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610785,
+      "name": "ニーソ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610786,
+      "name": "キラキラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610787,
+      "name": "ガリガリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610788,
+      "name": "ドキッ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610789,
+      "name": "ギラッ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610790,
+      "name": "cool",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610791,
+      "name": "おばけ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610792,
+      "name": "怪談",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610793,
+      "name": "日焼け",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610794,
+      "name": "半そで",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610795,
+      "name": "波",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610796,
+      "name": "浴衣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610797,
+      "name": "風鈴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610798,
+      "name": "水着",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610799,
+      "name": "すいか",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610800,
+      "name": "渚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610801,
+      "name": "砂浜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610802,
+      "name": "野外",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610803,
+      "name": "サマー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610804,
+      "name": "蝉時雨",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610805,
+      "name": "陽炎",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610806,
+      "name": "熱帯夜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610807,
+      "name": "夏休み",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610808,
+      "name": "真夏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610809,
+      "name": "炎天下",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610810,
+      "name": "とある夏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610811,
+      "name": "灼熱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610812,
+      "name": "蒼天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610813,
+      "name": "あの夏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610814,
+      "name": "観察日記",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610815,
+      "name": "自由研究",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610816,
+      "name": "宿題",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610817,
+      "name": "ドリル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610818,
+      "name": "プール",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610819,
+      "name": "祭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610820,
+      "name": "花火",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610821,
+      "name": "合宿",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610822,
+      "name": "縁日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610823,
+      "name": "キャンプ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610824,
+      "name": "かき氷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610825,
+      "name": "麦茶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610826,
+      "name": "カブト虫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610827,
+      "name": "セミ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610828,
+      "name": "海月",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610829,
+      "name": "鳥賊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610830,
+      "name": "海星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610831,
+      "name": "ゲソ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610832,
+      "name": "わたあめ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610833,
+      "name": "激辛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610834,
+      "name": "冷やし",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610835,
+      "name": "蚊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610836,
+      "name": "冬休み",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610837,
+      "name": "イブ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610838,
+      "name": "サンタ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610839,
+      "name": "聖夜祭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610840,
+      "name": "メリー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610841,
+      "name": "大掃除",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610842,
+      "name": "納め",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610843,
+      "name": "紅白",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610844,
+      "name": "ことよろ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610845,
+      "name": "末年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610846,
+      "name": "来年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610847,
+      "name": "正月",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610848,
+      "name": "おとし玉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610849,
+      "name": "おせち",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610850,
+      "name": "寝正月",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610851,
+      "name": "初叩き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610852,
+      "name": "初日の出",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610853,
+      "name": "初プレイ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610854,
+      "name": "かくし芸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610855,
+      "name": "福",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610856,
+      "name": "七福神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610857,
+      "name": "凧",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610858,
+      "name": "巫女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610859,
+      "name": "【吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610860,
+      "name": "【小吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610861,
+      "name": "【大吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610862,
+      "name": "【中吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610863,
+      "name": "放送事故",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610864,
+      "name": "ドン意識",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610865,
+      "name": "キュート",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610866,
+      "name": "クール",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610867,
+      "name": "アタック",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610868,
+      "name": "アフロ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610869,
+      "name": "インテリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610870,
+      "name": "えっ？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610871,
+      "name": "おいしい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610872,
+      "name": "気持ち",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610873,
+      "name": "幻想",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610874,
+      "name": "タイム",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610875,
+      "name": "たそがれ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610876,
+      "name": "ダブル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610877,
+      "name": "リアル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610878,
+      "name": "意志",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610879,
+      "name": "輝く",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610880,
+      "name": "高級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610881,
+      "name": "今時",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610882,
+      "name": "集中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610883,
+      "name": "疾風",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610884,
+      "name": "熟練",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610885,
+      "name": "真打",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610886,
+      "name": "生き様",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610887,
+      "name": "大盛り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610888,
+      "name": "熱き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610889,
+      "name": "名もなき",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610890,
+      "name": "からっぽ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610891,
+      "name": "イケメン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610892,
+      "name": "たち",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610893,
+      "name": "ファン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610894,
+      "name": "偉人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610895,
+      "name": "宇宙人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610896,
+      "name": "英雄",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610897,
+      "name": "演者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610898,
+      "name": "王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610899,
+      "name": "怪盗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610900,
+      "name": "漢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610901,
+      "name": "監督",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610902,
+      "name": "芸人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610903,
+      "name": "研究者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610904,
+      "name": "私",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610905,
+      "name": "侍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610906,
+      "name": "匠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610907,
+      "name": "将軍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610908,
+      "name": "申し子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610909,
+      "name": "道化師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610910,
+      "name": "父",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610911,
+      "name": "母",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610912,
+      "name": "僕",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610913,
+      "name": "名探偵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610914,
+      "name": "カフェ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610915,
+      "name": "シティー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610916,
+      "name": "宇宙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610917,
+      "name": "王国",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610918,
+      "name": "研究所",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610919,
+      "name": "砂漠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610920,
+      "name": "田舎",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610921,
+      "name": "二次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610922,
+      "name": "三次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610923,
+      "name": "イエロー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610924,
+      "name": "オレンジ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610925,
+      "name": "グリーン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610926,
+      "name": "紅蓮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610927,
+      "name": "蒼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610928,
+      "name": "太鼓色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610929,
+      "name": "虹色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610930,
+      "name": "休日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610931,
+      "name": "午後",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610932,
+      "name": "午前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610933,
+      "name": "終末",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610934,
+      "name": "日常",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610935,
+      "name": "おや2",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610936,
+      "name": "カレー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610937,
+      "name": "クッキー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610938,
+      "name": "ソース",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610939,
+      "name": "デビル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610940,
+      "name": "精霊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610941,
+      "name": "天界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610942,
+      "name": "天国",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610943,
+      "name": "魔界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610944,
+      "name": "バード",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610945,
+      "name": "猿",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610946,
+      "name": "子犬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610947,
+      "name": "白鳥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610948,
+      "name": "ルビー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610949,
+      "name": "鉄道",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610950,
+      "name": "www",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610951,
+      "name": "火皇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610952,
+      "name": "希望",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610953,
+      "name": "協会",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610954,
+      "name": "探検",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610955,
+      "name": "調査",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610956,
+      "name": "試練",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610957,
+      "name": "新種",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610958,
+      "name": "巨獣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610959,
+      "name": "魔獣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610960,
+      "name": "古代龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610961,
+      "name": "異世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610962,
+      "name": "救世主",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610963,
+      "name": "ですぞ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610964,
+      "name": "せやな",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610965,
+      "name": "解せぬ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610966,
+      "name": "カチカチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610967,
+      "name": "盆踊り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610968,
+      "name": "百物語",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610969,
+      "name": "そうめん",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610970,
+      "name": "hot",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610971,
+      "name": "キンキン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610972,
+      "name": "ジリジリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610973,
+      "name": "アロハ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610974,
+      "name": "明後日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610975,
+      "name": "虚空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610976,
+      "name": "自宅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610977,
+      "name": "ステージ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610978,
+      "name": "人間界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610979,
+      "name": "夕焼け",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610980,
+      "name": "暁",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610981,
+      "name": "演奏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610982,
+      "name": "カオス",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610983,
+      "name": "喝采",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610984,
+      "name": "元祖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610985,
+      "name": "決意",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610986,
+      "name": "コース",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610987,
+      "name": "鋭い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610988,
+      "name": "全力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610989,
+      "name": "第一歩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610990,
+      "name": "多次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610991,
+      "name": "チャンス",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610992,
+      "name": "早寝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610993,
+      "name": "ピンチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610994,
+      "name": "フラグ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610995,
+      "name": "文武両道",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610996,
+      "name": "まったり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610997,
+      "name": "加速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610998,
+      "name": "気合い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610999,
+      "name": "特訓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611000,
+      "name": "努力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611001,
+      "name": "メガ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611002,
+      "name": "桃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611003,
+      "name": "ジュース",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611004,
+      "name": "にんじん",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611005,
+      "name": "クリーム",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611006,
+      "name": "マカロン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611007,
+      "name": "教授",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611008,
+      "name": "後継者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611009,
+      "name": "師範代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611010,
+      "name": "職人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611011,
+      "name": "奉行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611012,
+      "name": "ヤマト",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611013,
+      "name": "神器",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611014,
+      "name": "オロチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611015,
+      "name": "今週",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611016,
+      "name": "屋上",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611017,
+      "name": "荒野",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611018,
+      "name": "道場",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611019,
+      "name": "舞台",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611020,
+      "name": "並行世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611021,
+      "name": "夜明け",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611022,
+      "name": "栄光",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611023,
+      "name": "ガチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611024,
+      "name": "逆転",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611025,
+      "name": "きらめく",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611026,
+      "name": "更新",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611027,
+      "name": "祝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611028,
+      "name": "中途半端",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611029,
+      "name": "ドキドキ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611030,
+      "name": "どこでも",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611031,
+      "name": "ドリーム",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611032,
+      "name": "寝起き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611033,
+      "name": "早起き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611034,
+      "name": "日和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611035,
+      "name": "無限",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611036,
+      "name": "やっぱり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611037,
+      "name": "勇気",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611038,
+      "name": "友情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611039,
+      "name": "ワクワク",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611040,
+      "name": "幸運",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611041,
+      "name": "根性",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611042,
+      "name": "分析",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611043,
+      "name": "メイク",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611044,
+      "name": "ギガ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611045,
+      "name": "テラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611046,
+      "name": "黄",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611047,
+      "name": "緑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611048,
+      "name": "シュガー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611049,
+      "name": "みかん",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611050,
+      "name": "ゲーマー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611051,
+      "name": "コーチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611052,
+      "name": "助手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611053,
+      "name": "ソムリエ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611054,
+      "name": "博士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611055,
+      "name": "マシーン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611056,
+      "name": "アニマル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611057,
+      "name": "神々",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611058,
+      "name": "八百万",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611059,
+      "name": "土偶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611060,
+      "name": "花束",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611061,
+      "name": "四季",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611062,
+      "name": "放課後",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611063,
+      "name": "火星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611064,
+      "name": "山",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611065,
+      "name": "職員室",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611066,
+      "name": "神殿",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611067,
+      "name": "アホ毛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611068,
+      "name": "ぐるぐる",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611069,
+      "name": "恋する",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611070,
+      "name": "その前に",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611071,
+      "name": "トリプル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611072,
+      "name": "舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611073,
+      "name": "夢見がち",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611074,
+      "name": "我慢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611075,
+      "name": "女子力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611076,
+      "name": "半額",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611077,
+      "name": "紅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611078,
+      "name": "ショコラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611079,
+      "name": "先輩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611080,
+      "name": "魔女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611081,
+      "name": "朝礼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611082,
+      "name": "四次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611083,
+      "name": "川",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611084,
+      "name": "地球",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611085,
+      "name": "体育館",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611086,
+      "name": "王宮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611087,
+      "name": "逆に",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611088,
+      "name": "ギリギリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611089,
+      "name": "左利き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611090,
+      "name": "太い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611091,
+      "name": "炎",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611092,
+      "name": "右利き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611093,
+      "name": "みつあみ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611094,
+      "name": "手加減",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611095,
+      "name": "遅刻",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611096,
+      "name": "走り屋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611097,
+      "name": "魔法少女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611098,
+      "name": "帝王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611099,
+      "name": "ブログ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611100,
+      "name": "夜桜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611101,
+      "name": "学校",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611102,
+      "name": "テスト中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611103,
+      "name": "銀河",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611104,
+      "name": "地上",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611105,
+      "name": "電脳世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611106,
+      "name": "遊園地",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611107,
+      "name": "花粉症",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611108,
+      "name": "逆境",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611109,
+      "name": "濃い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611110,
+      "name": "全部入り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611111,
+      "name": "眠い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611112,
+      "name": "バリバリ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611113,
+      "name": "ヒント",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611114,
+      "name": "めざまし",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611115,
+      "name": "やわらか",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611116,
+      "name": "リーダー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611117,
+      "name": "魂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611118,
+      "name": "鉄壁",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611119,
+      "name": "猫耳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611120,
+      "name": "先生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611121,
+      "name": "王者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611122,
+      "name": "修学旅行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611123,
+      "name": "工場",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611124,
+      "name": "天空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611125,
+      "name": "桃源郷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611126,
+      "name": "保健室",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611127,
+      "name": "NEW",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611128,
+      "name": "片想い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611129,
+      "name": "劇場版",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611130,
+      "name": "コント",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611131,
+      "name": "素敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611132,
+      "name": "世紀末",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611133,
+      "name": "となり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611134,
+      "name": "パーティ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611135,
+      "name": "歯磨き",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611136,
+      "name": "丸い",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611137,
+      "name": "乱舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611138,
+      "name": "レトロ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611139,
+      "name": "突撃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611140,
+      "name": "学級委員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611141,
+      "name": "女子会",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611142,
+      "name": "忍者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611143,
+      "name": "魔術師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611144,
+      "name": "男",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611145,
+      "name": "女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611146,
+      "name": "星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611147,
+      "name": "ドン！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611148,
+      "name": "カッ？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611149,
+      "name": "祭り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611150,
+      "name": "フェス",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611151,
+      "name": "悪魔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611152,
+      "name": "ドクロ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611153,
+      "name": "ぱっぱら",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611154,
+      "name": "代表選手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611155,
+      "name": "ネコ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611156,
+      "name": "あひる",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611157,
+      "name": "やきそば",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611158,
+      "name": "爺",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611159,
+      "name": "婆",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611160,
+      "name": "メンズ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611161,
+      "name": "ガールズ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611162,
+      "name": "兄貴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611163,
+      "name": "弟",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611164,
+      "name": "冒険",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611165,
+      "name": "竜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611166,
+      "name": "狂犬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611167,
+      "name": "カリスマ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611168,
+      "name": "太鼓娘",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611169,
+      "name": "マッスル",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611170,
+      "name": "探偵団",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611171,
+      "name": "フルコン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611172,
+      "name": "オタク",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611173,
+      "name": "ゴースト",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611174,
+      "name": "社長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611175,
+      "name": "料理人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611176,
+      "name": "宝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611177,
+      "name": "天才",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611178,
+      "name": "海鮮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611179,
+      "name": "肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611180,
+      "name": "鶏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611181,
+      "name": "不死鳥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611182,
+      "name": "名店",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611183,
+      "name": "LAN",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611184,
+      "name": "お嬢さま",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611185,
+      "name": "草",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611186,
+      "name": "【小吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611187,
+      "name": "【中吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611188,
+      "name": "hot",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611189,
+      "name": "アタック",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611190,
+      "name": "あひる",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611191,
+      "name": "あべこべ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611192,
+      "name": "いっしょ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611193,
+      "name": "いつでも",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611194,
+      "name": "エリンギ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611195,
+      "name": "オタク",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611196,
+      "name": "おや2",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611197,
+      "name": "オロチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611198,
+      "name": "お嬢さま",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611199,
+      "name": "ガールズ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611200,
+      "name": "かき氷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611201,
+      "name": "カッ？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611202,
+      "name": "カブト虫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611203,
+      "name": "カリスマ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611204,
+      "name": "きまぐれ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611205,
+      "name": "キャンプ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611206,
+      "name": "キンキン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611207,
+      "name": "クリア",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611208,
+      "name": "コース",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611209,
+      "name": "ゴースト",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611210,
+      "name": "コーチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611211,
+      "name": "さんばい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611212,
+      "name": "シティー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611213,
+      "name": "ジュース",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611214,
+      "name": "シュガー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611215,
+      "name": "ジリジリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611216,
+      "name": "スコア",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611217,
+      "name": "ステージ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611218,
+      "name": "セミ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611219,
+      "name": "そうめん",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611220,
+      "name": "タイム",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611221,
+      "name": "でたらめ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611222,
+      "name": "とある夏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611223,
+      "name": "ドクロ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611224,
+      "name": "ドリル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611225,
+      "name": "ドロン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611226,
+      "name": "ドン！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611227,
+      "name": "ドン友",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611228,
+      "name": "ナウ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611229,
+      "name": "ネコ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611230,
+      "name": "パーティ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611231,
+      "name": "バード",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611232,
+      "name": "ばいそく",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611233,
+      "name": "ぱっぱら",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611234,
+      "name": "バリバリ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611235,
+      "name": "ビギナー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611236,
+      "name": "ヒント",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611237,
+      "name": "ファン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611238,
+      "name": "フェス",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611239,
+      "name": "フルコン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611240,
+      "name": "ブログ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611241,
+      "name": "ベテラン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611242,
+      "name": "マシーン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611243,
+      "name": "マッスル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611244,
+      "name": "マニア",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611245,
+      "name": "メイク",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611246,
+      "name": "メカカツ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611247,
+      "name": "メカドン",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611248,
+      "name": "めざまし",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611249,
+      "name": "メンズ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611250,
+      "name": "やきそば",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611251,
+      "name": "やさしい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611252,
+      "name": "ヤマト",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611253,
+      "name": "ヤング",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611254,
+      "name": "よんばい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611255,
+      "name": "ライバル",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611256,
+      "name": "ルビー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611257,
+      "name": "レトロ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611258,
+      "name": "わたあめ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611259,
+      "name": "悪魔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611260,
+      "name": "意志",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611261,
+      "name": "猿",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611262,
+      "name": "縁日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611263,
+      "name": "王国",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611264,
+      "name": "王者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611265,
+      "name": "黄",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611266,
+      "name": "屋上",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611267,
+      "name": "加速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611268,
+      "name": "火皇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611269,
+      "name": "火星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611270,
+      "name": "花火",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611271,
+      "name": "花束",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611272,
+      "name": "蚊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611273,
+      "name": "怪談",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611274,
+      "name": "海月",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611275,
+      "name": "海星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611276,
+      "name": "海鮮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611277,
+      "name": "喝采",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611278,
+      "name": "完奏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611279,
+      "name": "干渉者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611280,
+      "name": "観察日記",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611281,
+      "name": "丸い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611282,
+      "name": "貴公子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611283,
+      "name": "貴婦人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611284,
+      "name": "騎士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611285,
+      "name": "巨獣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611286,
+      "name": "協会",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611287,
+      "name": "狂犬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611288,
+      "name": "暁",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611289,
+      "name": "兄貴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611290,
+      "name": "鶏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611291,
+      "name": "決意",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611292,
+      "name": "研究所",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611293,
+      "name": "玄人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611294,
+      "name": "工場",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611295,
+      "name": "更新",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611296,
+      "name": "合宿",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611297,
+      "name": "刻みし者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611298,
+      "name": "祭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611299,
+      "name": "祭り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611300,
+      "name": "参加中！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611301,
+      "name": "四季",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611302,
+      "name": "子犬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611303,
+      "name": "師範代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611304,
+      "name": "試練",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611305,
+      "name": "歯磨き",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611306,
+      "name": "自由研究",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611307,
+      "name": "七福神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611308,
+      "name": "社長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611309,
+      "name": "手加減",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611310,
+      "name": "修学旅行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611311,
+      "name": "住人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611312,
+      "name": "宿題",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611313,
+      "name": "初心者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611314,
+      "name": "助手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611315,
+      "name": "女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611316,
+      "name": "城",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611317,
+      "name": "星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611318,
+      "name": "青空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611319,
+      "name": "蝉時雨",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611320,
+      "name": "先生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611321,
+      "name": "川",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611322,
+      "name": "戦士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611323,
+      "name": "戦乱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611324,
+      "name": "全部入り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611325,
+      "name": "早寝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611326,
+      "name": "草",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611327,
+      "name": "太鼓娘",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611328,
+      "name": "代表選手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611329,
+      "name": "大成功",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611330,
+      "name": "大達人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611331,
+      "name": "大冒険",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611332,
+      "name": "凧",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611333,
+      "name": "達入",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611334,
+      "name": "探偵団",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611335,
+      "name": "男",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611336,
+      "name": "遅刻",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611337,
+      "name": "中途半端",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611338,
+      "name": "仲間",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611339,
+      "name": "朝礼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611340,
+      "name": "調査",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611341,
+      "name": "超人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611342,
+      "name": "鳥賊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611343,
+      "name": "弟",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611344,
+      "name": "鉄人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611345,
+      "name": "鉄道",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611346,
+      "name": "天空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611347,
+      "name": "天才",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611348,
+      "name": "土偶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611349,
+      "name": "桃源郷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611350,
+      "name": "得意です",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611351,
+      "name": "特訓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611352,
+      "name": "肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611353,
+      "name": "日和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611354,
+      "name": "濃い",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611355,
+      "name": "納め",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611356,
+      "name": "婆",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611357,
+      "name": "博士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611358,
+      "name": "白鳥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611359,
+      "name": "麦茶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611360,
+      "name": "八百万",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611361,
+      "name": "百物語",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611362,
+      "name": "不死鳥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611363,
+      "name": "舞台",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611364,
+      "name": "並行世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611365,
+      "name": "宝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611366,
+      "name": "冒険",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611367,
+      "name": "冒険者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611368,
+      "name": "防衛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611369,
+      "name": "盆踊り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611370,
+      "name": "名人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611371,
+      "name": "名店",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611372,
+      "name": "門下生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611373,
+      "name": "夜明け",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611374,
+      "name": "爺",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611375,
+      "name": "裏腹",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611376,
+      "name": "竜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611377,
+      "name": "料理人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611378,
+      "name": "良",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611379,
+      "name": "緑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611380,
+      "name": "連打",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611381,
+      "name": "お魚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611382,
+      "name": "お肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611383,
+      "name": "カッ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611384,
+      "name": "シン",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611385,
+      "name": "どっこい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611386,
+      "name": "どんまい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611387,
+      "name": "なにわ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611388,
+      "name": "ハッピー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611389,
+      "name": "プロ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611390,
+      "name": "安芸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611391,
+      "name": "伊勢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611392,
+      "name": "越前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611393,
+      "name": "奥羽",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611394,
+      "name": "音速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611395,
+      "name": "加賀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611396,
+      "name": "魁！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611397,
+      "name": "紀伊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611398,
+      "name": "光速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611399,
+      "name": "江戸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611400,
+      "name": "薩摩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611401,
+      "name": "讃岐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611402,
+      "name": "出雲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611403,
+      "name": "心眼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611404,
+      "name": "神速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611405,
+      "name": "前略",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611406,
+      "name": "創成",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611407,
+      "name": "筑前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611408,
+      "name": "長門",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611409,
+      "name": "土佐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611410,
+      "name": "島人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611411,
+      "name": "肥後",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611412,
+      "name": "肥前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611413,
+      "name": "尾張",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611414,
+      "name": "夢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611415,
+      "name": "陸奥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611416,
+      "name": "彗星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611417,
+      "name": "猛者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611418,
+      "name": "すっきり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611419,
+      "name": "王様",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611420,
+      "name": "美人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611421,
+      "name": "子供",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611422,
+      "name": "大人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611423,
+      "name": "力持ち",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611424,
+      "name": "なかよし",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611425,
+      "name": "女神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611426,
+      "name": "野獣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611427,
+      "name": "最強",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611428,
+      "name": "ヤバい奴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611429,
+      "name": "イイ奴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611430,
+      "name": "大切",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611431,
+      "name": "きれい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611432,
+      "name": "完璧",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611433,
+      "name": "危険",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611434,
+      "name": "意外",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611435,
+      "name": "ずっしり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611436,
+      "name": "ほかほか",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611437,
+      "name": "すっぱい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611438,
+      "name": "うまい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611439,
+      "name": "あこがれ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611440,
+      "name": "注意",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611441,
+      "name": "不敗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611442,
+      "name": "不思議",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611443,
+      "name": "巨大",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611444,
+      "name": "最大",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611445,
+      "name": "最小",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611446,
+      "name": "ラッキー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611447,
+      "name": "ロック",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611448,
+      "name": "ポップ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611449,
+      "name": "トップ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611450,
+      "name": "世界一",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611451,
+      "name": "リズム",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611452,
+      "name": "コネクト",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611453,
+      "name": "人気",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611454,
+      "name": "前世",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611455,
+      "name": "秘密主義",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611456,
+      "name": "幹部",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611457,
+      "name": "用心棒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611458,
+      "name": "レア",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611459,
+      "name": "ドラマー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611460,
+      "name": "演奏者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611461,
+      "name": "革命家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611462,
+      "name": "極上",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611463,
+      "name": "おかず",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611464,
+      "name": "天下",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611465,
+      "name": "気分屋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611466,
+      "name": "100%",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611467,
+      "name": "極み",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611468,
+      "name": "富豪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611469,
+      "name": "豪族",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611470,
+      "name": "天真爛漫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611471,
+      "name": "大胆不敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611472,
+      "name": "有言実行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611473,
+      "name": "勇猛果敢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611474,
+      "name": "不撓不屈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611475,
+      "name": "威風堂々",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611476,
+      "name": "日進月歩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611477,
+      "name": "大器晩成",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611478,
+      "name": "猪突猛進",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611479,
+      "name": "上級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611480,
+      "name": "中級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611481,
+      "name": "下級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611482,
+      "name": "上等",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611483,
+      "name": "優秀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611484,
+      "name": "異常",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611485,
+      "name": "ビート",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611486,
+      "name": "マーチ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611487,
+      "name": "テンポ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611488,
+      "name": "情熱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611489,
+      "name": "天敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611490,
+      "name": "最高",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611491,
+      "name": "最低",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611492,
+      "name": "大きい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611493,
+      "name": "小さい",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611494,
+      "name": "海賊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611495,
+      "name": "現役",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611496,
+      "name": "課長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611497,
+      "name": "隊長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611498,
+      "name": "船長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611499,
+      "name": "係長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611500,
+      "name": "専務",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611501,
+      "name": "常務",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611502,
+      "name": "会長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611503,
+      "name": "顧問",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611504,
+      "name": "班長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611505,
+      "name": "町長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611506,
+      "name": "村長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611507,
+      "name": "市長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611508,
+      "name": "役員",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611509,
+      "name": "経営者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611510,
+      "name": "小学生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611511,
+      "name": "中学生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611512,
+      "name": "高校生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611513,
+      "name": "大学生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611514,
+      "name": "主夫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611515,
+      "name": "主婦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611516,
+      "name": "ハイパー",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611517,
+      "name": "ウルトラ",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611518,
+      "name": "正式",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611519,
+      "name": "ヘビー級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611520,
+      "name": "ライト級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611521,
+      "name": "ミドル級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611522,
+      "name": "マックス",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611523,
+      "name": "令和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611524,
+      "name": "平成",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611525,
+      "name": "昭和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611526,
+      "name": "ふんわり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611527,
+      "name": "もっちり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611528,
+      "name": "ざっくり",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611529,
+      "name": "最大級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611530,
+      "name": "エース",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611531,
+      "name": "氷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611532,
+      "name": "喜劇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611533,
+      "name": "交響曲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611534,
+      "name": "行進曲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611535,
+      "name": "船乗り",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611536,
+      "name": "爆笑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611537,
+      "name": "初登場",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611538,
+      "name": "最新",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611539,
+      "name": "一番",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611540,
+      "name": "奥義",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611541,
+      "name": "純粋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611542,
+      "name": "したたか",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611543,
+      "name": "鬼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611544,
+      "name": "昔話",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611545,
+      "name": "御伽話",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611546,
+      "name": "だけど",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611547,
+      "name": "では",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611548,
+      "name": "だから",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611549,
+      "name": "ゆえに",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611550,
+      "name": "だが",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611551,
+      "name": "なのに",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611552,
+      "name": "な上、",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611553,
+      "name": "および",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611554,
+      "name": "さらに",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611555,
+      "name": "おまけに",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611556,
+      "name": "だって",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611557,
+      "name": "専門",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611558,
+      "name": "専用",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611559,
+      "name": "向け",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611560,
+      "name": "にも",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611561,
+      "name": "といえば",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611562,
+      "name": "らしい",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611563,
+      "name": "さておき",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611564,
+      "name": "VS",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611565,
+      "name": "猛者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611566,
+      "name": "すっきり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611567,
+      "name": "王様",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611568,
+      "name": "美人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611569,
+      "name": "子供",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611570,
+      "name": "大人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611571,
+      "name": "力持ち",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611572,
+      "name": "なかよし",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611573,
+      "name": "女神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611574,
+      "name": "野獣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611575,
+      "name": "最強",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611576,
+      "name": "ヤバい奴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611577,
+      "name": "イイ奴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611578,
+      "name": "大切",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611579,
+      "name": "きれい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611580,
+      "name": "完璧",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611581,
+      "name": "危険",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611582,
+      "name": "意外",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611583,
+      "name": "ずっしり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611584,
+      "name": "ほかほか",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611585,
+      "name": "すっぱい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611586,
+      "name": "うまい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611587,
+      "name": "あこがれ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611588,
+      "name": "注意",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611589,
+      "name": "不敗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611590,
+      "name": "不思議",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611591,
+      "name": "巨大",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611592,
+      "name": "最大",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611593,
+      "name": "最小",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611594,
+      "name": "ラッキー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611595,
+      "name": "ロック",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611596,
+      "name": "ポップ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611597,
+      "name": "トップ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611598,
+      "name": "世界一",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611599,
+      "name": "リズム",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611600,
+      "name": "コネクト",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611601,
+      "name": "人気",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611602,
+      "name": "前世",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611603,
+      "name": "秘密主義",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611604,
+      "name": "幹部",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611605,
+      "name": "用心棒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611606,
+      "name": "レア",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611607,
+      "name": "ドラマー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611608,
+      "name": "演奏者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611609,
+      "name": "革命家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611610,
+      "name": "極上",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611611,
+      "name": "おかず",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611612,
+      "name": "天下",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611613,
+      "name": "気分屋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611614,
+      "name": "100%",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611615,
+      "name": "極み",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611616,
+      "name": "富豪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611617,
+      "name": "豪族",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611618,
+      "name": "天真爛漫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611619,
+      "name": "大胆不敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611620,
+      "name": "有言実行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611621,
+      "name": "勇猛果敢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611622,
+      "name": "不撓不屈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611623,
+      "name": "威風堂々",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611624,
+      "name": "日進月歩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611625,
+      "name": "大器晩成",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611626,
+      "name": "猪突猛進",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611627,
+      "name": "上級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611628,
+      "name": "中級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611629,
+      "name": "下級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611630,
+      "name": "上等",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611631,
+      "name": "優秀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611632,
+      "name": "異常",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611633,
+      "name": "ビート",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611634,
+      "name": "マーチ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611635,
+      "name": "テンポ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611636,
+      "name": "情熱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611637,
+      "name": "天敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611638,
+      "name": "最高",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611639,
+      "name": "最低",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611640,
+      "name": "大きい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611641,
+      "name": "小さい",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611642,
+      "name": "海賊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611643,
+      "name": "現役",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611644,
+      "name": "課長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611645,
+      "name": "隊長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611646,
+      "name": "船長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611647,
+      "name": "係長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611648,
+      "name": "専務",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611649,
+      "name": "常務",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611650,
+      "name": "会長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611651,
+      "name": "顧問",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611652,
+      "name": "班長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611653,
+      "name": "町長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611654,
+      "name": "村長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611655,
+      "name": "市長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611656,
+      "name": "役員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611657,
+      "name": "経営者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611658,
+      "name": "小学生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611659,
+      "name": "中学生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611660,
+      "name": "高校生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611661,
+      "name": "大学生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611662,
+      "name": "主夫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611663,
+      "name": "主婦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611664,
+      "name": "ハイパー",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611665,
+      "name": "ウルトラ",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611666,
+      "name": "正式",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611667,
+      "name": "ヘビー級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611668,
+      "name": "ライト級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611669,
+      "name": "ミドル級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611670,
+      "name": "マックス",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611671,
+      "name": "令和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611672,
+      "name": "平成",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611673,
+      "name": "昭和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611674,
+      "name": "ふんわり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611675,
+      "name": "もっちり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611676,
+      "name": "ざっくり",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611677,
+      "name": "最大級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611678,
+      "name": "エース",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611679,
+      "name": "氷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611680,
+      "name": "喜劇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611681,
+      "name": "交響曲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611682,
+      "name": "行進曲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611683,
+      "name": "船乗り",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611684,
+      "name": "爆笑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611685,
+      "name": "初登場",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611686,
+      "name": "最新",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611687,
+      "name": "一番",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611688,
+      "name": "奥義",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611689,
+      "name": "純粋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611690,
+      "name": "したたか",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611691,
+      "name": "鬼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611692,
+      "name": "昔話",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611693,
+      "name": "御伽話",
+      "positionType": "TYPE_RIGHT"
+    }
+  ]
+}

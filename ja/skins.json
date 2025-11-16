@@ -1,0 +1,3820 @@
+{
+  "skins": [
+    {
+      "id": 500001,
+      "name": "なし",
+      "part": "HEAD",
+      "bonusRate": 0,
+      "description": "なにもつけていません",
+      "fileName": "head_000000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500002,
+      "name": "かみなりさま",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "太鼓を叩いてかみなりをおこします",
+      "fileName": "head_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500003,
+      "name": "むしゃ(赤)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "head_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500004,
+      "name": "むしゃ(青)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "head_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500005,
+      "name": "むしゃ(金)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "head_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500006,
+      "name": "むしゃ(銀)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "head_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500007,
+      "name": "剣道",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "1本集中！",
+      "fileName": "head_000300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500008,
+      "name": "にんじゃ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "head_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500009,
+      "name": "にんじゃ(赤)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "head_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500010,
+      "name": "にんじゃ(青)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "head_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500011,
+      "name": "にんじゃ(黄)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "head_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500012,
+      "name": "にんじゃ(緑)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "head_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500013,
+      "name": "てつのかぶと",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "頭を守るの大切！",
+      "fileName": "head_000700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500015,
+      "name": "かいぞく",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ヨーホー！ヨーホー！七つの海を冒険だ！",
+      "fileName": "head_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500016,
+      "name": "ヘビメタメイク",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "激しいビートでしびれさせろ！",
+      "fileName": "head_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500017,
+      "name": "おすもうさん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "はっけよい！のこったのこった！",
+      "fileName": "head_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500018,
+      "name": "王冠",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "王様だけが載せられます",
+      "fileName": "head_001200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500019,
+      "name": "宝石(シルバー)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "キラキラキラキラ キラッキラ",
+      "fileName": "head_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500020,
+      "name": "宝石(ゴールド)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "キラキラキラキラ キラッキラ",
+      "fileName": "head_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500021,
+      "name": "かぐや姫",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "竹からうまれた美人さん",
+      "fileName": "head_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500022,
+      "name": "水玉りぼん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かわいい水玉つき",
+      "fileName": "head_001800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500023,
+      "name": "姫ギャル",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "お姫様気分を味わえます",
+      "fileName": "head_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500024,
+      "name": "こじか",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "かわいいシカの子供です",
+      "fileName": "head_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500025,
+      "name": "ゆきだるま",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "ホットな演奏でもとけない",
+      "fileName": "head_002400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500026,
+      "name": "はなかざり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "きれいなお花でかざろうね",
+      "fileName": "head_002500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500027,
+      "name": "うさみみ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "天敵の接近を音で察知できる",
+      "fileName": "head_002600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500028,
+      "name": "スイーツ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "全身あまいもの",
+      "fileName": "head_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500029,
+      "name": "ウェディングドレス",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "おめでとうござます",
+      "fileName": "head_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500030,
+      "name": "かじきまぐろ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "するどくて大きいおさかな",
+      "fileName": "head_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500031,
+      "name": "ヘッドフォン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "音もれ注意",
+      "fileName": "head_003200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500032,
+      "name": "かぶとむし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "力持ちです",
+      "fileName": "head_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500033,
+      "name": "サイドポニー",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ポニーのしっぽが由来です",
+      "fileName": "head_003400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500034,
+      "name": "うーちゃん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かっちゃんとなかよしのうぐいす",
+      "fileName": "head_003500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500035,
+      "name": "マリン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "カモメとともだちになれます",
+      "fileName": "head_003600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500036,
+      "name": "ドリル",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "穴をほって突き進む！",
+      "fileName": "head_003800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500037,
+      "name": "お面小僧(きつね)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "お面小僧がかぶってます",
+      "fileName": "head_003900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500038,
+      "name": "歌舞伎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "日本の伝統芸能",
+      "fileName": "head_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500039,
+      "name": "まねきねこ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "幸福がおとずれるかも",
+      "fileName": "head_004200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500040,
+      "name": "くじゃく",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "豪華な羽根で惑わします",
+      "fileName": "head_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500041,
+      "name": "ちょんまげ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "エド・トラディショナル・ヘアーカット",
+      "fileName": "head_004500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500042,
+      "name": "ガーディアン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "てっぺきガード",
+      "fileName": "head_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500043,
+      "name": "ゴスロリメイド(ギャル)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ふりふりがカワイイ",
+      "fileName": "head_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500044,
+      "name": "ゴスロリメイド(姫)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ふりふりがカワイイ",
+      "fileName": "head_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500045,
+      "name": "デビル",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "みんなから絶対悪っていわれます",
+      "fileName": "head_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500046,
+      "name": "ひまわり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏のお花",
+      "fileName": "head_004900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500048,
+      "name": "らいおん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ひゃくじゅうの王",
+      "fileName": "head_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500050,
+      "name": "イケメン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "声もイケボなので大丈夫です",
+      "fileName": "head_005400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500051,
+      "name": "カメラレンズ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ズームに対応",
+      "fileName": "head_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500052,
+      "name": "サイドテール",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かわいくゆれます",
+      "fileName": "head_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500053,
+      "name": "学生帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "勉強がんばります！",
+      "fileName": "head_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500054,
+      "name": "水玉はちまき",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "気合が入ります",
+      "fileName": "head_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500055,
+      "name": "門松",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "新年をむかえよう",
+      "fileName": "head_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500056,
+      "name": "おひなさま",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "桃の節句",
+      "fileName": "head_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500057,
+      "name": "金魚ねぶた",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "金魚のぼうしです",
+      "fileName": "head_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500058,
+      "name": "コンパス",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "北がどっちかわかります",
+      "fileName": "head_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500060,
+      "name": "サンタクロース",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ハッピーホリデイ",
+      "fileName": "head_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500061,
+      "name": "テツオ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "テツオになりきれます",
+      "fileName": "head_007300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500062,
+      "name": "麦わらぼうし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏！かき氷！むぎわら帽子！昆虫！",
+      "fileName": "head_007400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500063,
+      "name": "テニス",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "スマッシュ！",
+      "fileName": "head_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500064,
+      "name": "絵描き",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "絵の具のにおいが好きです",
+      "fileName": "head_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500065,
+      "name": "ほっかむり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "頭が汚れないよ",
+      "fileName": "head_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500067,
+      "name": "きりかぶ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "よく森で座られます",
+      "fileName": "head_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500069,
+      "name": "ちょうちょ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "なのはにとまれー",
+      "fileName": "head_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500070,
+      "name": "きょうりゅう",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "おれ地上最強って言われてたしー",
+      "fileName": "head_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500071,
+      "name": "かせき",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "骨になっちゃったしー",
+      "fileName": "head_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500072,
+      "name": "らくだ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "暑くて乾燥した場所もへっちゃら",
+      "fileName": "head_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500073,
+      "name": "ミイラ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "包帯が欲しいときはぼくを呼んでね",
+      "fileName": "head_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500074,
+      "name": "ファラオ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "神秘的な仮面です",
+      "fileName": "head_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500075,
+      "name": "プロペラ",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "大空駆け巡っちゃうもんねー",
+      "fileName": "head_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500079,
+      "name": "めかくし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "キレイに割れたらおいしくいただけます",
+      "fileName": "head_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500081,
+      "name": "くわがた",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ガシンとはさみます",
+      "fileName": "head_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500082,
+      "name": "さくら",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "春のおとずれ",
+      "fileName": "head_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500083,
+      "name": "ガンマン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "早撃ちなら負けないね",
+      "fileName": "head_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500084,
+      "name": "ボーダー",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ゴーッ！ガッ！ゴーッ！",
+      "fileName": "head_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500085,
+      "name": "ハラジュク",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "カワイイコーデ",
+      "fileName": "head_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500086,
+      "name": "レースカー",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "アクセルゆるめたら負けです",
+      "fileName": "head_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500088,
+      "name": "パジャマ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "心地よい夢をお約束します",
+      "fileName": "head_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500089,
+      "name": "ユニコーン",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "ゆめかわのどうぶつ",
+      "fileName": "head_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500090,
+      "name": "ユーレイ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "日本の夏はうらめしや～",
+      "fileName": "head_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500091,
+      "name": "パイロット",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "音速を超えて飛び立つ！",
+      "fileName": "head_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500092,
+      "name": "バカンス",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "暑い日差しでリゾート気分",
+      "fileName": "head_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500093,
+      "name": "ホルスタイン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "年間5000kgのお乳がでます",
+      "fileName": "head_011200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500094,
+      "name": "ヒーロー",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "男の子のあこがれです",
+      "fileName": "head_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500095,
+      "name": "わたがし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "フワッフワッ アマッアマッ",
+      "fileName": "head_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500096,
+      "name": "アルパカ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "フラッフィーないい奴です",
+      "fileName": "head_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500097,
+      "name": "さんさ踊り",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "さんささんさ",
+      "fileName": "head_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500099,
+      "name": "アイス",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "トッピングしすぎて食べづらいです",
+      "fileName": "head_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500101,
+      "name": "自転車",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "坂道でもグングン進むよ",
+      "fileName": "head_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500102,
+      "name": "花魁",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "おいらんにありんす",
+      "fileName": "head_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500103,
+      "name": "カニ",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "カニです",
+      "fileName": "head_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500104,
+      "name": "勇者どん",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "世界の平和を守るのだ！",
+      "fileName": "head_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500105,
+      "name": "兵士長",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "きよーつけ！前へー！すすめ！",
+      "fileName": "head_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500107,
+      "name": "ミツバチ",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "お花をまわってミツをあつめます",
+      "fileName": "head_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500109,
+      "name": "ネコミミ",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "ごろにゃん",
+      "fileName": "head_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500110,
+      "name": "美少女のお面",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "美少女になりきれます",
+      "fileName": "head_013500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500111,
+      "name": "トレジャーハンター",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "お宝はどこかなー",
+      "fileName": "head_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500112,
+      "name": "ハーモニカ",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "俺のブルースを聞いてくれ",
+      "fileName": "head_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500113,
+      "name": "溶接マスク",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "何でもバチっと直しちまうぜ",
+      "fileName": "head_014300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500114,
+      "name": "メデューサ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "目が合ったら石にしちゃうぞ",
+      "fileName": "head_014400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500115,
+      "name": "ふきだし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": ".....。",
+      "fileName": "head_014500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500116,
+      "name": "えっ？！",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ええっ？！",
+      "fileName": "head_014600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500117,
+      "name": "かば",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "走ると意外と早いんです",
+      "fileName": "head_014700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500118,
+      "name": "ピザ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "とろーりチーズがおいしいよ",
+      "fileName": "head_014800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500119,
+      "name": "鍋",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "鍋といったら鍋です。かぶっても鍋です。",
+      "fileName": "head_014900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500120,
+      "name": "ウィリアムテル帽子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "1発で射止めるよ！",
+      "fileName": "head_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500121,
+      "name": "ジャングル",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ジャングルへようこそ",
+      "fileName": "head_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500122,
+      "name": "ブロック",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "四角四面の世の中に最適化",
+      "fileName": "head_015400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500123,
+      "name": "そんごくう",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "私、先日まで五行山におりまして",
+      "fileName": "head_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500124,
+      "name": "アニマルフード",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "かぶると暖かいです",
+      "fileName": "head_016300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500125,
+      "name": "ひらめき",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ひらめいた！ヘウレーカ！",
+      "fileName": "head_016400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500126,
+      "name": "電柱",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "こっそり見ましょう",
+      "fileName": "head_016500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500127,
+      "name": "みつあみ",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "お母さんにやり方を聞いてみよう",
+      "fileName": "head_016600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500128,
+      "name": "びっくり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "オドロキを隠せません",
+      "fileName": "head_016700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500129,
+      "name": "チュウ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "キッス",
+      "fileName": "head_016800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500131,
+      "name": "ギリシャ兵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "チャリオットでレースしようね！",
+      "fileName": "head_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500132,
+      "name": "おフロセット",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "お先におふろいただきます",
+      "fileName": "head_017200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500133,
+      "name": "ソンブレロ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "オラー！ブエナス・タルデス！",
+      "fileName": "head_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500136,
+      "name": "ふくめん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "敵か味方かナゾの太鼓",
+      "fileName": "head_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500137,
+      "name": "ペンギン親子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "足のあいだでヒナがぬくぬく",
+      "fileName": "head_018100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500138,
+      "name": "水かぶり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ばっしゃーん",
+      "fileName": "head_018200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500140,
+      "name": "まほうつかい",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "太鼓がうまくな～れ",
+      "fileName": "head_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500145,
+      "name": "かまぼこ",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "板にすり身をのせて蒸した",
+      "fileName": "head_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500146,
+      "name": "夏フェス",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "野外で音楽聴いちゃうもんね",
+      "fileName": "head_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500148,
+      "name": "ニット帽",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "あったかもこもこ",
+      "fileName": "head_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500150,
+      "name": "はりねずみ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抱きしめると痛いです",
+      "fileName": "head_020400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500151,
+      "name": "パーリーピーポー",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "レッツパーリー！",
+      "fileName": "head_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500152,
+      "name": "ゾウ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "おはなが長いのね",
+      "fileName": "head_021000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500157,
+      "name": "うちゅうひこうし",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "こちら地上 宇宙はいかが？",
+      "fileName": "head_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500158,
+      "name": "とら",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "がおー",
+      "fileName": "head_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500162,
+      "name": "インテリメガネ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "なんでも聞いてね(キリッ)",
+      "fileName": "head_022200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500163,
+      "name": "ハムスター",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ほっぺに夢がいっぱい",
+      "fileName": "head_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500164,
+      "name": "いもむし",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "いつかキレイなチョウになる",
+      "fileName": "head_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500165,
+      "name": "ライス",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "ほかほか炊きたて",
+      "fileName": "head_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500166,
+      "name": "ゲーミングどんちゃん",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "オシャレで高スペック",
+      "fileName": "head_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500168,
+      "name": "ちくわきゅうり",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "みずみずしい",
+      "fileName": "head_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500170,
+      "name": "プランター",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "木目でスマイル",
+      "fileName": "head_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500173,
+      "name": "太陽",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "ま！まぶしい！",
+      "fileName": "head_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500175,
+      "name": "木彫り",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "あたたかい手触り",
+      "fileName": "head_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500179,
+      "name": "ジェントル",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "しんしのたしなみ",
+      "fileName": "head_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500180,
+      "name": "スペースステーション",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "コウシンちゅう",
+      "fileName": "head_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500181,
+      "name": "なりきりヒーローごっこ",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "あこがれのヒーローに！",
+      "fileName": "head_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500183,
+      "name": "マップピン",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "ここです ここ",
+      "fileName": "head_025200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500189,
+      "name": "ガンコおやじ",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "てゃんでぇ！",
+      "fileName": "head_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500191,
+      "name": "なし",
+      "part": "BODY",
+      "bonusRate": 0,
+      "description": "なにもつけていません",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500192,
+      "name": "かみなりたいこ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かみなりゴロゴロ",
+      "fileName": "body_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500193,
+      "name": "むしゃ(赤)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "body_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500194,
+      "name": "むしゃ(青)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "body_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500195,
+      "name": "むしゃ(金)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "body_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500196,
+      "name": "むしゃ(銀)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かちどきをあげろー！",
+      "fileName": "body_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500197,
+      "name": "ししまい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "かまれるとイイことあるそうです",
+      "fileName": "body_000400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500198,
+      "name": "にんじゃ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "body_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500199,
+      "name": "にんじゃ(赤)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "body_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500200,
+      "name": "にんじゃ(青)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "body_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500201,
+      "name": "にんじゃ(黄)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "body_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500202,
+      "name": "にんじゃ(緑)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抜き足差し足忍び足",
+      "fileName": "body_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500205,
+      "name": "海賊船",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ヨーホー！ヨーホー！七つの海を冒険だ！",
+      "fileName": "body_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500206,
+      "name": "エレキギター",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おれのソロをきいてくれ！",
+      "fileName": "body_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500207,
+      "name": "おすもうさん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "はっけよい！のこったのこった！",
+      "fileName": "body_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500208,
+      "name": "カメ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "すごくかたいです",
+      "fileName": "body_001300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500209,
+      "name": "宝石(シルバー)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "キラキラキラキラ キラッキラ",
+      "fileName": "body_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500210,
+      "name": "宝石(ゴールド)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "キラキラキラキラ キラッキラ",
+      "fileName": "body_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500211,
+      "name": "ジッパー",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "開けたり閉めたり",
+      "fileName": "body_001500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500212,
+      "name": "かぐや姫",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "竹からうまれた美人さん",
+      "fileName": "body_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500213,
+      "name": "お城と馬車",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "午前0時を過ぎないように！",
+      "fileName": "body_001700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500214,
+      "name": "姫ギャル",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お姫様気分を味わえます",
+      "fileName": "body_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500215,
+      "name": "こじか",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "かわいいシカの子供です",
+      "fileName": "body_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500217,
+      "name": "やたい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "移動式のお店です",
+      "fileName": "body_002200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500218,
+      "name": "ネコと杓子",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ネコと杓子はいつも一緒！",
+      "fileName": "body_002300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500219,
+      "name": "スイーツ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "全身あまいもの",
+      "fileName": "body_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500220,
+      "name": "ウェディングドレス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おめでとうござます",
+      "fileName": "body_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500221,
+      "name": "かじきまぐろ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "するどくて大きいおさかな",
+      "fileName": "body_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500223,
+      "name": "巫女",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おはらいとかおみくじとか",
+      "fileName": "body_003100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500224,
+      "name": "コウチュウ(茶)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ブブブと飛びます",
+      "fileName": "body_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500226,
+      "name": "ちびどん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ちいさいどんちゃんといっしょ",
+      "fileName": "body_003700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500227,
+      "name": "歌舞伎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本の伝統芸能",
+      "fileName": "body_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500228,
+      "name": "くまで",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "商売はんじょう！",
+      "fileName": "body_004100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500229,
+      "name": "くじゃく",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "豪華な羽根で惑わします",
+      "fileName": "body_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500230,
+      "name": "チャンピオン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "腰に巻いとけば最強の証",
+      "fileName": "body_004400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500231,
+      "name": "ガーディアン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "てっぺきガード",
+      "fileName": "body_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500232,
+      "name": "ゴスロリメイド(ギャル)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ふりふりがカワイイ",
+      "fileName": "body_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500233,
+      "name": "ゴスロリメイド(姫)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ふりふりがカワイイ",
+      "fileName": "body_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500234,
+      "name": "デビル",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "みんなから絶対悪っていわれます",
+      "fileName": "body_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500235,
+      "name": "もりのなかま",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "みんななかよし",
+      "fileName": "body_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500236,
+      "name": "らいおん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ひゃくじゅうの王",
+      "fileName": "body_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500238,
+      "name": "ボウリング",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ゴロゴロゴロ、ストライク！",
+      "fileName": "body_005300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500239,
+      "name": "カメラ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "レンズの向こうから見ています",
+      "fileName": "body_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500240,
+      "name": "セーラーふく",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "たのしい学園生活",
+      "fileName": "body_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500241,
+      "name": "学らん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "たのしい学らん生活",
+      "fileName": "body_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500242,
+      "name": "あおハッピ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お祭りの正装",
+      "fileName": "body_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500243,
+      "name": "はかま",
+      "part": "BODY",
+      "bonusRate": 150,
+      "description": "日本の紳士",
+      "fileName": "body_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500244,
+      "name": "おひなさま",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "桃の節句",
+      "fileName": "body_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500245,
+      "name": "あかハッピ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お祭りの正装",
+      "fileName": "body_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500246,
+      "name": "金棒",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鬼に持たせると最強",
+      "fileName": "body_006200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500248,
+      "name": "黒太鼓",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "黒くてツヤツヤです",
+      "fileName": "body_006400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500249,
+      "name": "ちきゅう",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ここです",
+      "fileName": "body_006500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500250,
+      "name": "たこやき",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "外はカリカリ中はトロトロ",
+      "fileName": "body_006600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500251,
+      "name": "おつきさま",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "うさぎが住んでることになっています",
+      "fileName": "body_006700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500253,
+      "name": "たこ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "タウリンが豊富です",
+      "fileName": "body_006900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500254,
+      "name": "サンタクロース",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ハッピーホリデイ",
+      "fileName": "body_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500255,
+      "name": "テニス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "スマッシュ！",
+      "fileName": "body_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500256,
+      "name": "絵描き",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "絵の具のにおいが好きです",
+      "fileName": "body_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500257,
+      "name": "はたけしごと",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "たがやして収穫して",
+      "fileName": "body_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500259,
+      "name": "この木なんの木",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "深く根を張っております",
+      "fileName": "body_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500261,
+      "name": "ちょうちょのはね",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ぱたぱたー ふわー",
+      "fileName": "body_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500262,
+      "name": "きょうりゅう",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おれ地上最強って言われてたしー",
+      "fileName": "body_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500263,
+      "name": "かせき",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "骨になっちゃったしー",
+      "fileName": "body_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500264,
+      "name": "らくだのこぶ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "暑くて乾燥した場所もへっちゃら",
+      "fileName": "body_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500265,
+      "name": "ミイラ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "包帯が欲しいときはぼくを呼んでね",
+      "fileName": "body_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500266,
+      "name": "ピラミッド",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ずーーーっと立ってます",
+      "fileName": "body_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500267,
+      "name": "ひこうき",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "大空駆け巡っちゃうもんねー",
+      "fileName": "body_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500271,
+      "name": "すいか",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "キレイに割れたらおいしくいただけます",
+      "fileName": "body_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500273,
+      "name": "コウチュウ(青)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ブブブと飛びます",
+      "fileName": "body_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500274,
+      "name": "さくらもち",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ほんのりさくら風味です",
+      "fileName": "body_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500276,
+      "name": "マリン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "よーそろー！",
+      "fileName": "body_009600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500277,
+      "name": "ガンマン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "早撃ちなら負けないね",
+      "fileName": "body_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500278,
+      "name": "ボーダー",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ゴーッ！ガッ！ゴーッ！",
+      "fileName": "body_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500279,
+      "name": "ハラジュク",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "カワイイコーデ",
+      "fileName": "body_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500280,
+      "name": "レースカー",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "アクセルゆるめたら負けです",
+      "fileName": "body_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500282,
+      "name": "アリスのドレス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ふしぎー",
+      "fileName": "body_010200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500283,
+      "name": "せんじゅかんのん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "腕がいっぱいで太鼓もうまくなる？",
+      "fileName": "body_010300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500284,
+      "name": "パジャマ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "心地よい夢をお約束します",
+      "fileName": "body_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500285,
+      "name": "ユニコーン",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "ゆめかわのどうぶつ",
+      "fileName": "body_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500286,
+      "name": "ユーレイ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本の夏はうらめしや～",
+      "fileName": "body_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500287,
+      "name": "ジェット",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "音速を超えて飛び立つ！",
+      "fileName": "body_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500288,
+      "name": "夏休み",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "夏！かき氷！むぎわら帽子！昆虫！",
+      "fileName": "body_010800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500289,
+      "name": "バカンス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "暑い日差しでリゾート気分",
+      "fileName": "body_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500290,
+      "name": "UFO",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "遠い宇宙からやってきました",
+      "fileName": "body_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500291,
+      "name": "カメレオン",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "うしろ！うしろ！",
+      "fileName": "body_011100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500292,
+      "name": "ヒーロー",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "男の子のあこがれです",
+      "fileName": "body_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500293,
+      "name": "わたがし",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "フワッフワッ アマッアマッ",
+      "fileName": "body_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500294,
+      "name": "アルパカ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "フラッフィーないい奴です",
+      "fileName": "body_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500295,
+      "name": "さんさ踊り",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "さんささんさ",
+      "fileName": "body_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500297,
+      "name": "アイス",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "トッピングしすぎて食べづらいです",
+      "fileName": "body_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500298,
+      "name": "メルヘン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "カワイイものに囲まれたい",
+      "fileName": "body_011900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500299,
+      "name": "自転車",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "坂道でもグングン進むよ",
+      "fileName": "body_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500300,
+      "name": "花魁",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おいらんでありんす",
+      "fileName": "body_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500301,
+      "name": "海の仲間たち",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "泳いだりひっついたりしてます",
+      "fileName": "body_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500302,
+      "name": "勇者どん",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "世界の平和を守るのだ！",
+      "fileName": "body_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500303,
+      "name": "兵士長",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "きよーつけ！前へー！すすめ！",
+      "fileName": "body_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500304,
+      "name": "ビッグリボン",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ビッグでカワイイリボン",
+      "fileName": "body_012500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500306,
+      "name": "豪華な太鼓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ゴージャス！ワンダフル！",
+      "fileName": "body_012700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500307,
+      "name": "くじゃく(虹)",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "豪華な羽根で惑わします",
+      "fileName": "body_012800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500308,
+      "name": "クレープやたい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "スイーツいらんかねー",
+      "fileName": "body_012900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500309,
+      "name": "幸運ドラゴン",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "ラッキー！",
+      "fileName": "body_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500311,
+      "name": "ミツバチ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お花をまわってミツをあつめます",
+      "fileName": "body_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500313,
+      "name": "ネコのしっぽ",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "ごろにゃん",
+      "fileName": "body_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500314,
+      "name": "トレジャーハンター",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "お宝はどこかなー",
+      "fileName": "body_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500315,
+      "name": "ギター",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "俺のブルースを聞いてくれ",
+      "fileName": "body_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500316,
+      "name": "しあわせの青い鳥",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "見つければしあわせに",
+      "fileName": "body_013800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500317,
+      "name": "岩",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ロックだぜ！",
+      "fileName": "body_013900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500318,
+      "name": "ドドドド",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ドドドドドド",
+      "fileName": "body_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500319,
+      "name": "お菓子の家",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "おいしそうなおうち",
+      "fileName": "body_014100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500320,
+      "name": "牧場",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "モーモーメーメーコケコッコ",
+      "fileName": "body_014200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500321,
+      "name": "ゆみ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "狙った音譜は外さない！",
+      "fileName": "body_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500322,
+      "name": "ダンボール",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "入ってると落ち着きます",
+      "fileName": "body_015100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500323,
+      "name": "こおりのドレス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "クールでおしゃれ",
+      "fileName": "body_015200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500324,
+      "name": "ジャングル",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ジャングルへようこそ",
+      "fileName": "body_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500326,
+      "name": "そんごくう",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "私、先日まで五行山におりまして",
+      "fileName": "body_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500327,
+      "name": "虹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "きれいな七色のアーチ",
+      "fileName": "body_015600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500328,
+      "name": "豊作",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "いっぱいとれたどー！！",
+      "fileName": "body_015700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500329,
+      "name": "ハート",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ラブにあふれています",
+      "fileName": "body_015800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500330,
+      "name": "JKに大人気",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "キャッキャッキャッキャ",
+      "fileName": "body_015900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500331,
+      "name": "わくせい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "宇宙が広がります",
+      "fileName": "body_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500332,
+      "name": "ネコの集会",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "哲学論議がさかんです",
+      "fileName": "body_016100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500335,
+      "name": "チャリオット",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "チャリオットでレースしようね！",
+      "fileName": "body_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500336,
+      "name": "おかねもち",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "余っちゃってもうー",
+      "fileName": "body_017100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500337,
+      "name": "マラカス",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "オラー！ブエナス・タルデス！",
+      "fileName": "body_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500338,
+      "name": "ナスカの地上絵",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "古代のロマン！",
+      "fileName": "body_017400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500339,
+      "name": "せんごくぶしょう",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "時は群雄割拠の戦国時代",
+      "fileName": "body_017600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500341,
+      "name": "アイスドーム",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "外はカチカチ中は快適",
+      "fileName": "body_017800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500342,
+      "name": "火消し",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お江戸のヒーロー",
+      "fileName": "body_017900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500344,
+      "name": "まほうつかい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "太鼓がうまくな～れ",
+      "fileName": "body_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500346,
+      "name": "DKに人気",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ウッスウッスウッスウッス",
+      "fileName": "body_018600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500347,
+      "name": "きのこ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鍋に入れるとおいしいやつです",
+      "fileName": "body_018700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500349,
+      "name": "やきそばやたい",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "やきそば一丁あがり！",
+      "fileName": "body_019000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500350,
+      "name": "みけにゃん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "すぐにどこかにいなくなる",
+      "fileName": "body_019100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500351,
+      "name": "こいのぼり",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "5月5日はこいのぼり",
+      "fileName": "body_019200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500352,
+      "name": "アクアリウム",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "小さな水族館",
+      "fileName": "body_019300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500353,
+      "name": "食パンとバター",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "こんがり焼き立て！",
+      "fileName": "body_019400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500355,
+      "name": "わら納豆",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ねばねばがうまいです",
+      "fileName": "body_019600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500356,
+      "name": "しゃちほこ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本のお城の守り神",
+      "fileName": "body_019700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500358,
+      "name": "かまぼこ",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "板にすり身をのせて蒸した",
+      "fileName": "body_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500359,
+      "name": "夏フェス",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "野外で音楽聴いちゃうもんね",
+      "fileName": "body_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500361,
+      "name": "セーター",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "あったかもこもこ",
+      "fileName": "body_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500364,
+      "name": "パーリーピーポー",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "レッツパーリー！",
+      "fileName": "body_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500365,
+      "name": "おまつりハッピ(青)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ハチマキハッピはお祭りの正装",
+      "fileName": "body_020600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500366,
+      "name": "おまつりハッピ(赤)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ハチマキハッピはお祭りの正装",
+      "fileName": "body_020701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500367,
+      "name": "おまつりハッピ(黄)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ハチマキハッピはお祭りの正装",
+      "fileName": "body_020802",
+      "canChangeColor": true
+    },
+    {
+      "id": 500368,
+      "name": "おまつりハッピ(緑)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ハチマキハッピはお祭りの正装",
+      "fileName": "body_020903",
+      "canChangeColor": true
+    },
+    {
+      "id": 500369,
+      "name": "せんすいかん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "深い海を潜れます",
+      "fileName": "body_020700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500370,
+      "name": "ブーケ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "女性のあこがれ",
+      "fileName": "body_020800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500376,
+      "name": "宇宙服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "こちら宇宙 地上はいかが？",
+      "fileName": "body_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500377,
+      "name": "とら",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "がおー",
+      "fileName": "body_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500379,
+      "name": "小学生",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "通学中",
+      "fileName": "body_021500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500382,
+      "name": "カップケーキ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ぺろりと頂きます",
+      "fileName": "body_021800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500384,
+      "name": "よせ鍋",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "なんでも入ってる豪華なお鍋",
+      "fileName": "body_022000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500386,
+      "name": "ハムスター",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "ほっぺに夢がいっぱい",
+      "fileName": "body_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500388,
+      "name": "りんご",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "まっかなりんご",
+      "fileName": "body_022500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500390,
+      "name": "いもむし",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "いつかキレイなチョウになる",
+      "fileName": "body_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500391,
+      "name": "お子様ランチ",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "大人もうらやむ豪華メニュー",
+      "fileName": "body_022800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500392,
+      "name": "ガシャ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "なにが入ってるかなー",
+      "fileName": "body_022900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500393,
+      "name": "カレー",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "スパイシーでデリシャス",
+      "fileName": "body_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500394,
+      "name": "ゲーミングどんちゃん",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "オシャレで高スペック",
+      "fileName": "body_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500395,
+      "name": "ちくわきゅうり",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "みずみずしい",
+      "fileName": "body_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500397,
+      "name": "ドローン",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "自由自在に水平飛行",
+      "fileName": "body_023500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500398,
+      "name": "パンダに大人気",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "パンダパンダパンダパンダパンダ",
+      "fileName": "body_023600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500399,
+      "name": "プランター",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "木目でスマイル",
+      "fileName": "body_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500402,
+      "name": "鉱物",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "きれいでかたい結晶",
+      "fileName": "body_024100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500404,
+      "name": "木彫り",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "あたたかい手触り",
+      "fileName": "body_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500405,
+      "name": "BBQ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "お肉やけたよー",
+      "fileName": "body_024400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500409,
+      "name": "ジェントル",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "しんしのたしなみ",
+      "fileName": "body_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500410,
+      "name": "スペースステーション",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "コウシンちゅう",
+      "fileName": "body_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500411,
+      "name": "なりきりヒーローごっこ",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "あこがれのヒーローに！",
+      "fileName": "body_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500413,
+      "name": "ミラーボール",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "フィーバータイム！",
+      "fileName": "body_025400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500419,
+      "name": "ガンコおやじ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "てゃんでぇ！",
+      "fileName": "body_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500421,
+      "name": "なし",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "なにもつけていません",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500428,
+      "name": "ネコと杓子",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ネコと杓子はいつも一緒！",
+      "fileName": "acc_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500432,
+      "name": "バチお先生",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "太鼓の打ち方を親切に教えてくれる先生",
+      "fileName": "acc_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500434,
+      "name": "和田イヌ",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "礼儀正しい柴犬、ほっかむりがチャームポイント",
+      "fileName": "acc_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500439,
+      "name": "和田ミミズ",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和田どんのペット(乙女)",
+      "fileName": "acc_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500444,
+      "name": "テツオ",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "活発で騒がしいワンパク坊主",
+      "fileName": "acc_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500445,
+      "name": "はなちゃん",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "テツオより1歳年上なのでお姉さん的な存在",
+      "fileName": "acc_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500446,
+      "name": "なし",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "なにもつけていません",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500447,
+      "name": "ヘリコプター",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "とんでいきたい気分です",
+      "fileName": "cos_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500448,
+      "name": "おみこし(ゴールド)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "わっしょい！わっしょい！",
+      "fileName": "cos_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500449,
+      "name": "おみこし(シルバー)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "わっしょい！わっしょい！",
+      "fileName": "cos_002001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500450,
+      "name": "おみこし(ブラウン)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "わっしょい！わっしょい！",
+      "fileName": "cos_002002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500451,
+      "name": "おみこし(グリーン)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "わっしょい！わっしょい！",
+      "fileName": "cos_002003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500452,
+      "name": "かえる",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "ゲコゲコー",
+      "fileName": "cos_003000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500453,
+      "name": "メカドン",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "キカイじかけのどんちゃんです",
+      "fileName": "cos_004000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500454,
+      "name": "おしろ(青)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本のお城です",
+      "fileName": "cos_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500455,
+      "name": "おしろ(黒)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本のお城です",
+      "fileName": "cos_005003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500456,
+      "name": "おしろ(金)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本のお城です",
+      "fileName": "cos_005002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500457,
+      "name": "おしろ(緑)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本のお城です",
+      "fileName": "cos_005001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500458,
+      "name": "富士山",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "日本一のお山です",
+      "fileName": "cos_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500459,
+      "name": "テツオライド",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "テツオが乗ってます",
+      "fileName": "cos_007000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500460,
+      "name": "でんしゃ(ブルー)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "しゅっぱつしんこうー",
+      "fileName": "cos_008000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500461,
+      "name": "でんしゃ(レッド)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "しゅっぱつしんこうー",
+      "fileName": "cos_008001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500462,
+      "name": "でんしゃ(グリーン)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "しゅっぱつしんこうー",
+      "fileName": "cos_008002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500463,
+      "name": "さめ(青)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "海の王者",
+      "fileName": "cos_009000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500466,
+      "name": "すし",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "新鮮なネタがのってます",
+      "fileName": "cos_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500467,
+      "name": "きしゃ",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "じょうきで動いてます",
+      "fileName": "cos_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500468,
+      "name": "ぎゅうどん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "つゆだくで",
+      "fileName": "cos_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500469,
+      "name": "かつどん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "にくあつなかつどんです",
+      "fileName": "cos_012001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500470,
+      "name": "おやこどん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "鶏肉と卵のマリアージュ",
+      "fileName": "cos_012002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500471,
+      "name": "ごはん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "何にでも合います",
+      "fileName": "cos_012003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500472,
+      "name": "ドラムセット",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "ビートをきざめます",
+      "fileName": "cos_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500473,
+      "name": "肉",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "あの肉です",
+      "fileName": "cos_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500474,
+      "name": "たからぶね",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "お宝まんさい",
+      "fileName": "cos_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500475,
+      "name": "ゴースト",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "オバケだぞー",
+      "fileName": "cos_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500476,
+      "name": "へいあんびじん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "色白のカワイイ子",
+      "fileName": "cos_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500477,
+      "name": "イリュージョン",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "トリックじゃありません",
+      "fileName": "cos_018000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500478,
+      "name": "塗り途中",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "ペンキ塗りたて",
+      "fileName": "cos_019000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500479,
+      "name": "キディライド",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "コインを入れるとゆれます",
+      "fileName": "cos_020000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500480,
+      "name": "やまづみ",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "三段がさね",
+      "fileName": "cos_021000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500481,
+      "name": "ズレてる",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "ズレてた",
+      "fileName": "cos_022000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500482,
+      "name": "タピオカミルクティー",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "食べ物で飲み物です",
+      "fileName": "cos_023000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500484,
+      "name": "温泉",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "ホカホカでつやつや",
+      "fileName": "cos_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500486,
+      "name": "サイコロ",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "運だめし",
+      "fileName": "cos_027000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500487,
+      "name": "からあげ",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "あげたて、ジューシー",
+      "fileName": "cos_028000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500488,
+      "name": "くもきゅん",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "どっちがどっち？",
+      "fileName": "cos_029000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500489,
+      "name": "くらげ",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "ふわふわ、ただよいます",
+      "fileName": "cos_030000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500490,
+      "name": "ラテアート",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "人気の一杯",
+      "fileName": "cos_031000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500492,
+      "name": "前世",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "前世です",
+      "fileName": "cos_033000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500493,
+      "name": "どんちゃん",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "どんちゃんカラー",
+      "fileName": "col_000001",
+      "canChangeColor": false
+    },
+    {
+      "id": 500495,
+      "name": "カレクッタ＝ドンディー",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きいろシリーズ　1/5",
+      "fileName": "col_000003",
+      "canChangeColor": false
+    },
+    {
+      "id": 500496,
+      "name": "きいろ2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きいろシリーズ　2/5",
+      "fileName": "col_000004",
+      "canChangeColor": true
+    },
+    {
+      "id": 500497,
+      "name": "きいろ3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きいろシリーズ　3/5",
+      "fileName": "col_000005",
+      "canChangeColor": true
+    },
+    {
+      "id": 500498,
+      "name": "きいろ4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きいろシリーズ　4/5",
+      "fileName": "col_000006",
+      "canChangeColor": true
+    },
+    {
+      "id": 500500,
+      "name": "よもぎまる",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きみどりシリーズ　1/5",
+      "fileName": "col_000008",
+      "canChangeColor": true
+    },
+    {
+      "id": 500501,
+      "name": "きみどり2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きみどりシリーズ　2/5",
+      "fileName": "col_000009",
+      "canChangeColor": true
+    },
+    {
+      "id": 500502,
+      "name": "きみどり3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きみどりシリーズ　3/5",
+      "fileName": "col_000010",
+      "canChangeColor": true
+    },
+    {
+      "id": 500503,
+      "name": "きみどり4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "きみどりシリーズ　4/5",
+      "fileName": "col_000011",
+      "canChangeColor": true
+    },
+    {
+      "id": 500505,
+      "name": "みどり1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みどりシリーズ　1/5",
+      "fileName": "col_000013",
+      "canChangeColor": true
+    },
+    {
+      "id": 500506,
+      "name": "みどり2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みどりシリーズ　2/5",
+      "fileName": "col_000014",
+      "canChangeColor": true
+    },
+    {
+      "id": 500507,
+      "name": "みどり3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みどりシリーズ　3/5",
+      "fileName": "col_000015",
+      "canChangeColor": true
+    },
+    {
+      "id": 500508,
+      "name": "みどり4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みどりシリーズ　4/5",
+      "fileName": "col_000016",
+      "canChangeColor": true
+    },
+    {
+      "id": 500510,
+      "name": "みずいろ1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みずいろシリーズ　1/5",
+      "fileName": "col_000018",
+      "canChangeColor": true
+    },
+    {
+      "id": 500511,
+      "name": "みずいろ2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みずいろシリーズ　2/5",
+      "fileName": "col_000019",
+      "canChangeColor": true
+    },
+    {
+      "id": 500512,
+      "name": "みずいろ3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みずいろシリーズ　3/5",
+      "fileName": "col_000020",
+      "canChangeColor": true
+    },
+    {
+      "id": 500513,
+      "name": "みずいろ4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "みずいろシリーズ　4/5",
+      "fileName": "col_000021",
+      "canChangeColor": true
+    },
+    {
+      "id": 500515,
+      "name": "あお1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あおシリーズ　1/5",
+      "fileName": "col_000023",
+      "canChangeColor": true
+    },
+    {
+      "id": 500516,
+      "name": "あお2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あおシリーズ　2/5",
+      "fileName": "col_000024",
+      "canChangeColor": true
+    },
+    {
+      "id": 500517,
+      "name": "あお3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あおシリーズ　3/5",
+      "fileName": "col_000025",
+      "canChangeColor": true
+    },
+    {
+      "id": 500518,
+      "name": "あお4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あおシリーズ　4/5",
+      "fileName": "col_000026",
+      "canChangeColor": true
+    },
+    {
+      "id": 500520,
+      "name": "むらさき1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "むらさきシリーズ　1/5",
+      "fileName": "col_000028",
+      "canChangeColor": true
+    },
+    {
+      "id": 500521,
+      "name": "むらさき2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "むらさきシリーズ　2/5",
+      "fileName": "col_000029",
+      "canChangeColor": true
+    },
+    {
+      "id": 500522,
+      "name": "むらさき3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "むらさきシリーズ　3/5",
+      "fileName": "col_000030",
+      "canChangeColor": true
+    },
+    {
+      "id": 500523,
+      "name": "むらさき4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "むらさきシリーズ　4/5",
+      "fileName": "col_000031",
+      "canChangeColor": true
+    },
+    {
+      "id": 500525,
+      "name": "あかむらさき1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかむらさきシリーズ　1/5",
+      "fileName": "col_000033",
+      "canChangeColor": true
+    },
+    {
+      "id": 500526,
+      "name": "あかむらさき2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかむらさきシリーズ　2/5",
+      "fileName": "col_000034",
+      "canChangeColor": true
+    },
+    {
+      "id": 500527,
+      "name": "あかむらさき3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかむらさきシリーズ　3/5",
+      "fileName": "col_000035",
+      "canChangeColor": true
+    },
+    {
+      "id": 500530,
+      "name": "ももいろ1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ももいろシリーズ　1/5",
+      "fileName": "col_000038",
+      "canChangeColor": true
+    },
+    {
+      "id": 500531,
+      "name": "ももいろ2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ももいろシリーズ　2/5",
+      "fileName": "col_000039",
+      "canChangeColor": true
+    },
+    {
+      "id": 500532,
+      "name": "ももいろ3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ももいろシリーズ　3/5",
+      "fileName": "col_000040",
+      "canChangeColor": true
+    },
+    {
+      "id": 500535,
+      "name": "あか1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかシリーズ　1/5",
+      "fileName": "col_000043",
+      "canChangeColor": true
+    },
+    {
+      "id": 500536,
+      "name": "あか2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかシリーズ　2/5",
+      "fileName": "col_000044",
+      "canChangeColor": true
+    },
+    {
+      "id": 500537,
+      "name": "あか3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "あかシリーズ　3/5",
+      "fileName": "col_000045",
+      "canChangeColor": true
+    },
+    {
+      "id": 500540,
+      "name": "だいだい1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "だいだいシリーズ　1/5",
+      "fileName": "col_000048",
+      "canChangeColor": true
+    },
+    {
+      "id": 500541,
+      "name": "だいだい2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "だいだいシリーズ　2/5",
+      "fileName": "col_000049",
+      "canChangeColor": true
+    },
+    {
+      "id": 500542,
+      "name": "だいだい3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "だいだいシリーズ　3/5",
+      "fileName": "col_000050",
+      "canChangeColor": true
+    },
+    {
+      "id": 500545,
+      "name": "ミルキー1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ミルキーシリーズ　1/5",
+      "fileName": "col_000053",
+      "canChangeColor": true
+    },
+    {
+      "id": 500546,
+      "name": "ミルキー2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ミルキーシリーズ　2/5",
+      "fileName": "col_000054",
+      "canChangeColor": true
+    },
+    {
+      "id": 500547,
+      "name": "ミルキー3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ミルキーシリーズ　3/5",
+      "fileName": "col_000055",
+      "canChangeColor": true
+    },
+    {
+      "id": 500550,
+      "name": "シック1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "シックシリーズ　1/5",
+      "fileName": "col_000058",
+      "canChangeColor": true
+    },
+    {
+      "id": 500551,
+      "name": "シック2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "シックシリーズ　2/5",
+      "fileName": "col_000059",
+      "canChangeColor": true
+    },
+    {
+      "id": 500552,
+      "name": "シック3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "シックシリーズ　3/5",
+      "fileName": "col_000060",
+      "canChangeColor": true
+    },
+    {
+      "id": 500555,
+      "name": "パステル1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "パステルシリーズ　1/6",
+      "fileName": "col_000063",
+      "canChangeColor": true
+    },
+    {
+      "id": 500556,
+      "name": "パステル2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "パステルシリーズ　2/6",
+      "fileName": "col_000064",
+      "canChangeColor": true
+    },
+    {
+      "id": 500557,
+      "name": "パステル3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "パステルシリーズ　3/6",
+      "fileName": "col_000065",
+      "canChangeColor": true
+    },
+    {
+      "id": 500561,
+      "name": "ビビッド1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ビビッドシリーズ　1/6",
+      "fileName": "col_000069",
+      "canChangeColor": true
+    },
+    {
+      "id": 500562,
+      "name": "ビビッド2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ビビッドシリーズ　2/6",
+      "fileName": "col_000070",
+      "canChangeColor": true
+    },
+    {
+      "id": 500563,
+      "name": "ビビッド3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "ビビッドシリーズ　3/6",
+      "fileName": "col_000071",
+      "canChangeColor": true
+    },
+    {
+      "id": 500583,
+      "name": "メンフクロウ",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "夜行性です",
+      "fileName": "cos_034000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500584,
+      "name": "不知火フレア",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブの頼れるハーフエルフ。「不知火フレア」と一緒に太鼓を叩こう。",
+      "fileName": "acc_158000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500585,
+      "name": "白銀ノエル",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブのゆるふわ女騎士。「白銀ノエル」と一緒に太鼓を叩こう。",
+      "fileName": "acc_159000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500586,
+      "name": "宝鐘マリン",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブのセクシー女船長。「宝鐘マリン」と一緒に太鼓を叩こう。",
+      "fileName": "acc_160000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500587,
+      "name": "桃鈴ねね",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブの異世界出身アイドル。「桃鈴ねね」と一緒に太鼓を叩こう。",
+      "fileName": "acc_161000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500588,
+      "name": "鷹嶺ルイ",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブの秘密結社holoXのポンコツ女幹部。「鷹嶺ルイ」と一緒に太鼓を叩こう。",
+      "fileName": "acc_162000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500589,
+      "name": "風真いろは",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "ホロライブの秘密結社holoXの侍で用心棒。「風真いろは」と一緒に太鼓を叩こう。",
+      "fileName": "acc_163000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500590,
+      "name": "レミ",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "オミコシティを代表するアイドル「オミコシスターズ」のメンバー。元気いっぱいで細かいことは気にしない、明るく活発な女の子。",
+      "fileName": "acc_164000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500591,
+      "name": "フア",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "オミコシティを代表するアイドル「オミコシスターズ」のメンバー。性格はマイペース。アイドル活動の傍ら、DJとしての一面も。",
+      "fileName": "acc_165000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500592,
+      "name": "くもきゅん",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "どっちがどっち？",
+      "fileName": "acc_166000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500593,
+      "name": "まきな",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "2765年から来た「ドンだー研究者」。\n瞬時に相手の腕前を再現する「AIどん」を\n開発する頭脳と弱気 de 健気な性格が魅力。",
+      "fileName": "acc_167000",
+      "canChangeColor": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "titles": [
+    {
+      "id": 600001,
+      "rarity": 1,
+      "name": "超・王冠マスター",
+      "description": "王冠を合計3500コ集めた証だドン！",
+      "iconFileName": "honor_icon_001",
+      "bgFileName": "honor_bg_001",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600002,
+      "rarity": 1,
+      "name": "継続は力なり",
+      "description": "合計8760回完奏した証だドン！",
+      "iconFileName": "honor_icon_002",
+      "bgFileName": "honor_bg_002",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600003,
+      "rarity": 1,
+      "name": "自称オシャレ",
+      "description": "きせかえを400種類集めた証だドン！",
+      "iconFileName": "honor_icon_003",
+      "bgFileName": "honor_bg_003",
+      "textColorType": "TEXT_COLOR_PINK"
+    },
+    {
+      "id": 600004,
+      "rarity": 1,
+      "name": "トップランカーの証",
+      "description": "プレイヤーランクSSSになった証だドン！",
+      "iconFileName": "honor_icon_004",
+      "bgFileName": "honor_bg_004",
+      "textColorType": "TEXT_COLOR_PURPLE"
+    },
+    {
+      "id": 600005,
+      "rarity": 1,
+      "name": "ライバルは自分自身",
+      "description": "プレイヤーレベル700になった証だドン！",
+      "iconFileName": "honor_icon_005",
+      "bgFileName": "honor_bg_005",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600006,
+      "rarity": 1,
+      "name": "最速チャレンジャー",
+      "description": "「本日最速！」を100回達成した証だドン！",
+      "iconFileName": "honor_icon_006",
+      "bgFileName": "honor_bg_006",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600007,
+      "rarity": 1,
+      "name": "Dontastic!!",
+      "description": "「おに☆10」の異なる3曲を連続でドンダフルコンボした証だドン！",
+      "iconFileName": "honor_icon_007",
+      "bgFileName": "honor_bg_007",
+      "textColorType": "TEXT_COLOR_PINK"
+    }
+  ]
+}

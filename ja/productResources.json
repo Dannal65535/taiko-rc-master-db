@@ -1,0 +1,102 @@
+{
+  "productResources": [
+    {
+      "id": 2000001,
+      "type": "PRODUCT_TYPE_TICKET",
+      "name": "チケット",
+      "fileName": "icon_ticket_possession",
+      "description": "楽曲をプレイするために使用するチケット"
+    },
+    {
+      "id": 2000002,
+      "type": "PRODUCT_TYPE_PAID_CURRENCY",
+      "name": "有償コイン",
+      "fileName": "goods_2",
+      "description": "各種アイテムとの交換に使える有償コイン"
+    },
+    {
+      "id": 2000003,
+      "type": "PRODUCT_TYPE_FREE_CURRENCY",
+      "name": "無償コイン",
+      "fileName": "goods_3",
+      "description": "各種アイテムとの交換に使える無償コイン"
+    },
+    {
+      "id": 2000004,
+      "type": "PRODUCT_TYPE_TICKET_POINT",
+      "name": "チケットP",
+      "fileName": "icon_ticketP",
+      "description": "チケットと交換できるポイント"
+    },
+    {
+      "id": 2000005,
+      "type": "PRODUCT_TYPE_VARIETY_POINT",
+      "name": "いろいろP",
+      "fileName": "icon_variousP",
+      "description": "期間限定のきせかえ、いろ、背景と交換できるポイント"
+    },
+    {
+      "id": 2000006,
+      "type": "PRODUCT_TYPE_FASHION_POINT",
+      "name": "おしゃれP",
+      "fileName": "icon_fashionP",
+      "description": "おしゃれなきせかえと交換できるポイント"
+    },
+    {
+      "id": 2000007,
+      "type": "PRODUCT_TYPE_ITEM_POINT",
+      "name": "アイテムP",
+      "fileName": "icon_itemP",
+      "description": "補助アイテムと交換できるポイント"
+    },
+    {
+      "id": 2000008,
+      "type": "PRODUCT_TYPE_EVENT_POINT",
+      "name": "イベントポイント",
+      "fileName": "None",
+      "description": "イベントで獲得できるポイント"
+    },
+    {
+      "id": 2000009,
+      "type": "PRODUCT_TYPE_TITLE_POINT",
+      "name": "称号P",
+      "fileName": "icon_titleP",
+      "description": "カスタム称号を獲得するためのポイント"
+    },
+    {
+      "id": 2000010,
+      "type": "PRODUCT_TYPE_PLAY_ITEM",
+      "name": "プレイアイテム",
+      "fileName": "goods_8",
+      "description": "インゲームで使用するアイテム"
+    },
+    {
+      "id": 2000011,
+      "type": "PRODUCT_TYPE_SKIN",
+      "name": "きせかえ",
+      "fileName": "goods_9",
+      "description": "きせかえ"
+    },
+    {
+      "id": 2000012,
+      "type": "PRODUCT_TYPE_TITLE",
+      "name": "レア称号",
+      "fileName": "goods_10",
+      "description": "レア称号"
+    },
+    {
+      "id": 2000013,
+      "type": "PRODUCT_TYPE_CUSTOM_TITLE",
+      "name": "カスタム称号",
+      "fileName": "None",
+      "description": "カスタム称号"
+    },
+    {
+      "id": 2000015,
+      "type": "PRODUCT_TYPE_PROFILE_BG",
+      "name": "背景",
+      "fileName": "goods_12",
+      "description": "背景"
+    }
+  ]
+}

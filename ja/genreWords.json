@@ -1,0 +1,124 @@
+{
+  "genreWords": [
+    {
+      "id": 1300001,
+      "genreId": 1,
+      "word": "ぽっぷす"
+    },
+    {
+      "id": 1300002,
+      "genreId": 1,
+      "word": "ぽっぷ"
+    },
+    {
+      "id": 1300003,
+      "genreId": 1,
+      "word": "POPS"
+    },
+    {
+      "id": 1300004,
+      "genreId": 1,
+      "word": "POP"
+    },
+    {
+      "id": 1300005,
+      "genreId": 2,
+      "word": "あにめ"
+    },
+    {
+      "id": 1300006,
+      "genreId": 2,
+      "word": "ANIME"
+    },
+    {
+      "id": 1300007,
+      "genreId": 3,
+      "word": "ぼーかろいど"
+    },
+    {
+      "id": 1300008,
+      "genreId": 3,
+      "word": "ぼかろ"
+    },
+    {
+      "id": 1300009,
+      "genreId": 3,
+      "word": "VOCALOID"
+    },
+    {
+      "id": 1300010,
+      "genreId": 3,
+      "word": "ボーカロイド™"
+    },
+    {
+      "id": 1300011,
+      "genreId": 3,
+      "word": "ぼーかろいど™"
+    },
+    {
+      "id": 1300012,
+      "genreId": 3,
+      "word": "VOCALOID™"
+    },
+    {
+      "id": 1300013,
+      "genreId": 4,
+      "word": "くらしっく"
+    },
+    {
+      "id": 1300014,
+      "genreId": 4,
+      "word": "くらしかる"
+    },
+    {
+      "id": 1300015,
+      "genreId": 4,
+      "word": "CLASSIC"
+    },
+    {
+      "id": 1300016,
+      "genreId": 5,
+      "word": "ばらえてぃ"
+    },
+    {
+      "id": 1300017,
+      "genreId": 5,
+      "word": "ばらえてぃー"
+    },
+    {
+      "id": 1300018,
+      "genreId": 5,
+      "word": "VARIETY"
+    },
+    {
+      "id": 1300019,
+      "genreId": 6,
+      "word": "げーむ"
+    },
+    {
+      "id": 1300020,
+      "genreId": 6,
+      "word": "GAME"
+    },
+    {
+      "id": 1300021,
+      "genreId": 7,
+      "word": "なむおり"
+    },
+    {
+      "id": 1300022,
+      "genreId": 7,
+      "word": "なむこおりじなる"
+    },
+    {
+      "id": 1300023,
+      "genreId": 7,
+      "word": "NAMCO"
+    },
+    {
+      "id": 1300024,
+      "genreId": 7,
+      "word": "なむこ"
+    }
+  ]
+}

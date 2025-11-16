@@ -1,0 +1,136 @@
+{
+  "firstTransitionTipsGroups": [
+    {
+      "id": 9410001,
+      "groupId": 1001,
+      "title": "難易度選択について",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410002,
+      "groupId": 1002,
+      "title": "リスト更新完了",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410003,
+      "groupId": 1003,
+      "title": "アイテムについて",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410004,
+      "groupId": 1004,
+      "title": "太鼓の達人のあそびかた",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410005,
+      "groupId": 1005,
+      "title": "太鼓の達人のあそびかた",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410006,
+      "groupId": 1006,
+      "title": "はじめてのレベルアップ",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410007,
+      "groupId": 1007,
+      "title": "はじめてのランクアップ",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410008,
+      "groupId": 1008,
+      "title": "検索について",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410009,
+      "groupId": 1009,
+      "title": "きせかえについて",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410010,
+      "groupId": 1010,
+      "title": "ポイントについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410011,
+      "groupId": 1011,
+      "title": "チケット入手方法について",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410012,
+      "groupId": 1012,
+      "title": "パスポートについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION_AND_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410013,
+      "groupId": 1013,
+      "title": "マイページについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410014,
+      "groupId": 1014,
+      "title": "マイリストについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410015,
+      "groupId": 1015,
+      "title": "フレンドについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410016,
+      "groupId": 1016,
+      "title": "ランクAA到達",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410018,
+      "groupId": 1018,
+      "title": "各種メニューアンロック",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410019,
+      "groupId": 1019,
+      "title": "コインとアイテムを交換",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410020,
+      "groupId": 1020,
+      "title": "ポイントをつかってアイテムゲット",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410021,
+      "groupId": 2001,
+      "title": "ショップについて",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410022,
+      "groupId": 2982,
+      "title": "楽曲解放について",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410023,
+      "groupId": 3963,
+      "title": "コレクションについて",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    }
+  ]
+}

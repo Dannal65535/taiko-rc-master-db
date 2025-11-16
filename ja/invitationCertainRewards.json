@@ -1,0 +1,22 @@
+{
+  "invitationCertainRewards": [
+    {
+      "id": 20001,
+      "step": 1,
+      "count": 5,
+      "rewardGroupId": 3210007
+    },
+    {
+      "id": 20002,
+      "step": 2,
+      "count": 15,
+      "rewardGroupId": 3210008
+    },
+    {
+      "id": 20003,
+      "step": 3,
+      "count": 30,
+      "rewardGroupId": 3210009
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "localPushNotifications": [
+    {
+      "id": 1,
+      "message": "おはようございます！\nフリーパック受け取りましたか？",
+      "notifyHourAndMinute": "08:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "message": "リズコネでちょっと一息！\nフリーパック受け取りましたか？",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "message": "今日も１日おつかれさまでした！\nフリーパック受け取りましたか？",
+      "notifyHourAndMinute": "20:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 4,
+      "message": "水曜日はリズコネでドン活しようの日！",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        3
+      ]
+    }
+  ]
+}

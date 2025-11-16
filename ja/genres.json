@@ -1,0 +1,39 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "ポップス",
+      "colorCode": "#1E9FBD"
+    },
+    {
+      "id": 2,
+      "name": "アニメ",
+      "colorCode": "#FF9900"
+    },
+    {
+      "id": 3,
+      "name": "ボーカロイド™",
+      "colorCode": "#8E99AD"
+    },
+    {
+      "id": 4,
+      "name": "クラシック",
+      "colorCode": "#C47B21"
+    },
+    {
+      "id": 5,
+      "name": "バラエティ",
+      "colorCode": "#7ABD3F"
+    },
+    {
+      "id": 6,
+      "name": "ゲーム",
+      "colorCode": "#9D76BF"
+    },
+    {
+      "id": 7,
+      "name": "ナムオリ",
+      "colorCode": "#FF5B14"
+    }
+  ]
+}

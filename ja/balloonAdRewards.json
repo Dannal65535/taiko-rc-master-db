@@ -1,0 +1,34 @@
+{
+  "balloonAdRewards": [
+    {
+      "id": 20001,
+      "type": "RAINBOW_1",
+      "rewardGroupId": 3410001
+    },
+    {
+      "id": 20002,
+      "type": "RAINBOW_3",
+      "rewardGroupId": 3410002
+    },
+    {
+      "id": 20003,
+      "type": "GOLD_1",
+      "rewardGroupId": 3410003
+    },
+    {
+      "id": 20004,
+      "type": "GOLD_3",
+      "rewardGroupId": 3410004
+    },
+    {
+      "id": 20005,
+      "type": "NORMAL_1",
+      "rewardGroupId": 3410005
+    },
+    {
+      "id": 20006,
+      "type": "NORMAL_3",
+      "rewardGroupId": 3410006
+    }
+  ]
+}

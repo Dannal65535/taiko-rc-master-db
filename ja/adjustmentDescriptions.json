@@ -1,0 +1,116 @@
+{
+  "adjustmentDescriptions": [
+    {
+      "id": 9600001,
+      "step": 1,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "太鼓の達人 RHYTHM CONNECTをダウンロードしていただきありがとうございます",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600002,
+      "step": 2,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "これより太鼓の達人を快適にあそんでいただくための調整を行います",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600003,
+      "step": 3,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "この調整は端末によっては表示される音符と音にズレが生じてしまうのを防ぐために行います",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600004,
+      "step": 4,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "調整中は一定のリズムで太鼓の音が鳴りますが音符は流れてきません",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600005,
+      "step": 5,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "入力が無かったので再度調整をやり直します",
+      "isRestartMessage": true
+    },
+    {
+      "id": 9600006,
+      "step": 6,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "音にあわせてタイミングをとり『4拍目』の音に合わせて太鼓をタップしてください",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600007,
+      "step": 7,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "タイミングをとり『ドン』の音に合わせて太鼓をタップしてください",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600008,
+      "step": 8,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "これを何度か繰り返して調整は終了です",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600009,
+      "step": 9,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "この調整は音を使って調整するため",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600010,
+      "step": 10,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "必ずミュートを解除してから始めてください",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600011,
+      "step": 11,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "それでは調整を開始します",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600012,
+      "step": 12,
+      "isTutorial": false,
+      "isStart": true,
+      "description": "調整中です『4拍目』の音に合わせて太鼓をタップしてください",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600013,
+      "step": 13,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "お疲れさまでした、これで調整は終了です",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600014,
+      "step": 14,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "さっそく演奏してみましょう！",
+      "isRestartMessage": false
+    }
+  ]
+}

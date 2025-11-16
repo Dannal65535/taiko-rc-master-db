@@ -1,0 +1,102 @@
+{
+  "playItems": [
+    {
+      "id": 400001,
+      "name": "経験値2倍",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 20,
+      "duplicate": 1,
+      "description": "1回の演奏で獲得できる基本経験値が2倍になるアイテム",
+      "fileName": "icon_expx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400002,
+      "name": "経験値3倍",
+      "ownLimit": 1,
+      "priority": 1,
+      "sortOrder": 10,
+      "duplicate": 1,
+      "description": "『毎日1つ配布！使用期限は本日まで！』1回の演奏で獲得できる基本経験値が3倍になるアイテム",
+      "fileName": "icon_expx3",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400003,
+      "name": "ポイント2倍",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 30,
+      "duplicate": 1,
+      "description": "1回の演奏で「ゲットできるポイント」が2倍になるアイテム",
+      "fileName": "icon_donPx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400004,
+      "name": "演奏補助",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 40,
+      "duplicate": 10,
+      "description": "不可判定10回分を可に変換し、大音符をワンタップでダブルタップ判定にするアイテム",
+      "fileName": "icon_ensohojo",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400005,
+      "name": "長押し連打",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 50,
+      "duplicate": 10,
+      "description": "連打判定時に太鼓を長押しすることで連打できるアイテム",
+      "fileName": "icon_nagaoshirenda",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400006,
+      "name": "ニジこづち",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 60,
+      "duplicate": 1,
+      "description": "演奏中のこづち音符が虹色に変わり、たたき切るとアイテムが手に入るアイテム",
+      "fileName": "icon_nijikoduchi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400007,
+      "name": "オールイン",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 70,
+      "duplicate": 1,
+      "description": "獲得経験値5倍、「ゲットできるポイント」が5倍、長押し連打10個分、演奏補助の効果が得られるアイテム",
+      "fileName": "icon_all_in",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    }
+  ]
+}

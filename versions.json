@@ -1,0 +1,30 @@
+[
+	{
+		"X-Application-Version": "1.13.0",
+		"X-Language": "ja",
+		"masterdataHash": "0cbad2f5c6a86f96aa423128f8d135c2e0e01176bc506bd8b3b7994775d6c592",
+		"catalogVersion": "1.0.0",
+		"catalogHash": "810cff8aa35487a61578151d23509050"
+	},
+	{
+		"X-Application-Version": "1.13.0",
+		"X-Language": "en",
+		"masterdataHash": "7717787394d9a6df3e6a14ab145fec6d73375a55e0f3e05e1413d83951b64f83",
+		"catalogVersion": "1.0.0",
+		"catalogHash": "810cff8aa35487a61578151d23509050"
+	},
+	{
+		"X-Application-Version": "1.13.0",
+		"X-Language": "zh-TW",
+		"masterdataHash": "e0b178a19eaaf669188030fd1d1eb653b9e0b178dbf5bfa913a2aadfae3f692e",
+		"catalogVersion": "1.0.0",
+		"catalogHash": "810cff8aa35487a61578151d23509050"
+	},
+	{
+		"X-Application-Version": "1.13.0",
+		"X-Language": "zh-CN",
+		"masterdataHash": "6be67c08a99b67c20eb56e4a10b13b2f5379d39e17b7b704c0d1d7902fc7eea9",
+		"catalogVersion": "1.0.0",
+		"catalogHash": "810cff8aa35487a61578151d23509050"
+	}
+]

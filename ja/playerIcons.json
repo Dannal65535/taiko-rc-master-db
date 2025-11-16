@@ -1,0 +1,284 @@
+{
+  "playerIcons": [
+    {
+      "id": 900001,
+      "name": "ビーチパラソル",
+      "fileName": "player_icon_0001"
+    },
+    {
+      "id": 900002,
+      "name": "サングラス",
+      "fileName": "player_icon_0002"
+    },
+    {
+      "id": 900003,
+      "name": "富士山",
+      "fileName": "player_icon_0003"
+    },
+    {
+      "id": 900004,
+      "name": "温泉",
+      "fileName": "player_icon_0004"
+    },
+    {
+      "id": 900005,
+      "name": "飛行機",
+      "fileName": "player_icon_0005"
+    },
+    {
+      "id": 900006,
+      "name": "ヨット",
+      "fileName": "player_icon_0006"
+    },
+    {
+      "id": 900007,
+      "name": "フルーツカクテル",
+      "fileName": "player_icon_0007"
+    },
+    {
+      "id": 900008,
+      "name": "ラーメン",
+      "fileName": "player_icon_0008"
+    },
+    {
+      "id": 900009,
+      "name": "カレー",
+      "fileName": "player_icon_0009"
+    },
+    {
+      "id": 900010,
+      "name": "寿司",
+      "fileName": "player_icon_0010"
+    },
+    {
+      "id": 900011,
+      "name": "ソフトクリーム",
+      "fileName": "player_icon_0011"
+    },
+    {
+      "id": 900012,
+      "name": "ショートケーキ",
+      "fileName": "player_icon_0012"
+    },
+    {
+      "id": 900013,
+      "name": "ハンバーガー",
+      "fileName": "player_icon_0013"
+    },
+    {
+      "id": 900014,
+      "name": "エビフライ",
+      "fileName": "player_icon_0014"
+    },
+    {
+      "id": 900015,
+      "name": "たこ焼き",
+      "fileName": "player_icon_0015"
+    },
+    {
+      "id": 900016,
+      "name": "豆腐",
+      "fileName": "player_icon_0016"
+    },
+    {
+      "id": 900017,
+      "name": "ステーキ",
+      "fileName": "player_icon_0017"
+    },
+    {
+      "id": 900018,
+      "name": "コーヒー",
+      "fileName": "player_icon_0018"
+    },
+    {
+      "id": 900019,
+      "name": "いぬ",
+      "fileName": "player_icon_0019"
+    },
+    {
+      "id": 900020,
+      "name": "ねこ",
+      "fileName": "player_icon_0020"
+    },
+    {
+      "id": 900021,
+      "name": "ウサギ",
+      "fileName": "player_icon_0021"
+    },
+    {
+      "id": 900022,
+      "name": "花",
+      "fileName": "player_icon_0022"
+    },
+    {
+      "id": 900023,
+      "name": "文鳥",
+      "fileName": "player_icon_0023"
+    },
+    {
+      "id": 900024,
+      "name": "ゴリラ",
+      "fileName": "player_icon_0024"
+    },
+    {
+      "id": 900025,
+      "name": "サメ",
+      "fileName": "player_icon_0025"
+    },
+    {
+      "id": 900026,
+      "name": "ウニ",
+      "fileName": "player_icon_0026"
+    },
+    {
+      "id": 900027,
+      "name": "蜂",
+      "fileName": "player_icon_0027"
+    },
+    {
+      "id": 900028,
+      "name": "たぬき",
+      "fileName": "player_icon_0028"
+    },
+    {
+      "id": 900029,
+      "name": "おみこし",
+      "fileName": "player_icon_0029"
+    },
+    {
+      "id": 900030,
+      "name": "りんご飴",
+      "fileName": "player_icon_0030"
+    },
+    {
+      "id": 900031,
+      "name": "しめなわ",
+      "fileName": "player_icon_0031"
+    },
+    {
+      "id": 900032,
+      "name": "ハッピとハチマキ",
+      "fileName": "player_icon_0032"
+    },
+    {
+      "id": 900033,
+      "name": "かき氷",
+      "fileName": "player_icon_0033"
+    },
+    {
+      "id": 900034,
+      "name": "金魚すくい",
+      "fileName": "player_icon_0034"
+    },
+    {
+      "id": 900035,
+      "name": "花火",
+      "fileName": "player_icon_0035"
+    },
+    {
+      "id": 900036,
+      "name": "キャンプ、テント",
+      "fileName": "player_icon_0036"
+    },
+    {
+      "id": 900037,
+      "name": "本",
+      "fileName": "player_icon_0037"
+    },
+    {
+      "id": 900038,
+      "name": "サイコロ",
+      "fileName": "player_icon_0038"
+    },
+    {
+      "id": 900039,
+      "name": "自転車",
+      "fileName": "player_icon_0039"
+    },
+    {
+      "id": 900040,
+      "name": "車",
+      "fileName": "player_icon_0040"
+    },
+    {
+      "id": 900041,
+      "name": "釣り",
+      "fileName": "player_icon_0041"
+    },
+    {
+      "id": 900042,
+      "name": "サッカーボール",
+      "fileName": "player_icon_0042"
+    },
+    {
+      "id": 900043,
+      "name": "ピアノの鍵盤",
+      "fileName": "player_icon_0043"
+    },
+    {
+      "id": 900044,
+      "name": "ギター",
+      "fileName": "player_icon_0044"
+    },
+    {
+      "id": 900045,
+      "name": "レコード",
+      "fileName": "player_icon_0045"
+    },
+    {
+      "id": 900046,
+      "name": "ヘッドホン",
+      "fileName": "player_icon_0046"
+    },
+    {
+      "id": 900047,
+      "name": "ラジカセ",
+      "fileName": "player_icon_0047"
+    },
+    {
+      "id": 900048,
+      "name": "サックス",
+      "fileName": "player_icon_0048"
+    },
+    {
+      "id": 900049,
+      "name": "ベートーヴェン",
+      "fileName": "player_icon_0049"
+    },
+    {
+      "id": 900050,
+      "name": "医者",
+      "fileName": "player_icon_0050"
+    },
+    {
+      "id": 900051,
+      "name": "ナース",
+      "fileName": "player_icon_0051"
+    },
+    {
+      "id": 900052,
+      "name": "コック",
+      "fileName": "player_icon_0052"
+    },
+    {
+      "id": 900053,
+      "name": "忍者",
+      "fileName": "player_icon_0053"
+    },
+    {
+      "id": 900054,
+      "name": "スパイ",
+      "fileName": "player_icon_0054"
+    },
+    {
+      "id": 900055,
+      "name": "マッチョ",
+      "fileName": "player_icon_0055"
+    },
+    {
+      "id": 900056,
+      "name": "大工",
+      "fileName": "player_icon_0056"
+    }
+  ]
+}

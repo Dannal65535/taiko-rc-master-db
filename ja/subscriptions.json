@@ -1,0 +1,52 @@
+{
+  "subscriptions": [
+    {
+      "id": 5010001,
+      "name": "1週間パスポート",
+      "durationType": "WEEK",
+      "duration": 1,
+      "firstRewardGroupId": 0,
+      "continuationRewardGroupId": 0,
+      "subscriptionBonus": 500,
+      "effectGroupId": 50201,
+      "fileName": "icon_pass_1week",
+      "disableOnlyInterstitialAd": false
+    },
+    {
+      "id": 5010002,
+      "name": "1ヶ月パスポート",
+      "durationType": "MONTH",
+      "duration": 1,
+      "firstRewardGroupId": 0,
+      "continuationRewardGroupId": 3200004,
+      "subscriptionBonus": 500,
+      "effectGroupId": 50205,
+      "fileName": "icon_pass_1month",
+      "disableOnlyInterstitialAd": false
+    },
+    {
+      "id": 5010003,
+      "name": "3ヶ月パスポート",
+      "durationType": "MONTH",
+      "duration": 3,
+      "firstRewardGroupId": 0,
+      "continuationRewardGroupId": 3200004,
+      "subscriptionBonus": 500,
+      "effectGroupId": 50205,
+      "fileName": "icon_pass_3months",
+      "disableOnlyInterstitialAd": false
+    },
+    {
+      "id": 5010004,
+      "name": "パスポート・ライト",
+      "durationType": "MONTH",
+      "duration": 1,
+      "firstRewardGroupId": 0,
+      "continuationRewardGroupId": 0,
+      "subscriptionBonus": 0,
+      "effectGroupId": 50203,
+      "fileName": "icon_pass_1month_light",
+      "disableOnlyInterstitialAd": true
+    }
+  ]
+}

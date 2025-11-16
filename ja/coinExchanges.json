@@ -1,0 +1,1467 @@
+{
+  "coinExchanges": [
+    {
+      "id": 5200001,
+      "name": "ビギナー応援パック",
+      "sortOrder": 9,
+      "description": "アイテムがたくさん詰まったビギナー向けアイテムパック",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 2,
+      "rewardGroupId": 3160001,
+      "displayType": "BANNER",
+      "fileName": "bnr_beginner",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200002,
+      "name": "アイテムパック",
+      "sortOrder": 8,
+      "description": "補助アイテムがどーん！と詰まった魅力的なパック",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160002,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200003,
+      "name": "アイテムパックSP",
+      "sortOrder": 7,
+      "description": "補助アイテムがドカッ！と詰まったすごく魅力的なパック",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160003,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_sp",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200004,
+      "name": "やりこみパック",
+      "sortOrder": 6,
+      "description": "補助アイテムがドドカッカッ！と詰まったやりこみのお供に最適なパック",
+      "price": 4500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160004,
+      "displayType": "BANNER",
+      "fileName": "bnr_yarikomi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200005,
+      "name": "無期限チケット",
+      "sortOrder": 5,
+      "description": "楽曲をプレイするために使用するチケット　※期限なし",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160005,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200006,
+      "name": "経験値2倍",
+      "sortOrder": 4,
+      "description": "1回の演奏で獲得できる基本経験値が2倍になるアイテム",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160008,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200007,
+      "name": "ポイント2倍",
+      "sortOrder": 3,
+      "description": "1回の演奏で「ゲットできるポイント」が2倍になるアイテム",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160010,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200008,
+      "name": "演奏補助",
+      "sortOrder": 2,
+      "description": "不可判定10回分を可に変換し、大音符をワンタップでダブルタップ判定にするアイテム",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160012,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200009,
+      "name": "長押し連打",
+      "sortOrder": 1,
+      "description": "連打判定時に太鼓を長押しすることで連打できるアイテム",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160014,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200010,
+      "name": "チケット不足解消",
+      "sortOrder": 1000,
+      "description": "チケット不足解消",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200011,
+      "name": "やりなおしのチケット不足解消",
+      "sortOrder": 1001,
+      "description": "やりなおしのチケット不足解消",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200012,
+      "name": "プレイ回数制限突破3回目(パスポート未所持)",
+      "sortOrder": 1002,
+      "description": "プレイ回数制限突破3回目(パスポート未所持)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200013,
+      "name": "プレイ回数制限突破4回目(パスポート未所持)",
+      "sortOrder": 1003,
+      "description": "プレイ回数制限突破4回目(パスポート未所持)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200014,
+      "name": "プレイ回数制限突破5回目(パスポート未所持)",
+      "sortOrder": 1004,
+      "description": "プレイ回数制限突破5回目(パスポート未所持)",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200015,
+      "name": "プレイ回数制限突破4回目(パスポートあり)",
+      "sortOrder": 1005,
+      "description": "プレイ回数制限突破4回目(パスポートあり)",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200016,
+      "name": "プレイ回数制限突破5回目(パスポートあり)",
+      "sortOrder": 1006,
+      "description": "プレイ回数制限突破5回目(パスポートあり)",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200017,
+      "name": "ウィークリーアイテムパック",
+      "sortOrder": 10,
+      "description": "7日毎に購入できる補助アイテムがたくさん入った超お得なパック",
+      "price": 120,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160015,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_weekly",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 7,
+      "isHighlight": true,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200018,
+      "name": "LINE集計用_おにの解放",
+      "sortOrder": 1007,
+      "description": "LINE集計用_おにの解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200019,
+      "name": "LINE集計用_おに（裏）の解放",
+      "sortOrder": 1008,
+      "description": "LINE集計用_おに（裏）の解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200020,
+      "name": "LINE集計用_おに/おに（裏）の同時解放",
+      "sortOrder": 1009,
+      "description": "LINE集計用_おに/おに（裏）の同時解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200021,
+      "name": "LINE集計用_BINGOカード切り替え",
+      "sortOrder": 1010,
+      "description": "LINE集計用_BINGOカード切り替え",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200022,
+      "name": "LINE集計用_最初からやり直す",
+      "sortOrder": 1011,
+      "description": "LINE集計用_最初からやり直す",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200023,
+      "name": "年末年始パック",
+      "sortOrder": 500,
+      "description": "ニジこづちがたっぷり詰まった年末年始限定パック",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160016,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_002",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-10T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200026,
+      "name": "150万DL記念パック",
+      "sortOrder": 501,
+      "description": "補助アイテム山盛りのパック。1回目/5回目購入で特典付き。詳細はお知らせで！",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160017,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_003",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-03-12T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200027,
+      "name": "楽曲コレクション購入",
+      "sortOrder": 1014,
+      "description": "楽曲コレクション購入",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200028,
+      "name": "気まぐれロマンティック",
+      "sortOrder": 1015,
+      "description": "楽曲解放_24/3_気まぐれロマンティック",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200029,
+      "name": "桜",
+      "sortOrder": 1016,
+      "description": "楽曲解放_24/3_桜",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200030,
+      "name": "閃光",
+      "sortOrder": 1017,
+      "description": "楽曲解放_24/3_閃光",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200031,
+      "name": "ウキウキオトッペ",
+      "sortOrder": 1018,
+      "description": "楽曲解放_24/3_ウキウキオトッペ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200032,
+      "name": "曇天",
+      "sortOrder": 1019,
+      "description": "楽曲解放_24/3_曇天",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200033,
+      "name": "ユルユルでDE-O!",
+      "sortOrder": 1020,
+      "description": "楽曲解放_24/3_ユルユルでDE-O!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200034,
+      "name": "コミカルに追いかけっこ",
+      "sortOrder": 1021,
+      "description": "楽曲解放_24/3_コミカルに追いかけっこ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200035,
+      "name": "Tank!",
+      "sortOrder": 1022,
+      "description": "楽曲解放_24/3_Tank!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200036,
+      "name": "ワールドイズマイン",
+      "sortOrder": 1023,
+      "description": "楽曲解放_24/3_ワールドイズマイン",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200037,
+      "name": "MEKADON ～宇宙に消えたメカ太鼓～",
+      "sortOrder": 1024,
+      "description": "楽曲解放_24/3_MEKADON ～宇宙に消えたメカ太鼓～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200038,
+      "name": "壁に翼",
+      "sortOrder": 499,
+      "description": "プロフィール背景",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160019,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200039,
+      "name": "ゆきだるま",
+      "sortOrder": 498,
+      "description": "プロフィール背景",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160020,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200040,
+      "name": "そつおめパック",
+      "sortOrder": 502,
+      "description": "ニジこづち入り山盛りパック。5回目購入で特典ゲット！詳細はお知らせで！",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160018,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_004",
+      "term": {
+        "startAt": "2024-03-12T05:00:00Z",
+        "endAt": "2024-04-19T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200041,
+      "name": "第ゼロ感",
+      "sortOrder": 1025,
+      "description": "楽曲解放_24/4_第ゼロ感",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200042,
+      "name": "ダイヤモンドハッピー",
+      "sortOrder": 1026,
+      "description": "楽曲解放_24/4_ダイヤモンドハッピー",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200043,
+      "name": "キルミーのベイベー！",
+      "sortOrder": 1027,
+      "description": "楽曲解放_24/4_キルミーのベイベー！",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200044,
+      "name": "セツナトリップ",
+      "sortOrder": 1028,
+      "description": "楽曲解放_24/4_セツナトリップ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200045,
+      "name": "Tell Your World",
+      "sortOrder": 1029,
+      "description": "楽曲解放_24/4_Tell Your World",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200046,
+      "name": "空想打破",
+      "sortOrder": 1030,
+      "description": "楽曲解放_24/4_空想打破",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200047,
+      "name": "共奏鼓祭",
+      "sortOrder": 1031,
+      "description": "楽曲解放_24/4_共奏鼓祭",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200048,
+      "name": "エール・エクス・マキナ！",
+      "sortOrder": 1032,
+      "description": "楽曲解放_24/4_エール・エクス・マキナ！",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200049,
+      "name": "HOT LIMIT",
+      "sortOrder": 1033,
+      "description": "楽曲解放_24/4_HOT LIMIT",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200050,
+      "name": "ちゅ、多様性。",
+      "sortOrder": 1034,
+      "description": "楽曲解放_24/4_ちゅ、多様性。",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200051,
+      "name": "ハーフアニバーサリーパック",
+      "sortOrder": 503,
+      "description": "大満足の山盛りパック。複数回購入で無償特典ゲット！詳細はお知らせで！",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 10,
+      "rewardGroupId": 3680001,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_005",
+      "term": {
+        "startAt": "2024-04-25T05:00:00Z",
+        "endAt": "2024-07-25T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200052,
+      "name": "シュガーソングとビターステップ",
+      "sortOrder": 1035,
+      "description": "楽曲解放_24/5_シュガーソングとビターステップ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200053,
+      "name": "レイン",
+      "sortOrder": 1036,
+      "description": "楽曲解放_24/5_レイン",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200054,
+      "name": "嘘",
+      "sortOrder": 1037,
+      "description": "楽曲解放_24/5_嘘",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200055,
+      "name": "アポロ",
+      "sortOrder": 1038,
+      "description": "楽曲解放_24/5_アポロ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200056,
+      "name": "紅",
+      "sortOrder": 1039,
+      "description": "楽曲解放_24/5_紅",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200057,
+      "name": "OLA!!",
+      "sortOrder": 1040,
+      "description": "楽曲解放_24/5_OLA!!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200058,
+      "name": "INSIDE IDENTITY",
+      "sortOrder": 1041,
+      "description": "楽曲解放_24/5_INSIDE IDENTITY",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200059,
+      "name": "ジョジョ　～その血の運命～",
+      "sortOrder": 1042,
+      "description": "楽曲解放_24/5_ジョジョ　～その血の運命～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200060,
+      "name": "Jungle P",
+      "sortOrder": 1043,
+      "description": "楽曲解放_24/5_Jungle P",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200061,
+      "name": "天ノ弱",
+      "sortOrder": 1044,
+      "description": "楽曲解放_24/5_天ノ弱",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200062,
+      "name": "プラスティック・ラブ",
+      "sortOrder": 1045,
+      "description": "楽曲解放_24/6_プラスティック・ラブ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200063,
+      "name": "虹色の戦争",
+      "sortOrder": 1046,
+      "description": "楽曲解放_24/6_虹色の戦争",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200064,
+      "name": "Telecastic fake show",
+      "sortOrder": 1047,
+      "description": "楽曲解放_24/6_Telecastic fake show",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200065,
+      "name": "タッチ",
+      "sortOrder": 1048,
+      "description": "楽曲解放_24/6_タッチ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200066,
+      "name": "ドラえもん",
+      "sortOrder": 1049,
+      "description": "楽曲解放_24/6_ドラえもん",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200067,
+      "name": "ロストワンの号哭",
+      "sortOrder": 1050,
+      "description": "楽曲解放_24/6_ロストワンの号哭",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200068,
+      "name": "Grip & Break down !! -達人Edit.-",
+      "sortOrder": 1051,
+      "description": "楽曲解放_24/6_Grip & Break down !! -達人Edit.-",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200069,
+      "name": "Space-Time Emergency",
+      "sortOrder": 1052,
+      "description": "楽曲解放_24/6_Space-Time Emergency",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200070,
+      "name": "詩謳兎揺蕩兎",
+      "sortOrder": 1053,
+      "description": "楽曲解放_24/6_詩謳兎揺蕩兎",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200071,
+      "name": "神竜 ～Shinryu～",
+      "sortOrder": 1054,
+      "description": "楽曲解放_24/6_神竜 ～Shinryu～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200072,
+      "name": "W-B-X ～W-Boiled Extreme～",
+      "sortOrder": 1055,
+      "description": "楽曲解放_24/7_W-B-X ～W-Boiled Extreme～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200073,
+      "name": "侍戦隊シンケンジャー",
+      "sortOrder": 1056,
+      "description": "楽曲解放_24/7_侍戦隊シンケンジャー",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200074,
+      "name": "Battaille Décisive",
+      "sortOrder": 1057,
+      "description": "楽曲解放_24/7_Battaille Décisive",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200075,
+      "name": "Be Somewhere",
+      "sortOrder": 1058,
+      "description": "楽曲解放_24/7_Be Somewhere",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200076,
+      "name": "Calamity Fortune",
+      "sortOrder": 1059,
+      "description": "楽曲解放_24/7_Calamity Fortune",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200077,
+      "name": "おもちでマンボ",
+      "sortOrder": 1060,
+      "description": "楽曲解放_24/7_おもちでマンボ",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200087,
+      "name": "殻をつけた雛鳥の踊り",
+      "sortOrder": 1070,
+      "description": "楽曲解放_24/8_殻をつけた雛鳥の踊り",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200090,
+      "name": "どんちゃんえかき歌",
+      "sortOrder": 1073,
+      "description": "楽曲解放_24/8_どんちゃんえかき歌",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    }
+  ]
+}

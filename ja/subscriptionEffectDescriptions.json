@@ -1,0 +1,154 @@
+{
+  "subscriptionEffectDescriptions": [
+    {
+      "id": 5020001,
+      "groupId": 50201,
+      "name": "広告削除",
+      "description": "ゲーム内のすべての広告が削除されます",
+      "sortOrder": 6,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020002,
+      "groupId": 50201,
+      "name": "パスポートボーナス",
+      "description": "スコアボーナスが＋5％されます",
+      "sortOrder": 5,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020003,
+      "groupId": 50201,
+      "name": "先行配信曲",
+      "description": "先行配信曲がプレイできるようになります",
+      "sortOrder": 4,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020004,
+      "groupId": 50201,
+      "name": "経験値獲得制限の緩和",
+      "description": "経験値獲得制限までのプレイ回数が増えます",
+      "sortOrder": 3,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020005,
+      "groupId": 50201,
+      "name": "ポイント獲得制限の緩和",
+      "description": "ポイント獲得制限までのプレイ回数が増えます",
+      "sortOrder": 2,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020006,
+      "groupId": 50201,
+      "name": "制限解除条件の緩和",
+      "description": "制限を解除するための条件が緩和されます",
+      "sortOrder": 1,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020007,
+      "groupId": 50205,
+      "name": "広告削除",
+      "description": "ゲーム内のすべての広告が削除されます",
+      "sortOrder": 7,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020008,
+      "groupId": 50205,
+      "name": "パスポートボーナス",
+      "description": "スコアボーナスが＋5％されます",
+      "sortOrder": 6,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020009,
+      "groupId": 50205,
+      "name": "先行配信曲",
+      "description": "先行配信曲がプレイできるようになります",
+      "sortOrder": 5,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020010,
+      "groupId": 50205,
+      "name": "経験値獲得制限の緩和",
+      "description": "経験値獲得制限までのプレイ回数が増えます",
+      "sortOrder": 4,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020011,
+      "groupId": 50205,
+      "name": "ポイント獲得制限の緩和",
+      "description": "ポイント獲得制限までのプレイ回数が増えます",
+      "sortOrder": 3,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020012,
+      "groupId": 50205,
+      "name": "制限解除条件の緩和",
+      "description": "制限を解除するための条件が緩和されます",
+      "sortOrder": 2,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020013,
+      "groupId": 50205,
+      "name": "アイテムP配布",
+      "description": "パスポート有効期間中\nチャレンジをクリアすると無償報酬として\n「アイテムP」を獲得できます\nチャレンジ：毎日 AM4:00 ~ AM3:59(翌日) の間にログイン\n報酬：チャレンジクリアでアイテムP300が\nプレゼントボックスに配布されます\n(受取期限30日)",
+      "sortOrder": 1,
+      "fileName": "icon_effect_itemP_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※当日AM0:00～AM3:59の間に購入された場合、AM4:00以降に再ログインで報酬を受け取れます\n 　当日AM4:00以降に購入された場合、翌日AM4:00以降に再ログインで報酬を受け取れます\n※チャレンジはパスポート有効期間中、毎日AM4:00に切り替わります\n※ログインした状態でAM4:00をまたぐ場合、再ログインすることで報酬を受け取れます\n※AM4:00~AM3:59(翌日)の間にログインできなかった場合、その期間の報酬は受け取れません"
+    },
+    {
+      "id": 5020014,
+      "groupId": 50203,
+      "name": "一部広告削除",
+      "description": "ゲーム内の以下の広告のみ削除されます\n\n【ホームのリスト更新時に表示される広告】\n【検索で一定数スライド操作した時に表示される広告】\n【楽曲終了後に表示される広告】\n\n※こちら以外の広告は表示されますのでご注意ください",
+      "sortOrder": 1,
+      "fileName": "icon_effect_ad_hide2",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020015,
+      "groupId": 50205,
+      "name": "無償コイン配布",
+      "description": "パスポート有効期間中\nチャレンジをクリアすると無償報酬として\n「無償コイン」を獲得できます\nチャレンジ：毎日 AM4:00 ~ AM3:59(翌日) の間にログイン\n報酬：チャレンジクリアで無償コイン10が\nプレゼントボックスに配布されます\n(受取期限30日)",
+      "sortOrder": 1,
+      "fileName": "icon_effect_coin_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※当日AM0:00～AM3:59の間に購入された場合、AM4:00以降に再ログインで報酬を受け取れます\n 　当日AM4:00以降に購入された場合、翌日AM4:00以降に再ログインで報酬を受け取れます\n※チャレンジはパスポート有効期間中、毎日AM4:00に切り替わります\n※ログインした状態でAM4:00をまたぐ場合、再ログインすることで報酬を受け取れます\n※AM4:00~AM3:59(翌日)の間にログインできなかった場合、その期間の報酬は受け取れません"
+    }
+  ]
+}

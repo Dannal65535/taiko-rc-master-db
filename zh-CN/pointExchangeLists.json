@@ -1,0 +1,484 @@
+{
+  "pointExchangeLists": [
+    {
+      "id": 5300001,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_001",
+      "sortOrder": 49999,
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2023-08-15T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300002,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_FASHION",
+      "fileName": "bnr_exchange_02",
+      "sortOrder": 29999,
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300003,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_ITEM_AND_TICKET",
+      "fileName": "bnr_exchange_03",
+      "sortOrder": 19999,
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300004,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_001",
+      "sortOrder": 39999,
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-31T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300005,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_002",
+      "sortOrder": 49998,
+      "term": {
+        "startAt": "2023-08-17T06:00:00Z",
+        "endAt": "2023-08-29T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300006,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_003",
+      "sortOrder": 49997,
+      "term": {
+        "startAt": "2023-08-31T05:00:00Z",
+        "endAt": "2023-09-12T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300007,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_004",
+      "sortOrder": 49996,
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-26T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300008,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_002",
+      "sortOrder": 39998,
+      "term": {
+        "startAt": "2023-09-14T06:00:00Z",
+        "endAt": "2023-09-28T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300009,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_005",
+      "sortOrder": 49995,
+      "term": {
+        "startAt": "2023-09-28T05:00:00Z",
+        "endAt": "2023-10-10T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300010,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_006",
+      "sortOrder": 49994,
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-24T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300011,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_003",
+      "sortOrder": 39997,
+      "term": {
+        "startAt": "2023-10-12T06:00:00Z",
+        "endAt": "2023-10-26T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300012,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_007",
+      "sortOrder": 49993,
+      "term": {
+        "startAt": "2023-11-01T01:00:00Z",
+        "endAt": "2023-11-13T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300013,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_008",
+      "sortOrder": 49992,
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-28T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300014,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_004",
+      "sortOrder": 39996,
+      "term": {
+        "startAt": "2023-11-16T06:00:00Z",
+        "endAt": "2023-11-30T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300015,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY_SKIN",
+      "fileName": "bnr_exchange_04",
+      "sortOrder": 29998,
+      "term": {
+        "startAt": "2023-11-01T01:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300016,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_009",
+      "sortOrder": 49991,
+      "term": {
+        "startAt": "2023-11-30T05:00:00Z",
+        "endAt": "2023-12-12T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300017,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_010",
+      "sortOrder": 49990,
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-26T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300018,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_005",
+      "sortOrder": 39995,
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-28T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300019,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_011",
+      "sortOrder": 49989,
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-10T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300020,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_006",
+      "sortOrder": 39994,
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-12T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300021,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_012",
+      "sortOrder": 49988,
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-01-30T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300022,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_007",
+      "sortOrder": 39993,
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-02-01T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300023,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_013",
+      "sortOrder": 49987,
+      "term": {
+        "startAt": "2024-02-01T05:00:00Z",
+        "endAt": "2024-02-13T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300024,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_014",
+      "sortOrder": 49986,
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-27T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300025,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_008",
+      "sortOrder": 39992,
+      "term": {
+        "startAt": "2024-02-15T06:00:00Z",
+        "endAt": "2024-02-29T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300026,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_015",
+      "sortOrder": 49985,
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2024-03-12T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300027,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_016",
+      "sortOrder": 49984,
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-26T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300028,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_009",
+      "sortOrder": 39991,
+      "term": {
+        "startAt": "2024-03-14T06:00:00Z",
+        "endAt": "2024-03-28T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300029,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_017",
+      "sortOrder": 49983,
+      "term": {
+        "startAt": "2024-03-28T05:00:00Z",
+        "endAt": "2024-04-09T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300030,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_018",
+      "sortOrder": 49982,
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-23T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300031,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_010",
+      "sortOrder": 39990,
+      "term": {
+        "startAt": "2024-04-11T06:00:00Z",
+        "endAt": "2024-04-25T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300032,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_019",
+      "sortOrder": 49981,
+      "term": {
+        "startAt": "2024-04-25T05:00:00Z",
+        "endAt": "2024-05-07T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300033,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_020",
+      "sortOrder": 49980,
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-28T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300034,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_011",
+      "sortOrder": 39989,
+      "term": {
+        "startAt": "2024-05-16T06:00:00Z",
+        "endAt": "2024-05-30T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300035,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_021",
+      "sortOrder": 49980,
+      "term": {
+        "startAt": "2024-05-30T05:00:00Z",
+        "endAt": "2024-06-11T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300036,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_022",
+      "sortOrder": 49979,
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-25T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300037,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_012",
+      "sortOrder": 39988,
+      "term": {
+        "startAt": "2024-06-13T06:00:00Z",
+        "endAt": "2024-06-27T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300038,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_023",
+      "sortOrder": 49978,
+      "term": {
+        "startAt": "2024-06-27T05:00:00Z",
+        "endAt": "2024-07-09T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300039,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_VARIETY",
+      "fileName": "bnr_exchange_variety_024",
+      "sortOrder": 49977,
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-27T05:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    },
+    {
+      "id": 5300040,
+      "pointExchangeType": "POINT_EXCHANGE_TYPE_EVENT",
+      "fileName": "bnr_exchange_event_013",
+      "sortOrder": 39987,
+      "term": {
+        "startAt": "2024-07-11T06:00:00Z",
+        "endAt": "2024-08-29T04:59:59Z"
+      },
+      "eventPointIds": [],
+      "isNew": false
+    }
+  ]
+}

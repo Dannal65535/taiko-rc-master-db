@@ -1,0 +1,32 @@
+{
+  "missionStamps": [
+    {
+      "id": 8070001,
+      "iconFileName": "mission_stamp_icon_0001",
+      "missionStampDetailGroupId": 980001,
+      "term": {
+        "startAt": "2023-11-17T02:00:00Z",
+        "endAt": "2023-12-16T14:59:59Z"
+      },
+      "missionTerm": {
+        "startAt": "2023-11-17T02:00:00Z",
+        "endAt": "2023-12-16T14:59:59Z"
+      },
+      "bannerFileName": "mission_stamp_banner_0001"
+    },
+    {
+      "id": 8070002,
+      "iconFileName": "mission_stamp_icon_0002",
+      "missionStampDetailGroupId": 980002,
+      "term": {
+        "startAt": "2024-02-20T02:00:00Z",
+        "endAt": "2024-03-20T14:59:59Z"
+      },
+      "missionTerm": {
+        "startAt": "2024-02-20T02:00:00Z",
+        "endAt": "2024-03-20T14:59:59Z"
+      },
+      "bannerFileName": "mission_stamp_banner_0002"
+    }
+  ]
+}

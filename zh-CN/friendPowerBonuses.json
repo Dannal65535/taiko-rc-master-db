@@ -1,0 +1,29 @@
+{
+  "friendPowerBonuses": [
+    {
+      "id": 22001,
+      "requiredFriendCount": 1,
+      "itemPointBonus": 0
+    },
+    {
+      "id": 22002,
+      "requiredFriendCount": 2,
+      "itemPointBonus": 20
+    },
+    {
+      "id": 22003,
+      "requiredFriendCount": 4,
+      "itemPointBonus": 40
+    },
+    {
+      "id": 22004,
+      "requiredFriendCount": 6,
+      "itemPointBonus": 60
+    },
+    {
+      "id": 22005,
+      "requiredFriendCount": 8,
+      "itemPointBonus": 100
+    }
+  ]
+}

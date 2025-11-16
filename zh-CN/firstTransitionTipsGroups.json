@@ -1,0 +1,136 @@
+{
+  "firstTransitionTipsGroups": [
+    {
+      "id": 9410001,
+      "groupId": 1001,
+      "title": "关于难度选择",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410002,
+      "groupId": 1002,
+      "title": "列表更新完毕",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410003,
+      "groupId": 1003,
+      "title": "关于道具",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410004,
+      "groupId": 1004,
+      "title": "太鼓之达人的玩法",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410005,
+      "groupId": 1005,
+      "title": "太鼓之达人的玩法",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410006,
+      "groupId": 1006,
+      "title": "首次升级",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410007,
+      "groupId": 1007,
+      "title": "首次晋级",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410008,
+      "groupId": 1008,
+      "title": "关于搜索",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410009,
+      "groupId": 1009,
+      "title": "关于换装",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410010,
+      "groupId": 1010,
+      "title": "关于点数",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410011,
+      "groupId": 1011,
+      "title": "关于票券的获得方法",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410012,
+      "groupId": 1012,
+      "title": "关于通行证",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION_AND_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410013,
+      "groupId": 1013,
+      "title": "关于个人页面",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410014,
+      "groupId": 1014,
+      "title": "关于个人列表",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410015,
+      "groupId": 1015,
+      "title": "关于好友",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410016,
+      "groupId": 1016,
+      "title": "达到AA阶级",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410018,
+      "groupId": 1018,
+      "title": "解锁各种菜单",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410019,
+      "groupId": 1019,
+      "title": "兑换硬币和道具",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410020,
+      "groupId": 1020,
+      "title": "使用点数以获得道具",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410021,
+      "groupId": 2001,
+      "title": "关于商店",
+      "displayType": "DISPLAY_TYPE_HATENA_KACCHAN"
+    },
+    {
+      "id": 9410022,
+      "groupId": 2982,
+      "title": "关于解锁乐曲",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    },
+    {
+      "id": 9410023,
+      "groupId": 3963,
+      "title": "关于藏品",
+      "displayType": "DISPLAY_TYPE_FIRST_TRANSITION"
+    }
+  ]
+}

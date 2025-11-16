@@ -1,0 +1,1467 @@
+{
+  "coinExchanges": [
+    {
+      "id": 5200001,
+      "name": "新手支援礼包",
+      "sortOrder": 9,
+      "description": "装满道具的新手道具礼包。",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 2,
+      "rewardGroupId": 3160001,
+      "displayType": "BANNER",
+      "fileName": "bnr_beginner",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200002,
+      "name": "道具礼包",
+      "sortOrder": 8,
+      "description": "辅助道具塞满满的礼包！非常有吸引力。",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160002,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200003,
+      "name": "道具礼包SP",
+      "sortOrder": 7,
+      "description": "辅助道具塞满满的礼包！极具吸引力。",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160003,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_sp",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200004,
+      "name": "畅玩礼包",
+      "sortOrder": 6,
+      "description": "辅助道具多到爆的礼包！能助您畅玩游戏。",
+      "price": 4500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160004,
+      "displayType": "BANNER",
+      "fileName": "bnr_yarikomi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200005,
+      "name": "无期限票券",
+      "sortOrder": 5,
+      "description": "用于演奏乐曲的票券。※无期限",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160005,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200006,
+      "name": "2倍经验值",
+      "sortOrder": 4,
+      "description": "此道具能让每次演奏可获得的经验值翻倍。",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160008,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200007,
+      "name": "2倍点数",
+      "sortOrder": 3,
+      "description": "此道具能让每次演奏可获得的点数翻倍。",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160010,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200008,
+      "name": "演奏辅助",
+      "sortOrder": 2,
+      "description": "此道具能让10次不可替换为可，且单击大型音符即视为同时点击。",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160012,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200009,
+      "name": "长按连打",
+      "sortOrder": 1,
+      "description": "进行连打判定时，长按太鼓即可视为连打的道具。",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 3160014,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200010,
+      "name": "告别票券不足",
+      "sortOrder": 1000,
+      "description": "告别票券不足",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200011,
+      "name": "告别从头演奏票券不足",
+      "sortOrder": 1001,
+      "description": "告别从头演奏票券不足",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200012,
+      "name": "第3次突破游玩次数限制（未持有通行证）",
+      "sortOrder": 1002,
+      "description": "第3次突破游玩次数限制（未持有通行证）",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200013,
+      "name": "第4次突破游玩次数限制（未持有通行证）",
+      "sortOrder": 1003,
+      "description": "第4次突破游玩次数限制（未持有通行证）",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200014,
+      "name": "第5次突破游玩次数限制（未持有通行证）",
+      "sortOrder": 1004,
+      "description": "第5次突破游玩次数限制（未持有通行证）",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200015,
+      "name": "第4次突破游玩次数限制（持有通行证）",
+      "sortOrder": 1005,
+      "description": "第4次突破游玩次数限制（持有通行证）",
+      "price": 50,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200016,
+      "name": "第5次突破游玩次数限制（持有通行证）",
+      "sortOrder": 1006,
+      "description": "第5次突破游玩次数限制（持有通行证）",
+      "price": 100,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200017,
+      "name": "每周道具礼包",
+      "sortOrder": 10,
+      "description": "装有大量辅助道具的特惠礼包，每7天可购买一次。",
+      "price": 120,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160015,
+      "displayType": "BANNER",
+      "fileName": "bnr_itempack_weekly",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 7,
+      "isHighlight": true,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200018,
+      "name": "LINE集計用_おにの解放",
+      "sortOrder": 1007,
+      "description": "LINE集計用_おにの解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200019,
+      "name": "LINE集計用_おに（裏）の解放",
+      "sortOrder": 1008,
+      "description": "LINE集計用_おに（裏）の解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200020,
+      "name": "LINE集計用_おに/おに（裏）の同時解放",
+      "sortOrder": 1009,
+      "description": "LINE集計用_おに/おに（裏）の同時解放",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200021,
+      "name": "LINE集計用_BINGOカード切り替え",
+      "sortOrder": 1010,
+      "description": "LINE集計用_BINGOカード切り替え",
+      "price": 20,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200022,
+      "name": "LINE集計用_最初からやり直す",
+      "sortOrder": 1011,
+      "description": "LINE集計用_最初からやり直す",
+      "price": 10,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200023,
+      "name": "跨年礼包",
+      "sortOrder": 500,
+      "description": "塞满彩虹小槌的跨年限时礼包",
+      "price": 2000,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160016,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_002",
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-10T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200026,
+      "name": "150万下载纪念礼包",
+      "sortOrder": 501,
+      "description": "礼包中有海量辅助道具。第1次/第5次购买时将附送赠品。请查看公告了解详情！",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160017,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_003",
+      "term": {
+        "startAt": "2024-01-18T06:00:00Z",
+        "endAt": "2024-03-12T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200027,
+      "name": "将乐曲纳为藏品",
+      "sortOrder": 1014,
+      "description": "购买乐曲，将其纳为藏品。",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200028,
+      "name": "Kimagure Romantic",
+      "sortOrder": 1015,
+      "description": "解锁乐曲_24/3_Kimagure Romantic",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200029,
+      "name": "樱",
+      "sortOrder": 1016,
+      "description": "解锁乐曲_24/3_樱",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200030,
+      "name": "闪光",
+      "sortOrder": 1017,
+      "description": "解锁乐曲_24/3_闪光",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200031,
+      "name": "UKIUKI OTOPPE",
+      "sortOrder": 1018,
+      "description": "解锁乐曲_24/3_UKIUKI OTOPPE",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200032,
+      "name": "昙天",
+      "sortOrder": 1019,
+      "description": "解锁乐曲_24/3_昙天",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200033,
+      "name": "Yuru Yurude DE-O!",
+      "sortOrder": 1020,
+      "description": "解锁乐曲_24/3_Yuru Yurude DE-O!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200034,
+      "name": "KOMIKARUNI OIKAKEKKO",
+      "sortOrder": 1021,
+      "description": "解锁乐曲_24/3_KOMIKARUNI OIKAKEKKO",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200035,
+      "name": "Tank!",
+      "sortOrder": 1022,
+      "description": "解锁乐曲_24/3_Tank!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200036,
+      "name": "World is Mine",
+      "sortOrder": 1023,
+      "description": "解锁乐曲_24/3_World is Mine",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200037,
+      "name": "MEKADON ～消失于宇宙的机器太鼓～",
+      "sortOrder": 1024,
+      "description": "解锁乐曲_24/3_MEKADON ～消失于宇宙的机器太鼓～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200038,
+      "name": "翅膀墙",
+      "sortOrder": 499,
+      "description": "个人资料背景",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160019,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200039,
+      "name": "雪人",
+      "sortOrder": 498,
+      "description": "个人资料背景",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 1,
+      "rewardGroupId": 3160020,
+      "displayType": "ICON",
+      "fileName": "reward_group",
+      "term": {
+        "startAt": "2024-02-29T05:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200040,
+      "name": "毕业祝福礼包",
+      "sortOrder": 502,
+      "description": "礼包中包含海量彩虹小槌。第5次购买时可获得赠品！请查看公告了解详情！",
+      "price": 500,
+      "discountPrice": 0,
+      "exchangeLimit": 5,
+      "rewardGroupId": 3160018,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_004",
+      "term": {
+        "startAt": "2024-03-12T05:00:00Z",
+        "endAt": "2024-04-19T05:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200041,
+      "name": "第零感",
+      "sortOrder": 1025,
+      "description": "解锁乐曲_24/4_第零感",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200042,
+      "name": "Diamond Happy",
+      "sortOrder": 1026,
+      "description": "解锁乐曲_24/4_Diamond Happy",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200043,
+      "name": "Baby, please kill me!",
+      "sortOrder": 1027,
+      "description": "解锁乐曲_24/4_Baby, please kill me!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200044,
+      "name": "刹那旅程",
+      "sortOrder": 1028,
+      "description": "解锁乐曲_24/4_刹那旅程",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200045,
+      "name": "Tell Your World",
+      "sortOrder": 1029,
+      "description": "解锁乐曲_24/4_Tell Your World",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200046,
+      "name": "打破空想",
+      "sortOrder": 1030,
+      "description": "解锁乐曲_24/4_打破空想",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200047,
+      "name": "共奏鼓祭",
+      "sortOrder": 1031,
+      "description": "解锁乐曲_24/4_共奏鼓祭",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200048,
+      "name": "YELL EX MAKINA!",
+      "sortOrder": 1032,
+      "description": "解锁乐曲_24/4_YELL EX MAKINA!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200049,
+      "name": "HOT LIMIT",
+      "sortOrder": 1033,
+      "description": "解锁乐曲_24/4_HOT LIMIT",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200050,
+      "name": "Chu，多样性。",
+      "sortOrder": 1034,
+      "description": "解锁乐曲_24/4_Chu，多样性。",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200051,
+      "name": "半周年纪念礼包",
+      "sortOrder": 503,
+      "description": "称心如意沉甸甸礼包。多次购买时可获得赠品！请查看公告了解详情！",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 10,
+      "rewardGroupId": 3680001,
+      "displayType": "BANNER",
+      "fileName": "bnr_exchange_coin_005",
+      "term": {
+        "startAt": "2024-04-25T05:00:00Z",
+        "endAt": "2024-07-25T04:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": true
+    },
+    {
+      "id": 5200052,
+      "name": "Sugar Song & Bitter Step",
+      "sortOrder": 1035,
+      "description": "解锁乐曲_24/5_Sugar Song & Bitter Step",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200053,
+      "name": "Rain",
+      "sortOrder": 1036,
+      "description": "解锁乐曲_24/5_Rain",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200054,
+      "name": "嘘",
+      "sortOrder": 1037,
+      "description": "解锁乐曲_24/5_嘘",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200055,
+      "name": "APOLLO",
+      "sortOrder": 1038,
+      "description": "解锁乐曲_24/5_APOLLO",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200056,
+      "name": "红",
+      "sortOrder": 1039,
+      "description": "解锁乐曲_24/5_红",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200057,
+      "name": "OLA!!",
+      "sortOrder": 1040,
+      "description": "解锁乐曲_24/5_OLA!!",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200058,
+      "name": "INSIDE IDENTITY",
+      "sortOrder": 1041,
+      "description": "解锁乐曲_24/5_INSIDE IDENTITY",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200059,
+      "name": "JoJo Sono Chi no Sadame",
+      "sortOrder": 1042,
+      "description": "解锁乐曲_24/5_JoJo Sono Chi no Sadame",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200060,
+      "name": "Jungle P",
+      "sortOrder": 1043,
+      "description": "解锁乐曲_24/5_Jungle P",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200061,
+      "name": "天之弱",
+      "sortOrder": 1044,
+      "description": "解锁乐曲_24/5_天之弱",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200062,
+      "name": "PLASTIC LOVE",
+      "sortOrder": 1045,
+      "description": "解锁乐曲_24/6_PLASTIC LOVE",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200063,
+      "name": "Nijiiro No Sensou",
+      "sortOrder": 1046,
+      "description": "解锁乐曲_24/6_Nijiiro No Sensou",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200064,
+      "name": "Telecastic fake show",
+      "sortOrder": 1047,
+      "description": "解锁乐曲_24/6_Telecastic fake show",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200065,
+      "name": "TOUCH",
+      "sortOrder": 1048,
+      "description": "解锁乐曲_24/6_TOUCH",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200066,
+      "name": "哆啦Ａ梦",
+      "sortOrder": 1049,
+      "description": "解锁乐曲_24/6_哆啦Ａ梦",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200067,
+      "name": "Lost one的恸哭",
+      "sortOrder": 1050,
+      "description": "解锁乐曲_24/6_Lost one的恸哭",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200068,
+      "name": "Grip & Break down !! -达人Edit.-",
+      "sortOrder": 1051,
+      "description": "解锁乐曲_24/6_Grip & Break down !! -达人Edit.-",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200069,
+      "name": "Space-Time Emergency",
+      "sortOrder": 1052,
+      "description": "解锁乐曲_24/6_Space-Time Emergency",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200070,
+      "name": "诗讴兔摇荡兔",
+      "sortOrder": 1053,
+      "description": "解锁乐曲_24/6_诗讴兔摇荡兔",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200071,
+      "name": "神龙 ～Shinryu～",
+      "sortOrder": 1054,
+      "description": "解锁乐曲_24/6_神龙 ～Shinryu～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200072,
+      "name": "W-B-X ～W-Boiled Extreme～",
+      "sortOrder": 1055,
+      "description": "解锁乐曲_24/7_W-B-X ～W-Boiled Extreme～",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200073,
+      "name": "侍战队真剑者",
+      "sortOrder": 1056,
+      "description": "解锁乐曲_24/7_侍战队真剑者",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200074,
+      "name": "Battaille Decisive",
+      "sortOrder": 1057,
+      "description": "解锁乐曲_24/7_Battaille Decisive",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200075,
+      "name": "Be Somewhere",
+      "sortOrder": 1058,
+      "description": "解锁乐曲_24/7_Be Somewhere",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200076,
+      "name": "Calamity Fortune",
+      "sortOrder": 1059,
+      "description": "解锁乐曲_24/7_Calamity Fortune",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200077,
+      "name": "麻糬曼波",
+      "sortOrder": 1060,
+      "description": "解锁乐曲_24/7_麻糬曼波",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200087,
+      "name": "殻をつけた雛鳥の踊り",
+      "sortOrder": 1070,
+      "description": "楽曲解放_24/8_殻をつけた雛鳥の踊り",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    },
+    {
+      "id": 5200090,
+      "name": "どんちゃんえかき歌",
+      "sortOrder": 1073,
+      "description": "楽曲解放_24/8_どんちゃんえかき歌",
+      "price": 300,
+      "discountPrice": 0,
+      "exchangeLimit": 0,
+      "rewardGroupId": 0,
+      "displayType": "BANNER",
+      "fileName": "dummy",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "repeatSales": 0,
+      "isHighlight": false,
+      "isDisplayShop": false
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "playerIcons": [
+    {
+      "id": 900001,
+      "name": "海滩遮阳伞",
+      "fileName": "player_icon_0001"
+    },
+    {
+      "id": 900002,
+      "name": "墨镜",
+      "fileName": "player_icon_0002"
+    },
+    {
+      "id": 900003,
+      "name": "富士山",
+      "fileName": "player_icon_0003"
+    },
+    {
+      "id": 900004,
+      "name": "温泉",
+      "fileName": "player_icon_0004"
+    },
+    {
+      "id": 900005,
+      "name": "飞机",
+      "fileName": "player_icon_0005"
+    },
+    {
+      "id": 900006,
+      "name": "帆船",
+      "fileName": "player_icon_0006"
+    },
+    {
+      "id": 900007,
+      "name": "水果鸡尾酒",
+      "fileName": "player_icon_0007"
+    },
+    {
+      "id": 900008,
+      "name": "拉面",
+      "fileName": "player_icon_0008"
+    },
+    {
+      "id": 900009,
+      "name": "咖喱",
+      "fileName": "player_icon_0009"
+    },
+    {
+      "id": 900010,
+      "name": "寿司",
+      "fileName": "player_icon_0010"
+    },
+    {
+      "id": 900011,
+      "name": "冰淇淋",
+      "fileName": "player_icon_0011"
+    },
+    {
+      "id": 900012,
+      "name": "奶油蛋糕",
+      "fileName": "player_icon_0012"
+    },
+    {
+      "id": 900013,
+      "name": "汉堡",
+      "fileName": "player_icon_0013"
+    },
+    {
+      "id": 900014,
+      "name": "炸虾",
+      "fileName": "player_icon_0014"
+    },
+    {
+      "id": 900015,
+      "name": "章鱼烧",
+      "fileName": "player_icon_0015"
+    },
+    {
+      "id": 900016,
+      "name": "豆腐",
+      "fileName": "player_icon_0016"
+    },
+    {
+      "id": 900017,
+      "name": "牛排",
+      "fileName": "player_icon_0017"
+    },
+    {
+      "id": 900018,
+      "name": "咖啡",
+      "fileName": "player_icon_0018"
+    },
+    {
+      "id": 900019,
+      "name": "狗",
+      "fileName": "player_icon_0019"
+    },
+    {
+      "id": 900020,
+      "name": "猫",
+      "fileName": "player_icon_0020"
+    },
+    {
+      "id": 900021,
+      "name": "兔子",
+      "fileName": "player_icon_0021"
+    },
+    {
+      "id": 900022,
+      "name": "花",
+      "fileName": "player_icon_0022"
+    },
+    {
+      "id": 900023,
+      "name": "文鸟",
+      "fileName": "player_icon_0023"
+    },
+    {
+      "id": 900024,
+      "name": "猩猩",
+      "fileName": "player_icon_0024"
+    },
+    {
+      "id": 900025,
+      "name": "鲨鱼",
+      "fileName": "player_icon_0025"
+    },
+    {
+      "id": 900026,
+      "name": "海胆",
+      "fileName": "player_icon_0026"
+    },
+    {
+      "id": 900027,
+      "name": "蜜蜂",
+      "fileName": "player_icon_0027"
+    },
+    {
+      "id": 900028,
+      "name": "狸猫",
+      "fileName": "player_icon_0028"
+    },
+    {
+      "id": 900029,
+      "name": "神轿",
+      "fileName": "player_icon_0029"
+    },
+    {
+      "id": 900030,
+      "name": "苹果糖",
+      "fileName": "player_icon_0030"
+    },
+    {
+      "id": 900031,
+      "name": "注连绳",
+      "fileName": "player_icon_0031"
+    },
+    {
+      "id": 900032,
+      "name": "祭典服和头带",
+      "fileName": "player_icon_0032"
+    },
+    {
+      "id": 900033,
+      "name": "刨冰",
+      "fileName": "player_icon_0033"
+    },
+    {
+      "id": 900034,
+      "name": "捞金鱼",
+      "fileName": "player_icon_0034"
+    },
+    {
+      "id": 900035,
+      "name": "烟花",
+      "fileName": "player_icon_0035"
+    },
+    {
+      "id": 900036,
+      "name": "露营与帐篷",
+      "fileName": "player_icon_0036"
+    },
+    {
+      "id": 900037,
+      "name": "书",
+      "fileName": "player_icon_0037"
+    },
+    {
+      "id": 900038,
+      "name": "骰子",
+      "fileName": "player_icon_0038"
+    },
+    {
+      "id": 900039,
+      "name": "脚踏车",
+      "fileName": "player_icon_0039"
+    },
+    {
+      "id": 900040,
+      "name": "汽车",
+      "fileName": "player_icon_0040"
+    },
+    {
+      "id": 900041,
+      "name": "钓鱼",
+      "fileName": "player_icon_0041"
+    },
+    {
+      "id": 900042,
+      "name": "足球",
+      "fileName": "player_icon_0042"
+    },
+    {
+      "id": 900043,
+      "name": "钢琴键盘",
+      "fileName": "player_icon_0043"
+    },
+    {
+      "id": 900044,
+      "name": "吉他",
+      "fileName": "player_icon_0044"
+    },
+    {
+      "id": 900045,
+      "name": "唱片",
+      "fileName": "player_icon_0045"
+    },
+    {
+      "id": 900046,
+      "name": "耳机",
+      "fileName": "player_icon_0046"
+    },
+    {
+      "id": 900047,
+      "name": "收录机",
+      "fileName": "player_icon_0047"
+    },
+    {
+      "id": 900048,
+      "name": "萨克斯",
+      "fileName": "player_icon_0048"
+    },
+    {
+      "id": 900049,
+      "name": "贝多芬",
+      "fileName": "player_icon_0049"
+    },
+    {
+      "id": 900050,
+      "name": "医生",
+      "fileName": "player_icon_0050"
+    },
+    {
+      "id": 900051,
+      "name": "护士",
+      "fileName": "player_icon_0051"
+    },
+    {
+      "id": 900052,
+      "name": "厨师",
+      "fileName": "player_icon_0052"
+    },
+    {
+      "id": 900053,
+      "name": "忍者",
+      "fileName": "player_icon_0053"
+    },
+    {
+      "id": 900054,
+      "name": "间谍",
+      "fileName": "player_icon_0054"
+    },
+    {
+      "id": 900055,
+      "name": "肌肉男",
+      "fileName": "player_icon_0055"
+    },
+    {
+      "id": 900056,
+      "name": "木匠",
+      "fileName": "player_icon_0056"
+    }
+  ]
+}

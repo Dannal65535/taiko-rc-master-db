@@ -1,0 +1,51 @@
+{
+  "localPushNotifications": [
+    {
+      "id": 1,
+      "message": "早安！\n有没有领取免费礼包呢？",
+      "notifyHourAndMinute": "08:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "message": "玩玩TTRC，放松放松！\n有没有领取免费礼包呢？",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "message": "今天也辛苦啦！\n有没有领取免费礼包呢？",
+      "notifyHourAndMinute": "20:00",
+      "dayOfWeeks": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 4,
+      "message": "周三是“TTRC咚咚打鼓日”！",
+      "notifyHourAndMinute": "12:00",
+      "dayOfWeeks": [
+        3
+      ]
+    }
+  ]
+}

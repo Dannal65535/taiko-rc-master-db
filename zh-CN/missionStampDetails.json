@@ -1,0 +1,32 @@
+{
+  "missionStampDetails": [
+    {
+      "id": 9800001,
+      "groupId": 980001,
+      "sortOrder": 1,
+      "description": "<B>畅玩《太鼓之达人 RHYTHM CONNECT》\n获得LINE表情！</B>\n\n完成全部任务，\n获得特殊LINE表情吧。",
+      "fileName": "mission_stamp_tips_0001"
+    },
+    {
+      "id": 9800002,
+      "groupId": 980001,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※如未登录LINE账号，\n则无法获得表情。\n※表情的有效期为下载后90天内。\n※请在活动结束时间前\n下载表情。\n非活动期间无法下载表情。</color>",
+      "fileName": "mission_stamp_tips_0002"
+    },
+    {
+      "id": 9800003,
+      "groupId": 980002,
+      "sortOrder": 1,
+      "description": "<B>畅玩《太鼓之达人 RHYTHM CONNECT》\n获得LINE表情！</B>\n\n完成全部任务，\n获得特殊LINE表情吧。",
+      "fileName": "mission_stamp_tips_0003"
+    },
+    {
+      "id": 9800004,
+      "groupId": 980002,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※如未登录LINE账号，\n则无法获得表情。\n※表情的有效期为下载后90天内。\n※请在活动结束时间前\n下载表情。\n非活动期间无法下载表情。</color>",
+      "fileName": "mission_stamp_tips_0004"
+    }
+  ]
+}

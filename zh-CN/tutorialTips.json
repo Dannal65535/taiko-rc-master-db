@@ -1,0 +1,74 @@
+{
+  "tutorialTips": [
+    {
+      "id": 9400001,
+      "title": "小咚",
+      "description": "形似太鼓的神奇生物。\n最喜欢令人开心的事物。\n一起演奏太鼓，让全世界充满祭典活动吧！",
+      "fileName": "TipsImage_2000",
+      "sortOrder": 9
+    },
+    {
+      "id": 9400002,
+      "title": "换装",
+      "description": "可以在各种地方获得小咚的换装配件。\n拥有换装配件越多，成绩就越高！\n同自己专属的小咚一起演奏各式各样的乐曲吧！",
+      "fileName": "TipsImage_2002",
+      "sortOrder": 8
+    },
+    {
+      "id": 9400003,
+      "title": "成绩槽",
+      "description": "演奏时的成绩槽取决于自己的最佳成绩。\n越接近自己创下的最佳成绩，演奏氛围就越热烈！",
+      "fileName": "TipsImage_2003",
+      "sortOrder": 7
+    },
+    {
+      "id": 9400004,
+      "title": "辅助道具：演奏辅助",
+      "description": "如果感到乐曲难以演奏，就试试使用“演奏辅助”吧。\n有了它的帮助，达成全连段也并非痴人说梦……？",
+      "fileName": "TipsImage_2004",
+      "sortOrder": 6
+    },
+    {
+      "id": 9400005,
+      "title": "辅助道具：长按连打",
+      "description": "长按太鼓即可获得连打支援。\n单手演奏也能高枕无忧！",
+      "fileName": "TipsImage_2005",
+      "sortOrder": 5
+    },
+    {
+      "id": 9400006,
+      "title": "成绩加成",
+      "description": "最终成绩为演奏结果加上成绩加成。\n多多提升等级和阶级，争取创下最佳成绩吧！",
+      "fileName": "TipsImage_2006",
+      "sortOrder": 4
+    },
+    {
+      "id": 9400007,
+      "title": "票券",
+      "description": "演奏乐曲的必备道具。\n如果从主界面选择乐曲，则可以无需票券进行演奏。",
+      "fileName": "TipsImage_2007",
+      "sortOrder": 3
+    },
+    {
+      "id": 9400008,
+      "title": "收集王冠吧",
+      "description": "收集王冠和徽章来积攒称号点数，即可获得自定义称号。\n多多收集，根据自身喜好来搭配称号吧！",
+      "fileName": "TipsImage_2008",
+      "sortOrder": 2
+    },
+    {
+      "id": 9400010,
+      "title": "调整太鼓位置",
+      "description": "如果觉得敲打太鼓的位置不合适，就试着调整一下吧。\n在个人页面→其他菜单→系统设置中可以进行微调。",
+      "fileName": "TipsImage_2010",
+      "sortOrder": 1
+    },
+    {
+      "id": 9400011,
+      "title": "通行证",
+      "description": "购买通行证即可删除广告！\n不用看广告也能获得“气球小咚”“免费礼包”等道具！\n快去“商店”购买吧！",
+      "fileName": "TipsImage_1005",
+      "sortOrder": 10
+    }
+  ]
+}

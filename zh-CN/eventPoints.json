@@ -1,0 +1,108 @@
+{
+  "eventPoints": [
+    {
+      "id": 350001,
+      "name": "[Event] 毛巾",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0001"
+    },
+    {
+      "id": 350002,
+      "name": "[EVENT]单行本",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0002"
+    },
+    {
+      "id": 350003,
+      "name": "[EVENT]芒草&团子",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0003"
+    },
+    {
+      "id": 350004,
+      "name": "[EVENT]流星",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0004"
+    },
+    {
+      "id": 350005,
+      "name": "[EVENT]拐杖糖",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0005"
+    },
+    {
+      "id": 350006,
+      "name": "[EVENT]小鸭子",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0006"
+    },
+    {
+      "id": 350007,
+      "name": "[EVENT]毛球",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0007"
+    },
+    {
+      "id": 350008,
+      "name": "[EVENT]魔法扫帚",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0008"
+    },
+    {
+      "id": 350009,
+      "name": "[EVENT] 花",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0009"
+    },
+    {
+      "id": 350010,
+      "name": "[EVENT]三色团子",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0010"
+    },
+    {
+      "id": 350011,
+      "name": "[EVENT]咖啡",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0011"
+    },
+    {
+      "id": 350012,
+      "name": "[EVENT]伞",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0012"
+    },
+    {
+      "id": 350013,
+      "name": "[EVENT]游泳圈",
+      "ownLimit": 999999,
+      "sortOrder": 10,
+      "description": "可在活动兑换所使用的活动道具",
+      "fileName": "icon_bingoP_0013"
+    }
+  ]
+}

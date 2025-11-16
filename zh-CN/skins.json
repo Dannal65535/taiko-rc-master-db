@@ -1,0 +1,3820 @@
+{
+  "skins": [
+    {
+      "id": 500001,
+      "name": "无",
+      "part": "HEAD",
+      "bonusRate": 0,
+      "description": "尚未穿上换装配件。",
+      "fileName": "head_000000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500002,
+      "name": "雷神",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "打太鼓引雷。",
+      "fileName": "head_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500003,
+      "name": "武者(红)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "head_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500004,
+      "name": "武者(蓝)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "head_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500005,
+      "name": "武者(金)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "head_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500006,
+      "name": "武者(银)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "head_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500007,
+      "name": "剑道",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "将注意力集中在剑上！",
+      "fileName": "head_000300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500008,
+      "name": "忍者",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "head_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500009,
+      "name": "忍者(红)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "head_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500010,
+      "name": "忍者(蓝)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "head_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500011,
+      "name": "忍者(黄)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "head_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500012,
+      "name": "忍者(绿)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "head_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500013,
+      "name": "铁头盔",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "保护头部很重要！",
+      "fileName": "head_000700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500015,
+      "name": "海盗",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "呦喝～！呦喝～！去七大洋冒险吧！",
+      "fileName": "head_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500016,
+      "name": "重金属摇滚妆",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用激烈的节拍让你沉醉不已！",
+      "fileName": "head_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500017,
+      "name": "相扑",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "开始！撑住撑住！",
+      "fileName": "head_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500018,
+      "name": "王冠",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "只有国王才能戴。",
+      "fileName": "head_001200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500019,
+      "name": "宝石(银)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "闪闪亮亮闪闪亮亮闪闪～亮亮。",
+      "fileName": "head_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500020,
+      "name": "宝石(金)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "闪闪亮亮闪闪亮亮闪闪～亮亮。",
+      "fileName": "head_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500021,
+      "name": "辉夜姬",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "从竹子中诞生的美女。",
+      "fileName": "head_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500022,
+      "name": "圆点缎带",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "有可爱的圆点图案。",
+      "fileName": "head_001800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500023,
+      "name": "公主辣妹",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "体验当公主的感觉。",
+      "fileName": "head_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500024,
+      "name": "小鹿",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "可爱的小鹿。",
+      "fileName": "head_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500025,
+      "name": "雪人",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "炽热的演奏也不会让它融化。",
+      "fileName": "head_002400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500026,
+      "name": "花饰",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用漂亮的花朵来装饰吧。",
+      "fileName": "head_002500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500027,
+      "name": "兔耳",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以察觉天敌接近的声音。",
+      "fileName": "head_002600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500028,
+      "name": "甜食",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "全身甜蜜蜜。",
+      "fileName": "head_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500029,
+      "name": "婚纱",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "祝新婚愉快。",
+      "fileName": "head_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500030,
+      "name": "旗鱼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "尖锐的大鱼。",
+      "fileName": "head_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500031,
+      "name": "头戴式耳机",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "小心漏音。",
+      "fileName": "head_003200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500032,
+      "name": "独角仙",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "力气很大。",
+      "fileName": "head_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500033,
+      "name": "侧马尾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "名称来自马的尾巴。",
+      "fileName": "head_003400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500034,
+      "name": "小黄莺",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "和小咔感情融洽的黄莺。",
+      "fileName": "head_003500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500035,
+      "name": "玛琳",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以和海鸥成为好朋友。",
+      "fileName": "head_003600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500036,
+      "name": "钻头",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "急速钻洞前进！",
+      "fileName": "head_003800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500037,
+      "name": "面具小童（狐狸）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "戴着面具小童的面具。",
+      "fileName": "head_003900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500038,
+      "name": "歌舞伎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "日本的传统艺能。",
+      "fileName": "head_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500039,
+      "name": "招财猫",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "或许会招来幸福。",
+      "fileName": "head_004200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500040,
+      "name": "孔雀",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用华丽的羽毛来迷惑你。",
+      "fileName": "head_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500041,
+      "name": "发髻",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "日本传统发型。",
+      "fileName": "head_004500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500042,
+      "name": "守护者",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "铜墙铁壁。",
+      "fileName": "head_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500043,
+      "name": "哥特萝莉女仆（辣妹）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "荷叶边很可爱。",
+      "fileName": "head_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500044,
+      "name": "哥特萝莉女仆（公主）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "荷叶边很可爱。",
+      "fileName": "head_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500045,
+      "name": "恶魔",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "大家说我绝对很邪恶",
+      "fileName": "head_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500046,
+      "name": "向日葵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏天的花。",
+      "fileName": "head_004900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500048,
+      "name": "狮子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "百兽之王。",
+      "fileName": "head_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500050,
+      "name": "美男子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "连声音听起来都像美男子所以没问题的。",
+      "fileName": "head_005400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500051,
+      "name": "照相机镜头",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以对焦。",
+      "fileName": "head_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500052,
+      "name": "冲天炮",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可爱地摇曳着。",
+      "fileName": "head_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500053,
+      "name": "学生帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我会努力念书的！",
+      "fileName": "head_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500054,
+      "name": "圆点头带",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "充满干劲。",
+      "fileName": "head_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500055,
+      "name": "门松",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "迎接新年。",
+      "fileName": "head_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500056,
+      "name": "女儿节人偶",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "桃花节。",
+      "fileName": "head_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500057,
+      "name": "金鱼灯笼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "金鱼模样的帽子。",
+      "fileName": "head_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500058,
+      "name": "指南针",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以知道北边在哪。",
+      "fileName": "head_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500060,
+      "name": "圣诞老人",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "佳节愉快！",
+      "fileName": "head_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500061,
+      "name": "哲生",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "化身为哲生。",
+      "fileName": "head_007300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500062,
+      "name": "草帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏天！刨冰！草帽！昆虫！",
+      "fileName": "head_007400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500063,
+      "name": "网球",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "杀球！",
+      "fileName": "head_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500064,
+      "name": "画家",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "喜欢颜料的味道。",
+      "fileName": "head_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500065,
+      "name": "头巾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "这样就不会弄脏头了。",
+      "fileName": "head_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500067,
+      "name": "树墩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "在森林里常常被人坐。",
+      "fileName": "head_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500069,
+      "name": "蝴蝶羽翼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蝴蝶蝴蝶生得真美丽～",
+      "fileName": "head_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500070,
+      "name": "恐龙",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "人家说我是地表最强生物～",
+      "fileName": "head_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500071,
+      "name": "化石",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "化为骨头啦～",
+      "fileName": "head_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500072,
+      "name": "骆驼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "就算待在又热又干燥的地方也没问题。",
+      "fileName": "head_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500073,
+      "name": "木乃伊",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "想要绷带的时候就叫我吧。",
+      "fileName": "head_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500074,
+      "name": "法老王",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "戴着神秘的面具。",
+      "fileName": "head_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500075,
+      "name": "螺旋桨",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "遨游天际～",
+      "fileName": "head_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500079,
+      "name": "眼罩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "成功敲开就能吃到美味西瓜。",
+      "fileName": "head_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500081,
+      "name": "锹形虫",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用力夹紧。",
+      "fileName": "head_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500082,
+      "name": "樱花",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "春天的来临。",
+      "fileName": "head_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500083,
+      "name": "枪手",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "开枪速度绝不输人哦。",
+      "fileName": "head_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500084,
+      "name": "滑板人",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "咻～！喀！咻～！",
+      "fileName": "head_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500085,
+      "name": "原宿",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "可爱的装扮。",
+      "fileName": "head_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500086,
+      "name": "赛车",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "松开油门就会输。",
+      "fileName": "head_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500088,
+      "name": "睡衣",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "保证你做一场好梦。",
+      "fileName": "head_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500089,
+      "name": "独角兽",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "梦幻可爱的动物。",
+      "fileName": "head_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500090,
+      "name": "幽灵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我好恨日本的夏天呀～",
+      "fileName": "head_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500091,
+      "name": "飞行员",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用超音速起飞！",
+      "fileName": "head_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500092,
+      "name": "度假",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "在炎热的日照下享受度假的气氛。",
+      "fileName": "head_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500093,
+      "name": "荷兰乳牛",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "每年产出5000kg的牛乳。",
+      "fileName": "head_011200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500094,
+      "name": "英雄",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "男孩子的憧憬。",
+      "fileName": "head_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500095,
+      "name": "棉花糖",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "软绵绵，甜滋滋。",
+      "fileName": "head_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500096,
+      "name": "羊驼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "毛茸茸的好家伙。",
+      "fileName": "head_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500097,
+      "name": "盛冈三飒舞祭",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "三飒三飒。",
+      "fileName": "head_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500099,
+      "name": "冰淇淋",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "配料放太多了，吃起来很不方便。",
+      "fileName": "head_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500101,
+      "name": "脚踏车",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "就算遇到上坡路也会奋力向前进唷。",
+      "fileName": "head_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500102,
+      "name": "花魁",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "奴家是花魁。",
+      "fileName": "head_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500103,
+      "name": "螃蟹",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "就只是一只螃蟹。",
+      "fileName": "head_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500104,
+      "name": "勇者咚",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "为了守护世界的和平！",
+      "fileName": "head_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500105,
+      "name": "兵长",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "立～正！向前看～！起步走！",
+      "fileName": "head_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500107,
+      "name": "蜜蜂",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "围绕着花朵采蜜。",
+      "fileName": "head_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500109,
+      "name": "猫耳",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "喵呜～",
+      "fileName": "head_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500110,
+      "name": "美少女面具",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以完全化身为美少女。",
+      "fileName": "head_013500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500111,
+      "name": "宝藏猎人",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "宝藏在哪呢～",
+      "fileName": "head_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500112,
+      "name": "口琴",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "听我表演一首蓝调吧。",
+      "fileName": "head_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500113,
+      "name": "焊接面罩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "不论什么都能接回去。",
+      "fileName": "head_014300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500114,
+      "name": "梅杜莎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "直视我的双眼就会变成石头喔。",
+      "fileName": "head_014400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500115,
+      "name": "对白框",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "……",
+      "fileName": "head_014500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500116,
+      "name": "咦！？",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "咦！？",
+      "fileName": "head_014600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500117,
+      "name": "河马",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "意外地跑得很快。",
+      "fileName": "head_014700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500118,
+      "name": "披萨",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "融化的芝士很好吃哦。",
+      "fileName": "head_014800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500119,
+      "name": "锅子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "说是锅子就是锅子，戴在头上还是锅子。",
+      "fileName": "head_014900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500120,
+      "name": "威廉泰尔帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "一发命中！",
+      "fileName": "head_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500121,
+      "name": "丛林",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "欢迎来到丛林。",
+      "fileName": "head_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500122,
+      "name": "积木",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "最适合这呆板僵硬的社会。",
+      "fileName": "head_015400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500123,
+      "name": "孙悟空",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我呀，前几天都还在五行山那边。",
+      "fileName": "head_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500124,
+      "name": "动物头套",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "戴上就很暖和。",
+      "fileName": "head_016300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500125,
+      "name": "灵光一闪",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "灵光一闪！我找到了！",
+      "fileName": "head_016400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500126,
+      "name": "电线杆",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "偷看一眼。",
+      "fileName": "head_016500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500127,
+      "name": "麻花辫",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "去问妈妈怎么编麻花辫吧。",
+      "fileName": "head_016600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500128,
+      "name": "吓一跳",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "无法掩饰惊讶。",
+      "fileName": "head_016700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500129,
+      "name": "啾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "亲一个。",
+      "fileName": "head_016800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500131,
+      "name": "希腊士兵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "驾驶双轮战车来比赛吧！",
+      "fileName": "head_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500132,
+      "name": "沐浴套装",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我先去洗澡了。",
+      "fileName": "head_017200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500133,
+      "name": "墨西哥帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "Hola！Buenas tardes！",
+      "fileName": "head_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500136,
+      "name": "蒙面",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "不知是敌是友的神秘太鼓。",
+      "fileName": "head_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500137,
+      "name": "企鹅亲子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "企鹅宝宝钻进父母胯下取暖。",
+      "fileName": "head_018100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500138,
+      "name": "倒水",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "唰！",
+      "fileName": "head_018200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500140,
+      "name": "魔法师",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "变得很会打太鼓吧～",
+      "fileName": "head_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500145,
+      "name": "鱼板",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "将绞碎的鱼肉放到板子上蒸熟。",
+      "fileName": "head_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500146,
+      "name": "夏季节庆",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "要在户外听音乐。",
+      "fileName": "head_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500148,
+      "name": "针织帽",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "暖呼呼。",
+      "fileName": "head_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500150,
+      "name": "刺猬",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抱着它会很痛。",
+      "fileName": "head_020400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500151,
+      "name": "派对人士",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "来开派对吧！",
+      "fileName": "head_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500152,
+      "name": "大象",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "鼻子很长呢。",
+      "fileName": "head_021000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500157,
+      "name": "太空人",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "这边是地球，宇宙的情况如何？",
+      "fileName": "head_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500158,
+      "name": "老虎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "吼～",
+      "fileName": "head_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500162,
+      "name": "知识分子的眼镜",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "有什么事都可以问哦。（推眼镜）",
+      "fileName": "head_022200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500163,
+      "name": "仓鼠",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "颊囊里装满了梦想。",
+      "fileName": "head_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500164,
+      "name": "毛毛虫",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "总有一天会变成美丽的蝴蝶。",
+      "fileName": "head_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500165,
+      "name": "白饭",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "热腾腾，刚煮好。",
+      "fileName": "head_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500166,
+      "name": "玩游戏的小咚",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "时尚、高规格。",
+      "fileName": "head_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500168,
+      "name": "竹轮小黄瓜",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "水份十足。",
+      "fileName": "head_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500170,
+      "name": "盆栽",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "木纹的微笑。",
+      "fileName": "head_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500173,
+      "name": "太阳",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "好、好刺眼！",
+      "fileName": "head_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500175,
+      "name": "木雕",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "温厚的触感。",
+      "fileName": "head_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500179,
+      "name": "绅士",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "绅士的教养。",
+      "fileName": "head_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500180,
+      "name": "太空站",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "通讯中。",
+      "fileName": "head_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500181,
+      "name": "英雄扮家家酒",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "可以成为向往的英雄！",
+      "fileName": "head_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500183,
+      "name": "地图图标",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "在这里，就是这里。",
+      "fileName": "head_025200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500189,
+      "name": "顽固老爹",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "你再给我说一次试试看！",
+      "fileName": "head_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500191,
+      "name": "无",
+      "part": "BODY",
+      "bonusRate": 0,
+      "description": "尚未穿上换装配件。",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500192,
+      "name": "打雷太鼓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "闪电轰隆隆。",
+      "fileName": "body_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500193,
+      "name": "武者(红)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "body_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500194,
+      "name": "武者(蓝)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "body_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500195,
+      "name": "武者(金)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "body_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500196,
+      "name": "武者(银)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "为胜利欢呼吧！",
+      "fileName": "body_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500197,
+      "name": "狮子舞",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "据说被咬到头的话就会有好事发生。",
+      "fileName": "body_000400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500198,
+      "name": "忍者",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "body_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500199,
+      "name": "忍者(红)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "body_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500200,
+      "name": "忍者(蓝)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "body_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500201,
+      "name": "忍者(黄)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "body_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500202,
+      "name": "忍者(绿)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "蹑手蹑脚。",
+      "fileName": "body_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500205,
+      "name": "海盗船",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "呦喝～！呦喝～！去七大洋冒险吧！",
+      "fileName": "body_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500206,
+      "name": "电吉他",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "听我一首SOLO吧！",
+      "fileName": "body_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500207,
+      "name": "相扑",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "开始！撑住撑住！",
+      "fileName": "body_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500208,
+      "name": "乌龟",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "龟壳非常硬。",
+      "fileName": "body_001300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500209,
+      "name": "宝石(银)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "闪闪亮亮闪闪亮亮闪闪～亮亮。",
+      "fileName": "body_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500210,
+      "name": "宝石(金)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "闪闪亮亮闪闪亮亮闪闪～亮亮。",
+      "fileName": "body_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500211,
+      "name": "拉链",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "开开合合。",
+      "fileName": "body_001500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500212,
+      "name": "辉夜姬",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "从竹子中诞生的美女。",
+      "fileName": "body_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500213,
+      "name": "城堡与马车",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "注意不要超过晚上12点！",
+      "fileName": "body_001700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500214,
+      "name": "公主辣妹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "体验当公主的感觉。",
+      "fileName": "body_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500215,
+      "name": "小鹿",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "可爱的小鹿。",
+      "fileName": "body_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500217,
+      "name": "摊车",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "流动摊贩。",
+      "fileName": "body_002200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500218,
+      "name": "阿猫和饭勺",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "阿猫和饭勺总是形影不离！",
+      "fileName": "body_002300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500219,
+      "name": "甜食",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "全身甜蜜蜜。",
+      "fileName": "body_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500220,
+      "name": "婚纱",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祝新婚愉快。",
+      "fileName": "body_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500221,
+      "name": "旗鱼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "尖锐的大鱼。",
+      "fileName": "body_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500223,
+      "name": "巫女",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "驱邪、求签之类的。",
+      "fileName": "body_003100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500224,
+      "name": "甲虫(棕)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "发出很大的振翅声飞走。",
+      "fileName": "body_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500226,
+      "name": "小小咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "和小小咚一起。",
+      "fileName": "body_003700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500227,
+      "name": "歌舞伎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本的传统艺能。",
+      "fileName": "body_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500228,
+      "name": "祈福竹耙",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "生意兴隆！",
+      "fileName": "body_004100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500229,
+      "name": "孔雀",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "用华丽的羽毛来迷惑你。",
+      "fileName": "body_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500230,
+      "name": "冠军",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "绑在腰上就是最强的证明。",
+      "fileName": "body_004400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500231,
+      "name": "守护者",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "铜墙铁壁。",
+      "fileName": "body_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500232,
+      "name": "哥特萝莉女仆（辣妹）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "荷叶边很可爱。",
+      "fileName": "body_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500233,
+      "name": "哥特萝莉女仆（公主）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "荷叶边很可爱。",
+      "fileName": "body_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500234,
+      "name": "恶魔",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "大家说我绝对很邪恶",
+      "fileName": "body_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500235,
+      "name": "森林的伙伴",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "大家感情融洽。",
+      "fileName": "body_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500236,
+      "name": "狮子",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "百兽之王。",
+      "fileName": "body_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500238,
+      "name": "保龄球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "滚啊滚，全倒！",
+      "fileName": "body_005300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500239,
+      "name": "照相机",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "从镜头的另一侧望过来。",
+      "fileName": "body_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500240,
+      "name": "水手服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "快乐的校园生活。",
+      "fileName": "body_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500241,
+      "name": "校服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "快乐的校服生活。",
+      "fileName": "body_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500242,
+      "name": "蓝色短外衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祭典的正式服装。",
+      "fileName": "body_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500243,
+      "name": "日式裤裙",
+      "part": "BODY",
+      "bonusRate": 150,
+      "description": "日本的绅士。",
+      "fileName": "body_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500244,
+      "name": "女儿节人偶",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "桃花节。",
+      "fileName": "body_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500245,
+      "name": "红色短外衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祭典的正式服装。",
+      "fileName": "body_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500246,
+      "name": "狼牙棒",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鬼拿着它就是最强的。",
+      "fileName": "body_006200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500248,
+      "name": "黑太鼓",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "黑色有光泽。",
+      "fileName": "body_006400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500249,
+      "name": "地球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "就在这里。",
+      "fileName": "body_006500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500250,
+      "name": "章鱼烧",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "外酥内软。",
+      "fileName": "body_006600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500251,
+      "name": "月亮",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "有兔子住在上面。",
+      "fileName": "body_006700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500253,
+      "name": "章鱼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "含有丰富的牛磺酸。",
+      "fileName": "body_006900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500254,
+      "name": "圣诞老人",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "佳节愉快！",
+      "fileName": "body_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500255,
+      "name": "网球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "杀球！",
+      "fileName": "body_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500256,
+      "name": "画家",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "喜欢颜料的味道。",
+      "fileName": "body_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500257,
+      "name": "农务",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "耕作并收成。",
+      "fileName": "body_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500259,
+      "name": "这棵树是什么树",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "树根牢牢地抓住土地。",
+      "fileName": "body_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500261,
+      "name": "蝴蝶羽翼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "翩翩起舞。",
+      "fileName": "body_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500262,
+      "name": "恐龙",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "人家说我是地表最强生物～",
+      "fileName": "body_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500263,
+      "name": "化石",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "化为骨头啦～",
+      "fileName": "body_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500264,
+      "name": "骆驼的驼峰",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "就算待在又热又干燥的地方也没问题。",
+      "fileName": "body_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500265,
+      "name": "木乃伊",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "想要绷带的时候就叫我吧。",
+      "fileName": "body_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500266,
+      "name": "金字塔",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "屹立不倒。",
+      "fileName": "body_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500267,
+      "name": "飞机",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "遨游天际～",
+      "fileName": "body_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500271,
+      "name": "西瓜",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "成功敲开就能吃到美味西瓜。",
+      "fileName": "body_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500273,
+      "name": "甲虫(蓝)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "发出很大的振翅声飞走。",
+      "fileName": "body_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500274,
+      "name": "樱饼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "淡淡的樱花风味。",
+      "fileName": "body_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500276,
+      "name": "玛琳",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "全速前进！",
+      "fileName": "body_009600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500277,
+      "name": "枪手",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "开枪速度绝不输人哦。",
+      "fileName": "body_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500278,
+      "name": "滑板人",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "咻～！喀！咻～！",
+      "fileName": "body_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500279,
+      "name": "原宿",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "可爱的装扮。",
+      "fileName": "body_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500280,
+      "name": "赛车",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "松开油门就会输。",
+      "fileName": "body_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500282,
+      "name": "爱丽丝的洋装",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "不可思议～",
+      "fileName": "body_010200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500283,
+      "name": "千手观音",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "有这么多只手的话应该很会打太鼓？",
+      "fileName": "body_010300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500284,
+      "name": "睡衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "保证你做一场好梦。",
+      "fileName": "body_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500285,
+      "name": "独角兽",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "梦幻可爱的动物。",
+      "fileName": "body_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500286,
+      "name": "幽灵",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "我好恨日本的夏天呀～",
+      "fileName": "body_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500287,
+      "name": "喷射机",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "用超音速起飞！",
+      "fileName": "body_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500288,
+      "name": "暑假",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "夏天！刨冰！草帽！昆虫！",
+      "fileName": "body_010800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500289,
+      "name": "度假",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "在炎热的日照下享受度假的气氛。",
+      "fileName": "body_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500290,
+      "name": "UFO",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "从遥远的宇宙前来。",
+      "fileName": "body_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500291,
+      "name": "变色龙",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "后面！后面！",
+      "fileName": "body_011100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500292,
+      "name": "英雄",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "男孩子的憧憬。",
+      "fileName": "body_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500293,
+      "name": "棉花糖",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "软绵绵，甜滋滋。",
+      "fileName": "body_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500294,
+      "name": "羊驼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "毛茸茸的好家伙。",
+      "fileName": "body_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500295,
+      "name": "盛冈三飒舞祭",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "三飒三飒。",
+      "fileName": "body_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500297,
+      "name": "冰淇淋",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "配料放太多了，吃起来很不方便。",
+      "fileName": "body_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500298,
+      "name": "童话",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "想要被可爱的事物包围。",
+      "fileName": "body_011900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500299,
+      "name": "脚踏车",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "就算遇到上坡路也会奋力向前进唷。",
+      "fileName": "body_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500300,
+      "name": "花魁",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "妾身是花魁。",
+      "fileName": "body_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500301,
+      "name": "海洋的伙伴们",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "一下游过来，一下贴上来。",
+      "fileName": "body_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500302,
+      "name": "勇者咚",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "为了守护世界的和平！",
+      "fileName": "body_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500303,
+      "name": "兵长",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "立～正！向前看～！起步走！",
+      "fileName": "body_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500304,
+      "name": "大缎带",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "又大又可爱的缎带。",
+      "fileName": "body_012500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500306,
+      "name": "豪华太鼓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "奢华！完美！",
+      "fileName": "body_012700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500307,
+      "name": "孔雀（彩虹）",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "用华丽的羽毛来迷惑你。",
+      "fileName": "body_012800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500308,
+      "name": "可丽饼摊贩",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "要不要来吃甜点啊～",
+      "fileName": "body_012900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500309,
+      "name": "幸运龙",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "运气真好！",
+      "fileName": "body_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500311,
+      "name": "蜜蜂",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "围绕着花朵采蜜。",
+      "fileName": "body_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500313,
+      "name": "猫咪尾巴",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "喵呜～",
+      "fileName": "body_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500314,
+      "name": "宝藏猎人",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "宝藏在哪呢～",
+      "fileName": "body_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500315,
+      "name": "吉他",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "听我表演一首蓝调吧。",
+      "fileName": "body_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500316,
+      "name": "幸福的青鸟",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "找到它就会获得幸福。",
+      "fileName": "body_013800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500317,
+      "name": "岩石",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "很Rock！",
+      "fileName": "body_013900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500318,
+      "name": "咚咚咚咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "咚咚咚咚。",
+      "fileName": "body_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500319,
+      "name": "糖果屋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "看起来很好吃的屋子。",
+      "fileName": "body_014100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500320,
+      "name": "牧场",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "哞～哞～咩～咩～咕咕咕～",
+      "fileName": "body_014200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500321,
+      "name": "弓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "只要是我看上的乐谱都不会放过！",
+      "fileName": "body_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500322,
+      "name": "纸箱",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "进去就会感到安心。",
+      "fileName": "body_015100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500323,
+      "name": "冰之礼服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "冷酷又时尚。",
+      "fileName": "body_015200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500324,
+      "name": "丛林",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "欢迎来到丛林。",
+      "fileName": "body_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500326,
+      "name": "孙悟空",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "我呀，前几天都还在五行山那边。",
+      "fileName": "body_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500327,
+      "name": "彩虹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "漂亮的七色拱桥。",
+      "fileName": "body_015600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500328,
+      "name": "丰收",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "大丰收！！",
+      "fileName": "body_015700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500329,
+      "name": "爱心",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "充满着爱。",
+      "fileName": "body_015800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500330,
+      "name": "大受女高中生欢迎",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "呀啊～",
+      "fileName": "body_015900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500331,
+      "name": "行星",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "宇宙浩瀚无垠。",
+      "fileName": "body_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500332,
+      "name": "猫咪聚会",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "热烈地讨论哲学。",
+      "fileName": "body_016100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500335,
+      "name": "双轮战车",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "驾驶双轮战车来比赛吧！",
+      "fileName": "body_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500336,
+      "name": "有钱人",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "钱太多了～",
+      "fileName": "body_017100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500337,
+      "name": "沙锤",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "Hola！Buenas tardes！",
+      "fileName": "body_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500338,
+      "name": "纳斯卡线",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "古代的浪漫！",
+      "fileName": "body_017400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500339,
+      "name": "战国武将",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "时逢群雄割据的战国时代。",
+      "fileName": "body_017600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500341,
+      "name": "冰屋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "外表硬梆梆，但里面很舒适。",
+      "fileName": "body_017800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500342,
+      "name": "消防队",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "江户的英雄。",
+      "fileName": "body_017900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500344,
+      "name": "魔法师",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "变得很会打太鼓吧～",
+      "fileName": "body_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500346,
+      "name": "大受男高中生欢迎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "啊等下下课去哪？",
+      "fileName": "body_018600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500347,
+      "name": "蘑菇",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "放进火锅里就会很好吃。",
+      "fileName": "body_018700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500349,
+      "name": "炒面摊贩",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "炒面一份好了！",
+      "fileName": "body_019000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500350,
+      "name": "三色喵",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "会突然消失无踪。",
+      "fileName": "body_019100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500351,
+      "name": "鲤鱼旗",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "5月5号挂鲤鱼旗。",
+      "fileName": "body_019200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500352,
+      "name": "水族箱",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "小小水族馆。",
+      "fileName": "body_019300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500353,
+      "name": "吐司与黄油",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "刚烤好的金黄色！",
+      "fileName": "body_019400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500355,
+      "name": "稻草纳豆",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "黏黏的很好吃。",
+      "fileName": "body_019600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500356,
+      "name": "鱼虎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本城堡的守护神",
+      "fileName": "body_019700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500358,
+      "name": "鱼板",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "将绞碎的鱼肉放到板子上蒸熟。",
+      "fileName": "body_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500359,
+      "name": "夏季节庆",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "要在户外听音乐。",
+      "fileName": "body_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500361,
+      "name": "和毛衣",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "暖呼呼。",
+      "fileName": "body_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500364,
+      "name": "派对人士",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "来开派对吧！",
+      "fileName": "body_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500365,
+      "name": "祭典服(蓝)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "头带和祭典服是祭典时的正式服装。",
+      "fileName": "body_020600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500366,
+      "name": "祭典服(红)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "头带和祭典服是祭典时的正式服装。",
+      "fileName": "body_020701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500367,
+      "name": "祭典服(黄)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "头带和祭典服是祭典时的正式服装。",
+      "fileName": "body_020802",
+      "canChangeColor": true
+    },
+    {
+      "id": 500368,
+      "name": "祭典服(绿)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "头带和祭典服是祭典时的正式服装。",
+      "fileName": "body_020903",
+      "canChangeColor": true
+    },
+    {
+      "id": 500369,
+      "name": "潜水艇",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "可以潜入深海。",
+      "fileName": "body_020700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500370,
+      "name": "花束",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "女性的憧憬。",
+      "fileName": "body_020800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500376,
+      "name": "太空服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "这边是宇宙，地球的情况如何？",
+      "fileName": "body_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500377,
+      "name": "老虎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "吼～",
+      "fileName": "body_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500379,
+      "name": "小学生",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "上学途中。",
+      "fileName": "body_021500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500382,
+      "name": "杯子蛋糕",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "张嘴大口吃。",
+      "fileName": "body_021800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500384,
+      "name": "火锅",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "什么都加的豪华火锅。",
+      "fileName": "body_022000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500386,
+      "name": "仓鼠",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "颊囊里装满了梦想。",
+      "fileName": "body_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500388,
+      "name": "苹果",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鲜红的苹果。",
+      "fileName": "body_022500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500390,
+      "name": "毛毛虫",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "总有一天会变成美丽的蝴蝶。",
+      "fileName": "body_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500391,
+      "name": "儿童餐",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "连大人也羡慕的豪华餐点。",
+      "fileName": "body_022800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500392,
+      "name": "扭蛋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抽到了什麼呢～",
+      "fileName": "body_022900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500393,
+      "name": "咖喱",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "香辣可口",
+      "fileName": "body_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500394,
+      "name": "玩游戏的小咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "时尚、高规格。",
+      "fileName": "body_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500395,
+      "name": "竹轮小黄瓜",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "水份十足。",
+      "fileName": "body_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500397,
+      "name": "无人机",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "自由自在地水平飞行。",
+      "fileName": "body_023500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500398,
+      "name": "大受熊猫欢迎",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "熊猫熊猫熊猫熊猫熊猫。",
+      "fileName": "body_023600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500399,
+      "name": "盆栽",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "木纹的微笑。",
+      "fileName": "body_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500402,
+      "name": "矿物",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "美丽又坚硬的结晶。",
+      "fileName": "body_024100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500404,
+      "name": "木雕",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "温厚的触感。",
+      "fileName": "body_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500405,
+      "name": "BBQ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "我把肉烤好了喔～",
+      "fileName": "body_024400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500409,
+      "name": "绅士",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "绅士的教养。",
+      "fileName": "body_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500410,
+      "name": "太空站",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "通讯中。",
+      "fileName": "body_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500411,
+      "name": "英雄扮家家酒",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "可以成为向往的英雄！",
+      "fileName": "body_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500413,
+      "name": "镜球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "FEVER TIME！",
+      "fileName": "body_025400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500419,
+      "name": "顽固老爹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "你再给我说一次试试看！",
+      "fileName": "body_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500421,
+      "name": "无",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "尚未穿上换装配件。",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500428,
+      "name": "阿猫和饭勺",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "阿猫和饭勺总是形影不离！",
+      "fileName": "acc_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500432,
+      "name": "鼓棒老师",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "亲切传授太鼓打法的老师。",
+      "fileName": "acc_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500434,
+      "name": "和田犬",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "恪守礼节的柴犬，绑着头巾是其迷人之处。",
+      "fileName": "acc_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500439,
+      "name": "和田蚯蚓",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和田咚的宠物（少女）。",
+      "fileName": "acc_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500444,
+      "name": "哲生",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "活泼好动的调皮孩子",
+      "fileName": "acc_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500445,
+      "name": "小花",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "大哲生一岁，宛如姐姐般的存在。",
+      "fileName": "acc_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500446,
+      "name": "无",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "尚未穿上换装配件。",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500447,
+      "name": "直升机",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "想飞的心情。",
+      "fileName": "cos_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500448,
+      "name": "神轿(金)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿呦！嘿呦！",
+      "fileName": "cos_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500449,
+      "name": "神轿(银)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿呦！嘿呦！",
+      "fileName": "cos_002001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500450,
+      "name": "神轿(棕)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿呦！嘿呦！",
+      "fileName": "cos_002002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500451,
+      "name": "神轿(绿)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿呦！嘿呦！",
+      "fileName": "cos_002003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500452,
+      "name": "青蛙",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "呱呱呱。",
+      "fileName": "cos_003000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500453,
+      "name": "机器咚",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "机械构造的小咚。",
+      "fileName": "cos_004000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500454,
+      "name": "日本城(蓝)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡。",
+      "fileName": "cos_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500455,
+      "name": "日本城(黑)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡。",
+      "fileName": "cos_005003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500456,
+      "name": "日本城(金)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡。",
+      "fileName": "cos_005002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500457,
+      "name": "日本城(绿)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡。",
+      "fileName": "cos_005001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500458,
+      "name": "富士山",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "日本第一高峰。",
+      "fileName": "cos_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500459,
+      "name": "哲生的坐骑",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "哲生骑在上面。",
+      "fileName": "cos_007000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500460,
+      "name": "电车(蓝)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出发前进～",
+      "fileName": "cos_008000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500461,
+      "name": "电车(红)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出发前进～",
+      "fileName": "cos_008001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500462,
+      "name": "电车(绿)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出发前进～",
+      "fileName": "cos_008002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500463,
+      "name": "鲨鱼(蓝)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "海中王者。",
+      "fileName": "cos_009000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500466,
+      "name": "寿司",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "醋饭上乘着新鲜的配料。",
+      "fileName": "cos_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500467,
+      "name": "火车",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "利用蒸气发动。",
+      "fileName": "cos_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500468,
+      "name": "牛肉盖饭",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "麻烦酱汁加多一点。",
+      "fileName": "cos_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500469,
+      "name": "猪排盖饭",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "厚切猪排的猪排盖饭。",
+      "fileName": "cos_012001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500470,
+      "name": "亲子盖饭",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "鸡肉和鸡蛋的完美结合。",
+      "fileName": "cos_012002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500471,
+      "name": "米饭",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "配什么都好吃。",
+      "fileName": "cos_012003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500472,
+      "name": "架子鼓",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "可以打出节拍。",
+      "fileName": "cos_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500473,
+      "name": "肉",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "就是那块肉。",
+      "fileName": "cos_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500474,
+      "name": "宝船",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "载满宝藏。",
+      "fileName": "cos_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500475,
+      "name": "鬼魂",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "我是妖怪哦～",
+      "fileName": "cos_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500476,
+      "name": "平安美人",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "皮肤白晰的可爱女孩。",
+      "fileName": "cos_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500477,
+      "name": "魔术幻觉",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "没有任何玄机。",
+      "fileName": "cos_018000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500478,
+      "name": "上色到一半",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "刚上漆不久。",
+      "fileName": "cos_019000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500479,
+      "name": "摇摇马",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "投入硬币就会前后摇摆。",
+      "fileName": "cos_020000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500480,
+      "name": "堆积如山",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "三层设计。",
+      "fileName": "cos_021000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500481,
+      "name": "偏移",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "偏了。",
+      "fileName": "cos_022000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500482,
+      "name": "珍珠奶茶",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "既是食物也是饮料。",
+      "fileName": "cos_023000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500484,
+      "name": "温泉",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "全身暖呼呼，皮肤变光滑。",
+      "fileName": "cos_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500486,
+      "name": "骰子",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "试个手气。",
+      "fileName": "cos_027000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500487,
+      "name": "炸鸡",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "刚炸好的，美味多汁。",
+      "fileName": "cos_028000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500488,
+      "name": "雷云朵朵",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "猜猜我是谁？",
+      "fileName": "cos_029000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500489,
+      "name": "水母",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "轻飘飘地漂浮着。",
+      "fileName": "cos_030000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500490,
+      "name": "拉花",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "非常有人气的咖啡。",
+      "fileName": "cos_031000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500492,
+      "name": "前世",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "前世的样子。",
+      "fileName": "cos_033000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500493,
+      "name": "小咚",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "小咚色。",
+      "fileName": "col_000001",
+      "canChangeColor": false
+    },
+    {
+      "id": 500495,
+      "name": "咖喱·咚迪",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄色系列　1/5。",
+      "fileName": "col_000003",
+      "canChangeColor": false
+    },
+    {
+      "id": 500496,
+      "name": "黄色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄色系列　2/5。",
+      "fileName": "col_000004",
+      "canChangeColor": true
+    },
+    {
+      "id": 500497,
+      "name": "黄色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄色系列　3/5。",
+      "fileName": "col_000005",
+      "canChangeColor": true
+    },
+    {
+      "id": 500498,
+      "name": "黄色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄色系列　4/5。",
+      "fileName": "col_000006",
+      "canChangeColor": true
+    },
+    {
+      "id": 500500,
+      "name": "艾草丸",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄绿色系列　1/5。",
+      "fileName": "col_000008",
+      "canChangeColor": true
+    },
+    {
+      "id": 500501,
+      "name": "黄绿色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄绿色系列　2/5。",
+      "fileName": "col_000009",
+      "canChangeColor": true
+    },
+    {
+      "id": 500502,
+      "name": "黄绿色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄绿色系列　3/5。",
+      "fileName": "col_000010",
+      "canChangeColor": true
+    },
+    {
+      "id": 500503,
+      "name": "黄绿色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黄绿色系列　4/5。",
+      "fileName": "col_000011",
+      "canChangeColor": true
+    },
+    {
+      "id": 500505,
+      "name": "绿色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "绿色系列　1/5。",
+      "fileName": "col_000013",
+      "canChangeColor": true
+    },
+    {
+      "id": 500506,
+      "name": "绿色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "绿色系列　2/5。",
+      "fileName": "col_000014",
+      "canChangeColor": true
+    },
+    {
+      "id": 500507,
+      "name": "绿色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "绿色系列　3/5。",
+      "fileName": "col_000015",
+      "canChangeColor": true
+    },
+    {
+      "id": 500508,
+      "name": "绿色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "绿色系列　4/5。",
+      "fileName": "col_000016",
+      "canChangeColor": true
+    },
+    {
+      "id": 500510,
+      "name": "水蓝色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水蓝色系列　1/5。",
+      "fileName": "col_000018",
+      "canChangeColor": true
+    },
+    {
+      "id": 500511,
+      "name": "水蓝色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水蓝色系列　2/5。",
+      "fileName": "col_000019",
+      "canChangeColor": true
+    },
+    {
+      "id": 500512,
+      "name": "水蓝色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水蓝色系列　3/5。",
+      "fileName": "col_000020",
+      "canChangeColor": true
+    },
+    {
+      "id": 500513,
+      "name": "水蓝色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水蓝色系列　4/5。",
+      "fileName": "col_000021",
+      "canChangeColor": true
+    },
+    {
+      "id": 500515,
+      "name": "蓝色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蓝色系列　1/5。",
+      "fileName": "col_000023",
+      "canChangeColor": true
+    },
+    {
+      "id": 500516,
+      "name": "蓝色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蓝色系列　2/5。",
+      "fileName": "col_000024",
+      "canChangeColor": true
+    },
+    {
+      "id": 500517,
+      "name": "蓝色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蓝色系列　3/5。",
+      "fileName": "col_000025",
+      "canChangeColor": true
+    },
+    {
+      "id": 500518,
+      "name": "蓝色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蓝色系列　4/5。",
+      "fileName": "col_000026",
+      "canChangeColor": true
+    },
+    {
+      "id": 500520,
+      "name": "紫色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　1/5。",
+      "fileName": "col_000028",
+      "canChangeColor": true
+    },
+    {
+      "id": 500521,
+      "name": "紫色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　2/5。",
+      "fileName": "col_000029",
+      "canChangeColor": true
+    },
+    {
+      "id": 500522,
+      "name": "紫色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　3/5。",
+      "fileName": "col_000030",
+      "canChangeColor": true
+    },
+    {
+      "id": 500523,
+      "name": "紫色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　4/5。",
+      "fileName": "col_000031",
+      "canChangeColor": true
+    },
+    {
+      "id": 500525,
+      "name": "紫红色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫红色系列　1/5。",
+      "fileName": "col_000033",
+      "canChangeColor": true
+    },
+    {
+      "id": 500526,
+      "name": "紫红色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫红色系列　2/5。",
+      "fileName": "col_000034",
+      "canChangeColor": true
+    },
+    {
+      "id": 500527,
+      "name": "紫红色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫红色系列　3/5。",
+      "fileName": "col_000035",
+      "canChangeColor": true
+    },
+    {
+      "id": 500530,
+      "name": "桃色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "桃色系列　1/5。",
+      "fileName": "col_000038",
+      "canChangeColor": true
+    },
+    {
+      "id": 500531,
+      "name": "桃色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "桃色系列　2/5。",
+      "fileName": "col_000039",
+      "canChangeColor": true
+    },
+    {
+      "id": 500532,
+      "name": "桃色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "桃色系列　3/5。",
+      "fileName": "col_000040",
+      "canChangeColor": true
+    },
+    {
+      "id": 500535,
+      "name": "红色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "红色系列　1/5。",
+      "fileName": "col_000043",
+      "canChangeColor": true
+    },
+    {
+      "id": 500536,
+      "name": "红色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "红色系列　2/5。",
+      "fileName": "col_000044",
+      "canChangeColor": true
+    },
+    {
+      "id": 500537,
+      "name": "红色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "红色系列　3/5。",
+      "fileName": "col_000045",
+      "canChangeColor": true
+    },
+    {
+      "id": 500540,
+      "name": "橙色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　1/5。",
+      "fileName": "col_000048",
+      "canChangeColor": true
+    },
+    {
+      "id": 500541,
+      "name": "橙色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　2/5。",
+      "fileName": "col_000049",
+      "canChangeColor": true
+    },
+    {
+      "id": 500542,
+      "name": "橙色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　3/5。",
+      "fileName": "col_000050",
+      "canChangeColor": true
+    },
+    {
+      "id": 500545,
+      "name": "乳白色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "乳白色系列　1/5。",
+      "fileName": "col_000053",
+      "canChangeColor": true
+    },
+    {
+      "id": 500546,
+      "name": "乳白色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "乳白色系列　2/5。",
+      "fileName": "col_000054",
+      "canChangeColor": true
+    },
+    {
+      "id": 500547,
+      "name": "乳白色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "乳白色系列　3/5。",
+      "fileName": "col_000055",
+      "canChangeColor": true
+    },
+    {
+      "id": 500550,
+      "name": "优雅1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "优雅系列　1/5。",
+      "fileName": "col_000058",
+      "canChangeColor": true
+    },
+    {
+      "id": 500551,
+      "name": "优雅2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "优雅系列　2/5。",
+      "fileName": "col_000059",
+      "canChangeColor": true
+    },
+    {
+      "id": 500552,
+      "name": "优雅3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "优雅系列　3/5。",
+      "fileName": "col_000060",
+      "canChangeColor": true
+    },
+    {
+      "id": 500555,
+      "name": "粉彩1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　1/6。",
+      "fileName": "col_000063",
+      "canChangeColor": true
+    },
+    {
+      "id": 500556,
+      "name": "粉彩2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　2/6。",
+      "fileName": "col_000064",
+      "canChangeColor": true
+    },
+    {
+      "id": 500557,
+      "name": "粉彩3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　3/6。",
+      "fileName": "col_000065",
+      "canChangeColor": true
+    },
+    {
+      "id": 500561,
+      "name": "鲜艳1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鲜艳系列　1/6。",
+      "fileName": "col_000069",
+      "canChangeColor": true
+    },
+    {
+      "id": 500562,
+      "name": "鲜艳2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鲜艳系列　2/6。",
+      "fileName": "col_000070",
+      "canChangeColor": true
+    },
+    {
+      "id": 500563,
+      "name": "鲜艳3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鲜艳系列　3/6。",
+      "fileName": "col_000071",
+      "canChangeColor": true
+    },
+    {
+      "id": 500583,
+      "name": "仓鸮",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "夜行性动物",
+      "fileName": "cos_034000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500584,
+      "name": "不知火芙蕾雅",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive可靠的半妖精「不知火芙蕾雅」一起打太鼓吧",
+      "fileName": "acc_158000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500585,
+      "name": "白银诺艾尔",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive蓬松柔软的女骑士「白银诺艾尔」一起打太鼓吧",
+      "fileName": "acc_159000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500586,
+      "name": "宝钟玛琳",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive性感的女船长「宝钟玛琳」一起打太鼓吧",
+      "fileName": "acc_160000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500587,
+      "name": "桃铃音音",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive异世界出身的偶像「桃铃音音」一起打太鼓吧",
+      "fileName": "acc_161000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500588,
+      "name": "鹰岭琉依",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive的秘密结社——holoX里帅气能干但紧要关头会失手的女干部「鹰岭琉依」一起打太鼓吧",
+      "fileName": "acc_162000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500589,
+      "name": "风真伊吕波",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive的秘密结社——holoX的武士兼保镳「风真伊吕波」一起打太鼓吧",
+      "fileName": "acc_163000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500590,
+      "name": "雷咪",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "代表神轿都市的偶像「神轿姊妹」的成员。个性我行我素。从事偶像活动外，也是一名DJ。",
+      "fileName": "acc_164000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500591,
+      "name": "符亚",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "代表神轿都市的偶像「神轿姊妹」的成员。是个充满活力、不拘小节、阳光活泼的女孩子。",
+      "fileName": "acc_165000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500592,
+      "name": "雷云朵朵",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "猜猜我是谁？",
+      "fileName": "acc_166000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500593,
+      "name": "玛姬娜",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "来自2765年的“鼓众研究员”。\n头脑聪慧，开发了能够瞬间重现对手技艺的“AI咚”，\n性格怯懦又不失坚强，魅力十足。",
+      "fileName": "acc_167000",
+      "canChangeColor": true
+    }
+  ]
+}

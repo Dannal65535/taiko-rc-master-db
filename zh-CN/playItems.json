@@ -1,0 +1,102 @@
+{
+  "playItems": [
+    {
+      "id": 400001,
+      "name": "2倍经验值",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 20,
+      "duplicate": 1,
+      "description": "此道具能让每次演奏可获得的基础经验值翻倍。",
+      "fileName": "icon_expx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400002,
+      "name": "3倍经验值",
+      "ownLimit": 1,
+      "priority": 1,
+      "sortOrder": 10,
+      "duplicate": 1,
+      "description": "此道具“每天赠送1个！次日过期！”能让每次演奏可获得的基础经验值变为3倍。",
+      "fileName": "icon_expx3",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400003,
+      "name": "2倍点数",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 30,
+      "duplicate": 1,
+      "description": "此道具能让每次演奏“可获得的点数”翻倍。",
+      "fileName": "icon_donPx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400004,
+      "name": "演奏辅助",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 40,
+      "duplicate": 10,
+      "description": "此道具能让10次不可替换为可，且单击大型音符即视为同时点击。",
+      "fileName": "icon_ensohojo",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400005,
+      "name": "长按连打",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 50,
+      "duplicate": 10,
+      "description": "进行连打判定时，长按太鼓即可实现连打的道具。",
+      "fileName": "icon_nagaoshirenda",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400006,
+      "name": "彩虹小槌",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 60,
+      "duplicate": 1,
+      "description": "此道具能让演奏过程中的小槌音符变成彩虹般的颜色，全部成功敲击即可获取道具。",
+      "fileName": "icon_nijikoduchi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400007,
+      "name": "乾坤一掷",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 70,
+      "duplicate": 1,
+      "description": "此道具同时拥有经验值变为5倍，“可获得点数”变为5倍，10个长按连打，演奏辅助等效果。",
+      "fileName": "icon_all_in",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    }
+  ]
+}

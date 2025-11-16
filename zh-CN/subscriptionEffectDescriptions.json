@@ -1,0 +1,154 @@
+{
+  "subscriptionEffectDescriptions": [
+    {
+      "id": 5020001,
+      "groupId": 50201,
+      "name": "删除广告",
+      "description": "游戏内所有广告都将被删除。",
+      "sortOrder": 6,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020002,
+      "groupId": 50201,
+      "name": "通行证加成",
+      "description": "成绩加成+5%。",
+      "sortOrder": 5,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020003,
+      "groupId": 50201,
+      "name": "先发乐曲",
+      "description": "可以演奏先发乐曲。",
+      "sortOrder": 4,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020004,
+      "groupId": 50201,
+      "name": "放宽经验值获得限制",
+      "description": "经验值不受限制的演奏次数增加。",
+      "sortOrder": 3,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020005,
+      "groupId": 50201,
+      "name": "放宽点数获得限制",
+      "description": "点数不受限制的演奏次数增加。",
+      "sortOrder": 2,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020006,
+      "groupId": 50201,
+      "name": "放宽解除限制的条件",
+      "description": "放宽解除限制所需条件。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020007,
+      "groupId": 50205,
+      "name": "删除广告",
+      "description": "游戏内所有广告都将被删除。",
+      "sortOrder": 7,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020008,
+      "groupId": 50205,
+      "name": "通行证加成",
+      "description": "成绩加成+5%。",
+      "sortOrder": 6,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020009,
+      "groupId": 50205,
+      "name": "先发限定乐曲",
+      "description": "可以演奏先发限定乐曲。",
+      "sortOrder": 5,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020010,
+      "groupId": 50205,
+      "name": "放宽经验值获得限制",
+      "description": "经验值不受限制的演奏次数增加。",
+      "sortOrder": 4,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020011,
+      "groupId": 50205,
+      "name": "放宽点数获得限制",
+      "description": "点数不受限制的演奏次数增加。",
+      "sortOrder": 3,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020012,
+      "groupId": 50205,
+      "name": "放宽解除限制的条件",
+      "description": "放宽解除限制所需条件。",
+      "sortOrder": 2,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020013,
+      "groupId": 50205,
+      "name": "赠送道具点数",
+      "description": "通行证有效期内\n完成挑战即可获得\n免费奖励“免费硬币”。\n挑战：每日 AM4:00 ~ 次日AM3:59（GMT+9）登录游戏\n奖励：完成挑战即可在礼品箱\n领取赠送的300道具点数。\n（领取期限为30天）",
+      "sortOrder": 1,
+      "fileName": "icon_effect_itemP_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※如果在当天AM0:00～AM3:59（GMT+9）期间完成购买，则在AM4:00（GMT+9）以后再次登录即可领取奖励。\n 　如果在当天AM4:00（GMT+9）以后完成购买，则在次日AM4:00（GMT+9）以后再次登录即可领取奖励。\n※挑战内容会在通行证有效期内的每天清晨4:00（GMT+9）替换。\n※如果在登录状态下度过AM4:00（GMT+9），则重新登录即可领取奖励。\n※如果未能在AM4:00~次日AM3:59（GMT+9）登录，则无法领取该时段的奖励。"
+    },
+    {
+      "id": 5020014,
+      "groupId": 50203,
+      "name": "删除部分广告",
+      "description": "仅游戏中的下列广告会被删除。\n\n【主界面清单更新时显示的广告】\n【搜索时滑动操作达到一定次数时显示的广告】\n【乐曲结束后显示的广告】\n\n*请注意，上述广告以外的广告仍将显示。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_ad_hide2",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020015,
+      "groupId": 50205,
+      "name": "赠送道具点数",
+      "description": "通行证有效期内\n完成挑战即可获得\n免费奖励“免费硬币”。\n挑战：每日 AM4:00 ~ 次日AM3:59（GMT+9）登录游戏\n奖励：完成挑战即可在礼品箱\n领取赠送的10免费硬币。\n（领取期限为30天）",
+      "sortOrder": 1,
+      "fileName": "icon_effect_coin_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※如果在当天AM0:00～AM3:59（GMT+9）期间完成购买，则在AM4:00（GMT+9）以后再次登录即可领取奖励。\n 　如果在当天AM4:00（GMT+9）以后完成购买，则在次日AM4:00（GMT+9）以后再次登录即可领取奖励。\n※挑战内容会在通行证有效期内的每天清晨4:00（GMT+9）替换。\n※如果在登录状态下度过AM4:00（GMT+9），则重新登录即可领取奖励。\n※如果未能在AM4:00~次日AM3:59（GMT+9）登录，则无法领取该时段的奖励。"
+    }
+  ]
+}

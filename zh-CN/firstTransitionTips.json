@@ -1,0 +1,263 @@
+{
+  "firstTransitionTips": [
+    {
+      "id": 9420001,
+      "groupId": 1001,
+      "sortOrder": 1,
+      "description": "点击“免费游玩”按钮旁边的难度按钮，\n即可修改游戏难度。\n\n<B>尝试挑战各种难度吧！</B>",
+      "fileName": "TipsImage_1030"
+    },
+    {
+      "id": 9420002,
+      "groupId": 1002,
+      "sortOrder": 1,
+      "description": "<B>根据您的喜好精选的乐曲列表\n已更新。</B>\n\n此列表会在主界面寻找乐曲时\n以及演奏游戏游玩结束后刷新。",
+      "fileName": "TipsImage_1041"
+    },
+    {
+      "id": 9420003,
+      "groupId": 1003,
+      "sortOrder": 1,
+      "description": "使用道具后，\n演奏中将出现<B>特殊效果。</B>\n\n在挑战困难乐曲时，试试使用演奏辅助吧！",
+      "fileName": "TipsImage_1001"
+    },
+    {
+      "id": 9420004,
+      "groupId": 1004,
+      "sortOrder": 1,
+      "description": "红色音符过来时就敲打太鼓鼓面，\n蓝色音符过来时就敲打太鼓鼓面之外的区域吧。",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420005,
+      "groupId": 1004,
+      "sortOrder": 2,
+      "description": "如果遇到大型音符，用双手敲打即可获得高分！\n要是还不习惯，用单手也没问题！",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420006,
+      "groupId": 1005,
+      "sortOrder": 1,
+      "description": "红色音符过来时就敲打太鼓鼓面，\n蓝色音符过来时就敲打太鼓鼓面之外的区域吧。",
+      "fileName": "TipsImage_1031"
+    },
+    {
+      "id": 9420007,
+      "groupId": 1005,
+      "sortOrder": 2,
+      "description": "如果遇到大型音符，用双手敲打即可获得高分！\n要是还不习惯，用单手也没问题！",
+      "fileName": "TipsImage_1032"
+    },
+    {
+      "id": 9420008,
+      "groupId": 1005,
+      "sortOrder": 3,
+      "description": "遇到黄色音符就要拼命连打！\n只要敲打次数多就能获得高分！",
+      "fileName": "TipsImage_1033"
+    },
+    {
+      "id": 9420009,
+      "groupId": 1005,
+      "sortOrder": 4,
+      "description": "如果遇到气球音符，就要一个劲地连打，直到气球破碎！",
+      "fileName": "TipsImage_1034"
+    },
+    {
+      "id": 9420010,
+      "groupId": 1005,
+      "sortOrder": 5,
+      "description": "遇到小槌音符也要一个劲地连打！\n只要敲打到最后就能获得高分！\n偶尔会出现稀有小槌哦……",
+      "fileName": "TipsImage_1035"
+    },
+    {
+      "id": 9420011,
+      "groupId": 1006,
+      "sortOrder": 1,
+      "description": "<B>恭喜首次升级！</B>\n\n\n完成演奏即可获得经验值！\n多多演奏以提升等级吧！",
+      "fileName": "TipsImage_1036"
+    },
+    {
+      "id": 9420012,
+      "groupId": 1006,
+      "sortOrder": 2,
+      "description": "升级后成绩加成就会增加。\n\n<B>在成绩加成的助力下，每次演奏可获得的成绩也会提高！</B>\n\n获得换装配件也能增加成绩加成。",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420013,
+      "groupId": 1007,
+      "sortOrder": 1,
+      "description": "<B>恭喜首次晋级！</B>\n\n获得高分并提升综合成绩，阶级就会提升。\n尝试演奏各类乐曲，找到自己擅长的乐曲吧！",
+      "fileName": "TipsImage_1037"
+    },
+    {
+      "id": 9420014,
+      "groupId": 1007,
+      "sortOrder": 2,
+      "description": "晋级后成绩加成也会增加。\n\n<B>在成绩加成的助力下，每次演奏可获得的成绩也会提高！</B>\n\n获得换装配件也能增加成绩加成。",
+      "fileName": "TipsImage_1002"
+    },
+    {
+      "id": 9420016,
+      "groupId": 1008,
+      "sortOrder": 1,
+      "description": "<B>使用票券来演奏中意的乐曲吧！</B>\n\n选择“搜索”可以查找中意的乐曲。\n\n还有各种推荐乐曲，\n尝试演奏各类乐曲吧！",
+      "fileName": "TipsImage_1003"
+    },
+    {
+      "id": 9420017,
+      "groupId": 1008,
+      "sortOrder": 2,
+      "description": "<B>筛选功能在要搜索喜欢的乐曲时非常方便。</B>\n\n无论是尚未演奏过的乐曲还是尚未获得金王冠的乐曲\n都能轻松找到。",
+      "fileName": "TipsImage_1004"
+    },
+    {
+      "id": 9420018,
+      "groupId": 1009,
+      "sortOrder": 1,
+      "description": "<B>为小咚换上好看的服装！</B>\n\n无论穿什么服装，换装加成都不会改变，\n放心选择中意的换装配件吧！",
+      "fileName": "TipsImage_1009"
+    },
+    {
+      "id": 9420019,
+      "groupId": 1010,
+      "sortOrder": 1,
+      "description": "已攒下点数。\n<B>可以在商店用各种点数兑换很棒的道具。</B>\n\n赶快去商店兑换吧！",
+      "fileName": "TipsImage_1038"
+    },
+    {
+      "id": 9420020,
+      "groupId": 1011,
+      "sortOrder": 1,
+      "description": "票券已耗尽。\n前往主界面（FREE）演奏免费乐曲，\n即可获得票券点数。\n\n<B>票券点数可以用来在商店兑换票券。</B>",
+      "fileName": "TipsImage_1039"
+    },
+    {
+      "id": 9420021,
+      "groupId": 1012,
+      "sortOrder": 1,
+      "description": "<B>购买通行证，然后畅玩游戏吧！</B>\n\n购买通行证后，\n<color=#f84828><B>广告会被删除，\n还能演奏先发限定乐曲，</B></color>\n\n此外还有超多其他福利哦。",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420022,
+      "groupId": 1019,
+      "sortOrder": 1,
+      "description": "<B>购买硬币以兑换道具吧！</B>\n\n组合包类商品内含多个道具，非常超值。",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420023,
+      "groupId": 1020,
+      "sortOrder": 1,
+      "description": "<B>使用收集到的点数来获得道具！</B>\n\n使用点数即可兑换道具和换装配件。\n\n换装配件数量越多，成绩加成也会随之增加。",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420024,
+      "groupId": 1013,
+      "sortOrder": 1,
+      "description": "<B>可以根据自己的喜好来编辑个人资料和装扮小咚！</B>\n\n背景和玩家头像也可以修改。\n\n也可以根据当天的心情随意更换哦！",
+      "fileName": "TipsImage_1008"
+    },
+    {
+      "id": 9420025,
+      "groupId": 1014,
+      "sortOrder": 1,
+      "description": "<B>碰到中意的乐曲，就点击爱心为它“点赞”吧。\n还可以长按爱心将其设为“力推乐曲”。</B>\n\n力推乐曲将会保存在个人列表中，\n因此就算忘记曲名也无须担心！",
+      "fileName": "TipsImage_1014"
+    },
+    {
+      "id": 9420026,
+      "groupId": 1014,
+      "sortOrder": 2,
+      "description": "<B>演奏擅长的乐曲以提高成绩吧。</B>\n\n“最高成绩”会显示最佳成绩排名靠前的乐曲。\n最佳成绩排名前20的累计值则会决定阶级！\n在个人列表中选择擅长的乐曲多加练习吧！",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420027,
+      "groupId": 1015,
+      "sortOrder": 1,
+      "description": "<B>同好友一起玩太鼓之达人吧！</B>\n\n多多结交好友，\n就可以互相比较成绩确认演奏技术是否有进步，\n还能通过好友之力加成获得大量道具点数。\n\n<B>大家一起畅玩太鼓之达人，一定会更快乐更有趣！</B>",
+      "fileName": "TipsImage_1011"
+    },
+    {
+      "id": 9420028,
+      "groupId": 1016,
+      "sortOrder": 1,
+      "description": "从AA阶级开始，阶级和划级线每月1日都会重置！\n\n多多游玩，冲击更高阶级吧！",
+      "fileName": "TipsImage_1016"
+    },
+    {
+      "id": 9420029,
+      "groupId": 1016,
+      "sortOrder": 2,
+      "description": "<B>尝试挑战新难度吧。</B>\n\n只要在“困难”难度下获得银王冠，\n就会同时开放“魔王”难度\n和“魔王（里）”难度。",
+      "fileName": "TipsImage_1017"
+    },
+    {
+      "id": 9420031,
+      "groupId": 1018,
+      "sortOrder": 1,
+      "description": "<B>“个人列表”、“商店”、“个人页面”</B>\n功能已可以使用。\n\n尝试通过屏幕下方的菜单使用各种功能吧。",
+      "fileName": "TipsImage_1013"
+    },
+    {
+      "id": 9420032,
+      "groupId": 1004,
+      "sortOrder": 3,
+      "description": "<B>演奏准备一切就绪。</B>\n\n《太鼓之达人 RHYTHM CONNECT》没有规定目标。\n开开心心地打鼓，去冲击最高成绩吧！",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420033,
+      "groupId": 1005,
+      "sortOrder": 6,
+      "description": "<B>演奏准备一切就绪。</B>\n\n《太鼓之达人 RHYTHM CONNECT》没有规定目标。\n开开心心地打鼓，去冲击最高成绩吧！",
+      "fileName": "TipsImage_1040"
+    },
+    {
+      "id": 9420034,
+      "groupId": 1007,
+      "sortOrder": 3,
+      "description": "<B>演奏擅长的乐曲冲击更高阶级！</B>\n\n最佳成绩排名前20的累计值将会决定阶级。\n演奏各种各样的乐曲，冲击更高成绩吧。",
+      "fileName": "TipsImage_1015"
+    },
+    {
+      "id": 9420035,
+      "groupId": 2001,
+      "sortOrder": 1,
+      "description": "<B>购买通行证，然后畅玩游戏吧！</B>\n\n购买通行证后，\n<color=#f84828><B>广告会被删除，\n还能演奏先发限定乐曲，</B></color>\n\n此外还有超多其他福利哦。",
+      "fileName": "TipsImage_1005"
+    },
+    {
+      "id": 9420036,
+      "groupId": 2001,
+      "sortOrder": 2,
+      "description": "<B>购买硬币以兑换道具吧！</B>\n\n组合包类商品内含多个道具，非常超值。",
+      "fileName": "TipsImage_1006"
+    },
+    {
+      "id": 9420037,
+      "groupId": 2001,
+      "sortOrder": 3,
+      "description": "<B>使用收集到的点数来获得道具！</B>\n\n使用点数即可兑换道具和换装配件。\n\n换装配件数量越多，成绩加成也会随之增加。",
+      "fileName": "TipsImage_1007"
+    },
+    {
+      "id": 9420038,
+      "groupId": 2982,
+      "sortOrder": 1,
+      "description": "<B>部分乐曲已被锁定！</B>\n\n解锁乐曲后，\n即可随心所欲地进行演奏♪",
+      "fileName": "TipsImage_1042"
+    },
+    {
+      "id": 9420039,
+      "groupId": 3963,
+      "sortOrder": 1,
+      "description": "<B>对于想要专心演奏的乐曲，\n建议您将其纳为藏品！！</B>\n\n<color=#f84828><B>※先发乐曲需要购买通行证，\n（普惠通行证除外）\n或是在先发限定期结束后方可购买。\n※请注意，将先发乐曲纳为藏品后，\n如果通行证效果过期，\n则在先发现定期结束后方可演奏。</B></color>",
+      "fileName": "TipsImage_1044"
+    }
+  ]
+}

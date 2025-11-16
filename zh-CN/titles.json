@@ -1,0 +1,67 @@
+{
+  "titles": [
+    {
+      "id": 600001,
+      "rarity": 1,
+      "name": "超·王冠大师",
+      "description": "合计收集3500个王冠的证明咚！",
+      "iconFileName": "honor_icon_001",
+      "bgFileName": "honor_bg_001",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600002,
+      "rarity": 1,
+      "name": "坚持就是胜利",
+      "description": "合计完成8760次演奏的证明咚！",
+      "iconFileName": "honor_icon_002",
+      "bgFileName": "honor_bg_002",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600003,
+      "rarity": 1,
+      "name": "自称潮人",
+      "description": "收集400种换装配件的证明咚！",
+      "iconFileName": "honor_icon_003",
+      "bgFileName": "honor_bg_003",
+      "textColorType": "TEXT_COLOR_PINK"
+    },
+    {
+      "id": 600004,
+      "rarity": 1,
+      "name": "顶尖玩家的证明",
+      "description": "将玩家阶级提升到SSS的证明咚！",
+      "iconFileName": "honor_icon_004",
+      "bgFileName": "honor_bg_004",
+      "textColorType": "TEXT_COLOR_PURPLE"
+    },
+    {
+      "id": 600005,
+      "rarity": 1,
+      "name": "以自己为对手",
+      "description": "将玩家等级提升到700的证明咚！",
+      "iconFileName": "honor_icon_005",
+      "bgFileName": "honor_bg_005",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600006,
+      "rarity": 1,
+      "name": "最快挑战者",
+      "description": "合计完成100次“今日最快！”的证明咚！",
+      "iconFileName": "honor_icon_006",
+      "bgFileName": "honor_bg_006",
+      "textColorType": "TEXT_COLOR_RED"
+    },
+    {
+      "id": 600007,
+      "rarity": 1,
+      "name": "Dontastic!!",
+      "description": "连续在3首不同的“魔王☆10”乐曲中达成全良连段的证明！",
+      "iconFileName": "honor_icon_007",
+      "bgFileName": "honor_bg_007",
+      "textColorType": "TEXT_COLOR_PINK"
+    }
+  ]
+}

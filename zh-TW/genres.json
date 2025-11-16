@@ -1,0 +1,39 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "流行音樂",
+      "colorCode": "#1E9FBD"
+    },
+    {
+      "id": 2,
+      "name": "卡通動畫音樂",
+      "colorCode": "#FF9900"
+    },
+    {
+      "id": 3,
+      "name": "VOCALOID™",
+      "colorCode": "#8E99AD"
+    },
+    {
+      "id": 4,
+      "name": "古典音樂",
+      "colorCode": "#C47B21"
+    },
+    {
+      "id": 5,
+      "name": "綜合音樂",
+      "colorCode": "#7ABD3F"
+    },
+    {
+      "id": 6,
+      "name": "遊戲音樂",
+      "colorCode": "#9D76BF"
+    },
+    {
+      "id": 7,
+      "name": "NAMCO原創音樂",
+      "colorCode": "#FF5B14"
+    }
+  ]
+}

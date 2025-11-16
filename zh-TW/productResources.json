@@ -1,0 +1,102 @@
+{
+  "productResources": [
+    {
+      "id": 2000001,
+      "type": "PRODUCT_TYPE_TICKET",
+      "name": "票券",
+      "fileName": "icon_ticket_possession",
+      "description": "遊玩樂曲時所需的票券。"
+    },
+    {
+      "id": 2000002,
+      "type": "PRODUCT_TYPE_PAID_CURRENCY",
+      "name": "付費硬幣",
+      "fileName": "goods_2",
+      "description": "可用於交換各種道具的付費硬幣。"
+    },
+    {
+      "id": 2000003,
+      "type": "PRODUCT_TYPE_FREE_CURRENCY",
+      "name": "免費硬幣",
+      "fileName": "goods_3",
+      "description": "可用於交換各種道具的免費硬幣。"
+    },
+    {
+      "id": 2000004,
+      "type": "PRODUCT_TYPE_TICKET_POINT",
+      "name": "票券點數",
+      "fileName": "icon_ticketP",
+      "description": "可以交換票券的點數。"
+    },
+    {
+      "id": 2000005,
+      "type": "PRODUCT_TYPE_VARIETY_POINT",
+      "name": "多采多姿點數",
+      "fileName": "icon_variousP",
+      "description": "可以交換期間限定的換裝、顏色、背景的點數。"
+    },
+    {
+      "id": 2000006,
+      "type": "PRODUCT_TYPE_FASHION_POINT",
+      "name": "時尚點數",
+      "fileName": "icon_fashionP",
+      "description": "可以交換時髦換裝的點數。"
+    },
+    {
+      "id": 2000007,
+      "type": "PRODUCT_TYPE_ITEM_POINT",
+      "name": "道具點數",
+      "fileName": "icon_itemP",
+      "description": "可以交換輔助道具的點數。"
+    },
+    {
+      "id": 2000008,
+      "type": "PRODUCT_TYPE_EVENT_POINT",
+      "name": "活動點數",
+      "fileName": "None",
+      "description": "可在活動中獲得的點數。"
+    },
+    {
+      "id": 2000009,
+      "type": "PRODUCT_TYPE_TITLE_POINT",
+      "name": "稱號點數",
+      "fileName": "icon_titleP",
+      "description": "獲得自訂稱號所需的點數。"
+    },
+    {
+      "id": 2000010,
+      "type": "PRODUCT_TYPE_PLAY_ITEM",
+      "name": "遊玩道具",
+      "fileName": "goods_8",
+      "description": "在遊戲內使用的道具。"
+    },
+    {
+      "id": 2000011,
+      "type": "PRODUCT_TYPE_SKIN",
+      "name": "換裝",
+      "fileName": "goods_9",
+      "description": "換裝"
+    },
+    {
+      "id": 2000012,
+      "type": "PRODUCT_TYPE_TITLE",
+      "name": "稀有稱號",
+      "fileName": "goods_10",
+      "description": "稀有稱號"
+    },
+    {
+      "id": 2000013,
+      "type": "PRODUCT_TYPE_CUSTOM_TITLE",
+      "name": "自訂稱號",
+      "fileName": "None",
+      "description": "自訂稱號"
+    },
+    {
+      "id": 2000015,
+      "type": "PRODUCT_TYPE_PROFILE_BG",
+      "name": "背景",
+      "fileName": "goods_12",
+      "description": "背景"
+    }
+  ]
+}

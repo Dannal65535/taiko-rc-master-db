@@ -1,0 +1,154 @@
+{
+  "subscriptionEffectDescriptions": [
+    {
+      "id": 5020001,
+      "groupId": 50201,
+      "name": "移除廣告",
+      "description": "遊戲內所有廣告都會被移除。",
+      "sortOrder": 6,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020002,
+      "groupId": 50201,
+      "name": "通行證加成",
+      "description": "享有成績加成+5%。",
+      "sortOrder": 5,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020003,
+      "groupId": 50201,
+      "name": "先行發布樂曲",
+      "description": "可以遊玩先行發布樂曲。",
+      "sortOrder": 4,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020004,
+      "groupId": 50201,
+      "name": "放寬經驗值獲得限制",
+      "description": "增加經驗值獲得限制啟動前的可遊玩次數。",
+      "sortOrder": 3,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020005,
+      "groupId": 50201,
+      "name": "放寬點數獲得限制",
+      "description": "增加點數獲得限制啟動前的可遊玩次數。",
+      "sortOrder": 2,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020006,
+      "groupId": 50201,
+      "name": "放寬限制解除條件",
+      "description": "放寬解除限制的所需條件。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020007,
+      "groupId": 50205,
+      "name": "移除廣告",
+      "description": "遊戲內所有廣告都會被移除。",
+      "sortOrder": 7,
+      "fileName": "icon_effect_ad_hide",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020008,
+      "groupId": 50205,
+      "name": "通行證加成",
+      "description": "享有成績加成+5%。",
+      "sortOrder": 6,
+      "fileName": "icon_effect_score_bonus",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020009,
+      "groupId": 50205,
+      "name": "先行限定樂曲",
+      "description": "可以遊玩先行限定樂曲。",
+      "sortOrder": 5,
+      "fileName": "icon_effect_limited_song",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020010,
+      "groupId": 50205,
+      "name": "放寬經驗值獲得限制",
+      "description": "增加經驗值獲得限制啟動前的可遊玩次數。",
+      "sortOrder": 4,
+      "fileName": "icon_effect_exp_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020011,
+      "groupId": 50205,
+      "name": "放寬點數獲得限制",
+      "description": "增加點數獲得限制啟動前的可遊玩次數。",
+      "sortOrder": 3,
+      "fileName": "icon_effect_point_limit_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020012,
+      "groupId": 50205,
+      "name": "放寬限制解除條件",
+      "description": "放寬解除限制的所需條件。",
+      "sortOrder": 2,
+      "fileName": "icon_effect_conditions_relief",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020013,
+      "groupId": 50205,
+      "name": "贈送道具點數",
+      "description": "於通行證有效期限內\n完成挑戰即可獲得「免費硬幣」\n作為免費獎勵。\n挑戰：每天AM4:00～AM3:59（GMT+9）（隔天）登入遊戲\n獎勵：完成挑戰後將會\n贈送300點道具點數至禮物箱\n（領取期限為30天）。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_itemP_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※若於當天AM0:00～AM3:59（GMT+9）的期間內購買，則AM4:00（GMT+9）以後重新登入即可領取獎勵。\n　若於當天AM4:00（GMT+9）以後購買，則隔天AM4:00（GMT+9）以後重新登入即可領取獎勵。\n※挑戰會於通行證有效期限內的每天凌晨AM4:00（GMT+9）切換。\n※若維持登入狀態經過AM4:00（GMT+9），則重新登入即可領取獎勵。\n※若未於AM4:00～AM3:59（GMT+9）（隔天）的期間內登入遊戲，則無法領取該期間的獎勵。"
+    },
+    {
+      "id": 5020014,
+      "groupId": 50203,
+      "name": "移除部分廣告",
+      "description": "僅移除遊戲內的以下廣告。\n\n【更新主畫面列表時顯示的廣告】\n【於搜尋進行一定次數的滑動操作時顯示的廣告】\n【樂曲結束後顯示的廣告】\n\n※上述以外的廣告還是會顯示，請務必注意。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_ad_hide2",
+      "viewEffectType": "NONE",
+      "caution": ""
+    },
+    {
+      "id": 5020015,
+      "groupId": 50205,
+      "name": "贈送道具點數",
+      "description": "於通行證有效期限內\n完成挑戰即可獲得「免費硬幣」\n作為免費獎勵。\n挑戰：每天AM4:00～AM3:59（GMT+9）（隔天）登入遊戲\n獎勵：完成挑戰後將會\n贈送10免費硬幣至禮物箱\n（領取期限為30天）。",
+      "sortOrder": 1,
+      "fileName": "icon_effect_coin_bonus",
+      "viewEffectType": "CHALLENGE",
+      "caution": "※若於當天AM0:00～AM3:59（GMT+9）的期間內購買，則AM4:00（GMT+9）以後重新登入即可領取獎勵。\n　若於當天AM4:00（GMT+9）以後購買，則隔天AM4:00（GMT+9）以後重新登入即可領取獎勵。\n※挑戰會於通行證有效期限內的每天凌晨AM4:00（GMT+9）切換。\n※若維持登入狀態經過AM4:00（GMT+9），則重新登入即可領取獎勵。\n※若未於AM4:00～AM3:59（GMT+9）（隔天）的期間內登入遊戲，則無法領取該期間的獎勵。"
+    }
+  ]
+}

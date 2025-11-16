@@ -1,0 +1,8469 @@
+{
+  "customTitles": [
+    {
+      "id": 610001,
+      "name": "鼓眾",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610002,
+      "name": "達人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610003,
+      "name": "朋友",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610004,
+      "name": "持鼓棒者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610005,
+      "name": "勇者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610006,
+      "name": "HERO",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610007,
+      "name": "王子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610008,
+      "name": "紳士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610009,
+      "name": "主人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610010,
+      "name": "女主角",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610011,
+      "name": "公主",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610012,
+      "name": "淑女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610013,
+      "name": "初出茅廬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610014,
+      "name": "修行中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610015,
+      "name": "挑戰中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610016,
+      "name": "獨當一面",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610017,
+      "name": "技藝超群",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610018,
+      "name": "全部",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610019,
+      "name": "超",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610020,
+      "name": "祭典",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610021,
+      "name": "青春",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610022,
+      "name": "草食系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610023,
+      "name": "肉食系",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610024,
+      "name": "文科",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610025,
+      "name": "數理科",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610026,
+      "name": "招募中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610027,
+      "name": "技巧",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610028,
+      "name": "頭腦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610029,
+      "name": "肉體",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610030,
+      "name": "時尚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610031,
+      "name": "金",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610032,
+      "name": "銀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610033,
+      "name": "紫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610034,
+      "name": "黑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610035,
+      "name": "藍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610036,
+      "name": "白",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610037,
+      "name": "紅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610038,
+      "name": "狗狗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610039,
+      "name": "狼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610040,
+      "name": "貓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610041,
+      "name": "獅子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610042,
+      "name": "裏世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610043,
+      "name": "家鄉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610044,
+      "name": "世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610045,
+      "name": "太鼓界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610046,
+      "name": "太鼓學園",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610047,
+      "name": "今天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610048,
+      "name": "明天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610049,
+      "name": "昨天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610050,
+      "name": "每天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610051,
+      "name": "豬排丼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610052,
+      "name": "飯",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610053,
+      "name": "蛋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610054,
+      "name": "飛龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610055,
+      "name": 2000,
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610056,
+      "name": "偶像",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610057,
+      "name": "神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610058,
+      "name": "超級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610059,
+      "name": "大猩猩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610060,
+      "name": "週末",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610061,
+      "name": "小惡魔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610062,
+      "name": "最佳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610063,
+      "name": "音速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610064,
+      "name": "光速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610065,
+      "name": "神速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610066,
+      "name": "慧眼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610067,
+      "name": "統治者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610068,
+      "name": "裝傻吐舌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610069,
+      "name": "肉球",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610070,
+      "name": "野生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610071,
+      "name": "歌姬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610072,
+      "name": "天使",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610073,
+      "name": "大師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610074,
+      "name": "玫瑰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610075,
+      "name": "無雙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610076,
+      "name": "驚人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610077,
+      "name": "少女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610078,
+      "name": "少年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610079,
+      "name": "反面",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610080,
+      "name": "黑暗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610081,
+      "name": "最後定理",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610082,
+      "name": "自稱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610083,
+      "name": "傳說",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610084,
+      "name": "黃金",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610085,
+      "name": "永遠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610086,
+      "name": "挑戰者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610087,
+      "name": "至高無上",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610088,
+      "name": "混沌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610089,
+      "name": "太鼓戰士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610090,
+      "name": "站立咚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610091,
+      "name": "傲嬌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610092,
+      "name": "脫臼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610093,
+      "name": "開拓者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610094,
+      "name": "漂泊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610095,
+      "name": "旅人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610096,
+      "name": "首領",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610097,
+      "name": "精明幹練",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610098,
+      "name": "霸主",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610099,
+      "name": "歷史",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610100,
+      "name": "出類拔萃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610101,
+      "name": "愛老虎油",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610102,
+      "name": "四季各異",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610103,
+      "name": "春夏秋冬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610104,
+      "name": "稍縱即逝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610105,
+      "name": "咚咚咚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610106,
+      "name": "咚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610107,
+      "name": "太鼓社",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610108,
+      "name": "超時空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610109,
+      "name": "勝利",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610110,
+      "name": "身經百戰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610111,
+      "name": "勝利者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610112,
+      "name": "常勝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610113,
+      "name": "上升",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610114,
+      "name": "不敗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610115,
+      "name": "無敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610116,
+      "name": "大家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610117,
+      "name": "真龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610118,
+      "name": "竹輪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610119,
+      "name": "拉麵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610120,
+      "name": "†",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610121,
+      "name": "墮天使",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610122,
+      "name": "BOYS",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610123,
+      "name": "亞空間",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610124,
+      "name": "偶是",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610125,
+      "name": "光屬性",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610126,
+      "name": "什麼！？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610127,
+      "name": "向日葵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610128,
+      "name": "春天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610129,
+      "name": "夏天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610130,
+      "name": "秋天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610131,
+      "name": "冬天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610132,
+      "name": "季節",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610133,
+      "name": "異次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610134,
+      "name": "海洋",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610135,
+      "name": "廣闊天空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610136,
+      "name": "安全第一",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610137,
+      "name": "早安",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610138,
+      "name": "晚安",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610139,
+      "name": "盡情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610140,
+      "name": "可愛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610141,
+      "name": "暴怒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610142,
+      "name": "過往",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610143,
+      "name": "陣雨",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610144,
+      "name": "未來",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610145,
+      "name": "勇敢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610146,
+      "name": "覺醒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610147,
+      "name": "魄力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610148,
+      "name": "挑戰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610149,
+      "name": "鬥志",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610150,
+      "name": "熱血",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610151,
+      "name": "不屈不撓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610152,
+      "name": "熱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610153,
+      "name": "冷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610154,
+      "name": "藍色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610155,
+      "name": "紅色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610156,
+      "name": "白色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610157,
+      "name": "粉紅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610158,
+      "name": "紫色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610159,
+      "name": "漆黑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610160,
+      "name": "黃綠色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610161,
+      "name": "壽司",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610162,
+      "name": "甜蜜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610163,
+      "name": "香草",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610164,
+      "name": "雞肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610165,
+      "name": "燒肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610166,
+      "name": "精力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610167,
+      "name": "薄荷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610168,
+      "name": "抹茶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610169,
+      "name": "萊姆",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610170,
+      "name": "10歲世代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610171,
+      "name": "20歲世代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610172,
+      "name": "30歲世代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610173,
+      "name": "調皮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610174,
+      "name": "金髮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610175,
+      "name": "黑髮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610176,
+      "name": "部長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610177,
+      "name": "怪獸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610178,
+      "name": "妖精",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610179,
+      "name": "兔子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610180,
+      "name": "熊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610181,
+      "name": "白貓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610182,
+      "name": "老虎",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610183,
+      "name": "獵鷹",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610184,
+      "name": "鼓棒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610185,
+      "name": "眼鏡",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610186,
+      "name": "機器人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610187,
+      "name": "裙子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610188,
+      "name": "指甲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610189,
+      "name": "唯我獨尊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610190,
+      "name": "甜點",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610191,
+      "name": "40歲世代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610192,
+      "name": "50歲世代",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610193,
+      "name": "先驅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610194,
+      "name": "霸王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610195,
+      "name": "魔王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610196,
+      "name": "膝上襪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610197,
+      "name": "閃閃發光",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610198,
+      "name": "嘎哩嘎哩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610199,
+      "name": "心動",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610200,
+      "name": "閃耀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610201,
+      "name": "COOL",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610202,
+      "name": "鬼怪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610203,
+      "name": "曬黑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610204,
+      "name": "短袖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610205,
+      "name": "波浪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610206,
+      "name": "浴衣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610207,
+      "name": "風鈴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610208,
+      "name": "泳衣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610209,
+      "name": "西瓜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610210,
+      "name": "岸邊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610211,
+      "name": "沙灘",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610212,
+      "name": "郊外",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610213,
+      "name": "夏季",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610214,
+      "name": "陽焰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610215,
+      "name": "仲夏夜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610216,
+      "name": "暑假",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610217,
+      "name": "盛夏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610218,
+      "name": "炎炎夏日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610219,
+      "name": "熾熱",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610220,
+      "name": "蒼天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610221,
+      "name": "那個夏天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610222,
+      "name": "泳池",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610223,
+      "name": "烏賊腳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610224,
+      "name": "爆辣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610225,
+      "name": "冰涼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610226,
+      "name": "寒假",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610227,
+      "name": "聖誕夜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610228,
+      "name": "聖誕老人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610229,
+      "name": "聖夜祭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610230,
+      "name": "MERRY",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610231,
+      "name": "大掃除",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610232,
+      "name": "紅白",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610233,
+      "name": "萬事如意",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610234,
+      "name": "末年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610235,
+      "name": "明年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610236,
+      "name": "新年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610237,
+      "name": "壓歲錢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610238,
+      "name": "年菜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610239,
+      "name": "耍廢過年",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610240,
+      "name": "新年首打",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610241,
+      "name": "元旦日出",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610242,
+      "name": "初次遊玩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610243,
+      "name": "隱藏才藝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610244,
+      "name": "福氣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610245,
+      "name": "巫女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610246,
+      "name": "【吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610247,
+      "name": "【大吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610248,
+      "name": "直播事故",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610249,
+      "name": "咚自覺",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610250,
+      "name": "俏麗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610251,
+      "name": "冷酷",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610252,
+      "name": "爆炸頭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610253,
+      "name": "知識分子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610254,
+      "name": "咦？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610255,
+      "name": "好吃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610256,
+      "name": "心情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610257,
+      "name": "幻想",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610258,
+      "name": "黃昏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610259,
+      "name": "兩倍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610260,
+      "name": "現實",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610261,
+      "name": "閃亮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610262,
+      "name": "高級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610263,
+      "name": "現今",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610264,
+      "name": "專心",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610265,
+      "name": "疾風",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610266,
+      "name": "熟練",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610267,
+      "name": "真打",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610268,
+      "name": "生活樣貌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610269,
+      "name": "大份量",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610270,
+      "name": "熱烈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610271,
+      "name": "無名",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610272,
+      "name": "空空如也",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610273,
+      "name": "帥哥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610274,
+      "name": "偉人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610275,
+      "name": "外星人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610276,
+      "name": "英雄",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610277,
+      "name": "演員",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610278,
+      "name": "王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610279,
+      "name": "怪盜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610280,
+      "name": "男子漢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610281,
+      "name": "導演",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610282,
+      "name": "藝人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610283,
+      "name": "研究員",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610284,
+      "name": "我",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610285,
+      "name": "武士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610286,
+      "name": "工匠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610287,
+      "name": "將軍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610288,
+      "name": "小丑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610289,
+      "name": "爸爸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610290,
+      "name": "媽媽",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610291,
+      "name": "在下",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610292,
+      "name": "名偵探",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610293,
+      "name": "咖啡廳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610294,
+      "name": "宇宙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610295,
+      "name": "沙漠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610296,
+      "name": "鄉下",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610297,
+      "name": "二次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610298,
+      "name": "三次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610299,
+      "name": "黃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610300,
+      "name": "橘",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610301,
+      "name": "綠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610302,
+      "name": "紅蓮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610303,
+      "name": "蒼色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610304,
+      "name": "太鼓色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610305,
+      "name": "彩虹色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610306,
+      "name": "假日",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610307,
+      "name": "下午",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610308,
+      "name": "上午",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610309,
+      "name": "終結",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610310,
+      "name": "日常",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610311,
+      "name": "咖哩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610312,
+      "name": "餅乾",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610313,
+      "name": "醬料",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610314,
+      "name": "惡魔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610315,
+      "name": "精靈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610316,
+      "name": "天界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610317,
+      "name": "天國",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610318,
+      "name": "魔界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610319,
+      "name": "希望",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610320,
+      "name": "探險",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610321,
+      "name": "新品種",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610322,
+      "name": "魔獸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610323,
+      "name": "古代龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610324,
+      "name": "異世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610325,
+      "name": "救世主",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610326,
+      "name": "硬邦邦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610327,
+      "name": "阿羅哈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610328,
+      "name": "後天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610329,
+      "name": "虛空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610330,
+      "name": "自家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610331,
+      "name": "人界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610332,
+      "name": "晚霞",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610333,
+      "name": "演奏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610334,
+      "name": "混亂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610335,
+      "name": "始祖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610336,
+      "name": "銳利",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610337,
+      "name": "全力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610338,
+      "name": "多次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610339,
+      "name": "機會",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610340,
+      "name": "危機",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610341,
+      "name": "旗標",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610342,
+      "name": "文武雙全",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610343,
+      "name": "悠閒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610344,
+      "name": "氣勢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610345,
+      "name": "努力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610346,
+      "name": "MEGA",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610347,
+      "name": "蜜桃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610348,
+      "name": "胡蘿蔔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610349,
+      "name": "鮮奶油",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610350,
+      "name": "馬卡龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610351,
+      "name": "教授",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610352,
+      "name": "繼任者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610353,
+      "name": "師傅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610354,
+      "name": "奉行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610355,
+      "name": "神器",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610356,
+      "name": "本週",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610357,
+      "name": "荒野",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610358,
+      "name": "道場",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610359,
+      "name": "榮耀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610360,
+      "name": "認真",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610361,
+      "name": "逆轉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610362,
+      "name": "閃爍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610363,
+      "name": "賀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610364,
+      "name": "心跳不止",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610365,
+      "name": "隨處",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610366,
+      "name": "夢想",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610367,
+      "name": "起床",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610368,
+      "name": "早起",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610369,
+      "name": "無限",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610370,
+      "name": "果然",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610371,
+      "name": "勇氣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610372,
+      "name": "友情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610373,
+      "name": "興奮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610374,
+      "name": "幸運",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610375,
+      "name": "毅力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610376,
+      "name": "分析",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610377,
+      "name": "GIGA",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610378,
+      "name": "TERA",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610379,
+      "name": "蜜柑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610380,
+      "name": "玩家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610381,
+      "name": "侍酒師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610382,
+      "name": "動物",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610383,
+      "name": "諸神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610384,
+      "name": "放學後",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610385,
+      "name": "高山",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610386,
+      "name": "教職員室",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610387,
+      "name": "神殿",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610388,
+      "name": "呆毛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610389,
+      "name": "團團轉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610390,
+      "name": "戀愛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610391,
+      "name": "在那之前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610392,
+      "name": "三倍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610393,
+      "name": "愛做夢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610394,
+      "name": "忍耐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610395,
+      "name": "女力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610396,
+      "name": "半價",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610397,
+      "name": "豔紅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610398,
+      "name": "巧克力",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610399,
+      "name": "前輩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610400,
+      "name": "魔女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610401,
+      "name": "四次元",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610402,
+      "name": "地球",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610403,
+      "name": "體育館",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610404,
+      "name": "王宮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610405,
+      "name": "反而",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610406,
+      "name": "及時",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610407,
+      "name": "私立",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610408,
+      "name": "左撇子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610409,
+      "name": "粗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610410,
+      "name": "火焰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610411,
+      "name": "右撇子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610412,
+      "name": "麻花辮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610413,
+      "name": "總之",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610414,
+      "name": "飆車族",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610415,
+      "name": "魔法少女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610416,
+      "name": "帝王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610417,
+      "name": "夜櫻",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610418,
+      "name": "學校",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610419,
+      "name": "考試中",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610420,
+      "name": "銀河",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610421,
+      "name": "地上",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610422,
+      "name": "網路世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610423,
+      "name": "遊樂園",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610424,
+      "name": "花粉症",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610425,
+      "name": "逆境",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610426,
+      "name": "想睡",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610427,
+      "name": "柔軟",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610428,
+      "name": "隊長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610429,
+      "name": "魂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610430,
+      "name": "鐵壁",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610431,
+      "name": "貓耳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610432,
+      "name": "保健室",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610433,
+      "name": "NEW",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610434,
+      "name": "單戀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610435,
+      "name": "電影版",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610436,
+      "name": "段子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610437,
+      "name": "出色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610438,
+      "name": "世紀末",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610439,
+      "name": "旁邊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610440,
+      "name": "突擊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610441,
+      "name": "班長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610442,
+      "name": "女子會",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610443,
+      "name": "忍者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610444,
+      "name": "魔術師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610445,
+      "name": "咔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610446,
+      "name": "肉肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610447,
+      "name": "魚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610448,
+      "name": "前略",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610449,
+      "name": "彗星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610450,
+      "name": "新",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610451,
+      "name": "別在意",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610452,
+      "name": "敬啟者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610453,
+      "name": "創建",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610454,
+      "name": "打頭陣！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610455,
+      "name": "夢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610456,
+      "name": "真",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610457,
+      "name": "嘿呦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610458,
+      "name": "專家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610459,
+      "name": "島民",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610460,
+      "name": "開心",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610461,
+      "name": "難波",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610462,
+      "name": "薩摩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610463,
+      "name": "江戶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610464,
+      "name": "加賀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610465,
+      "name": "陸奧",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610466,
+      "name": "尾張",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610467,
+      "name": "紀伊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610468,
+      "name": "肥後",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610469,
+      "name": "筑前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610470,
+      "name": "安藝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610471,
+      "name": "長門",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610472,
+      "name": "肥前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610473,
+      "name": "越前",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610474,
+      "name": "土佐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610475,
+      "name": "出雲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610476,
+      "name": "讚岐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610477,
+      "name": "伊勢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610478,
+      "name": "奧羽",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 610479,
+      "name": "是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610480,
+      "name": "要",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610481,
+      "name": "之",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610482,
+      "name": "來",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610483,
+      "name": "和",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610484,
+      "name": "與",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610485,
+      "name": "的",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610486,
+      "name": "也是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610487,
+      "name": "剛剛",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610488,
+      "name": "很",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610489,
+      "name": "會",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610490,
+      "name": "而且",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610491,
+      "name": "開始",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610492,
+      "name": "為止",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610493,
+      "name": "能",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610494,
+      "name": "之後的",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610495,
+      "name": "也能",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610496,
+      "name": "系",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610497,
+      "name": "派",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610498,
+      "name": "THE",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610499,
+      "name": "the",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610500,
+      "name": "de",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610501,
+      "name": "is",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610502,
+      "name": "of",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610503,
+      "name": "or",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610504,
+      "name": "!",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610505,
+      "name": "!?",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610506,
+      "name": "&",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610507,
+      "name": "･",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610508,
+      "name": "＝",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610509,
+      "name": "☆",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610510,
+      "name": "★",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610511,
+      "name": "♪",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610512,
+      "name": "、",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610513,
+      "name": "。",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610514,
+      "name": "/",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610515,
+      "name": "~",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610516,
+      "name": "=+",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610517,
+      "name": "×",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610518,
+      "name": "÷",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610519,
+      "name": "→",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610520,
+      "name": "←",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610521,
+      "name": "⇔",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610522,
+      "name": "※",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610523,
+      "name": "最喜歡",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610524,
+      "name": "最討厭",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610525,
+      "name": "da",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610526,
+      "name": "之中的",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610527,
+      "name": "love",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610528,
+      "name": "be",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610529,
+      "name": "已經",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610530,
+      "name": "･da･",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610531,
+      "name": "in",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610532,
+      "name": "with",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610533,
+      "name": "其實是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610534,
+      "name": "正是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610535,
+      "name": "反而",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610536,
+      "name": "或",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610537,
+      "name": "以及",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610538,
+      "name": "就是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610539,
+      "name": "但是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610540,
+      "name": "不是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 610541,
+      "name": "倍速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610542,
+      "name": "三倍速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610543,
+      "name": "四倍速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610544,
+      "name": "隱身",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610545,
+      "name": "顛倒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610546,
+      "name": "捉摸不定",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610547,
+      "name": "亂七八糟",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610548,
+      "name": "通關",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610549,
+      "name": "成績",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610550,
+      "name": "良",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610551,
+      "name": "連打",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610552,
+      "name": "機器咔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610553,
+      "name": "機器咚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610554,
+      "name": "鼓眾",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610555,
+      "name": "初學者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610556,
+      "name": "老手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610557,
+      "name": "玄人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610558,
+      "name": "鐵人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610559,
+      "name": "名人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610560,
+      "name": "達人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610561,
+      "name": "超人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610562,
+      "name": "戰士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610563,
+      "name": "朋友",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610564,
+      "name": "持鼓棒者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610565,
+      "name": "勇者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610566,
+      "name": "HERO",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610567,
+      "name": "王子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610568,
+      "name": "紳士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610569,
+      "name": "主人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610570,
+      "name": "女主角",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610571,
+      "name": "公主",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610572,
+      "name": "淑女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610573,
+      "name": "初出茅廬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610574,
+      "name": "修行中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610575,
+      "name": "挑戰中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610576,
+      "name": "門生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610577,
+      "name": "獨當一面",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610578,
+      "name": "技藝超群",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610579,
+      "name": "一起",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610580,
+      "name": "祭典",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610581,
+      "name": "青春",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610582,
+      "name": "夥伴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610583,
+      "name": "草食系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610584,
+      "name": "肉食系",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610585,
+      "name": "文科",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610586,
+      "name": "數理科",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610587,
+      "name": "招募中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610588,
+      "name": "技巧",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610589,
+      "name": "頭腦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610590,
+      "name": "肉體",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610591,
+      "name": "時尚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610592,
+      "name": "金",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610593,
+      "name": "銀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610594,
+      "name": "紫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610595,
+      "name": "黑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610596,
+      "name": "藍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610597,
+      "name": "白",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610598,
+      "name": "紅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610599,
+      "name": "狗狗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610600,
+      "name": "狼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610601,
+      "name": "貓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610602,
+      "name": "獅子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610603,
+      "name": "裏世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610604,
+      "name": "家鄉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610605,
+      "name": "世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610606,
+      "name": "太鼓界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610607,
+      "name": "太鼓學園",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610608,
+      "name": "今天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610609,
+      "name": "明天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610610,
+      "name": "昨天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610611,
+      "name": "每天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610612,
+      "name": "豬排丼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610613,
+      "name": "飯",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610614,
+      "name": "蛋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610615,
+      "name": "飛龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610616,
+      "name": 2000,
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610617,
+      "name": "人們",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610618,
+      "name": "大達人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610619,
+      "name": "偶像",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610620,
+      "name": "神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610621,
+      "name": "超級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610622,
+      "name": "大猩猩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610623,
+      "name": "週末",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610624,
+      "name": "小惡魔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610625,
+      "name": "大成功",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610626,
+      "name": "最佳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610627,
+      "name": "統治者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610628,
+      "name": "居民",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610629,
+      "name": "裝傻吐舌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610630,
+      "name": "擅長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610631,
+      "name": "肉球",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610632,
+      "name": "野生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610633,
+      "name": "歌姬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610634,
+      "name": "天使",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610635,
+      "name": "狂熱者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610636,
+      "name": "大師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610637,
+      "name": "玫瑰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610638,
+      "name": "貴婦人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610639,
+      "name": "貴公子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610640,
+      "name": "無雙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610641,
+      "name": "驚人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610642,
+      "name": "少女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610643,
+      "name": "少年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610644,
+      "name": "啦～",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610645,
+      "name": "反面",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610646,
+      "name": "黑暗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610647,
+      "name": "最後定理",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610648,
+      "name": "NOW",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610649,
+      "name": "自稱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610650,
+      "name": "傳說",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610651,
+      "name": "黃金",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610652,
+      "name": "永遠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610653,
+      "name": "挑戰者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610654,
+      "name": "至高無上",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610655,
+      "name": "混沌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610656,
+      "name": "太鼓戰士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610657,
+      "name": "之舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610658,
+      "name": "站立咚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610659,
+      "name": "傲嬌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610660,
+      "name": "脫臼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610661,
+      "name": "杏鮑菇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610662,
+      "name": "相反",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610663,
+      "name": "開拓者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610664,
+      "name": "旅人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610665,
+      "name": "首領",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610666,
+      "name": "精明幹練",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610667,
+      "name": "霸主",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610668,
+      "name": "歷史",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610669,
+      "name": "刻劃者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610670,
+      "name": "戰亂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610671,
+      "name": "出類拔萃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610672,
+      "name": "愛老虎油",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610673,
+      "name": "四季各異",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610674,
+      "name": "春夏秋冬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610675,
+      "name": "稍縱即逝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610676,
+      "name": "咚咚咚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610677,
+      "name": "咚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610678,
+      "name": "太鼓社",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610679,
+      "name": "超時空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610680,
+      "name": "原理",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610681,
+      "name": "完成演奏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610682,
+      "name": "勝利",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610683,
+      "name": "咚友",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610684,
+      "name": "身經百戰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610685,
+      "name": "勝利者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610686,
+      "name": "常勝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610687,
+      "name": "上升",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610688,
+      "name": "不敗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610689,
+      "name": "無敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610690,
+      "name": "沒敵人！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610691,
+      "name": "防衛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610692,
+      "name": "參加中！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610693,
+      "name": "勁敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610694,
+      "name": "年輕",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610695,
+      "name": "大家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610696,
+      "name": "真龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610697,
+      "name": "竹輪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610698,
+      "name": "拉麵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610699,
+      "name": "†",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610700,
+      "name": "墮天使",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610701,
+      "name": "BOYS",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610702,
+      "name": "亞空間",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610703,
+      "name": "光屬性",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610704,
+      "name": "什麼！？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610705,
+      "name": "向日葵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610706,
+      "name": "春天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610707,
+      "name": "夏天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610708,
+      "name": "秋天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610709,
+      "name": "冬天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610710,
+      "name": "季節",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610711,
+      "name": "藍天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610712,
+      "name": "異次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610713,
+      "name": "海洋",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610714,
+      "name": "廣闊天空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610715,
+      "name": "城堡",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610716,
+      "name": "安全第一",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610717,
+      "name": "隨時",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610718,
+      "name": "早安",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610719,
+      "name": "晚安",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610720,
+      "name": "盡情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610721,
+      "name": "可愛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610722,
+      "name": "暴怒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610723,
+      "name": "過往",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610724,
+      "name": "陣雨",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610725,
+      "name": "未來",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610726,
+      "name": "勇敢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610727,
+      "name": "覺醒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610728,
+      "name": "魄力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610729,
+      "name": "挑戰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610730,
+      "name": "鬥志",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610731,
+      "name": "熱血",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610732,
+      "name": "不屈不撓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610733,
+      "name": "大冒險",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610734,
+      "name": "熱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610735,
+      "name": "冷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610736,
+      "name": "藍色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610737,
+      "name": "紅色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610738,
+      "name": "白色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610739,
+      "name": "粉紅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610740,
+      "name": "紫色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610741,
+      "name": "漆黑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610742,
+      "name": "黃綠色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610743,
+      "name": "壽司",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610744,
+      "name": "甜蜜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610745,
+      "name": "香草",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610746,
+      "name": "雞肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610747,
+      "name": "燒肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610748,
+      "name": "精力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610749,
+      "name": "薄荷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610750,
+      "name": "抹茶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610751,
+      "name": "萊姆",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610752,
+      "name": "10歲世代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610753,
+      "name": "20歲世代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610754,
+      "name": "30歲世代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610755,
+      "name": "一員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610756,
+      "name": "調皮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610757,
+      "name": "新手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610758,
+      "name": "冒險者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610759,
+      "name": "騎士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610760,
+      "name": "溫柔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610761,
+      "name": "金髮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610762,
+      "name": "黑髮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610763,
+      "name": "部長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610764,
+      "name": "怪獸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610765,
+      "name": "妖精",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610766,
+      "name": "兔子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610767,
+      "name": "熊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610768,
+      "name": "白貓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610769,
+      "name": "老虎",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610770,
+      "name": "獵鷹",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610771,
+      "name": "鼓棒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610772,
+      "name": "眼鏡",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610773,
+      "name": "機器人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610774,
+      "name": "裙子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610775,
+      "name": "指甲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610776,
+      "name": "唯我獨尊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610777,
+      "name": "甜點",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610778,
+      "name": "40歲世代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610779,
+      "name": "50歲世代",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610780,
+      "name": "先驅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610781,
+      "name": "達入",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610782,
+      "name": "干預者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610783,
+      "name": "霸王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610784,
+      "name": "魔王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610785,
+      "name": "膝上襪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610786,
+      "name": "閃閃發光",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610787,
+      "name": "嘎哩嘎哩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610788,
+      "name": "心動",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610789,
+      "name": "閃耀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610790,
+      "name": "COOL",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610791,
+      "name": "鬼怪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610792,
+      "name": "怪談",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610793,
+      "name": "曬黑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610794,
+      "name": "短袖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610795,
+      "name": "波浪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610796,
+      "name": "浴衣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610797,
+      "name": "風鈴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610798,
+      "name": "泳衣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610799,
+      "name": "西瓜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610800,
+      "name": "岸邊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610801,
+      "name": "沙灘",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610802,
+      "name": "郊外",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610803,
+      "name": "夏季",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610804,
+      "name": "陣陣蟬鳴",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610805,
+      "name": "陽焰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610806,
+      "name": "仲夏夜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610807,
+      "name": "暑假",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610808,
+      "name": "盛夏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610809,
+      "name": "炎炎夏日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610810,
+      "name": "某個夏天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610811,
+      "name": "熾熱",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610812,
+      "name": "蒼天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610813,
+      "name": "那個夏天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610814,
+      "name": "觀察日記",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610815,
+      "name": "自由研究",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610816,
+      "name": "功課",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610817,
+      "name": "鑽頭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610818,
+      "name": "泳池",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610819,
+      "name": "祭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610820,
+      "name": "煙火",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610821,
+      "name": "集訓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610822,
+      "name": "廟會",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610823,
+      "name": "露營",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610824,
+      "name": "剉冰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610825,
+      "name": "麥茶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610826,
+      "name": "獨角仙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610827,
+      "name": "蟬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610828,
+      "name": "水母",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610829,
+      "name": "烏賊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610830,
+      "name": "海星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610831,
+      "name": "烏賊腳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610832,
+      "name": "棉花糖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610833,
+      "name": "爆辣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610834,
+      "name": "冰涼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610835,
+      "name": "蚊子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610836,
+      "name": "寒假",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610837,
+      "name": "聖誕夜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610838,
+      "name": "聖誕老人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610839,
+      "name": "聖夜祭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610840,
+      "name": "MERRY",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610841,
+      "name": "大掃除",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610842,
+      "name": "收尾",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610843,
+      "name": "紅白",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610844,
+      "name": "萬事如意",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610845,
+      "name": "末年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610846,
+      "name": "明年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610847,
+      "name": "新年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610848,
+      "name": "壓歲錢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610849,
+      "name": "年菜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610850,
+      "name": "耍廢過年",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610851,
+      "name": "新年首打",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610852,
+      "name": "元旦日出",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610853,
+      "name": "初次遊玩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610854,
+      "name": "隱藏才藝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610855,
+      "name": "福氣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610856,
+      "name": "七福神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610857,
+      "name": "風箏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610858,
+      "name": "巫女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610859,
+      "name": "【吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610860,
+      "name": "【小吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610861,
+      "name": "【大吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610862,
+      "name": "【中吉】",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610863,
+      "name": "直播事故",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610864,
+      "name": "咚自覺",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610865,
+      "name": "俏麗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610866,
+      "name": "冷酷",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610867,
+      "name": "攻擊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610868,
+      "name": "爆炸頭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610869,
+      "name": "知識分子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610870,
+      "name": "咦？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610871,
+      "name": "好吃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610872,
+      "name": "心情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610873,
+      "name": "幻想",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610874,
+      "name": "時間",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610875,
+      "name": "黃昏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610876,
+      "name": "兩倍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610877,
+      "name": "現實",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610878,
+      "name": "意志",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610879,
+      "name": "閃亮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610880,
+      "name": "高級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610881,
+      "name": "現今",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610882,
+      "name": "專心",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610883,
+      "name": "疾風",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610884,
+      "name": "熟練",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610885,
+      "name": "真打",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610886,
+      "name": "生活樣貌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610887,
+      "name": "大份量",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610888,
+      "name": "熱烈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610889,
+      "name": "無名",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610890,
+      "name": "空空如也",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610891,
+      "name": "帥哥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610892,
+      "name": "們",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610893,
+      "name": "粉絲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610894,
+      "name": "偉人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610895,
+      "name": "外星人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610896,
+      "name": "英雄",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610897,
+      "name": "演員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610898,
+      "name": "王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610899,
+      "name": "怪盜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610900,
+      "name": "男子漢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610901,
+      "name": "導演",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610902,
+      "name": "藝人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610903,
+      "name": "研究員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610904,
+      "name": "我",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610905,
+      "name": "武士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610906,
+      "name": "工匠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610907,
+      "name": "將軍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610908,
+      "name": "奇才",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610909,
+      "name": "小丑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610910,
+      "name": "爸爸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610911,
+      "name": "媽媽",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610912,
+      "name": "在下",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610913,
+      "name": "名偵探",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610914,
+      "name": "咖啡廳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610915,
+      "name": "城市",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610916,
+      "name": "宇宙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610917,
+      "name": "王國",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610918,
+      "name": "研究所",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610919,
+      "name": "沙漠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610920,
+      "name": "鄉下",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610921,
+      "name": "二次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610922,
+      "name": "三次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610923,
+      "name": "黃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610924,
+      "name": "橘",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610925,
+      "name": "綠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610926,
+      "name": "紅蓮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610927,
+      "name": "蒼色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610928,
+      "name": "太鼓色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610929,
+      "name": "彩虹色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610930,
+      "name": "假日",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610931,
+      "name": "下午",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610932,
+      "name": "上午",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610933,
+      "name": "終結",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610934,
+      "name": "日常",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610935,
+      "name": "點心2",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610936,
+      "name": "咖哩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610937,
+      "name": "餅乾",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610938,
+      "name": "醬料",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610939,
+      "name": "惡魔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610940,
+      "name": "精靈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610941,
+      "name": "天界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610942,
+      "name": "天國",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610943,
+      "name": "魔界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610944,
+      "name": "鳥兒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610945,
+      "name": "猴子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610946,
+      "name": "小狗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610947,
+      "name": "天鵝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610948,
+      "name": "紅寶石",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610949,
+      "name": "鐵道",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610950,
+      "name": "www",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610951,
+      "name": "火皇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610952,
+      "name": "希望",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610953,
+      "name": "協會",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610954,
+      "name": "探險",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610955,
+      "name": "調查",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610956,
+      "name": "考驗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610957,
+      "name": "新品種",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610958,
+      "name": "巨獸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610959,
+      "name": "魔獸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610960,
+      "name": "古代龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610961,
+      "name": "異世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610962,
+      "name": "救世主",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610963,
+      "name": "喔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610964,
+      "name": "沒錯",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610965,
+      "name": "不懂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610966,
+      "name": "硬邦邦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610967,
+      "name": "盂蘭盆舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610968,
+      "name": "百物語",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610969,
+      "name": "素麵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610970,
+      "name": "HOT",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610971,
+      "name": "透心涼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610972,
+      "name": "逐步逼近",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610973,
+      "name": "阿羅哈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610974,
+      "name": "後天",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610975,
+      "name": "虛空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610976,
+      "name": "自家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610977,
+      "name": "STAGE",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610978,
+      "name": "人界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610979,
+      "name": "晚霞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610980,
+      "name": "拂曉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610981,
+      "name": "演奏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610982,
+      "name": "混亂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610983,
+      "name": "喝采",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610984,
+      "name": "始祖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610985,
+      "name": "決心",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610986,
+      "name": "路線",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610987,
+      "name": "銳利",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610988,
+      "name": "全力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610989,
+      "name": "第一步",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610990,
+      "name": "多次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610991,
+      "name": "機會",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610992,
+      "name": "早睡",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610993,
+      "name": "危機",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610994,
+      "name": "旗標",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610995,
+      "name": "文武雙全",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610996,
+      "name": "悠閒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610997,
+      "name": "加速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610998,
+      "name": "氣勢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 610999,
+      "name": "特訓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611000,
+      "name": "努力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611001,
+      "name": "MEGA",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611002,
+      "name": "蜜桃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611003,
+      "name": "果汁",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611004,
+      "name": "胡蘿蔔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611005,
+      "name": "鮮奶油",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611006,
+      "name": "馬卡龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611007,
+      "name": "教授",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611008,
+      "name": "繼任者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611009,
+      "name": "代理師父",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611010,
+      "name": "師傅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611011,
+      "name": "奉行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611012,
+      "name": "大和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611013,
+      "name": "神器",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611014,
+      "name": "大蛇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611015,
+      "name": "本週",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611016,
+      "name": "樓頂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611017,
+      "name": "荒野",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611018,
+      "name": "道場",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611019,
+      "name": "舞台",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611020,
+      "name": "平行世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611021,
+      "name": "黎明",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611022,
+      "name": "榮耀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611023,
+      "name": "認真",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611024,
+      "name": "逆轉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611025,
+      "name": "閃爍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611026,
+      "name": "更新",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611027,
+      "name": "賀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611028,
+      "name": "半調子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611029,
+      "name": "心跳不止",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611030,
+      "name": "隨處",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611031,
+      "name": "夢想",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611032,
+      "name": "起床",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611033,
+      "name": "早起",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611034,
+      "name": "好天氣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611035,
+      "name": "無限",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611036,
+      "name": "果然",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611037,
+      "name": "勇氣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611038,
+      "name": "友情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611039,
+      "name": "興奮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611040,
+      "name": "幸運",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611041,
+      "name": "毅力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611042,
+      "name": "分析",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611043,
+      "name": "化妝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611044,
+      "name": "GIGA",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611045,
+      "name": "TERA",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611046,
+      "name": "黃色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611047,
+      "name": "綠色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611048,
+      "name": "砂糖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611049,
+      "name": "蜜柑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611050,
+      "name": "玩家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611051,
+      "name": "教練",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611052,
+      "name": "助手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611053,
+      "name": "侍酒師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611054,
+      "name": "博士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611055,
+      "name": "機器",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611056,
+      "name": "動物",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611057,
+      "name": "諸神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611058,
+      "name": "千千萬萬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611059,
+      "name": "土偶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611060,
+      "name": "花束",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611061,
+      "name": "四季",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611062,
+      "name": "放學後",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611063,
+      "name": "火星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611064,
+      "name": "高山",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611065,
+      "name": "教職員室",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611066,
+      "name": "神殿",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611067,
+      "name": "呆毛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611068,
+      "name": "團團轉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611069,
+      "name": "戀愛",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611070,
+      "name": "在那之前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611071,
+      "name": "三倍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611072,
+      "name": "舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611073,
+      "name": "愛做夢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611074,
+      "name": "忍耐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611075,
+      "name": "女力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611076,
+      "name": "半價",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611077,
+      "name": "紅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611078,
+      "name": "巧克力",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611079,
+      "name": "前輩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611080,
+      "name": "魔女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611081,
+      "name": "朝會",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611082,
+      "name": "四次元",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611083,
+      "name": "河川",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611084,
+      "name": "地球",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611085,
+      "name": "體育館",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611086,
+      "name": "王宮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611087,
+      "name": "反而",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611088,
+      "name": "及時",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611089,
+      "name": "左撇子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611090,
+      "name": "粗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611091,
+      "name": "火焰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611092,
+      "name": "右撇子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611093,
+      "name": "麻花辮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611094,
+      "name": "手下留情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611095,
+      "name": "遲到",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611096,
+      "name": "飆車族",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611097,
+      "name": "魔法少女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611098,
+      "name": "帝王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611099,
+      "name": "部落格",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611100,
+      "name": "夜櫻",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611101,
+      "name": "學校",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611102,
+      "name": "考試中",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611103,
+      "name": "銀河",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611104,
+      "name": "地上",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611105,
+      "name": "網路世界",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611106,
+      "name": "遊樂園",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611107,
+      "name": "花粉症",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611108,
+      "name": "逆境",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611109,
+      "name": "濃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611110,
+      "name": "全包",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611111,
+      "name": "想睡",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611112,
+      "name": "積極活躍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611113,
+      "name": "提示",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611114,
+      "name": "睡醒",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611115,
+      "name": "柔軟",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611116,
+      "name": "隊長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611117,
+      "name": "魂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611118,
+      "name": "鐵壁",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611119,
+      "name": "貓耳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611120,
+      "name": "老師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611121,
+      "name": "王者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611122,
+      "name": "校外教學",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611123,
+      "name": "工廠",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611124,
+      "name": "天空",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611125,
+      "name": "世外桃源",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611126,
+      "name": "保健室",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611127,
+      "name": "NEW",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611128,
+      "name": "單戀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611129,
+      "name": "電影版",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611130,
+      "name": "段子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611131,
+      "name": "出色",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611132,
+      "name": "世紀末",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611133,
+      "name": "旁邊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611134,
+      "name": "派對",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611135,
+      "name": "刷牙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611136,
+      "name": "圓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611137,
+      "name": "狂舞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611138,
+      "name": "復古",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611139,
+      "name": "突擊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611140,
+      "name": "班長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611141,
+      "name": "女子會",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611142,
+      "name": "忍者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611143,
+      "name": "魔術師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611144,
+      "name": "男性",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611145,
+      "name": "女性",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611146,
+      "name": "星星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611147,
+      "name": "咚！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611148,
+      "name": "咔？",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611149,
+      "name": "祭典",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611150,
+      "name": "節慶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611151,
+      "name": "惡魔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611152,
+      "name": "骷髏頭",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611153,
+      "name": "啪啪啦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611154,
+      "name": "代表選手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611155,
+      "name": "貓咪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611156,
+      "name": "鴨子",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611157,
+      "name": "炒麵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611158,
+      "name": "爺爺",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611159,
+      "name": "奶奶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611160,
+      "name": "男士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611161,
+      "name": "女孩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611162,
+      "name": "大哥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611163,
+      "name": "弟弟",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611164,
+      "name": "冒險",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611165,
+      "name": "龍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611166,
+      "name": "狂犬",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611167,
+      "name": "領袖人物",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611168,
+      "name": "太鼓女孩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611169,
+      "name": "肌肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611170,
+      "name": "偵探團",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611171,
+      "name": "全連段",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611172,
+      "name": "宅宅",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611173,
+      "name": "鬼魂",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611174,
+      "name": "社長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611175,
+      "name": "廚師",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611176,
+      "name": "寶物",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611177,
+      "name": "天才",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611178,
+      "name": "海鮮",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611179,
+      "name": "肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611180,
+      "name": "雞",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611181,
+      "name": "不死鳥",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611182,
+      "name": "名店",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611183,
+      "name": "區域網路",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611184,
+      "name": "大小姐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611185,
+      "name": "草",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611186,
+      "name": "【小吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611187,
+      "name": "【中吉】",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611188,
+      "name": "HOT",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611189,
+      "name": "攻擊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611190,
+      "name": "鴨子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611191,
+      "name": "顛倒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611192,
+      "name": "一起",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611193,
+      "name": "隨時",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611194,
+      "name": "杏鮑菇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611195,
+      "name": "宅宅",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611196,
+      "name": "點心2",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611197,
+      "name": "大蛇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611198,
+      "name": "大小姐",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611199,
+      "name": "女孩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611200,
+      "name": "剉冰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611201,
+      "name": "咔？",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611202,
+      "name": "獨角仙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611203,
+      "name": "領袖人物",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611204,
+      "name": "捉摸不定",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611205,
+      "name": "露營",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611206,
+      "name": "透心涼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611207,
+      "name": "通關",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611208,
+      "name": "路線",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611209,
+      "name": "鬼魂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611210,
+      "name": "教練",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611211,
+      "name": "三倍速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611212,
+      "name": "城市",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611213,
+      "name": "果汁",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611214,
+      "name": "砂糖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611215,
+      "name": "逐步逼近",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611216,
+      "name": "成績",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611217,
+      "name": "STAGE",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611218,
+      "name": "蟬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611219,
+      "name": "素麵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611220,
+      "name": "時間",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611221,
+      "name": "亂七八糟",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611222,
+      "name": "某個夏天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611223,
+      "name": "骷髏頭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611224,
+      "name": "鑽頭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611225,
+      "name": "隱身",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611226,
+      "name": "咚！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611227,
+      "name": "咚友",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611228,
+      "name": "NOW",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611229,
+      "name": "貓咪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611230,
+      "name": "派對",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611231,
+      "name": "鳥兒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611232,
+      "name": "倍速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611233,
+      "name": "啪啪啦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611234,
+      "name": "積極活躍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611235,
+      "name": "新手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611236,
+      "name": "提示",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611237,
+      "name": "粉絲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611238,
+      "name": "節慶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611239,
+      "name": "全連段",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611240,
+      "name": "部落格",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611241,
+      "name": "老手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611242,
+      "name": "機器",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611243,
+      "name": "肌肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611244,
+      "name": "狂熱者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611245,
+      "name": "化妝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611246,
+      "name": "機器咔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611247,
+      "name": "機器咚",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611248,
+      "name": "睡醒",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611249,
+      "name": "男士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611250,
+      "name": "炒麵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611251,
+      "name": "溫柔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611252,
+      "name": "大和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611253,
+      "name": "年輕",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611254,
+      "name": "四倍速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611255,
+      "name": "勁敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611256,
+      "name": "紅寶石",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611257,
+      "name": "復古",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611258,
+      "name": "棉花糖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611259,
+      "name": "惡魔",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611260,
+      "name": "意志",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611261,
+      "name": "猴子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611262,
+      "name": "廟會",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611263,
+      "name": "王國",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611264,
+      "name": "王者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611265,
+      "name": "黃色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611266,
+      "name": "樓頂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611267,
+      "name": "加速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611268,
+      "name": "火皇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611269,
+      "name": "火星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611270,
+      "name": "煙火",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611271,
+      "name": "花束",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611272,
+      "name": "蚊子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611273,
+      "name": "怪談",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611274,
+      "name": "水母",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611275,
+      "name": "海星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611276,
+      "name": "海鮮",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611277,
+      "name": "喝采",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611278,
+      "name": "完成演奏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611279,
+      "name": "干預者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611280,
+      "name": "觀察日記",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611281,
+      "name": "圓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611282,
+      "name": "貴公子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611283,
+      "name": "貴婦人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611284,
+      "name": "騎士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611285,
+      "name": "巨獸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611286,
+      "name": "協會",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611287,
+      "name": "狂犬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611288,
+      "name": "拂曉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611289,
+      "name": "大哥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611290,
+      "name": "雞",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611291,
+      "name": "決心",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611292,
+      "name": "研究所",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611293,
+      "name": "玄人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611294,
+      "name": "工廠",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611295,
+      "name": "更新",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611296,
+      "name": "集訓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611297,
+      "name": "刻劃者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611298,
+      "name": "祭",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611299,
+      "name": "祭典",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611300,
+      "name": "參加中！",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611301,
+      "name": "四季",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611302,
+      "name": "小狗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611303,
+      "name": "代理師父",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611304,
+      "name": "考驗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611305,
+      "name": "刷牙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611306,
+      "name": "自由研究",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611307,
+      "name": "七福神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611308,
+      "name": "社長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611309,
+      "name": "手下留情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611310,
+      "name": "校外教學",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611311,
+      "name": "居民",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611312,
+      "name": "功課",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611313,
+      "name": "初學者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611314,
+      "name": "助手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611315,
+      "name": "女性",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611316,
+      "name": "城堡",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611317,
+      "name": "星星",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611318,
+      "name": "藍天",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611319,
+      "name": "陣陣蟬鳴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611320,
+      "name": "老師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611321,
+      "name": "河川",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611322,
+      "name": "戰士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611323,
+      "name": "戰亂",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611324,
+      "name": "全包",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611325,
+      "name": "早睡",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611326,
+      "name": "草",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611327,
+      "name": "太鼓女孩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611328,
+      "name": "代表選手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611329,
+      "name": "大成功",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611330,
+      "name": "大達人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611331,
+      "name": "大冒險",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611332,
+      "name": "風箏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611333,
+      "name": "達入",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611334,
+      "name": "偵探團",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611335,
+      "name": "男性",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611336,
+      "name": "遲到",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611337,
+      "name": "半調子",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611338,
+      "name": "夥伴",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611339,
+      "name": "朝會",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611340,
+      "name": "調查",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611341,
+      "name": "超人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611342,
+      "name": "烏賊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611343,
+      "name": "弟弟",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611344,
+      "name": "鐵人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611345,
+      "name": "鐵道",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611346,
+      "name": "天空",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611347,
+      "name": "天才",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611348,
+      "name": "土偶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611349,
+      "name": "世外桃源",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611350,
+      "name": "擅長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611351,
+      "name": "特訓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611352,
+      "name": "肉",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611353,
+      "name": "好天氣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611354,
+      "name": "濃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611355,
+      "name": "收尾",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611356,
+      "name": "奶奶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611357,
+      "name": "博士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611358,
+      "name": "天鵝",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611359,
+      "name": "麥茶",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611360,
+      "name": "千千萬萬",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611361,
+      "name": "百物語",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611362,
+      "name": "不死鳥",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611363,
+      "name": "舞台",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611364,
+      "name": "平行世界",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611365,
+      "name": "寶物",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611366,
+      "name": "冒險",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611367,
+      "name": "冒險者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611368,
+      "name": "防衛",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611369,
+      "name": "盂蘭盆舞",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611370,
+      "name": "名人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611371,
+      "name": "名店",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611372,
+      "name": "門生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611373,
+      "name": "黎明",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611374,
+      "name": "爺爺",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611375,
+      "name": "相反",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611376,
+      "name": "龍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611377,
+      "name": "廚師",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611378,
+      "name": "良",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611379,
+      "name": "綠色",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611380,
+      "name": "連打",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611381,
+      "name": "魚",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611382,
+      "name": "肉肉",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611383,
+      "name": "咔",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611384,
+      "name": "新",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611385,
+      "name": "嘿呦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611386,
+      "name": "別在意",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611387,
+      "name": "難波",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611388,
+      "name": "開心",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611389,
+      "name": "專家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611390,
+      "name": "安藝",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611391,
+      "name": "伊勢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611392,
+      "name": "越前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611393,
+      "name": "奧羽",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611394,
+      "name": "音速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611395,
+      "name": "加賀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611396,
+      "name": "打頭陣！",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611397,
+      "name": "紀伊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611398,
+      "name": "光速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611399,
+      "name": "江戶",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611400,
+      "name": "薩摩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611401,
+      "name": "讚岐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611402,
+      "name": "出雲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611403,
+      "name": "慧眼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611404,
+      "name": "神速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611405,
+      "name": "前略",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611406,
+      "name": "創建",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611407,
+      "name": "筑前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611408,
+      "name": "長門",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611409,
+      "name": "土佐",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611410,
+      "name": "島民",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611411,
+      "name": "肥後",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611412,
+      "name": "肥前",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611413,
+      "name": "尾張",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611414,
+      "name": "夢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611415,
+      "name": "陸奧",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611416,
+      "name": "彗星",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611417,
+      "name": "猛者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611418,
+      "name": "清爽",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611419,
+      "name": "國王",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611420,
+      "name": "美女",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611421,
+      "name": "小孩",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611422,
+      "name": "大人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611423,
+      "name": "大力士",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611424,
+      "name": "好朋友",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611425,
+      "name": "女神",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611426,
+      "name": "野獸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611427,
+      "name": "最強",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611428,
+      "name": "怪人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611429,
+      "name": "好人",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611430,
+      "name": "重要",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611431,
+      "name": "美麗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611432,
+      "name": "完美",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611433,
+      "name": "危險",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611434,
+      "name": "意外",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611435,
+      "name": "沉甸甸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611436,
+      "name": "暖烘烘",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611437,
+      "name": "很酸",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611438,
+      "name": "好吃",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611439,
+      "name": "嚮往",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611440,
+      "name": "注意",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611441,
+      "name": "不敗",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611442,
+      "name": "神奇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611443,
+      "name": "巨大",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611444,
+      "name": "最大",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611445,
+      "name": "最小",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611446,
+      "name": "幸運",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611447,
+      "name": "搖滾",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611448,
+      "name": "流行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611449,
+      "name": "頂尖",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611450,
+      "name": "世界第一",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611451,
+      "name": "節奏",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611452,
+      "name": "連結",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611453,
+      "name": "人氣",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611454,
+      "name": "前世",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611455,
+      "name": "祕密主義",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611456,
+      "name": "幹部",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611457,
+      "name": "保鏢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611458,
+      "name": "稀有",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611459,
+      "name": "鼓手",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611460,
+      "name": "演奏者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611461,
+      "name": "革命家",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611462,
+      "name": "絕佳",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611463,
+      "name": "小菜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611464,
+      "name": "天下",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611465,
+      "name": "喜怒無常",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611466,
+      "name": "100%",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611467,
+      "name": "極致",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611468,
+      "name": "富豪",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611469,
+      "name": "豪門",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611470,
+      "name": "天真爛漫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611471,
+      "name": "無所畏懼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611472,
+      "name": "言出必行",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611473,
+      "name": "勇猛果敢",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611474,
+      "name": "不屈不撓",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611475,
+      "name": "威風凜凜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611476,
+      "name": "日新月異",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611477,
+      "name": "大器晚成",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611478,
+      "name": "豬突猛進",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611479,
+      "name": "上級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611480,
+      "name": "中級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611481,
+      "name": "下級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611482,
+      "name": "上等",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611483,
+      "name": "優秀",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611484,
+      "name": "異常",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611485,
+      "name": "節拍",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611486,
+      "name": "樂隊",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611487,
+      "name": "拍速",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611488,
+      "name": "熱情",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611489,
+      "name": "天敵",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611490,
+      "name": "最高",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611491,
+      "name": "最低",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611492,
+      "name": "大",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611493,
+      "name": "小",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611494,
+      "name": "海盜",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611495,
+      "name": "現役",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611496,
+      "name": "課長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611497,
+      "name": "隊長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611498,
+      "name": "船長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611499,
+      "name": "組長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611500,
+      "name": "專務董事",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611501,
+      "name": "常務董事",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611502,
+      "name": "會長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611503,
+      "name": "顧問",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611504,
+      "name": "班長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611505,
+      "name": "鎮長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611506,
+      "name": "村長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611507,
+      "name": "市長",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611508,
+      "name": "董事",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611509,
+      "name": "經營者",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611510,
+      "name": "小學生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611511,
+      "name": "國中生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611512,
+      "name": "高中生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611513,
+      "name": "大學生",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611514,
+      "name": "主夫",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611515,
+      "name": "主婦",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611516,
+      "name": "高超",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611517,
+      "name": "極端",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611518,
+      "name": "正式",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611519,
+      "name": "重量級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611520,
+      "name": "輕量級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611521,
+      "name": "中量級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611522,
+      "name": "最大值",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611523,
+      "name": "令和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611524,
+      "name": "平成",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611525,
+      "name": "昭和",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611526,
+      "name": "蓬鬆",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611527,
+      "name": "彈牙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611528,
+      "name": "粗糙",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611529,
+      "name": "最大級",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611530,
+      "name": "王牌",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611531,
+      "name": "冰",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611532,
+      "name": "喜劇",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611533,
+      "name": "交響曲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611534,
+      "name": "進行曲",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611535,
+      "name": "船員",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611536,
+      "name": "爆笑",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611537,
+      "name": "初登場",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611538,
+      "name": "最新",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611539,
+      "name": "第一",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611540,
+      "name": "奧義",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611541,
+      "name": "純粹",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611542,
+      "name": "強烈",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611543,
+      "name": "惡鬼",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611544,
+      "name": "民間故事",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611545,
+      "name": "童話",
+      "positionType": "TYPE_LEFT"
+    },
+    {
+      "id": 611546,
+      "name": "可是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611547,
+      "name": "有",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611548,
+      "name": "所以",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611549,
+      "name": "因此",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611550,
+      "name": "不過",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611551,
+      "name": "卻是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611552,
+      "name": "也很",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611553,
+      "name": "且",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611554,
+      "name": "更加",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611555,
+      "name": "再加上",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611556,
+      "name": "並不",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611557,
+      "name": "專門",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611558,
+      "name": "專用",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611559,
+      "name": "用的",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611560,
+      "name": "也要",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611561,
+      "name": "可真是",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611562,
+      "name": "好像",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611563,
+      "name": "別提",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611564,
+      "name": "VS",
+      "positionType": "TYPE_CENTER"
+    },
+    {
+      "id": 611565,
+      "name": "猛者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611566,
+      "name": "清爽",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611567,
+      "name": "國王",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611568,
+      "name": "美女",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611569,
+      "name": "小孩",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611570,
+      "name": "大人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611571,
+      "name": "大力士",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611572,
+      "name": "好朋友",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611573,
+      "name": "女神",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611574,
+      "name": "野獸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611575,
+      "name": "最強",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611576,
+      "name": "怪人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611577,
+      "name": "好人",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611578,
+      "name": "重要",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611579,
+      "name": "美麗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611580,
+      "name": "完美",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611581,
+      "name": "危險",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611582,
+      "name": "意外",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611583,
+      "name": "沉甸甸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611584,
+      "name": "暖烘烘",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611585,
+      "name": "很酸",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611586,
+      "name": "好吃",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611587,
+      "name": "嚮往",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611588,
+      "name": "注意",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611589,
+      "name": "不敗",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611590,
+      "name": "神奇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611591,
+      "name": "巨大",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611592,
+      "name": "最大",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611593,
+      "name": "最小",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611594,
+      "name": "幸運",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611595,
+      "name": "搖滾",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611596,
+      "name": "流行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611597,
+      "name": "頂尖",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611598,
+      "name": "世界第一",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611599,
+      "name": "節奏",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611600,
+      "name": "連結",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611601,
+      "name": "人氣",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611602,
+      "name": "前世",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611603,
+      "name": "祕密主義",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611604,
+      "name": "幹部",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611605,
+      "name": "保鏢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611606,
+      "name": "稀有",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611607,
+      "name": "鼓手",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611608,
+      "name": "演奏者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611609,
+      "name": "革命家",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611610,
+      "name": "絕佳",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611611,
+      "name": "小菜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611612,
+      "name": "天下",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611613,
+      "name": "喜怒無常",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611614,
+      "name": "100%",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611615,
+      "name": "極致",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611616,
+      "name": "富豪",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611617,
+      "name": "豪門",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611618,
+      "name": "天真爛漫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611619,
+      "name": "無所畏懼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611620,
+      "name": "言出必行",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611621,
+      "name": "勇猛果敢",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611622,
+      "name": "不屈不撓",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611623,
+      "name": "威風凜凜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611624,
+      "name": "日新月異",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611625,
+      "name": "大器晚成",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611626,
+      "name": "豬突猛進",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611627,
+      "name": "上級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611628,
+      "name": "中級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611629,
+      "name": "下級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611630,
+      "name": "上等",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611631,
+      "name": "優秀",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611632,
+      "name": "異常",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611633,
+      "name": "節拍",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611634,
+      "name": "樂隊",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611635,
+      "name": "拍速",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611636,
+      "name": "熱情",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611637,
+      "name": "天敵",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611638,
+      "name": "最高",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611639,
+      "name": "最低",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611640,
+      "name": "大",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611641,
+      "name": "小",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611642,
+      "name": "海盜",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611643,
+      "name": "現役",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611644,
+      "name": "課長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611645,
+      "name": "隊長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611646,
+      "name": "船長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611647,
+      "name": "組長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611648,
+      "name": "專務董事",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611649,
+      "name": "常務董事",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611650,
+      "name": "會長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611651,
+      "name": "顧問",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611652,
+      "name": "班長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611653,
+      "name": "鎮長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611654,
+      "name": "村長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611655,
+      "name": "市長",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611656,
+      "name": "董事",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611657,
+      "name": "經營者",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611658,
+      "name": "小學生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611659,
+      "name": "國中生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611660,
+      "name": "高中生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611661,
+      "name": "大學生",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611662,
+      "name": "主夫",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611663,
+      "name": "主婦",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611664,
+      "name": "高超",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611665,
+      "name": "極端",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611666,
+      "name": "正式",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611667,
+      "name": "重量級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611668,
+      "name": "輕量級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611669,
+      "name": "中量級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611670,
+      "name": "最大值",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611671,
+      "name": "令和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611672,
+      "name": "平成",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611673,
+      "name": "昭和",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611674,
+      "name": "蓬鬆",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611675,
+      "name": "彈牙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611676,
+      "name": "粗糙",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611677,
+      "name": "最大級",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611678,
+      "name": "王牌",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611679,
+      "name": "冰",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611680,
+      "name": "喜劇",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611681,
+      "name": "交響曲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611682,
+      "name": "進行曲",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611683,
+      "name": "船員",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611684,
+      "name": "爆笑",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611685,
+      "name": "初登場",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611686,
+      "name": "最新",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611687,
+      "name": "第一",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611688,
+      "name": "奧義",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611689,
+      "name": "純粹",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611690,
+      "name": "強烈",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611691,
+      "name": "惡鬼",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611692,
+      "name": "民間故事",
+      "positionType": "TYPE_RIGHT"
+    },
+    {
+      "id": 611693,
+      "name": "童話",
+      "positionType": "TYPE_RIGHT"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "adjustmentDescriptions": [
+    {
+      "id": 9600001,
+      "step": 1,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "非常感謝您下載《太鼓之達人 RHYTHM CONNECT》。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600002,
+      "step": 2,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "為了能讓您舒適遊玩太鼓之達人，現在即將進行調整。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600003,
+      "step": 3,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "本次調整是為了避免音符與聲音在不同裝置上產生落差。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600004,
+      "step": 4,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "調整時會響起固定節奏的太鼓聲，但不會流入音符。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600005,
+      "step": 5,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "您並未輸入，即將再次重新調整。",
+      "isRestartMessage": true
+    },
+    {
+      "id": 9600006,
+      "step": 6,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "請把握時機在『第4拍』的聲音出現時輕按太鼓。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600007,
+      "step": 7,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "請把握時機在『咚』的聲音出現時輕按太鼓。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600008,
+      "step": 8,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "重複多次相同步驟後，調整就會結束。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600009,
+      "step": 9,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "調整時會需要聆聽聲音，",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600010,
+      "step": 10,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "請務必解除靜音狀態後再開始。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600011,
+      "step": 11,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "那麼即將開始調整。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600012,
+      "step": 12,
+      "isTutorial": false,
+      "isStart": true,
+      "description": "現正調整中，請在『第4拍』的聲音出現時輕按太鼓。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600013,
+      "step": 13,
+      "isTutorial": false,
+      "isStart": false,
+      "description": "調整已結束，感謝您的協助。",
+      "isRestartMessage": false
+    },
+    {
+      "id": 9600014,
+      "step": 14,
+      "isTutorial": true,
+      "isStart": false,
+      "description": "趕快來演奏看看吧！",
+      "isRestartMessage": false
+    }
+  ]
+}

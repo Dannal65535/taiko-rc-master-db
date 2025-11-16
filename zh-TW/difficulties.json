@@ -1,0 +1,39 @@
+{
+  "difficulties": [
+    {
+      "id": 1,
+      "difficultyLevel": "EASY",
+      "name": "簡單",
+      "expRate": 9000,
+      "colorCode": "#f22706"
+    },
+    {
+      "id": 2,
+      "difficultyLevel": "NORMAL",
+      "name": "普通",
+      "expRate": 10000,
+      "colorCode": "#92c400"
+    },
+    {
+      "id": 3,
+      "difficultyLevel": "HARD",
+      "name": "困難",
+      "expRate": 10500,
+      "colorCode": "#0090e8"
+    },
+    {
+      "id": 4,
+      "difficultyLevel": "ONI",
+      "name": "魔王",
+      "expRate": 11000,
+      "colorCode": "#ce00a2"
+    },
+    {
+      "id": 5,
+      "difficultyLevel": "URA",
+      "name": "魔王（裏）",
+      "expRate": 11500,
+      "colorCode": "#5a3cdc"
+    }
+  ]
+}

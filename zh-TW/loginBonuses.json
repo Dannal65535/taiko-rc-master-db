@@ -1,0 +1,44 @@
+{
+  "loginBonuses": [
+    {
+      "id": 6000001,
+      "contentGroupId": 610001,
+      "fileName": "loginbonus_001",
+      "sortOrder": 0,
+      "term": {
+        "startAt": "2023-11-01T05:00:00Z",
+        "endAt": "2023-11-30T18:59:59Z"
+      }
+    },
+    {
+      "id": 6000002,
+      "contentGroupId": 610002,
+      "fileName": "loginbonus_002",
+      "sortOrder": 0,
+      "term": {
+        "startAt": "2023-12-14T06:00:00Z",
+        "endAt": "2023-12-26T18:59:59Z"
+      }
+    },
+    {
+      "id": 6000003,
+      "contentGroupId": 610003,
+      "fileName": "loginbonus_003",
+      "sortOrder": 0,
+      "term": {
+        "startAt": "2023-12-29T06:00:00Z",
+        "endAt": "2024-01-10T18:59:59Z"
+      }
+    },
+    {
+      "id": 6000004,
+      "contentGroupId": 610004,
+      "fileName": "loginbonus_004",
+      "sortOrder": 0,
+      "term": {
+        "startAt": "2024-01-16T06:00:00Z",
+        "endAt": "2034-12-31T14:59:59Z"
+      }
+    }
+  ]
+}

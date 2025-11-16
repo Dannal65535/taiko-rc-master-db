@@ -1,0 +1,32 @@
+{
+  "missionStampDetails": [
+    {
+      "id": 9800001,
+      "groupId": 980001,
+      "sortOrder": 1,
+      "description": "<B>暢玩《太鼓之達人 RHYTHM CONNECT》\n取得LINE貼圖！</B>\n\n完成所有任務\n獲得特別的LINE貼圖吧。",
+      "fileName": "mission_stamp_tips_0001"
+    },
+    {
+      "id": 9800002,
+      "groupId": 980001,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※若沒有登入LINE\n就無法獲得貼圖。\n※貼圖有效期限為下載後90天內。\n※請在活動時間結束前\n下載貼圖。\n非活動期間無法下載貼圖。</color>",
+      "fileName": "mission_stamp_tips_0002"
+    },
+    {
+      "id": 9800003,
+      "groupId": 980002,
+      "sortOrder": 1,
+      "description": "<B>暢玩《太鼓之達人 RHYTHM CONNECT》\n取得LINE貼圖！</B>\n\n完成所有任務\n獲得特別的LINE貼圖吧。",
+      "fileName": "mission_stamp_tips_0003"
+    },
+    {
+      "id": 9800004,
+      "groupId": 980002,
+      "sortOrder": 2,
+      "description": "<color=#f84828>※若沒有登入LINE\n就無法獲得貼圖。\n※貼圖有效期限為下載後90天內。\n※請在活動時間結束前\n下載貼圖。\n非活動期間無法下載貼圖。</color>",
+      "fileName": "mission_stamp_tips_0004"
+    }
+  ]
+}

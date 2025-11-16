@@ -1,0 +1,3820 @@
+{
+  "skins": [
+    {
+      "id": 500001,
+      "name": "無",
+      "part": "HEAD",
+      "bonusRate": 0,
+      "description": "尚未穿上換裝",
+      "fileName": "head_000000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500002,
+      "name": "雷神",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "敲打太鼓來引發雷電",
+      "fileName": "head_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500003,
+      "name": "武者(紅)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "head_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500004,
+      "name": "武者(藍)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "head_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500005,
+      "name": "武者（金）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "head_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500006,
+      "name": "武者(銀)",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "head_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500007,
+      "name": "劍道",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "將注意力集中在劍上！",
+      "fileName": "head_000300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500008,
+      "name": "忍者",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "head_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500009,
+      "name": "忍者（紅）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "head_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500010,
+      "name": "忍者（藍）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "head_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500011,
+      "name": "忍者（黄）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "head_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500012,
+      "name": "忍者（綠）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "head_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500013,
+      "name": "鐵頭盔",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "保護頭部很重要！",
+      "fileName": "head_000700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500015,
+      "name": "海盜",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "喲～呵～！喲～呵～！在七大洋冒險！",
+      "fileName": "head_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500016,
+      "name": "重金屬搖滾妝",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "讓人沉醉在猛烈的節奏裡吧！",
+      "fileName": "head_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500017,
+      "name": "相撲力士",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "拿出鬥志！勝負未定！",
+      "fileName": "head_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500018,
+      "name": "王冠",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "只有國王才能戴",
+      "fileName": "head_001200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500019,
+      "name": "寶石（銀）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "閃閃發光",
+      "fileName": "head_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500020,
+      "name": "寶石（金）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "閃閃發光",
+      "fileName": "head_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500021,
+      "name": "輝夜姬",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "從竹子中誕生的美女",
+      "fileName": "head_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500022,
+      "name": "圓點蝴蝶結",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "有可愛的圓點",
+      "fileName": "head_001800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500023,
+      "name": "公主辣妹",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "體驗當公主的感覺",
+      "fileName": "head_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500024,
+      "name": "小鹿",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "可愛的小鹿",
+      "fileName": "head_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500025,
+      "name": "雪人",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "熾熱的演奏也不會讓它融化",
+      "fileName": "head_002400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500026,
+      "name": "花飾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用漂亮的花朵來裝飾吧",
+      "fileName": "head_002500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500027,
+      "name": "兔耳朵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以透過聲音察覺到天敵接近",
+      "fileName": "head_002600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500028,
+      "name": "甜點",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "全身都是甜食",
+      "fileName": "head_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500029,
+      "name": "婚紗",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "祝新婚愉快",
+      "fileName": "head_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500030,
+      "name": "旗魚",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "尖銳的大魚",
+      "fileName": "head_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500031,
+      "name": "頭戴式耳機",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "小心漏音",
+      "fileName": "head_003200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500032,
+      "name": "獨角仙",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "力大無窮",
+      "fileName": "head_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500033,
+      "name": "側馬尾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "名稱來自馬的尾巴",
+      "fileName": "head_003400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500034,
+      "name": "小黃鶯",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "和小咔感情融洽的黃鶯",
+      "fileName": "head_003500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500035,
+      "name": "海軍",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以和海鷗當好朋友",
+      "fileName": "head_003600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500036,
+      "name": "鑽頭",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "鑽洞向前邁進！",
+      "fileName": "head_003800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500037,
+      "name": "面具小童（狐狸）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "面具小童配戴的面具",
+      "fileName": "head_003900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500038,
+      "name": "歌舞伎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "日本傳統技藝",
+      "fileName": "head_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500039,
+      "name": "招財貓",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "或許會招來幸福",
+      "fileName": "head_004200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500040,
+      "name": "孔雀",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用絢麗的羽毛迷惑人",
+      "fileName": "head_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500041,
+      "name": "丁髻",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "江戶傳統髮型",
+      "fileName": "head_004500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500042,
+      "name": "守衛",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "銅牆鐵壁",
+      "fileName": "head_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500043,
+      "name": "歌德蘿莉女僕（辣妹）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "荷葉邊很可愛",
+      "fileName": "head_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500044,
+      "name": "歌德蘿莉女僕（公主）",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "荷葉邊很可愛",
+      "fileName": "head_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500045,
+      "name": "惡魔",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "大家說我絕對很邪惡",
+      "fileName": "head_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500046,
+      "name": "向日葵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏天的花",
+      "fileName": "head_004900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500048,
+      "name": "獅子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "百獸之王",
+      "fileName": "head_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500050,
+      "name": "帥哥",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "不用擔心，聲音也很迷人",
+      "fileName": "head_005400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500051,
+      "name": "照相機鏡頭",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "具備對焦功能",
+      "fileName": "head_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500052,
+      "name": "沖天炮",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可愛地搖曳著",
+      "fileName": "head_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500053,
+      "name": "學生帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我會用功念書的！",
+      "fileName": "head_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500054,
+      "name": "圓點頭帶",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "充滿幹勁",
+      "fileName": "head_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500055,
+      "name": "門松",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "迎接新年",
+      "fileName": "head_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500056,
+      "name": "女兒節人偶",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "桃花節",
+      "fileName": "head_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500057,
+      "name": "金魚燈籠",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "金魚模樣的帽子",
+      "fileName": "head_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500058,
+      "name": "指南針",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以知道哪邊是北方",
+      "fileName": "head_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500060,
+      "name": "聖誕老人",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "佳節愉快！",
+      "fileName": "head_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500061,
+      "name": "哲生",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "化身為哲生",
+      "fileName": "head_007300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500062,
+      "name": "草帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "夏天！刨冰！草帽！昆蟲！",
+      "fileName": "head_007400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500063,
+      "name": "網球",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "殺球！",
+      "fileName": "head_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500064,
+      "name": "畫家",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "喜歡顏料的味道",
+      "fileName": "head_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500065,
+      "name": "頭巾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "這樣就不會弄髒頭了",
+      "fileName": "head_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500067,
+      "name": "樹墩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "在森林裡常常被人坐",
+      "fileName": "head_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500069,
+      "name": "蝴蝶",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "蝴蝶蝴蝶生得真美麗～",
+      "fileName": "head_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500070,
+      "name": "恐龍",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "別人說我是地表最強生物～",
+      "fileName": "head_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500071,
+      "name": "化石",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "變成骨頭了～",
+      "fileName": "head_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500072,
+      "name": "駱駝",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "又熱又乾燥的地方也沒問題",
+      "fileName": "head_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500073,
+      "name": "木乃伊",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "想要繃帶的時候就找我吧",
+      "fileName": "head_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500074,
+      "name": "法老",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "神祕的面具",
+      "fileName": "head_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500075,
+      "name": "螺旋槳",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "會在天空四處翱翔呢～",
+      "fileName": "head_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500079,
+      "name": "蒙眼",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "成功敲開就能吃到美味西瓜",
+      "fileName": "head_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500081,
+      "name": "鍬形蟲",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用力夾緊",
+      "fileName": "head_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500082,
+      "name": "櫻花",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "春天的來臨",
+      "fileName": "head_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500083,
+      "name": "槍手",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "開槍速度絕不輸人喔",
+      "fileName": "head_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500084,
+      "name": "滑板手",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "咻～！喀！咻～！",
+      "fileName": "head_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500085,
+      "name": "原宿",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "可愛的穿搭",
+      "fileName": "head_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500086,
+      "name": "賽車",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "鬆開油門就輸了",
+      "fileName": "head_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500088,
+      "name": "睡衣",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "保證會做一個美夢",
+      "fileName": "head_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500089,
+      "name": "獨角獸",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "夢幻般的可愛動物",
+      "fileName": "head_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500090,
+      "name": "幽靈",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我好恨日本的夏天呀～",
+      "fileName": "head_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500091,
+      "name": "飛行員",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "用超越音速的速度起飛！",
+      "fileName": "head_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500092,
+      "name": "度假",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "炎熱的陽光帶來度假村氛圍",
+      "fileName": "head_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500093,
+      "name": "荷蘭乳牛",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "一年能擠出5000kg的牛奶",
+      "fileName": "head_011200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500094,
+      "name": "英雄",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "男孩子的憧憬",
+      "fileName": "head_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500095,
+      "name": "棉花糖",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "軟綿綿，甜滋滋",
+      "fileName": "head_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500096,
+      "name": "羊駝",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "毛茸茸的好傢伙",
+      "fileName": "head_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500097,
+      "name": "三颯舞",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "三颯三颯",
+      "fileName": "head_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500099,
+      "name": "冰淇淋",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "配料放太多了，吃起來很不方便",
+      "fileName": "head_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500101,
+      "name": "腳踏車",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "就算遇到上坡路也會奮力向前邁進唷",
+      "fileName": "head_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500102,
+      "name": "花魁",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "奴家是花魁",
+      "fileName": "head_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500103,
+      "name": "螃蟹",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "就只是一隻螃蟹",
+      "fileName": "head_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500104,
+      "name": "勇者咚",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "我要守護世界和平！",
+      "fileName": "head_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500105,
+      "name": "兵長",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "立～正！向前看～！起步走！",
+      "fileName": "head_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500107,
+      "name": "蜜蜂",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "圍繞著花朵採蜜",
+      "fileName": "head_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500109,
+      "name": "貓耳",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "喵嗚～",
+      "fileName": "head_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500110,
+      "name": "美少女面具",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "可以完全化身為美少女",
+      "fileName": "head_013500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500111,
+      "name": "寶藏獵人",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "寶藏在哪呢～",
+      "fileName": "head_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500112,
+      "name": "口琴",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "聽聽我的藍調曲子吧",
+      "fileName": "head_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500113,
+      "name": "焊接面罩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "不管是什麼都能在火花四濺下修好喔",
+      "fileName": "head_014300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500114,
+      "name": "梅杜莎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "直視我的雙眼就會變成石頭喔",
+      "fileName": "head_014400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500115,
+      "name": "對白框",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "……",
+      "fileName": "head_014500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500116,
+      "name": "咦！？",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "咦咦！？",
+      "fileName": "head_014600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500117,
+      "name": "河馬",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "跑起來出乎意料地快",
+      "fileName": "head_014700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500118,
+      "name": "披薩",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "融化的起司很好吃喔",
+      "fileName": "head_014800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500119,
+      "name": "鍋子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "說是鍋子就是鍋子，戴在頭上還是鍋子",
+      "fileName": "head_014900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500120,
+      "name": "威廉泰爾帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "一發擊中！",
+      "fileName": "head_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500121,
+      "name": "叢林",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "歡迎來到叢林",
+      "fileName": "head_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500122,
+      "name": "積木",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "順應四四方方的世界",
+      "fileName": "head_015400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500123,
+      "name": "孫悟空",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "幾天前我還在五行山",
+      "fileName": "head_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500124,
+      "name": "動物造型帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "戴上就很暖和",
+      "fileName": "head_016300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500125,
+      "name": "靈光一閃",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "靈光一閃！我找到了！",
+      "fileName": "head_016400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500126,
+      "name": "電線桿",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "躲起來偷看吧",
+      "fileName": "head_016500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500127,
+      "name": "麻花辮",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "去問媽媽怎麼編麻花辮吧",
+      "fileName": "head_016600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500128,
+      "name": "嚇一跳",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "藏不住的驚訝",
+      "fileName": "head_016700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500129,
+      "name": "啾",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "親吻",
+      "fileName": "head_016800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500131,
+      "name": "希臘兵",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "駕駛雙輪戰車來比賽吧！",
+      "fileName": "head_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500132,
+      "name": "泡澡",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "我先去洗澡了",
+      "fileName": "head_017200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500133,
+      "name": "墨西哥帽",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "你好！午安！",
+      "fileName": "head_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500136,
+      "name": "蒙面",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "不知是敵是友的神祕太鼓",
+      "fileName": "head_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500137,
+      "name": "企鵝親子",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "小企鵝在雙腳間怡然自得",
+      "fileName": "head_018100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500138,
+      "name": "倒水",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "唰！",
+      "fileName": "head_018200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500140,
+      "name": "魔法師",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "變得很會打太鼓吧～",
+      "fileName": "head_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500145,
+      "name": "魚板",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "把魚漿放在木板上蒸",
+      "fileName": "head_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500146,
+      "name": "夏季節慶",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "就是要在野外聽音樂呢",
+      "fileName": "head_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500148,
+      "name": "針織帽",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "溫暖的厚度",
+      "fileName": "head_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500150,
+      "name": "刺蝟",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "抱緊會很痛",
+      "fileName": "head_020400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500151,
+      "name": "派對人士",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "來開派對吧！",
+      "fileName": "head_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500152,
+      "name": "大象",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "鼻子很長呢",
+      "fileName": "head_021000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500157,
+      "name": "太空人",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "這邊是地球，宇宙的情況如何？",
+      "fileName": "head_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500158,
+      "name": "老虎",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "吼～",
+      "fileName": "head_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500162,
+      "name": "知識分子的眼鏡",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "有什麼事都可以問喔（推眼鏡）",
+      "fileName": "head_022200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500163,
+      "name": "倉鼠",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "頰囊裡裝滿了夢想",
+      "fileName": "head_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500164,
+      "name": "毛毛蟲",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "總有一天會變成美麗的蝴蝶",
+      "fileName": "head_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500165,
+      "name": "米飯",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "熱騰騰，剛煮好",
+      "fileName": "head_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500166,
+      "name": "電競小咚",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "時尚、高規格",
+      "fileName": "head_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500168,
+      "name": "竹輪小黃瓜",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "水份十足",
+      "fileName": "head_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500170,
+      "name": "盆栽",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "木紋的微笑",
+      "fileName": "head_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500173,
+      "name": "太陽",
+      "part": "HEAD",
+      "bonusRate": 250,
+      "description": "好、好刺眼！",
+      "fileName": "head_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500175,
+      "name": "木雕",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "溫和宜人的觸感",
+      "fileName": "head_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500179,
+      "name": "紳士",
+      "part": "HEAD",
+      "bonusRate": 150,
+      "description": "紳士的教養",
+      "fileName": "head_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500180,
+      "name": "太空站",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "通訊中",
+      "fileName": "head_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500181,
+      "name": "英雄扮家家酒",
+      "part": "HEAD",
+      "bonusRate": 100,
+      "description": "可以成為嚮往的英雄！",
+      "fileName": "head_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500183,
+      "name": "地圖圖標",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "在這裡，就是這裡",
+      "fileName": "head_025200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500189,
+      "name": "頑固老爹",
+      "part": "HEAD",
+      "bonusRate": 50,
+      "description": "你再給我說一次試試看！",
+      "fileName": "head_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500191,
+      "name": "無",
+      "part": "BODY",
+      "bonusRate": 0,
+      "description": "沒穿上任何裝扮",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500192,
+      "name": "打雷太鼓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "雷電轟隆隆",
+      "fileName": "body_000100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500193,
+      "name": "武者(紅)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "body_000200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500194,
+      "name": "武者(藍)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "body_000201",
+      "canChangeColor": true
+    },
+    {
+      "id": 500195,
+      "name": "武者(金)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "body_000202",
+      "canChangeColor": true
+    },
+    {
+      "id": 500196,
+      "name": "武者(銀)",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "為勝利歡呼吧！",
+      "fileName": "body_000203",
+      "canChangeColor": true
+    },
+    {
+      "id": 500197,
+      "name": "舞獅",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "被咬後似乎會有好事發生",
+      "fileName": "body_000400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500198,
+      "name": "忍者",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "body_000500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500199,
+      "name": "忍者（紅）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "body_000600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500200,
+      "name": "忍者（藍）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "body_000601",
+      "canChangeColor": true
+    },
+    {
+      "id": 500201,
+      "name": "忍者（黄）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "body_000602",
+      "canChangeColor": true
+    },
+    {
+      "id": 500202,
+      "name": "忍者（綠）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "躡手躡腳",
+      "fileName": "body_000603",
+      "canChangeColor": true
+    },
+    {
+      "id": 500205,
+      "name": "海盜船",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "喲～呵～！喲～呵～！在七大洋冒險！",
+      "fileName": "body_000900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500206,
+      "name": "電吉他",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "聽聽我的獨奏吧！",
+      "fileName": "body_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500207,
+      "name": "相撲力士",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "拿出鬥志！勝負未定！",
+      "fileName": "body_001100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500208,
+      "name": "烏龜",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "非常硬",
+      "fileName": "body_001300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500209,
+      "name": "寶石（銀）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "閃閃發光",
+      "fileName": "body_001400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500210,
+      "name": "寶石（金）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "閃閃發光",
+      "fileName": "body_001401",
+      "canChangeColor": true
+    },
+    {
+      "id": 500211,
+      "name": "拉鍊",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "拉上拉下",
+      "fileName": "body_001500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500212,
+      "name": "輝夜姬",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "從竹子中誕生的美女",
+      "fileName": "body_001600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500213,
+      "name": "城堡與馬車",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "注意不要超過午夜12點！",
+      "fileName": "body_001700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500214,
+      "name": "公主辣妹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "體驗當公主的感覺",
+      "fileName": "body_001900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500215,
+      "name": "小鹿",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "可愛的小鹿",
+      "fileName": "body_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500217,
+      "name": "攤販",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "移動式的店鋪",
+      "fileName": "body_002200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500218,
+      "name": "貓與飯匙",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "貓與飯匙總是在一起！",
+      "fileName": "body_002300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500219,
+      "name": "甜點",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "全身都是甜食",
+      "fileName": "body_002700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500220,
+      "name": "婚紗",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祝新婚愉快",
+      "fileName": "body_002800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500221,
+      "name": "旗魚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "尖銳的大魚",
+      "fileName": "body_002900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500223,
+      "name": "巫女",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "驅邪或抽籤之類的",
+      "fileName": "body_003100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500224,
+      "name": "甲蟲（棕）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "發出很大的振翅聲飛走",
+      "fileName": "body_003300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500226,
+      "name": "小小咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "與迷你小咚一起",
+      "fileName": "body_003700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500227,
+      "name": "歌舞伎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本傳統技藝",
+      "fileName": "body_004000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500228,
+      "name": "祈福竹耙",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "生意興隆！",
+      "fileName": "body_004100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500229,
+      "name": "孔雀",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "用絢麗的羽毛迷惑人",
+      "fileName": "body_004300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500230,
+      "name": "冠軍",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "綁在腰上就是最強的證明",
+      "fileName": "body_004400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500231,
+      "name": "守衛",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "銅牆鐵壁",
+      "fileName": "body_004600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500232,
+      "name": "歌德蘿莉女僕（辣妹）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "荷葉邊很可愛",
+      "fileName": "body_004700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500233,
+      "name": "歌德蘿莉女僕（公主）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "荷葉邊很可愛",
+      "fileName": "body_004701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500234,
+      "name": "惡魔",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "大家說我絕對很邪惡",
+      "fileName": "body_004800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500235,
+      "name": "森林的夥伴",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "大家都是好朋友",
+      "fileName": "body_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500236,
+      "name": "獅子",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "百獸之王",
+      "fileName": "body_005100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500238,
+      "name": "保齡球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "滾啊滾，全倒！",
+      "fileName": "body_005300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500239,
+      "name": "照相機",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "從鏡頭的另一邊看世界",
+      "fileName": "body_005500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500240,
+      "name": "水手服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "快樂的校園生活",
+      "fileName": "body_005600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500241,
+      "name": "校服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "快樂的校服生活",
+      "fileName": "body_005700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500242,
+      "name": "藍色短外衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祭典的正式服裝",
+      "fileName": "body_005800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500243,
+      "name": "日式褲裙",
+      "part": "BODY",
+      "bonusRate": 150,
+      "description": "日本的紳士",
+      "fileName": "body_005900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500244,
+      "name": "女兒節人偶",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "桃花節",
+      "fileName": "body_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500245,
+      "name": "紅色短外衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "祭典的正式服裝",
+      "fileName": "body_006100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500246,
+      "name": "金棒",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "給鬼拿著便是最強的",
+      "fileName": "body_006200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500248,
+      "name": "黑太鼓",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "黑得發光",
+      "fileName": "body_006400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500249,
+      "name": "地球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "就是這裡",
+      "fileName": "body_006500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500250,
+      "name": "章魚燒",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "外酥內軟",
+      "fileName": "body_006600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500251,
+      "name": "月球",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "傳說是兔子住的地方",
+      "fileName": "body_006700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500253,
+      "name": "章魚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "富含牛磺酸",
+      "fileName": "body_006900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500254,
+      "name": "聖誕老人",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "佳節愉快！",
+      "fileName": "body_007200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500255,
+      "name": "網球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "殺球！",
+      "fileName": "body_007500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500256,
+      "name": "畫家",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "喜歡顏料的味道",
+      "fileName": "body_007600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500257,
+      "name": "農務",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "一分耕耘一分收穫",
+      "fileName": "body_007700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500259,
+      "name": "這棵樹是什麼樹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "樹根牢牢地抓住土地",
+      "fileName": "body_007900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500261,
+      "name": "蝴蝶羽翼",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "翩翩起舞",
+      "fileName": "body_008100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500262,
+      "name": "恐龍",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "人家說我是地表最強生物～",
+      "fileName": "body_008200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500263,
+      "name": "化石",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "變成白骨了～",
+      "fileName": "body_008300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500264,
+      "name": "駱駝的駝峰",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "又熱又乾燥的地方也沒問題",
+      "fileName": "body_008400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500265,
+      "name": "木乃伊",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "想要繃帶的時候就找我吧",
+      "fileName": "body_008500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500266,
+      "name": "金字塔",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "屹立不搖",
+      "fileName": "body_008600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500267,
+      "name": "飛機",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "會在天空四處翱翔呢～",
+      "fileName": "body_008700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500271,
+      "name": "西瓜",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "成功敲開就能吃到美味西瓜",
+      "fileName": "body_009100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500273,
+      "name": "甲蟲（藍）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "發出很大的振翅聲飛走",
+      "fileName": "body_009300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500274,
+      "name": "櫻餅",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "淡淡的櫻花風味",
+      "fileName": "body_009400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500276,
+      "name": "海軍",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "全速前進！",
+      "fileName": "body_009600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500277,
+      "name": "槍手",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "開槍速度絕不輸人喔",
+      "fileName": "body_009700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500278,
+      "name": "滑板手",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "咻～！喀！咻～！",
+      "fileName": "body_009800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500279,
+      "name": "原宿",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "可愛的穿搭",
+      "fileName": "body_009900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500280,
+      "name": "賽車",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鬆開油門就輸了",
+      "fileName": "body_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500282,
+      "name": "愛麗絲的洋裝",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "不可思議～",
+      "fileName": "body_010200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500283,
+      "name": "千手觀音",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "手變多了，也變得很會打太鼓？",
+      "fileName": "body_010300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500284,
+      "name": "睡衣",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "保證會做一個美夢",
+      "fileName": "body_010400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500285,
+      "name": "獨角獸",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "夢幻般的可愛動物",
+      "fileName": "body_010500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500286,
+      "name": "幽靈",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "我好恨日本的夏天呀～",
+      "fileName": "body_010600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500287,
+      "name": "噴射機",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "用超越音速的速度起飛！",
+      "fileName": "body_010700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500288,
+      "name": "暑假",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "夏天！刨冰！草帽！昆蟲！",
+      "fileName": "body_010800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500289,
+      "name": "度假",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "炎熱的陽光帶來度假村氛圍",
+      "fileName": "body_010900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500290,
+      "name": "UFO",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "從遙遠的太空來造訪了",
+      "fileName": "body_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500291,
+      "name": "變色龍",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "後面！後面！",
+      "fileName": "body_011100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500292,
+      "name": "英雄",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "男孩子的憧憬",
+      "fileName": "body_011300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500293,
+      "name": "棉花糖",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "軟綿綿，甜滋滋",
+      "fileName": "body_011400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500294,
+      "name": "羊駝",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "毛茸茸的好傢伙",
+      "fileName": "body_011500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500295,
+      "name": "三颯舞",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "三颯三颯",
+      "fileName": "body_011600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500297,
+      "name": "冰淇淋",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "配料放太多了，吃起來很不方便",
+      "fileName": "body_011800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500298,
+      "name": "童話",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "想要被可愛物品圍繞",
+      "fileName": "body_011900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500299,
+      "name": "腳踏車",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "就算遇到上坡路也會奮力向前邁進唷",
+      "fileName": "body_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500300,
+      "name": "花魁",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "妾身是花魁",
+      "fileName": "body_012100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500301,
+      "name": "海洋的夥伴們",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "一下游過來，一下貼上來",
+      "fileName": "body_012200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500302,
+      "name": "勇者咚",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "我要守護世界和平！",
+      "fileName": "body_012300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500303,
+      "name": "兵長",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "立～正！向前看～！起步走！",
+      "fileName": "body_012400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500304,
+      "name": "大蝴蝶結",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "又大又可愛的蝴蝶結",
+      "fileName": "body_012500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500306,
+      "name": "豪華太鼓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "太華麗了！太美妙了！",
+      "fileName": "body_012700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500307,
+      "name": "孔雀（彩虹）",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "用絢麗的羽毛迷惑人",
+      "fileName": "body_012800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500308,
+      "name": "可麗餅攤販",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "要不要來吃甜點啊～",
+      "fileName": "body_012900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500309,
+      "name": "幸運龍",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "太好運了！",
+      "fileName": "body_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500311,
+      "name": "蜜蜂",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "圍繞著花朵採蜜",
+      "fileName": "body_013200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500313,
+      "name": "貓咪尾巴",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "喵嗚～",
+      "fileName": "body_013400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500314,
+      "name": "寶藏獵人",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "寶藏在哪呢～",
+      "fileName": "body_013600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500315,
+      "name": "吉他",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "聽聽我的藍調曲子吧",
+      "fileName": "body_013700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500316,
+      "name": "幸福的青鳥",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "找到牠就能變幸福",
+      "fileName": "body_013800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500317,
+      "name": "岩石",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "太Rock了！",
+      "fileName": "body_013900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500318,
+      "name": "咚咚咚咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "咚咚咚咚咚咚",
+      "fileName": "body_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500319,
+      "name": "糖果屋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "看起來很好吃的屋子",
+      "fileName": "body_014100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500320,
+      "name": "牧場",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "哞～哞～咩～咩～咕咕咕～",
+      "fileName": "body_014200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500321,
+      "name": "弓",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "只要是我瞄準的樂譜都不會放過！",
+      "fileName": "body_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500322,
+      "name": "紙箱",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "進去就會感到安心",
+      "fileName": "body_015100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500323,
+      "name": "冰之禮服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "冷酷又時尚",
+      "fileName": "body_015200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500324,
+      "name": "叢林",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "歡迎來到叢林",
+      "fileName": "body_015300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500326,
+      "name": "孫悟空",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "幾天前我還在五行山",
+      "fileName": "body_015500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500327,
+      "name": "彩虹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "漂亮的七色拱橋",
+      "fileName": "body_015600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500328,
+      "name": "豐收",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "採收到好多～！！",
+      "fileName": "body_015700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500329,
+      "name": "愛心",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "愛意滿溢出來了",
+      "fileName": "body_015800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500330,
+      "name": "大受女高中生歡迎",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "呀啊～",
+      "fileName": "body_015900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500331,
+      "name": "行星",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "宇宙浩瀚無垠",
+      "fileName": "body_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500332,
+      "name": "貓咪聚會",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "熱烈討論著哲學",
+      "fileName": "body_016100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500335,
+      "name": "雙輪戰車",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "駕駛雙輪戰車來比賽吧！",
+      "fileName": "body_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500336,
+      "name": "有錢人",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "錢太多啦，真是的～",
+      "fileName": "body_017100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500337,
+      "name": "沙鈴",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "你好！午安！",
+      "fileName": "body_017300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500338,
+      "name": "納斯卡線",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "古代的浪漫！",
+      "fileName": "body_017400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500339,
+      "name": "戰國武將",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "時值群雄割據的戰國時代",
+      "fileName": "body_017600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500341,
+      "name": "冰屋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "外表硬梆梆，但裡面很舒適",
+      "fileName": "body_017800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500342,
+      "name": "打火隊",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "江戶的英雄",
+      "fileName": "body_017900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500344,
+      "name": "魔法師",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "變得很會打太鼓吧～",
+      "fileName": "body_018400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500346,
+      "name": "大受男高中生歡迎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "問候聲此起彼落",
+      "fileName": "body_018600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500347,
+      "name": "蘑菇",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "放進火鍋會很好吃",
+      "fileName": "body_018700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500349,
+      "name": "炒麵攤販",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "炒麵一份好了！",
+      "fileName": "body_019000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500350,
+      "name": "三色喵",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "會突然消失無蹤",
+      "fileName": "body_019100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500351,
+      "name": "鯉魚旗",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "5月5日掛鯉魚旗",
+      "fileName": "body_019200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500352,
+      "name": "水族箱",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "小小水族館",
+      "fileName": "body_019300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500353,
+      "name": "吐司與奶油",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "烤得金黃酥脆！",
+      "fileName": "body_019400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500355,
+      "name": "稻草納豆",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "黏糊糊才好吃",
+      "fileName": "body_019600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500356,
+      "name": "魚虎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "日本城堡的守護神",
+      "fileName": "body_019700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500358,
+      "name": "魚板",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "把魚漿放在木板上蒸",
+      "fileName": "body_019900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500359,
+      "name": "夏季節慶",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "就是要在野外聽音樂呢",
+      "fileName": "body_020000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500361,
+      "name": "與毛衣",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "溫暖的厚度",
+      "fileName": "body_020200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500364,
+      "name": "派對人士",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "來開派對！",
+      "fileName": "body_020500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500365,
+      "name": "祭典服（藍）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "頭巾與法被是祭典的正式服裝",
+      "fileName": "body_020600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500366,
+      "name": "祭典服（紅）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "頭巾與法被是祭典的正式服裝",
+      "fileName": "body_020701",
+      "canChangeColor": true
+    },
+    {
+      "id": 500367,
+      "name": "祭典服（黃）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "頭巾與法被是祭典的正式服裝",
+      "fileName": "body_020802",
+      "canChangeColor": true
+    },
+    {
+      "id": 500368,
+      "name": "祭典服（綠）",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "頭巾與法被是祭典的正式服裝",
+      "fileName": "body_020903",
+      "canChangeColor": true
+    },
+    {
+      "id": 500369,
+      "name": "潛水艇",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "可以潛入深海",
+      "fileName": "body_020700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500370,
+      "name": "花束",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "女性的憧憬",
+      "fileName": "body_020800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500376,
+      "name": "太空服",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "這邊是宇宙，地球的情況如何？",
+      "fileName": "body_021200",
+      "canChangeColor": true
+    },
+    {
+      "id": 500377,
+      "name": "老虎",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "吼～",
+      "fileName": "body_021300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500379,
+      "name": "小學生",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "上學途中",
+      "fileName": "body_021500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500382,
+      "name": "杯子蛋糕",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "張嘴大口吃",
+      "fileName": "body_021800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500384,
+      "name": "火鍋",
+      "part": "BODY",
+      "bonusRate": 250,
+      "description": "什麼配料都有的豪華火鍋",
+      "fileName": "body_022000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500386,
+      "name": "倉鼠",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "頰囊裡裝滿了夢想",
+      "fileName": "body_022300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500388,
+      "name": "蘋果",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "鮮紅的蘋果",
+      "fileName": "body_022500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500390,
+      "name": "毛毛蟲",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "總有一天會變成美麗的蝴蝶",
+      "fileName": "body_022700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500391,
+      "name": "兒童餐",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "連大人也羨慕的豪華餐點",
+      "fileName": "body_022800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500392,
+      "name": "轉蛋",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "抽到了什麼呢～",
+      "fileName": "body_022900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500393,
+      "name": "咖哩",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "香辣又美味。",
+      "fileName": "body_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500394,
+      "name": "電競小咚",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "時尚、高規格",
+      "fileName": "body_023100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500395,
+      "name": "竹輪小黃瓜",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "水份十足",
+      "fileName": "body_023300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500397,
+      "name": "無人機",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "自由自在地水平飛行",
+      "fileName": "body_023500",
+      "canChangeColor": true
+    },
+    {
+      "id": 500398,
+      "name": "大受熊貓歡迎",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "熊貓熊貓熊貓熊貓熊貓",
+      "fileName": "body_023600",
+      "canChangeColor": true
+    },
+    {
+      "id": 500399,
+      "name": "盆栽",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "木紋的微笑",
+      "fileName": "body_023700",
+      "canChangeColor": true
+    },
+    {
+      "id": 500402,
+      "name": "礦物",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "美麗又堅硬的結晶",
+      "fileName": "body_024100",
+      "canChangeColor": true
+    },
+    {
+      "id": 500404,
+      "name": "木雕",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "深厚的觸感",
+      "fileName": "body_024300",
+      "canChangeColor": true
+    },
+    {
+      "id": 500405,
+      "name": "BBQ",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "我把肉烤好了喔～",
+      "fileName": "body_024400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500409,
+      "name": "紳士",
+      "part": "BODY",
+      "bonusRate": 200,
+      "description": "紳士的教養",
+      "fileName": "body_024800",
+      "canChangeColor": true
+    },
+    {
+      "id": 500410,
+      "name": "太空站",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "通訊中",
+      "fileName": "body_024900",
+      "canChangeColor": true
+    },
+    {
+      "id": 500411,
+      "name": "英雄扮家家酒",
+      "part": "BODY",
+      "bonusRate": 100,
+      "description": "可以成為嚮往的英雄！",
+      "fileName": "body_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500413,
+      "name": "鏡球",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "FEVER TIME！",
+      "fileName": "body_025400",
+      "canChangeColor": true
+    },
+    {
+      "id": 500419,
+      "name": "頑固老爹",
+      "part": "BODY",
+      "bonusRate": 50,
+      "description": "你再給我說一次試試看！",
+      "fileName": "body_026000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500421,
+      "name": "無",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "沒穿上任何裝扮",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500428,
+      "name": "貓與飯匙",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "貓與飯匙總是在一起！",
+      "fileName": "acc_007000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500432,
+      "name": "鼓棒老師",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "親切傳授太鼓打法的老師",
+      "fileName": "acc_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500434,
+      "name": "和田犬",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "恪守禮節的柴犬，綁著頭巾是其迷人之處",
+      "fileName": "acc_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500439,
+      "name": "和田蚯蚓",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和田咚的寵物（少女）",
+      "fileName": "acc_018000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500444,
+      "name": "哲生",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "活潑好動的調皮孩子",
+      "fileName": "acc_023000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500445,
+      "name": "小花",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "大哲生一歲，宛如姊姊般的存在",
+      "fileName": "acc_024000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500446,
+      "name": "無",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "沒穿上任何裝扮",
+      "fileName": "none",
+      "canChangeColor": true
+    },
+    {
+      "id": 500447,
+      "name": "直升機",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "想要飛走的感覺",
+      "fileName": "cos_001000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500448,
+      "name": "神轎(金)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿咻！嘿咻！",
+      "fileName": "cos_002000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500449,
+      "name": "神轎(銀)",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿咻！嘿咻！",
+      "fileName": "cos_002001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500450,
+      "name": "神轎（棕）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿咻！嘿咻！",
+      "fileName": "cos_002002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500451,
+      "name": "神轎（綠）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "嘿咻！嘿咻！",
+      "fileName": "cos_002003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500452,
+      "name": "青蛙",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "呱呱呱",
+      "fileName": "cos_003000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500453,
+      "name": "機器咚",
+      "part": "COSTUME",
+      "bonusRate": 0,
+      "description": "機械構造的小咚",
+      "fileName": "cos_004000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500454,
+      "name": "日本城（藍）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡",
+      "fileName": "cos_005000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500455,
+      "name": "日本城（黑）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡",
+      "fileName": "cos_005003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500456,
+      "name": "日本城（金）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡",
+      "fileName": "cos_005002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500457,
+      "name": "日本城（綠）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "日本的城堡",
+      "fileName": "cos_005001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500458,
+      "name": "富士山",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "日本第一高峰",
+      "fileName": "cos_006000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500459,
+      "name": "哲生騎乘",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "哲生騎在上面",
+      "fileName": "cos_007000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500460,
+      "name": "電車（藍）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出發前進～",
+      "fileName": "cos_008000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500461,
+      "name": "電車（紅）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出發前進～",
+      "fileName": "cos_008001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500462,
+      "name": "電車（綠）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "出發前進～",
+      "fileName": "cos_008002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500463,
+      "name": "鯊魚（藍）",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "海中王者",
+      "fileName": "cos_009000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500466,
+      "name": "壽司",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "上面放了新鮮的食材",
+      "fileName": "cos_010000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500467,
+      "name": "火車",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "利用蒸氣發動",
+      "fileName": "cos_011000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500468,
+      "name": "牛丼",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "麻煩醬汁加多一點",
+      "fileName": "cos_012000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500469,
+      "name": "豬排丼",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "厚切豬排的豬排丼",
+      "fileName": "cos_012001",
+      "canChangeColor": true
+    },
+    {
+      "id": 500470,
+      "name": "親子丼",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "雞肉跟蛋的完美結合",
+      "fileName": "cos_012002",
+      "canChangeColor": true
+    },
+    {
+      "id": 500471,
+      "name": "飯",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "配什麼都好吃",
+      "fileName": "cos_012003",
+      "canChangeColor": true
+    },
+    {
+      "id": 500472,
+      "name": "爵士鼓組合",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "打出節奏",
+      "fileName": "cos_013000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500473,
+      "name": "肉",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "就是那個肉",
+      "fileName": "cos_014000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500474,
+      "name": "寶船",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "滿載而歸",
+      "fileName": "cos_015000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500475,
+      "name": "鬼魂",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "是鬼怪喔～",
+      "fileName": "cos_016000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500476,
+      "name": "平安美人",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "皮膚白皙的可愛女孩",
+      "fileName": "cos_017000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500477,
+      "name": "魔術幻覺",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "沒有任何機關",
+      "fileName": "cos_018000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500478,
+      "name": "上色到一半",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "剛上漆不久",
+      "fileName": "cos_019000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500479,
+      "name": "搖搖馬",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "投入硬幣就會前後搖擺",
+      "fileName": "cos_020000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500480,
+      "name": "堆積如山",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "三層設計",
+      "fileName": "cos_021000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500481,
+      "name": "偏移",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "偏了",
+      "fileName": "cos_022000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500482,
+      "name": "珍珠奶茶",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "既是食物也是飲料",
+      "fileName": "cos_023000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500484,
+      "name": "溫泉",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "全身暖呼呼，皮膚變光滑",
+      "fileName": "cos_025000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500486,
+      "name": "骰子",
+      "part": "COSTUME",
+      "bonusRate": 250,
+      "description": "試個手氣",
+      "fileName": "cos_027000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500487,
+      "name": "炸雞",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "剛炸好的，美味多汁",
+      "fileName": "cos_028000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500488,
+      "name": "雷雲朵朵",
+      "part": "COSTUME",
+      "bonusRate": 50,
+      "description": "猜猜我是誰？",
+      "fileName": "cos_029000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500489,
+      "name": "水母",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "輕飄飄地漂浮著",
+      "fileName": "cos_030000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500490,
+      "name": "拉花",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "充滿人氣的一杯",
+      "fileName": "cos_031000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500492,
+      "name": "前世",
+      "part": "COSTUME",
+      "bonusRate": 150,
+      "description": "前世的樣子",
+      "fileName": "cos_033000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500493,
+      "name": "小咚",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "小咚色",
+      "fileName": "col_000001",
+      "canChangeColor": false
+    },
+    {
+      "id": 500495,
+      "name": "咖哩‧咚迪",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃色系列　1/5",
+      "fileName": "col_000003",
+      "canChangeColor": false
+    },
+    {
+      "id": 500496,
+      "name": "黃色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃色系列　2/5",
+      "fileName": "col_000004",
+      "canChangeColor": true
+    },
+    {
+      "id": 500497,
+      "name": "黃色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃色系列　3/5",
+      "fileName": "col_000005",
+      "canChangeColor": true
+    },
+    {
+      "id": 500498,
+      "name": "黃色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃色系列　4/5",
+      "fileName": "col_000006",
+      "canChangeColor": true
+    },
+    {
+      "id": 500500,
+      "name": "艾草丸",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃綠色系列　1/5",
+      "fileName": "col_000008",
+      "canChangeColor": true
+    },
+    {
+      "id": 500501,
+      "name": "黃綠色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃綠色系列　2/5",
+      "fileName": "col_000009",
+      "canChangeColor": true
+    },
+    {
+      "id": 500502,
+      "name": "黃綠色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃綠色系列　3/5",
+      "fileName": "col_000010",
+      "canChangeColor": true
+    },
+    {
+      "id": 500503,
+      "name": "黃綠色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "黃綠色系列　4/5",
+      "fileName": "col_000011",
+      "canChangeColor": true
+    },
+    {
+      "id": 500505,
+      "name": "綠色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "綠色系列　1/5",
+      "fileName": "col_000013",
+      "canChangeColor": true
+    },
+    {
+      "id": 500506,
+      "name": "綠色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "綠色系列　2/5",
+      "fileName": "col_000014",
+      "canChangeColor": true
+    },
+    {
+      "id": 500507,
+      "name": "綠色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "綠色系列　3/5",
+      "fileName": "col_000015",
+      "canChangeColor": true
+    },
+    {
+      "id": 500508,
+      "name": "綠色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "綠色系列　4/5",
+      "fileName": "col_000016",
+      "canChangeColor": true
+    },
+    {
+      "id": 500510,
+      "name": "水藍色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水藍色系列　1/5",
+      "fileName": "col_000018",
+      "canChangeColor": true
+    },
+    {
+      "id": 500511,
+      "name": "水藍色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水藍色系列　2/5",
+      "fileName": "col_000019",
+      "canChangeColor": true
+    },
+    {
+      "id": 500512,
+      "name": "水藍色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水藍色系列　3/5",
+      "fileName": "col_000020",
+      "canChangeColor": true
+    },
+    {
+      "id": 500513,
+      "name": "水藍色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "水藍色系列　4/5",
+      "fileName": "col_000021",
+      "canChangeColor": true
+    },
+    {
+      "id": 500515,
+      "name": "藍色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "藍色系列　1/5",
+      "fileName": "col_000023",
+      "canChangeColor": true
+    },
+    {
+      "id": 500516,
+      "name": "藍色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "藍色系列　2/5",
+      "fileName": "col_000024",
+      "canChangeColor": true
+    },
+    {
+      "id": 500517,
+      "name": "藍色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "藍色系列　3/5",
+      "fileName": "col_000025",
+      "canChangeColor": true
+    },
+    {
+      "id": 500518,
+      "name": "藍色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "藍色系列　4/5",
+      "fileName": "col_000026",
+      "canChangeColor": true
+    },
+    {
+      "id": 500520,
+      "name": "紫色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　1/5",
+      "fileName": "col_000028",
+      "canChangeColor": true
+    },
+    {
+      "id": 500521,
+      "name": "紫色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　2/5",
+      "fileName": "col_000029",
+      "canChangeColor": true
+    },
+    {
+      "id": 500522,
+      "name": "紫色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　3/5",
+      "fileName": "col_000030",
+      "canChangeColor": true
+    },
+    {
+      "id": 500523,
+      "name": "紫色4",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紫色系列　4/5",
+      "fileName": "col_000031",
+      "canChangeColor": true
+    },
+    {
+      "id": 500525,
+      "name": "紅紫色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅紫色系列　1/5",
+      "fileName": "col_000033",
+      "canChangeColor": true
+    },
+    {
+      "id": 500526,
+      "name": "紅紫色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅紫色系列　2/5",
+      "fileName": "col_000034",
+      "canChangeColor": true
+    },
+    {
+      "id": 500527,
+      "name": "紅紫色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅紫色系列　3/5",
+      "fileName": "col_000035",
+      "canChangeColor": true
+    },
+    {
+      "id": 500530,
+      "name": "蜜桃色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蜜桃色系列　1/5",
+      "fileName": "col_000038",
+      "canChangeColor": true
+    },
+    {
+      "id": 500531,
+      "name": "蜜桃色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蜜桃色系列　2/5",
+      "fileName": "col_000039",
+      "canChangeColor": true
+    },
+    {
+      "id": 500532,
+      "name": "蜜桃色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "蜜桃色系列　3/5",
+      "fileName": "col_000040",
+      "canChangeColor": true
+    },
+    {
+      "id": 500535,
+      "name": "紅色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅色系列　1/5",
+      "fileName": "col_000043",
+      "canChangeColor": true
+    },
+    {
+      "id": 500536,
+      "name": "紅色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅色系列　2/5",
+      "fileName": "col_000044",
+      "canChangeColor": true
+    },
+    {
+      "id": 500537,
+      "name": "紅色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "紅色系列　3/5",
+      "fileName": "col_000045",
+      "canChangeColor": true
+    },
+    {
+      "id": 500540,
+      "name": "橙色1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　1/5",
+      "fileName": "col_000048",
+      "canChangeColor": true
+    },
+    {
+      "id": 500541,
+      "name": "橙色2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　2/5",
+      "fileName": "col_000049",
+      "canChangeColor": true
+    },
+    {
+      "id": 500542,
+      "name": "橙色3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "橙色系列　3/5",
+      "fileName": "col_000050",
+      "canChangeColor": true
+    },
+    {
+      "id": 500545,
+      "name": "柔和1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "柔和系列　1/5",
+      "fileName": "col_000053",
+      "canChangeColor": true
+    },
+    {
+      "id": 500546,
+      "name": "柔和2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "柔和系列　2/5",
+      "fileName": "col_000054",
+      "canChangeColor": true
+    },
+    {
+      "id": 500547,
+      "name": "柔和3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "柔和系列　3/5",
+      "fileName": "col_000055",
+      "canChangeColor": true
+    },
+    {
+      "id": 500550,
+      "name": "雅致1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "雅致系列　1/5",
+      "fileName": "col_000058",
+      "canChangeColor": true
+    },
+    {
+      "id": 500551,
+      "name": "雅致2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "雅致系列　2/5",
+      "fileName": "col_000059",
+      "canChangeColor": true
+    },
+    {
+      "id": 500552,
+      "name": "雅致3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "雅致系列　3/5",
+      "fileName": "col_000060",
+      "canChangeColor": true
+    },
+    {
+      "id": 500555,
+      "name": "粉彩1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　1/6",
+      "fileName": "col_000063",
+      "canChangeColor": true
+    },
+    {
+      "id": 500556,
+      "name": "粉彩2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　2/6",
+      "fileName": "col_000064",
+      "canChangeColor": true
+    },
+    {
+      "id": 500557,
+      "name": "粉彩3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "粉彩系列　3/6",
+      "fileName": "col_000065",
+      "canChangeColor": true
+    },
+    {
+      "id": 500561,
+      "name": "鮮豔1",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鮮豔系列　1/6",
+      "fileName": "col_000069",
+      "canChangeColor": true
+    },
+    {
+      "id": 500562,
+      "name": "鮮豔2",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鮮豔系列　2/6",
+      "fileName": "col_000070",
+      "canChangeColor": true
+    },
+    {
+      "id": 500563,
+      "name": "鮮豔3",
+      "part": "PAINT",
+      "bonusRate": 0,
+      "description": "鮮豔系列　3/6",
+      "fileName": "col_000071",
+      "canChangeColor": true
+    },
+    {
+      "id": 500583,
+      "name": "倉鴞",
+      "part": "COSTUME",
+      "bonusRate": 100,
+      "description": "夜行性動物",
+      "fileName": "cos_034000",
+      "canChangeColor": false
+    },
+    {
+      "id": 500584,
+      "name": "不知火芙蕾雅",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive可靠的半妖精「不知火芙蕾雅」一起打太鼓吧",
+      "fileName": "acc_158000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500585,
+      "name": "白銀諾艾爾",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive蓬鬆柔軟的女騎士「白銀諾艾爾」一起打太鼓吧",
+      "fileName": "acc_159000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500586,
+      "name": "寶鐘瑪琳",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive性感的女船長「寶鐘瑪琳」一起打太鼓吧",
+      "fileName": "acc_160000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500587,
+      "name": "桃鈴音音",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive異世界出身的偶像「桃鈴音音」一起打太鼓吧",
+      "fileName": "acc_161000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500588,
+      "name": "鷹嶺琉依",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive的秘密結社——holoX裡帥氣能幹但緊要關頭會失手的女幹部「鷹嶺琉依」一起打太鼓吧",
+      "fileName": "acc_162000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500589,
+      "name": "風真伊呂波",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "和hololive的秘密結社——holoX的武士兼保鑣「風真伊呂波」一起打太鼓吧",
+      "fileName": "acc_163000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500590,
+      "name": "雷咪",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "代表神轎都市的偶像「神轎姊妹」的成員。個性我行我素。從事偶像活動外，也是一名DJ。",
+      "fileName": "acc_164000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500591,
+      "name": "符亞",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "代表神轎都市的偶像「神轎姊妹」的成員。是個充滿活力、不拘小節、陽光活潑的女孩子。",
+      "fileName": "acc_165000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500592,
+      "name": "雷雲朵朵",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "猜猜我是誰？",
+      "fileName": "acc_166000",
+      "canChangeColor": true
+    },
+    {
+      "id": 500593,
+      "name": "瑪祈奈",
+      "part": "PETIT",
+      "bonusRate": 0,
+      "description": "來自於2765年的「鼓眾研究員」。\n開發出能夠在瞬間重現對手實力的「AI咚」，\n那優秀的頭腦以及軟弱與堅定兼備的性格十分迷人。",
+      "fileName": "acc_167000",
+      "canChangeColor": true
+    }
+  ]
+}

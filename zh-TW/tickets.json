@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": 100001,
+      "name": "無期限票券",
+      "ownLimit": 999,
+      "description": "遊玩樂曲時所需的票券。※無期限",
+      "fileName": "icon_ticket_indefinite",
+      "expireDays": 0
+    },
+    {
+      "id": 100002,
+      "name": "期間限定票券30天",
+      "ownLimit": 0,
+      "description": "遊玩樂曲時所需的有期限票券。",
+      "fileName": "icon_ticket_30days",
+      "expireDays": 30
+    },
+    {
+      "id": 100003,
+      "name": "期間限定票券14天",
+      "ownLimit": 0,
+      "description": "遊玩樂曲時所需的有期限票券。",
+      "fileName": "icon_ticket_14days",
+      "expireDays": 14
+    },
+    {
+      "id": 100004,
+      "name": "期間限定票券7天",
+      "ownLimit": 0,
+      "description": "遊玩樂曲時所需的有期限票券。",
+      "fileName": "icon_ticket_7days",
+      "expireDays": 7
+    },
+    {
+      "id": 100005,
+      "name": "期間限定票券1天",
+      "ownLimit": 0,
+      "description": "遊玩樂曲時所需的有期限票券。",
+      "fileName": "icon_ticket_1day",
+      "expireDays": 1
+    }
+  ]
+}

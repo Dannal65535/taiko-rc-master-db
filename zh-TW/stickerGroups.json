@@ -1,0 +1,16 @@
+{
+  "stickerGroups": [
+    {
+      "id": 700001,
+      "groupId": 1,
+      "name": "文字貼圖",
+      "sortOrder": 2
+    },
+    {
+      "id": 700002,
+      "groupId": 2,
+      "name": "其他貼圖",
+      "sortOrder": 1
+    }
+  ]
+}

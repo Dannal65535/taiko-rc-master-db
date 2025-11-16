@@ -1,0 +1,102 @@
+{
+  "playItems": [
+    {
+      "id": 400001,
+      "name": "經驗值2倍",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 20,
+      "duplicate": 1,
+      "description": "1次演奏可獲得2倍基礎經驗值的道具。",
+      "fileName": "icon_expx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400002,
+      "name": "經驗值3倍",
+      "ownLimit": 1,
+      "priority": 1,
+      "sortOrder": 10,
+      "duplicate": 1,
+      "description": "『每天贈送1個！使用期限只到今天為止！』1次演奏可獲得3倍基礎經驗值的道具。",
+      "fileName": "icon_expx3",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400003,
+      "name": "點數2倍",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 30,
+      "duplicate": 1,
+      "description": "1次演奏可獲得2倍「可獲得的點數」的道具。",
+      "fileName": "icon_donPx2",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400004,
+      "name": "演奏輔助",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 40,
+      "duplicate": 10,
+      "description": "有10次不可判定會變成可之外，只需單指輕按大型音符就會判定為兩指輕按的道具。",
+      "fileName": "icon_ensohojo",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400005,
+      "name": "長按連打",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 50,
+      "duplicate": 10,
+      "description": "判定連打時，只需長按太鼓就能執行連打的道具。",
+      "fileName": "icon_nagaoshirenda",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400006,
+      "name": "彩虹小槌",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 60,
+      "duplicate": 1,
+      "description": "演奏時小槌音符會變成彩虹色，並且將其成功敲到最後就能獲得道具的道具。",
+      "fileName": "icon_nijikoduchi",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    },
+    {
+      "id": 400007,
+      "name": "全力拚搏",
+      "ownLimit": 9999,
+      "priority": 1,
+      "sortOrder": 70,
+      "duplicate": 1,
+      "description": "可以獲得5倍經驗值、「可獲得的點數」5倍、使用10個長按連打、演奏輔助效果的道具。",
+      "fileName": "icon_all_in",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      }
+    }
+  ]
+}

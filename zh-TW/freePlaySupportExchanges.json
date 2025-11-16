@@ -1,0 +1,20 @@
+{
+  "freePlaySupportExchanges": [
+    {
+      "id": 5820001,
+      "name": "無限次使用演奏輔助30分鐘！",
+      "description": "1天1次30分鐘內，可無限次使用1個演奏輔助。",
+      "sortOrder": 2010,
+      "effectTime": 30,
+      "exchangeLimit": 1,
+      "displayType": "BANNER",
+      "fileName": "bnr_freepack_assistance",
+      "term": {
+        "startAt": "1999-12-31T15:00:00Z",
+        "endAt": "2099-01-01T14:59:59Z"
+      },
+      "isHighlight": false,
+      "repeatSales": 1
+    }
+  ]
+}
